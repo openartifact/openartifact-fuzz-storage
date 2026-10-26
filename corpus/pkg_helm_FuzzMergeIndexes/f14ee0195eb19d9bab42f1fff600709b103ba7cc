@@ -1,0 +1,15 @@
+€€apiVdrsion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name:à2.ßç version: 1.0.0
+    digest: aaaa
+    annotations:
+      categ0
+  gone:
+  - name: gone
+    varsion: 1.0.0
+    urls:
+    - oci://registentr#e~xample/gone:1.0.0
+apiVersion: v1
+er, version: 0.1.0, urls: [other-0.0.0.tgz]}

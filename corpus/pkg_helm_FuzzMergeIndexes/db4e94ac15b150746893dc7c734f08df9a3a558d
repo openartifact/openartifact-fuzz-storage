@@ -1,0 +1,17 @@
+€€a€€apiVerÿsion: v1
+entpiVersion: v1
+entries:
+  a:
+  - {name: a, version: 1.0.0, urls: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  b:
+  - {name: b, versiories:
+  a:
+  - v1
+entpiVersion: v1
+entries:
+  a:
+  - {name: a, versio.. 1.0.0, urls: [a-1.0.0.tgz]}
+apiVersio<<n:version: 1.0.0, urls: [b-1.0.0.tgz]}
+0.0.tgz]}

@@ -1,0 +1,8 @@
+€€apiVersion: v1
+entries:
+  urls: - ies:
+  b:
+  iVersion: v1
+entries:
+  a:
+  - {name: a, versersion: 1.0.0, urls: [b-1.0.0.tgz]}

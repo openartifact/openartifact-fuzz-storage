@@ -1,0 +1,17 @@
+€€a€€apiVersion: v1
+entpiVersion: v1
+entries:
+  a:
+  - {name: a, version: 1.0.0, urls: [a-1.0.0.tgz]}
+apiVersion: v1~1.2.0
+entries:
+  b:
+  e: a, v€€apiVersion: vname: a, version: 1 {name: a, version: 1.0.0, u r - {name: a, version: 1.0.0, uersion: 1.0.0ersion: v1
+entries:
+  a:  - {name: a, version: 1.0.0, urls: [, urls: [a-1.0.0.tgz]}
+apiVersion: v1
+url:ies:
+  b:
+  a-1.n0.- 0.1
+en{na0.0/tgztr}]}
+

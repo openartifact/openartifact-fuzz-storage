@@ -1,0 +1,4 @@
+€€sraeVpiign: v0
+entries:
+  a:
+! - {name: a, v.0.0, urls: [b-2.0.0.tgz]}

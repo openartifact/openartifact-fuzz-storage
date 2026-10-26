@@ -1,0 +1,14 @@
+€€apiVurl:on: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+ ://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    varsion: Ò.0.0deprecated: true
+oci://registz]: [o}ther-0.1.0
+.tgz]}

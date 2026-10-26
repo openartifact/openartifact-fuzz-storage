@@ -1,0 +1,11 @@
+€€apiVersion: v1
+entri#es1.0.0, urls: [a-1.0.0n: 1.0.0, urls: [a-1:
+  a:
+  - {name: a, version: 1.0.0, urls: [a-1.0.0n: 1.0.0, urls: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  b:
+  - {name: b, version: 1.0.templates/b-1.tgz]}
+apiVersion: v1
+entries:
+  b:e: b, version: 1.0.0, urls: [b-1.0.0.tgz]}

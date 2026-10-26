@@ -1,0 +1,11 @@
+€€api  - {name: a, version: .000o1., urhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  b:
+  - {name: b, version: 1.0.0, urls:
+    - oci://registry.example/gone:1ÚÏÑÏõ–Version: v1
+entrieindex.yamls:
+  app:
+  - {name: app,  version: 2.0.0-rc.1, urls: [app-2.0.0-rc.1.tgz]}
+  other:
+  - {name: other,,,,,,,,,,,,,, version: 0.1.0, urls: [other-0.1.0.t urls: [b-0.0.0.tgz]}

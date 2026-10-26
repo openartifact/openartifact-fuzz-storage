@@ -1,0 +1,9 @@
+€€apiVersi./ urls: [other-0.1.0.tp:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    urls:
+    - app-1.0.0.tgz
+    er-0.1.0.tgz]}

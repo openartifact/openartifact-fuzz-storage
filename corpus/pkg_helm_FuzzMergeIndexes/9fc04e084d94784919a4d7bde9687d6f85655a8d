@@ -1,0 +1,16 @@
+€€apiVersion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: ipp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Tesiories:
+  a:
+  - {name: a, version: 1.0.0, urls: [a-1.n0.0.tgz]}
+apiVersion: v1
+entries:
+  b:
+  - {name:: 1.0.0, urls: [b-1. b, version: 1.0.0, urls: [b-st
+   su rl:

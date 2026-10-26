@@ -1,0 +1,4 @@
+€€apiVersion: v1
+entries:
+  a:
+  -!!str {name: a, version: 1.0.0, urls: [as: [b-1.0.0.tgz]}

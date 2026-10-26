@@ -1,0 +1,12 @@
+€€apiVersion: <<
+generated: "2026-01-01T00:00:00Z"
+entries:
+  generated:app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+     tps://mirror.example/app-1.0.0.tgz
+  - nam2.0.0-rc.1, urls: [app-2.0.0-rc.1.tgz]}
+  other:
+  - {name: other, version: 0.1.0, urls: [other-0.1.0.tgzsi

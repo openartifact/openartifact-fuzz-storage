@@ -1,0 +1,39 @@
+€€apiVersion: v1
+entries:
+' a:
+  - {name:Version: v1
+ge  - {name:Version: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: e/gone:1.0.0
+apiVersion: v1
+entries:
+  app:
+   a, icon:on: 1.0.0, ur  - {: [a-1.0.0.tgA]}
+apiVersion: v1
+ent  app:
+  - name: app
+    vernerated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: e/gone:1.0.0
+apiVersion: v1
+entries:
+  app:
+   a, icon:on: 1.0.0, ur  - {: [a-1.€€apiVer - ies:
+  b:
+  - {name: b,ãversion: 1.0.0, urls: - ies:
+  b:
+  - b,ãversion: 1.0.0, urls: [b-0.0.0.tgz]}
+0.0.0.tgz]}
+aaaa
+    annotations:
+      category: Test
+    urapiVersion: v1
+ls:
+    - app-1.0.0.tgz
+    - https:    - oame, urls: [https://b.example/app-0.0.0.tgz]}
+  - {name: app, verr}
