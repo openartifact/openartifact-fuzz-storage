@@ -1,16 +1,0 @@
-€Package: libexample-dev
-Version: 1:@example.org>
-Installed-Size: 1234
-Depends: libc6 (>= 2.34), libexample1 ,= 1:2.4.6-1~bpo12+1), zlib1g-dev | libz://example.org/libexample
-X-Custom-Field: custom value
-:escription: development files for libexaÿÿÏÛ·,×°mple
- This package contains the headers and static libraries required te: libexamplÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿs: pkg-config
-Suggests: libexample-doc
-Section: libdevel
-Priority: optional
-Multi-Arch: saallowedme
-Homepage: https://example.org/libexample
-X-Custom-Field: custom value
-:escription: development files for libexample
- This package contains the headers and static libraries required te: libexample-dev
-Version: 0:2.4.6-config metadata.

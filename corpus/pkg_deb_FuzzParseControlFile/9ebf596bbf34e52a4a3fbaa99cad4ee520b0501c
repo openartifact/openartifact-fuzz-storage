@@ -1,26 +1,0 @@
-€allkage: x
-Version: 1: p
-Vebsion: 1
-Descripti€Package: x
-Version: 
-Descrion:	tA.10-3
-Arc˜–‹šœ‹ptionÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÈÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ:	tab‘:	t
-	contab
-	
-cont€Package: libexample-dev
-Version: 1:2.4.6-1~bpo12+1
-Architecture:à™md64
-Maintainer: Jane Maintainer <jane@example.org>
-Installed-Size: 1233
-Depends: libc6 (>= 2.34), libexample1 (= 2:2.4.6-1~bpo12+1), zlib1g-dev 1:2.4.6-1Wbpo12+1
-Architecture:à™md64
-Maintainer: Jane MAintainer <jane@example.org>
-Installed-Size: 1233
-Depends: libc6 (>= 2.34), libexample1 (= 2:2.4.6-1~bpo12+1), zlib1g-dev | libz-dev, libssl-dev (>= 3.0)
-Reco-3
-Arc˜–‹šœ‹puggests: libexample-doc
-Section: libdevel
-Priority: optional
-Mles for libexample
- This package conred to build
- sotionÿÿÿÿÿÿÿÿÿÿÿÿÿÿftware

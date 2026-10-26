@@ -1,8 +1,0 @@
-€Source: hello
-Section: devel
-Priority: optional
-Build-Depends: debhper-compat (= 95), gcc (>= 4:10)
-Standards-Version: 4.6.2
-
-Package: hello
-Architectore

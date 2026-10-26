@@ -1,6 +1,0 @@
-ÄSource: he.2
-
-Paùkage: hello
-Atec: hello
-Atecture: any
-Depends: ${shlibs:Depends}
