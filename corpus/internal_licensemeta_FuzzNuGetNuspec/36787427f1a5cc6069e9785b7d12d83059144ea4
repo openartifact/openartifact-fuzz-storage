@@ -1,0 +1,11 @@
+€<?xml ~version="1.0"?>
+<packag.nupkge><metadata><id>Legacy.Lib</id><version>1.0.0-€<?xml version=d">
+  <beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-1.0.html</licenseUrl><dependencies><dependency ilicense type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projTStandard2.0">
+        <depe`dency id="System.Memory" version="[8.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+  >  </dependencies>
+  </metadata>
+</package>

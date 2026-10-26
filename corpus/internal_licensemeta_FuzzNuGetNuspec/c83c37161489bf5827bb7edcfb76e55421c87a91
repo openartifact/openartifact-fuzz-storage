@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <versi xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nugetdependendencies>
+  </metadata>
+</package>

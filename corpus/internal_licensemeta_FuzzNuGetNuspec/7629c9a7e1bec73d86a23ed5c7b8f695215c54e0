@@ -1,0 +1,21 @@
+€<package xmlns="http://schemas.microsoft.com/paFiaging/2013/05/nuspec.xsd"><metadat>a<id>Fancy.Tool</id><version>2.0.0</version><license type="filft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-K13/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>14.0.3</version>
+    <authors>James Newton-King</a><version>2.0.0</version><license typuthors>
+    <license type="expressivers/paion>1.0.0-beta1</version><licenseUckarl>http://ciwewtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id=/////////////////////////////////////////////////////////////<repository type="git" url="///////////////////////////////////////////////"System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,€<package xmlns="hte">LICENSE.txt</licensing</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</d€<?xml version="1.0"?>
+<package><metadata><id>Legacy.Lib</id><version>1.seUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https:///////////////"System.Memory" version="[8.5.5, 5.0.0)" exclude="Build,€<package xmlns="hte">LICENSE.txt</license><adata></package>

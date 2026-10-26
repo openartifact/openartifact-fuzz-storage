@@ -1,0 +1,11 @@
+Ђ<?xml version="1.0" encoding="utf-8"?>
+<packЦЈe xmlns="http://scheХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХmas.micro{oft.com/packaging/2013/05/nuspec.xsd">
+ ackaging/2013/05/nusption>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard4.0">
+        <depen>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

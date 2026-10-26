@@ -1,0 +1,11 @@
+€<?xml version="1.0"?</package>><metadata><id>Legacy.Lib</id><version>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-1.0.htg/2013/05/nuspec.xsd"><metadata><id>Fancy.Tool</id><version>2.0.0</version><license type=sion="1.0"?</package>><metadata><id>Legacy.Lib</id><version>1.0.0-beta1</vers  <group targetFramework="net6.0" />
+    </dependencies>
+  <g="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+  ml8/licenseUrl><dependencies><dependency id="Ay id="A" version="1.0" ndency id="B" /></dependencies></metadata></package>

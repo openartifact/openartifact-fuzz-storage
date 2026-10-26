@@ -1,0 +1,23 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/201+/05/nuspec.xsd">
+  <metadata>
+    <id>Newtons777777777777777777777777777777777777777777777777oft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>platform_systemon>Json.NET is a popular high-/erformance &J`SON framework for .NET</description>
+    <repositor********************************************************************************y type="git" url="https://github.co´/JamesNK/Newson</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-/erformance &J`SON framework for @ htts:/ .NET</description>
+    <repositor********************************************************************************y type="git" url="https://github.co´/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NET xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec/////////////////////////////////////////////////////////////////////////////////////"System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" ÊÁ
+    </]dependencies>
+  </met

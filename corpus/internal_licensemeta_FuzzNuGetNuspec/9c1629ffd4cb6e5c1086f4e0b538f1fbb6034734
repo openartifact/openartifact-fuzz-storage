@@ -1,0 +1,57 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsg/2013/05/nuspec.xmlxsd">
+  <Uetadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/j~on</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspec.xmlxsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/j~on</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET?>
+<package xmlns="http://schemas.microsg/2013/05/nuspec.xmlxsd">
+  <Uetadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/j~on</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspec.xmlxsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/j~on</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git"</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard5.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+      <group targetFramework="net6.0" />
+   name =  </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,13 @@
+€<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd"><metadat>a<id>Fancy.Tool</id><version>2.0.0</version><license type="filft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsofc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <deata></package>

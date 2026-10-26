@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="urk for .NET</description>
+    <repository type="git"HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH url="https://github.co´/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETJtandard2.0">8"?>
+<    </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

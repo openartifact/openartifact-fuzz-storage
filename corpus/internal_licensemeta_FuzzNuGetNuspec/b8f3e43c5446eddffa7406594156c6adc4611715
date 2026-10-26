@@ -1,0 +1,15 @@
+€<?xml vers013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https:bwwkw.newtonsoft.com/json</proje  <dependency id=/////////////////////////////////////////////////////////////////////////JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencges>
+      <group targetFramÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿpendency id="A" version="1.0" /><dependency id="B" /></dependencies></metadata><exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,11 @@
+€<?xml versionÞ="2.0" encoding="utf-8"?>platform_system="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+   [1.0.0]on>13.0.3</version>
+    <authors>James Newton-King</authors>
+ÿ   <license type="expression">MIT</license>
+    <licenseUrl>htts/:lp/ihenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projec="https://github.coamsme/JNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+     a>
+</package>

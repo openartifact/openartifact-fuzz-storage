@@ -1,0 +1,7 @@
+€<?xml version="1.0"?><package xmlns=".microsoft.com/
+
+packaging/9688/05/nuspec.xsdicrosoft.com/packagijg/2013/05/nuspec.xsd"><metadata><id>Dual</id><version>1.0.0</version><license type="exprescom/
+
+packaging/4026/05/nuspec.xsdicrosoft.com/packaging/2013/05/nuspec.xsd"><metadata>http://schemas.microsoft.com/
+
+packaging/2013/05/nuspec.xsdicrosoft.com/packaging/2013/05/nuspec.xsd"><metadata><id>Dual</id><version>1.0.0><license type="expres"><metadata><id>Dual</id><version>1.0.0</vers</dependencies>pe="expression" version="1.0.0">(MIT OR Apache-2.0) AND BSD-3-Clause</license></metadata></package>

@@ -1,0 +1,10 @@
+€<?xml version="1.0"?>
+<package><metadata><id>Lÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿegacy.Lib</id>ÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ<version>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" version="1.0" /><dependency id="B" /></dependen€<?xml version=icenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>htsssssssssssssssssssssssssstps://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a populacier high-performance JSON framework for .NET</description>
+    <repository type="git" url="htt€<package xmlns="http://schemas.mps://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id=///////////////////////////////////////////////icrosoft.com/packaging/2013/05/nuspec.xsd">/////////////////////////////////////////////////////////////"System.Memory" version="[4.5.5, 5.0.0)" excl<metadata><id>Fancy.Tool</id><version>2.s><0.0</version><license type="file">LICENSE.txt</liceude="Build,Analyzers" />
+      <"1.0"?>
+<package><metadata><id>Legac/metadata></packagy.Lib</id><version>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.htmle></licenseUrl><dependencies><deÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿúÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿpendency id="A" version="1.0" /><dependency id="B" /></dependencies></metadata></package>

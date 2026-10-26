@@ -1,0 +1,16 @@
+€<!=?xml ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿver€<?xml ~version="10."?>
+<package><metadata><i.0.html</licenseUrl><dependencies><dependency id="A" version="1.0" /><dependency id="B" /></dependencies></metadata></packagmetadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</versio>
+    <authoers>James Newton-King</authors>
+    <license type="expression">MIT</license>pkacge>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET i targetFramework=".NETStandard2.0">
+        <dependency id
+="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+  >  </dependencies>
+  </metadata>
+</package>
