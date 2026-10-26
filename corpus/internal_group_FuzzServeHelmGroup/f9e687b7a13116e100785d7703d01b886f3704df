@@ -1,0 +1,5 @@
+€€apiVersiontgz]}
+jpiVersion: v1
+entries:
+  internal:
+  - {name: elsewhere, tersion: 90.0.0, urls: ['https://elsewhere.example/elsewhere-99.0.0.tgz']}

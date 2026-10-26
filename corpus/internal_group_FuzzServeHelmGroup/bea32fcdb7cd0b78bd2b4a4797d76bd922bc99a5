@@ -1,0 +1,11 @@
+€€apiVers‘Å v1
+entries:
+  inter- apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirrnal:
+  - {name: internal, version: 1.0.0, urls: [internal-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  internal:
+  - {name: elsewhere, version: 99.0.0, urls: ['https://elsewhere.example/elsewhere-99.0.0.tgz']}

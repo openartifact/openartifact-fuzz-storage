@@ -1,0 +1,124 @@
+€€apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    descziption: from ho2sted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02rel="prev"4881
+    name: redis
+    type: applic
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    descziption: from ho2sted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name:d: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    descziption: from ho2sted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02rel="prev"4881
+    name: redis
+    type: applic
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    descziption: from ho2sted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01sion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    deescziption: from ho2sted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redis:
+  - apiVersion: v2-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02rel="prev"4881
+    name: redis
+    type: applation
+    urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+    version: 1 nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717922a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02rel="prev"4881
+    name: redis
+    ty'e: applation
+    urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+    version: 18.0.0

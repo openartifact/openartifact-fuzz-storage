@@ -1,0 +1,19 @@
+€€apiVersion: v1
+entries: {}
+generated: "2024-01-02T03:04:05Z"
+apiVer%sion: v1
+generated: "2Íš‘‹ÍËÒÏ1-02T03:04:05Z"
+entries:
+  redis:
+  - apiVersion: v    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirroPackages.gzdis-18.0.0.tgz
+    version: 18.0:04:05Z"
+apiVer%sion: v1
+generated: "2Íš‘‹ÍËÒÏ1-02T03:04:05Z"
+entries:
+  redis:
+  - apiVersion: v1
+    appVersion: "18.0.0"
+.0

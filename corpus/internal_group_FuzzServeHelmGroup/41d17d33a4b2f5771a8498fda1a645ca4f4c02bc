@@ -1,0 +1,68 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+%   keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repo=itory: "https://charts.bitnami.com/bi</v2/LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL"}
+    urls: [app-1.1.0.tgz]
+apiVersi?on: v1
+generated: "2024-01-02T03:04:05Z"
+extries:
+  app:
+  - apiVersion: v2
+    appVersion: "0.2.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - http://oa.test/r9-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+ÿ`    description: from mirror
+    digest: 2d71A1642b726b04401627ca9fbac32f5epos/mirror/charts/app-0.2.0.tgz
+    versi€€apiVersion: v1
+generated: "2024-0</v2/-1-2 15:4:5.999999999-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: applicatioon: 0.n
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+ÿ`    description: from mirror
+    digest: 2d71A1642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/char2.0
+ts/redis-18.0.0.tgz
+    version: 18.0.0

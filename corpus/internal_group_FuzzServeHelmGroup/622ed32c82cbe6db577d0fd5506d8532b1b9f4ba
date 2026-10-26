@@ -1,0 +1,15 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repository: "htc32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - http://oa.test/r1epos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

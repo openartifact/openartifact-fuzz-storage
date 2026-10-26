@@ -1,0 +1,10 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    versio, version:0o.0.0, urls: [internal-1.0.0.tgz]}
+apcatalog:CatalogPages:
+  internal:
+  - {name: elsewhere,s:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

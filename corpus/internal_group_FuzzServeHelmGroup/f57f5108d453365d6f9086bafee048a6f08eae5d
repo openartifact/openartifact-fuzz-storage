@@ -1,0 +1,32 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repositoyt :"hrtps://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+apiVersion: v1
+generries:
+  app:
+  - apiLersion: v2
+    appVersion: "0ÒÍÑÖ"
+    created- {name: internal, version: 1.0—.0, urls: [internal-1.0.0.tgz]}
+apiVersion: v1
+entriejjjjjjj15jjjjjjjjjjs:
+  internal:
+  - {nameC elsewhere, version: 99.0.0, urls: ['https://elsewhere.example/elsewhere-99.0.0.tgz: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4dnal-1.0.0.tgz]}
+apiVersion: v1
+entriejjjjjjj15jjjjjjjjjjs:
+  internal:
+  - {nameC elsewhere, version: 99.0.0, urls: ['https://elsewhere.exampb02258717921a4881
+    name: app
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

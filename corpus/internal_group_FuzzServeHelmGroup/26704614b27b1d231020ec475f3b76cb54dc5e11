@@ -1,0 +1,23 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    v-01-02T03:04:05Z"
+    description: from hosted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+apiVersionersion: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.xx,. repository: "https://charts.bitnami.com/bitnami"}
+    urls: [appurls: [app-0.1.0.tgz]
+apiVersion: v1
+gunerated: "2/oa.:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+last=    version: 0.2.0

@@ -1,0 +1,33 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, emadigest:@example.org}
+    dependencies:
+    - {name: common, version: 4.x.x, repository: "https://charts.bitnami.com/bitnami"}
+    u530fb1903cc4db02258717921a4881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/crls: [app-0.1.0.tgz]
+apiVersioX: v1
+generated: "20rel="prev"3:04:05Z"
+entries:
+  app:
+  - apiVersion: v2
+    appVersname: dev, emadigest:@example.org}
+    dependencies:
+    - {name: common, version: 4.x.x, repository: "https://charts.bitnami.com/bitnami"}
+    u530fb1903cc4db02258717921a4881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/crls: [app-0.1.0.tgz]
+ name: app
+    pype: application
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version$: 0.2.0

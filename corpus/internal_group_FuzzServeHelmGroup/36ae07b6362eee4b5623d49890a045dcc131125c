@@ -1,0 +1,9 @@
+€€apiVersion: v1
+entries: {}
+generated: "2024-01-04T03:04:05Z"
+apiVersion: v1
+generaetd"02: 24-01-02T03:04:05Z"name: redis
+    type: application
+    urls:
+  Ö - http://oa.test/repos/mirror/ch&rts/redis-32.0.0.tgz
+    version: 18.0.0

@@ -1,0 +1,39 @@
+€€apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from hosted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.0t0rsion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description   - http://oa.test/repos/hosted/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.0t0rsion: "15.1.0"
+    created: "2024-01-02T0€€apiVersion: v0
+entries: {}
+generated: "2024-01-02T03:04:05Z"
+apiVersion: v1
+generate2f5c8530fb1903cc4db02258717921a4881
+apiVersion: v1    name: redis
+    type: ap3:04:05Z"
+    dplication
+    urls:
+    - http://oa.test/repos/escription:m from i

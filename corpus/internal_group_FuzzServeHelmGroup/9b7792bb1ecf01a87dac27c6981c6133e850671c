@@ -1,0 +1,7 @@
+€€apiVersion: v1
+entries:
+  internal:
+  - {nrsion: v1
+entries:
+  internal:
+  - {name: internal, version: 9.9.9, umls: [internal-9.9.9.tgz]}

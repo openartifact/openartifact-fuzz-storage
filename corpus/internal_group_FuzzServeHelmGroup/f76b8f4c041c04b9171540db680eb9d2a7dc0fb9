@@ -1,0 +1,13 @@
+€€apiVersion: v1
+entries:
+  interna€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repository: "https://chartl:
+s.bitnami  - {name: o.cot

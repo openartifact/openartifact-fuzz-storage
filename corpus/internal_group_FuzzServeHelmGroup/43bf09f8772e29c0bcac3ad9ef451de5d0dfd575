@@ -1,0 +1,7 @@
+€€apiVersiocription: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb190ÍœœË›ÏÑ258717921a4881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+    version: 18.0.0

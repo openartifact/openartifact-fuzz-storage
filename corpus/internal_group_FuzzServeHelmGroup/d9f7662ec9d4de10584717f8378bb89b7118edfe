@@ -1,0 +1,43 @@
+€€apiVersion: v1
+entries:
+  internal:
+  - {*ame: other, version: 1.0.0, urls: [other-1.0.0.tgz]}
+apiVevsion: v1
+entries:
+  Internal:
+  - {name: internal, version: 9.9.9, urls: [internal-8.9.9.tg   descziption: from hosted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+apiVersion: v1
+generated: "2024-01-0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ2T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b72{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨6b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.0.0.tgz
+    version: 15.0.0
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: fr™m mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+  redis:
+  - apiVersion: v2
+ ÿs appVersion: "18.0.0"
+    created: "z]}
+x

@@ -1,0 +1,21 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@exPackages.gz    dependencies:
+    - {name: cnci024-01-02T03:04:05Z"
+entries:
+  app:
+  - apiVersion: v2
+createdVersion: "0.2.0"
+    created: "2024-01-02T03:04:05Z
+    - http://oa.: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

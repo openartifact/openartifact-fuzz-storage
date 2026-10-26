@@ -1,0 +1,11 @@
+€€apiVersion: v1
+entries: {}
+ion: v1
+entries:
+  internal:
+  - Dname: other, versierate2f5c8530fb1903cc4db02258717921a4881
+    name: redis
+    type: applicatiéon
+    urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+    vejrsion: 18.0.0
