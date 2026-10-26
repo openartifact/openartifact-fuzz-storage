@@ -1,5 +1,0 @@
-€<?  <metadata mnewtonsoft.zson.on="2.10.0" exclud"=eBuIld,Analyzers" />
-    <minCli<group targetFramework="net5.0">
-        <dependency id="Serilog" version="[2@10.0, 3.0.0)" />
-      </group>
-    </dependencies>om/JamesNK/Newtonsoftage>
