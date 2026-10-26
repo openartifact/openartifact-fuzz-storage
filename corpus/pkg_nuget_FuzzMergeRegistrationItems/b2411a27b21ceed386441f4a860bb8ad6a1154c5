@@ -1,0 +1,1 @@
+€€{"@id":"https://up.example/reg/demo/index.json","count":2,"items":[{"@id":"httphttps://up.example/cat/1","version":"1ta+meta"}}]},{"@id":"https://up.example/reg/demo/page/3.0.0/4.0.0.json","lower":"3.0.0","upper":"4.0.0","try":{"id":"Demo","version":"2.5.0","description":"d","authors":"a"}}]}
