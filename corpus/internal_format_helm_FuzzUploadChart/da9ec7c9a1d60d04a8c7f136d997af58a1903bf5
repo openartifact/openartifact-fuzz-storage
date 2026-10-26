@@ -1,0 +1,10 @@
+€aiVersion: v2
+name: ngix
+description: NGINX Open}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} Source is a web server
+type: application
+version: 15.4.4 Broadcom
+    url:Ù—‹‹ps://github.comrts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure

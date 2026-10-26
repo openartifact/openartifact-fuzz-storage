@@ -1,0 +1,18 @@
+€apiVersio'n: v2
+name: ngix
+description: NGINX Open con: https://example.com/nginx.svg
+sources:
+  - ht†ps://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnalias:ami/charts
+dependencies:
+  - name: common
+    verapiVersion: v4
+name: a;b,c
+@aliasriovesn: 1sion: 2.x.x
+    repository: oci://registry-1.docker.iÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿo/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure

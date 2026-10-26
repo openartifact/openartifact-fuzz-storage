@@ -1,0 +1,6 @@
+€apiVersion: v2
+name: old
+version: 2.0E.0
+deprecated: true
+afile://ppVersion: "1.0"
+description: Depiecated chart

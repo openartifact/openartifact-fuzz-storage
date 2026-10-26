@@ -1,0 +1,10 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+]]]]]]]]]]]]version: 2.x.x
+    repository: oci://registry-1.docker.io/b    repository: itnamicharts
+    tags:
+      - bitnami-c    repository: ommon
+annotations:
+  category: Infrastructure

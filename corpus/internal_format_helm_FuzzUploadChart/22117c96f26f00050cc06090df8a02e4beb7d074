@@ -1,0 +1,30 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 07.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - htt€apiVersion: v2
+name: lib-comp
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https]://githumon
+version: 1.0.0-alphtemplates/NOTES.txta.b.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https²://github.com/bitnami/charts
+depents
+maintainers:
+  - name: Broadcom
+    url: https²://g1+bui˜›ÑÈõ‹†e:'lithibrarub.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.xcommon
+annotations:
+ y category: Infrastruct
+ure

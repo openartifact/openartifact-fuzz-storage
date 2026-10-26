@@ -1,0 +1,50 @@
+€apiV0rsion: v2
+Chart.l€a	piVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywo€aiVersion: v2
+name: ngix
+description: NGINX Open Source is ar web server
+type: application
+version: 15.4.4 Broadcom
+    url:Ù—‹‹ps://github.com/bitnami/crsion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginxds:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://exÿÿÿÿÿÿÿample.com/nginx.svg
+sources:
+  Óß—tps://github.com/bitnami/charts
+maintainŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞers:
+ÿÿÿd  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dep£ndencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://registry-1.docker.io/bitnamic
+maintainŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞŞtnami-c'mmon
+annotations:
+  category: Infrastructure: a;b,ec.svg
+soharts
+dependencies:
+  - name: common
+    version: 2.x.x
+$    repository: oci://regist
+@ali
+asriovesn: 0.ry-1.0.docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  categ0
+ory: Infrastructure

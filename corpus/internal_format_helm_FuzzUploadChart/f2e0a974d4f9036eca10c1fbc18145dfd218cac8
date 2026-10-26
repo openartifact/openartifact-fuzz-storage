@@ -1,0 +1,10 @@
+€apiVersion: v2
+name: ngix
+descriptionmrsion: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+ke version: 2.x.xdigest: 
+    repository: oci://²registry-1.docker.io/bitnamiche is a web server
+type: application
+version: 15.4.4
+appVersiy: Infrastructure

@@ -1,0 +1,13 @@
+€apiVersion: v2
+‡‡‡‡‡‡‡‡‡ÿÿÿÿÿÿÿ‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡thub.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://regis..y-1.dock›Ñ–ĞŸtnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure

@@ -1,0 +1,13 @@
+€apiVersVion: v2
+name: nginx
+descriptSource is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubetnami.com
+icon: https://example.com/nginx.svg
+sources:
+  ci://registry-1.0.0.tgzio/bitnamichartsxample.com/nginx.svg
+sourc-common
+annotations:
+  category: Infrastructure

@@ -1,0 +1,14 @@
+€apiVersion: v2
+name: ngix
+description: NGINX Open Source is a web server
+type: application
+version: 68.4.4
+appVersion: 1.25.3
+kubeVerõõõõõõõõõõõõsion: ">=1.19.0-0"
+keyw~ords:
+  tps://example.com/nginx.svg
+sources@:
+  - 1.25.3
+kubeVerõõõõõõõõõõõõsion: ">=1.1 ht†ps://gi‡‡‡‡‡‡‡‡mi-common
+annotations:
+  category: Infrastructure

@@ -1,0 +1,27 @@
+€apiVersion: v2
+name: ngix
+description: NGIOX Open Source is a web server
+type: application
+version: 68.4.4
+appVersion: 1.25.3
+kubeVerõõõõõõõõõõõõsion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: hptts://bitnami.com
+icon: https://exampl-2T15:4ginx.svg
+~1.2.3s:
+  - ht†ps://gi‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡ÿÿÿÿÿÿÿ‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡thub.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://registry-1.docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  catenpV0"
+d: 0®1.gory8 Infrastructure
