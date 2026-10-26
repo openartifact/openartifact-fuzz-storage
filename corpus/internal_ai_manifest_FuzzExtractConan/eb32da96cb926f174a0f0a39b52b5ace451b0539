@@ -1,0 +1,6 @@
+€€€€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+cla"arch", "compiler", "build_type"
+   6789abcdef0123456789abcdef
+conandats://zlib.net/a.yml: fedcba987654s210fedcba9876543210
