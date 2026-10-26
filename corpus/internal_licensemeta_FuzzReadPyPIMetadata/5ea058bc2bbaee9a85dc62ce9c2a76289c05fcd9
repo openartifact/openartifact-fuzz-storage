@@ -1,0 +1,6 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression11"
+Requires-Dist: pyte{t~=7.0; extra == "test"
+Provides-Extra: test

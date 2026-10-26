@@ -1,0 +1,5 @@
+€Metadata-Version: 2thon: >=3.8
+Requires-Dist: typing(>=1.0,<2)-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "testires-Dist: typing(>=1.0,<2)-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

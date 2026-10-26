@@ -1,0 +1,36 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary:€Metada Python Hs.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 1.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier:oPr gramming ¶anguage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charse–Ònormali]er (<4,>=2)
+Re
+ ires-Dist: idna (<4,>=2.5)
+Requirta-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIVersion: he-2.0
+License-File: LICENSE
+Requires-PythonPK3.8
+Requir<repository type="git" url="es-Dist: typing-extensioooooooooooooooooooooooooooooooooooooooooooooooons>=4.0; python_version <nse
+Classifier:oPr gramming ¶anguage :: Python :: 3
+Requires-Pyt==1.0.*3.7
+Requires-Dist: charse–Ònormali]ese-Expression: MIVersion: he-2.0
+License-File: LICENSE
+Re "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Pres-Dist: urllib3 (<3,>=1.21.1)
+Require<repository type="git"(uRequires-Dist: charset-normali]er (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requirta-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License
+ -Expressio
+
+Requests is a simple HTTP libra: teryst
+.

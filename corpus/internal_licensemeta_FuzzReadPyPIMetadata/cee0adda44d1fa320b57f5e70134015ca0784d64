@@ -1,0 +1,6 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2./blob/main/LICENSE.txtExpression: M1IT OR Apache-2.0
+License-File: LICENSE
+R`quires-ist: pytest~=7.0; extra == "test"
+Provides-Extra: test

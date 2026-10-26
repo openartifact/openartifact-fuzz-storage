@@ -1,0 +1,8 @@
+ЂMetadata-Version: 2.4
+Name: tomli%
+Version: 2.0.iLc1e
+ииииииииии]ииииииииииииииииииииииииииииииииииииииииnse-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+RequirEs-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3ytest~=7.0; ииииииииииgse-Expression:equires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

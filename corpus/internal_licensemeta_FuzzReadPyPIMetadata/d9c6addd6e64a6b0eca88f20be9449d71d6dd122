@@ -1,0 +1,14 @@
+€Metadata-Version: 2.1
+Îa       thor:Ü´š‘‘š‹— ocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+ClassifierLICENSE.txted :: Apache Software License
+Classigier: Programming Language :: Python :: 3
+Requires-Python: %>=3.7
+Requires-Dist: charset-normalizer (<4,>‹
+Requires-Dist: €Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+Licenÿse-(>=1.0,<2)Expression: MIT OR Apache-2.0
+Licen3e-File: LICENSE
+Requires-Python: >idna (=3

@@ -1,0 +1,11 @@
+ЂMetadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+Liceииииииииииииииииииииииииииииииииииииres-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииnse-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

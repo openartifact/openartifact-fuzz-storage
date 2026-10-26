@@ -1,0 +1,6 @@
+ÄMetadata-Version: 2.6
+Name: tomli
+VersiOn: 2.0.1
+License-E……………………………xpression: MIT OR Apache-2.0
+License-File: LICtest~=7
+Provides-Extra: test

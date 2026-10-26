@@ -1,0 +1,9 @@
+€MetadŸƒa-Version: 2.1
+Name: requn :: 3
+Requires-Python: >=3.7
+Requires-D”Œ‹Å charset-normalizer (
+
+<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-DistRequests is a simple HTTP lvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvibrary.

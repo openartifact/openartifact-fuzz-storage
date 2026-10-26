@@ -1,0 +1,21 @@
+€Metadata-Version: 2.1
+Na<description>me: requests
+Version: 2.31.0
+Summary: Python HTTP for Humáns.
+Home-page: httpss://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requtº PySock (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provi..s-Extra: socks
+
+Requests is a simple ÿÿÿle: LICENSE
+Requires-Python: >=3.8
+Requites-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Prov11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

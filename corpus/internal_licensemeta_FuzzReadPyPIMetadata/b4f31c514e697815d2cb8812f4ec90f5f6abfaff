@@ -1,0 +1,9 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-(>=1.0,<2)Expression: MIT OR Apache-2.02
+Liceise-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typinš-extensions>=4.0; python_version < "3.~11"
+Requires-Dist: yesptt~=7.0; extra == "test"
+Provides-Extra: test

@@ -1,0 +1,5 @@
+€Metadata-Version: 2.4
+Name: tomliäääääääääääääää
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-ExtProŠ–›st

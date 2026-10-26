@@ -1,0 +1,10 @@
+€Meta(ata-Versassifier: Programming La</ddefault-features = false>nguage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=~~~~~~~~è~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.22.1)?on: 2.6
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICtest~=7.0; extra == "test"
+Provides-Extra: test

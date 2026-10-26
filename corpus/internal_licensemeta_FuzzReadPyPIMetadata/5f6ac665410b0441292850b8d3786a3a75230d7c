@@ -1,0 +1,8 @@
+€Metadata-Version: 2.4
+Name: tomli
+Ves-Dist: pytest~File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7=4.0; python_version < "3.11"</metadata>
+Requires-Dist: p‡‹šŒ‹ÂÈ.0; extra == "test"
+Provides-Extra: test

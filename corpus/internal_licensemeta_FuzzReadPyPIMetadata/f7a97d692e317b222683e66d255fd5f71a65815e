@@ -1,0 +1,64 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2-extensions>=4.0version = ersion < "3.11"
+Req1ires-Dist: pytest~=7.0; extra == "test"
+Provides?Extra€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+ÇŠthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Req: tesuires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySock (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; tsys_platform == "win32" and python_version >= "3.8"
+Provi..s-Extra: socksVersion: 2-extensions>=4.0version = ersion < "3.11"
+Req1ires-Dist: pytest~=7.0; extra == "test"
+Provides?Extra€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requeststomli
+Version: 2-extensions>=4.0version = ersion < "3.11"
+Req1ires-Dist: pytest~=7.0; extra == "test"
+Provides?Extra€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+ÇŠthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Req: tesuires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySock (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; tsys_platform == "win32" and python_version >= "3.8"
+Provi..s-Extra: socksVersion: 2-extensions>=4.0version = ersion < "3.11"
+Req1ires-Dist: pytest~=7.0; extra == "test"
+Provides?Extra€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+ÇŠthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: .readthedocs.io
+ÇŠthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Req: tesuires-Dist: idna (
+
+Requests i
+s a simple HTTP library.

@@ -1,0 +1,9 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIVersion: he-2.0
+License-File: LICENSE
+Requires-Python: >=3.8הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

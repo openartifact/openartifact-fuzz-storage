@@ -1,0 +1,18 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 3.0§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-norPKmalizer (<4,>=2)
+Requires-Distÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ: idnAa (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Require<repository type="git" url=".5.6) ; extrma 3 sys_platform == "wuests
+Versiothon_version >= "3.8"
+Provides-Extra: socks
+
+Requests iDist: idnAaHTTP library.
