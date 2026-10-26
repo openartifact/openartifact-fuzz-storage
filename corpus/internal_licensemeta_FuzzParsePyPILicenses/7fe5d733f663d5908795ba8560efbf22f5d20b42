@@ -1,0 +1,13 @@
+€Met!dcta-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: U?NKNOWN2.0
+Classifier:[build-dependencies]oved :,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3st: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-ExtrCC0-1.0s
+
+Requests is a simple HTTP library.

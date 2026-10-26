@@ -1,0 +1,13 @@
+€Metadata-Versiosts.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Progrjmming Language :: Python :bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb: 3
+ReqAuires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<3,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรDist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platforms
+
+Requests is a simple HTTP library.

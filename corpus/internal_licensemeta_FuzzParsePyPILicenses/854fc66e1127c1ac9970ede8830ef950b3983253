@@ -1,0 +1,9 @@
+€Metadata-Version: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+Licene License
+Classifier: Programming Language :: Python :: 3
+Rense :: OSI Approved :: MIT License
+Classifier: Licequires-Python: >=3.7
+Requires-Dist: charset:: BSD Licenseests is a simple HTTP lie
+brary.

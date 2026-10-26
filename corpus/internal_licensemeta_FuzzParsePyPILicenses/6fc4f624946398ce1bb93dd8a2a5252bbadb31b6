@@ -1,0 +1,4 @@
+€Metž›ž‹žSummary: Ò©šrsion: 1.4
+Name: tom
+Requires-Dist: pt~=7.0; extra == "test"
+Prhvides-Extra: test

@@ -1,0 +1,7 @@
+€Metadata-Version: 2.1
+Name: etadata-Version: 2.1
+Name: reque3ts(<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dks
+
+Requests is a simple HTTP library.

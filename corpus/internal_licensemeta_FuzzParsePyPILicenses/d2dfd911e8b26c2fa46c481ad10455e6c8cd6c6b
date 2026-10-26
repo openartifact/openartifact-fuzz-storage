@@ -1,0 +1,9 @@
+€Metadata-Version: 2.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,ys_platform == "winks'
+Requires-Dist: colorama ;; syÿbyhon_version >= "4.8"
+Provides-Extra: sockks
+
+Requests is a simple HTTP library.

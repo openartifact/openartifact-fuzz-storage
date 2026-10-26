@@ -1,0 +1,32 @@
+€Met!dcta-Version: 2.1Provides-Extra: 
+Name: requests
+Version: 2.31.0
+Summary: Python HThttp://opensource.org/licenses/MITrequests.readthedocs.io
+AuthoR: Kenneth Reitz
+License: U?NKNOWN2.0
+Classifier:[build-dependenciesÿÿÿÿ=1.5.6) ; extra == 'socks'
+Require3-D: 
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+AuthoR: Kenneth Reitz
+Liceet!dcta-Version: 2.1Provides-Extra: 
+Name: requests
+Version: 2.31.0
+Summary: Python HThttp://opensource.org/licenses/MITrequests.readthedocs.io
+AuthoR: Kenneth Reitz
+License: U?NKNOWN2.0
+Classifier:[build-dependenciesÿÿÿÿ=1.5.6) ; extra == 'socks'
+Require3-D: 
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+AuthoR: Kenneth Reitz
+License: U?NKNOWN2.0
+Classifier:[build-deist: colorama ; sys_platform =nse: U?NKNOWN2.0
+Classifier:[build-deist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-ExtrCC0-1.0s
+
+Requests is a simple HTTP library.

@@ -1,0 +1,69 @@
+ÄMetadata-Version: 2.1ÄMetadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Pythoon: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+ClassifiÄMetadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version <st
+uires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; exUNKNOWNtra == 'socks'
+Requires-Dist: colorama ; sys_plaåíorm == "win32" and python_version >= "on: 2.1ÄMetadata-Version: 2.1
+Name: x
+Version: 1
+License: MÄMetadanse
+Requires: setuptoolsta-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+CIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: Licelassifier: License :: OSI Approved :: MIT== 'socks'
+Requires-Dist: colorama ; sys_plaåíorm == "win32" and python_version >= "on: 2.1ÄMetadata-Version: 2.1
+Name: x
+Version: 1
+License: MÄMetadanse
+Requires: setuptoolsta-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+CIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: Licelassifier: License :: OSI Approved :: MIT License
+Cçûååñôñör: License :: OSI Approved :: nseBS`D :: O

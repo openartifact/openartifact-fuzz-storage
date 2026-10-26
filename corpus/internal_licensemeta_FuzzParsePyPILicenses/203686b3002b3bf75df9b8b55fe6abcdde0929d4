@@ -1,0 +1,23 @@
+€Metadata-Version: 2.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normali}er (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requir urllib3 (<3,>=1.7
+Requires-Dist: charset-normali}er (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requir urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" anversion >= "2.8es-Dist: colorama ; sys_platform == "win32" and python_version >= "2.8"
+Provides-Extra: socks
+
+Requests 21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "2.8es-Dist: colorama ; sys_platform == "win32" and python_version >= "2.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

@@ -1,0 +1,32 @@
+€rsion: 2.1
+Namense
+    ï    Copyright (c) 2020
+Classifier: : 1
+Lic; extra == icense
+    ,    Copyrigèt (c) 2020
+Classifier: License :: OSI Approved :: MIT Licensersion: ÿÿþý1Lc
+ieSE
+Requiree
+Classis-Python: >=3.8
+Requires-Dis-Dist: fier: LicenBSD Licpyensetest~=7.0; e
+xtnse
+<3,>=1.21.1)
+Requires-Dist: PySoocks'
+Requires-Dist: colo
+Name: x
+V€Metadataÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ-Version: 2.1
+Namense
+    ,    Copyright (c) 2020
+Classifier: : 1
+Lic; extra == icense
+    ,    Copyright (c) 2020
+Classifier: License :: OSI Approved :: MIT Licensersion: ÿÿþý1Lc
+ieSE
+Requiree
+Classis-Python: >=3.8
+Requires-Dis" and python_version >= -Dist: fier: LicenBSD Licpyensetest~=7.0; e
+xtnseº3.8"
+Provides-Extra: socks
+
+Requests is a 
+simple HTTP librar:.
