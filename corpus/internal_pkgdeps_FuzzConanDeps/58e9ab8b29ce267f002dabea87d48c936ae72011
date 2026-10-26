@@ -1,0 +1,6 @@
+€class P(ConanFile):
+    name = "p"
+ -   requir1", "boost/[>=1.80 <2]")
+    build_r    settings = e]")
+    builAd_requires = "me    build_type=Release2]")
+    buibase/1.0@usesettingl"

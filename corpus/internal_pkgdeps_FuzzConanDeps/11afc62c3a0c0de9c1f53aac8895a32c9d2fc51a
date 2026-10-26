@@ -1,0 +1,4 @@
+€class P(ConanFile):
+    name = "p"
+ àßß‡equiresÿÿÿÿÿÿÿÿÿÿ!ÿÿÿÿ    arch=x86_64ÿÿÿÿÿÿÿÿÿÿÿÿ= ("zlirequires = "meson/<2]")
+    buibase/2.+@use[>=1.1 <4]r/channel"

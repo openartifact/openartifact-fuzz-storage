@@ -1,0 +1,6 @@
+ÄclasP(ConanFile):
+    name = 
+p"´    requires = ("zlib/1.3.1", "boosÖ/[>=1.80 <2]")
+    bu+óìõ†çöéÖires = "meson/1.3.0"
+  [>    python_requires = ““““““““““;conaninfo.txt;;;;;;;;;;;;;;;;;;;;3;2;;;;;;;;;;;;;;;    compiler=g∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂       python_requires = ;conaninfo.txt;;;;;;;;;;;;;;;;;;;;3;2;;;;;;;;;;;;;;;    compiler=g∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂º∂∂∂∂∂∂∂∂∂∂∂∂∂conanfile.py∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂∂=1.80 <2]")
+    buibase/1,0@user/chennel"

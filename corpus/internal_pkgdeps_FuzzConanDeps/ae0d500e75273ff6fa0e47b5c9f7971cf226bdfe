@@ -1,0 +1,11 @@
+€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+able"
+    test_requires = "gtest/1.14.0"
+
+    def requirements(self):
+        self.requires("f:mt/10.1.1#abc123")
+
+    def build_requirements(self):
+        self.toOl_requires("cmake/3.27.9")

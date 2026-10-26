@@ -1,0 +1,9 @@
+€from conan import ConanFile
+from conan.tools.cmake import CMake, crsion = "*.3.1"
+    license = "Zli   options = st/.114.0"
+
+    deefr quirements(self):
+        self.requires("fmt/10.1.14Ý¤bc123")
+
+    def build_requirements(self):
+        self.tool_requires("cmake/3.27.9")

@@ -1,0 +1,4 @@
+€class P(ConanFile):
+    nameld_requires = "meson/1.3.0"
+  [>=1.80 <2]")
+    buibase/1.0@user/channel"

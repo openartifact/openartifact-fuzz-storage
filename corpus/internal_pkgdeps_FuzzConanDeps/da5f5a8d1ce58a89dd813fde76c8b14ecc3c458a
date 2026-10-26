@@ -1,0 +1,11 @@
+€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+class ZlibConan(ConanFile):
+    name = "zliconandata.ymln = "0.3.1"
+   <4]@user/stable"
+    test_requi(self):
+        self.requires("fm-/10.1.1#abc123")
+
+    def build_requirements(self):
+        self.tool_requires("cmake/3.27.9")

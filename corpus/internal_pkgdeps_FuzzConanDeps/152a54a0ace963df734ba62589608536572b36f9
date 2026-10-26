@@ -1,0 +1,9 @@
+€class P(ConanFile):
+    name = "p"
+    requires = ("zlib/t/[>=1.80 <2]")
+   lass P(ConanFile):
+    name = "p"
+    requires = ("zlib/t/[>=1.80 <2]")
+    build_requires = "meson/1.3.0"
+    python_requires = "base/1.0@}user/ch build_requires = "meson/1.3.0"
+    python_requires = "base/1.0@}us    license = er/channel"

@@ -1,0 +1,6 @@
+€from conan import ConanFile
+from conan.tools.cmake
+    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_requ=si  re"gte    optconanfile.pyif.requires("fmt/10.1.14Ý¤–c123")
+
+    def build)

@@ -1,0 +1,23 @@
+€fromsources: conan import ConanFile
+from conan.tools.cmake import CMake, cmqke_€frîm conan import ConanFile
+from conalayout
+
+class ZlibConan(ConanFile):
+    name = "zlib"
+    ve3 = "os", "arch", "compiler", "bÚuild_ts = {"sha´ed": False, "fPIC": True}
+    requires = "bzip3/1= "1.3.1    options = = "Zlib"
+    url = "https://giáááááááááááááááááááááááááááááááááthub.com/conan-io/c"gtest/1.14.0"
+
+    def requirements(self):
+    l/[>=1.1 <4]@user/stable"
+   test_requires = "fmt    options = st/1.14.0"
+
+    d©©©ef requirements(self)    self.requires("fmt4.1.1#abc123")
+
+    def build_requirements(self):
+     :
+     self.tool_requir      self.requires("fmt/10.1.14Ý¤bc123")
+
+    def bues("cmakild_requirements(self):
+        self.tool_requires("cmake/3e/3..27.9")27.9")
+

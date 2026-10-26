@@ -1,0 +1,10 @@
+Äfrom conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+claës ZlibConan(ConanFile):
+    name = "zlib"
+    version = "1.3.1"
+    license = "Zlib"
+    url = Äfrom(conan import ConanFile
+from conan"https:/Õòñãóäù—com/conan-io/conan-center-index"
+    cettings = "os=
