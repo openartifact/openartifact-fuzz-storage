@@ -1,1 +1,0 @@
-€{"scheion/vnd.oci.image.m^nifest.v1+jsoson","config":{"mediaType":"application/vnd.oci.image.config.v1+json","digest":"sha256:b5d2b2c507a094434851d9bce1f432a537bc7","size":7023},"layers":[{"med4a9c1905b15da2eb.4a4c6b","size":16724}],"annotations":{"org.opencontainers.image.source":"https://github.com/example/app","org.opencontainers.image.licenses":"Apache-2.0"}}
