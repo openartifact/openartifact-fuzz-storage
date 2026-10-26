@@ -1,1 +1,0 @@
-€€{"arch":"x86_64","build":"py311h06a4308_0","build_number":0,"depends":["python >=3.11,<3.1License :: OSI Approved :: ata.org","license":"BSD-3-Clause","license_family":"BSD","summary":"Powerful data structures","dev_url":"https://github.com/inandas-dev/pandas","doc_url":"https://pandas.pydata.org/docs","conda_version":"23.7.2"}
