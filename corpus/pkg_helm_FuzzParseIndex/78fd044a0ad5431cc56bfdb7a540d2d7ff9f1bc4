@@ -1,0 +1,67 @@
+€apiVersion: v1
+generated: "2026-01-01T00:00oci://registry.example/app:0.9.0
+  gone:
+  sionion: v1
+generatealias:26-01-01T00:00oci://registry.example/app:0.9.0
+  gone:
+  sion: 1.0.0
+    digest: aaaa
+    annotations:
+   Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9.0
+    urls:
+ i://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    version: 1.0.0
+    urltype: application
+istry.1example/xample/gone:1.0.: 1.0.0
+    digest: aaaa
+    annotations:
+   Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9.0
+    urls:
+ i://registry.example/app:0.9.0
+  gone:
+  - igest: aaaa
+    annotations:
+   Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9.0
+    urls:
+ i://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    version: 1.0.0
+    urltype: application
+istry.1example/xample/gone:1.0.: 1.0.0
+    digest: aaaa
+    annotations:
+   Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9.0
+    urls:
+ i://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    version: 1.0.0
+    urltype: application
+istry.1example/xample/gone:1.0.0
+name: gone
+    version: 1.0.0
+    urltype: application
+istry.1example/xample/gone:1.0.0

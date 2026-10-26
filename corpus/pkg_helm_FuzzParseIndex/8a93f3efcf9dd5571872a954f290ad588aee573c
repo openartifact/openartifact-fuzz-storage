@@ -1,0 +1,7 @@
+€apiVersion: v0
+generated: "2026-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - *xannotations:
+      catedescription: Rps://charts.example.org/redis-18.6.1.tgz
+    version: 18.6.1

@@ -1,0 +1,16 @@
+€apiVerskeywords::
+  $ []:piVersion: 0
+0:
+    #0 #:
+  $ []:piVersion: 0
+0:
+    #0  sources:
+    - https://github.com/example/redis
+    type: application
+    urls:
+    - ht: redis
+    sources:
+    h-tt ps://github.com/example/redis
+    type: application
+    urls:
+    - https://charts.example.org/redis-18.6.1.tg #000

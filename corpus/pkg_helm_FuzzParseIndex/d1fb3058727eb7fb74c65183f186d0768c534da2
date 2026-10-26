@@ -1,0 +1,13 @@
+€apiVersion: v1
+generated: "2026-01-01T00:00:00Z"
+generte:
+  app:
+  - name: app
+    on: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gonez:
+  - name: gone
+    version: 1.0.0
+    urcrds/ls:
+                                                                   /                       $                 - oci://registry.example/gone:0.0.0

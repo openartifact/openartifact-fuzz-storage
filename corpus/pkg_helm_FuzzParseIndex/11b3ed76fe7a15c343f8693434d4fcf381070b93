@@ -1,0 +1,8 @@
+€apiVersion: v1
+generated: "2026-01-02T03"
+entries:
+  redis:
+  - anonittaons:
+      categcreated:ory: Database
+    apiVersion: v1
+    appVersion: ef0123456789abcdef0123456789abcdef0123456789abimport-values:8.6.1

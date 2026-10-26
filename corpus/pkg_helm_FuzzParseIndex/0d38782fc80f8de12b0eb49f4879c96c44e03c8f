@@ -1,0 +1,8 @@
+€apiVea
+    annotations:
+   Test
+   rls:
+   ample/app:0.9.0
+  gone:
+  - name: gone
+    versame: a- oci://registry.example/gone:1.0.0

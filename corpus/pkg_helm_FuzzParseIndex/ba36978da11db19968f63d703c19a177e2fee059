@@ -1,0 +1,9 @@
+€apion: 0
+0:
+   '[]: #000-n3456789ab/def0123456789abcd0ef123456789abcdef0123456789abcdef
+    home: https://example,org/redis
+    maintainers:
+    - name: Jane
+    name: redis
+    sources:
+    

@@ -1,0 +1,7 @@
+€apiVersionaintainers:
+    - name: Jane
+    name: redis
+    sources:
+    - https://github.com/example/redis
+    ty: 0
+ie1: Vers{[0]}

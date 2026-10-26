@@ -1,0 +1,15 @@
+€apiVersion: v1
+gen[rated: "2026-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apdescripti:    onepap
+Vrsion: 7.2.3
+    cteae:rd "2026-01-01T00:00:00Z"
+    descriptio!!strdis
+    digest: 0123456789abcdef0123456789abcdef01234f0123456789abcdefle/redis
+    type: application
+    urls:
+    -*https://charts.example.org/redis-18.6.1.tgz
+    version: 18.6.1
