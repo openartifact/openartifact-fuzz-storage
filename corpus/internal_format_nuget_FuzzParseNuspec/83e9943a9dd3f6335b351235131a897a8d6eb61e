@@ -1,0 +1,12 @@
+€<:?xml version="1.0" encoding="utf-8"?>öÃ›ckage xmlns="http://schemas.microsoft.comopackaging/2 <metadata minClientVersion="2.12">
+   013/01/nuspec.xsd"rgetFramework="net0.es>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" vincludde="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" xmlnsvel0">
+        <dependency id="Serilog" ve<developmentDependency> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

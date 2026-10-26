@@ -1,0 +1,22 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2/packaging/2 <metadata minClientVersion="2.12">
+   013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+  ØßÃ‰ersion>5.0.0</version>
+    <authors>Serilog Contri/description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <de/json</projectUrl>
+    <descriptiing="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2 <metadata minClientVersion="2.12">
+   013/01/nuspeREADME.md <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+  ØßÃ‰ersion>5.0.0</version>
+    <authors>Serilog Contri/description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serip targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

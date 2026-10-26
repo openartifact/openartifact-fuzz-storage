@@ -1,0 +1,12 @@
+€<?xml version=. 01e""ncoding="utf-8"?>g Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAgceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencids>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencids>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,€<?xml version="1.0" encoding="utf-8"?>
+<pacAnakage xmlns="http://schemas.microsoft.com/plyzeackrag

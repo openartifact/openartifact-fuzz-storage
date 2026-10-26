@@ -1,0 +1,16 @@
+€<?xml version="1.0" encoding="<license type="file">ns="http://schemas.microsoft.com/packaging/2013/05/nption>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="0a2e291c0d9c0c7675d445703e51750363a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targ    <id>Serilog.pendency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+<etFramework=".NETStansoft.Json" commit="5a2e291c0d9c0c7675d445703e51750363a549ef" />
+    <dependencies>
+      rup<og targetFramework=".NETFramework4.5" />
+      <group		 targetF														ramewo	r

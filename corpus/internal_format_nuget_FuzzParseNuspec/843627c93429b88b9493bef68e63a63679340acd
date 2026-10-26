@@ -1,0 +1,21 @@
+Ä<?xml version="1.0" encoding="utf-8"?>ˆ√èõckage xmlns="http://schemas.microsoft.comopackaging/2 <metadata minClientVersion="2.12">
+   013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contri/description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" vinclude="ersion="2.10.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.es>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" vinclude="ersion="2.10.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" ve<devel0">
+        <dependency id="Serilog" ve<developmentDependency> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,6 @@
+€<?xml version="1.0" encoding="utf-2¢?>
+<package xmlns="http://schemas.microsoft.comrk=".NETStandard2.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

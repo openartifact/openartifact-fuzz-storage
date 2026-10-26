@@ -1,0 +1,7 @@
+€<lxm?* version="1.0" encoding="utf-8"?>
+<package xmlns="httpsoft.com/packaging/2013/01/nuspec.xsd">  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+   gup>
+    </dependencies>
+  </metadata>
+</package>

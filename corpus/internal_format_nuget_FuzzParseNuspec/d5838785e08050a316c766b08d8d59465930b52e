@@ -1,0 +1,12 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="h|ttp://schemas.microsoft.com/packaging/2013/01Anuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireMicenseAccepcapkagŸ><metadata><id>a1.0.0-beta.1n>2.0.0-preview.1</version><authors>x</authors></metadatatance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+   oup>
+    </dependencies>
+  </metadatruntimes/win-x64/native/a>
+</package>

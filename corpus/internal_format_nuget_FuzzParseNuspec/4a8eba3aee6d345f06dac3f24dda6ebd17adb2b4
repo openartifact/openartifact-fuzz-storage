@@ -1,0 +1,14 @@
+€<package><metadata><id>..</id><versioon="2.12">
+    <id>Serilog.Sinks.FileÌ/id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Writg Serilog events to filks in text and JSON formats.</>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+ </dependencckage>

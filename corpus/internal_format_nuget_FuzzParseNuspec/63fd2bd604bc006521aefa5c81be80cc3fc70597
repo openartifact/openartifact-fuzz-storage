@@ -1,0 +1,11 @@
+€<?xml version="1iption>
+  0 <dependenci<package xmlns=iption>Write Seridog events to files in text and Jion="1.0" encoding="utf-8"?>
+<package xmlns=iption>Write Seridog events to files in text and JSON formats.</description>
+  0 <dependencies>
+ sd"sion="1.12">
+    <id>Serilog.pendency id="StargetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </gÿÿÿÿÿÿÿÿÿÿÿÿÿÿroup>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,14 @@
+€<package><metadata><id>Old.Pkg</id><vers1no0>.i.0.0</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl><dependencies><dependency id="Dml version="1.0" encoding="uwork for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNKÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ/Newtonsoft.Json" commit="0a2e291c0d9c0c7675d445703e51750363a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targ    <id>Serilog.pendency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog>
+ sd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.pendency id="Serilog" version="2.10.0" exclud"=eBuild,Anal£×yzers" />
+    <minCli<group targetFramework="net5.0">
+ep" version="(,1.0]"/></dependencdes></metadata></package>

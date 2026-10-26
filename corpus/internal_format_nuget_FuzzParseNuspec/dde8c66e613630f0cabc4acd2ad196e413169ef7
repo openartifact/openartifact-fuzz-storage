@@ -1,0 +1,8 @@
+€<?xml version="z1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoftcom/packaging/2013/01/nuspec.xsd<description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFrahttp://schemas.microsoft.com/packaging/2012/06/nuspec.xsdendency id="Dep" version="(,1.0]"/></d€<package><metadata><id>Old.Pkg</id><version>1.0.0.0</version><liepenauthorsdencies></metadcenseUrersion="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metada<copyright>ta>
+</package>

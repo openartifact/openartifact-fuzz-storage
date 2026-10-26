@@ -1,0 +1,19 @@
+€<package><metadata><id>Old.Pkg</id><version>1.0.0.0</version><licenseUrl>€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <menadata minClientVersion= 2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <grohttp://www.apache.org/liceup targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramewnses/LICENSE-2.0</licenseUrl><dependencies><dependency id="Dep" version="(,1.0]ork="net5.0">
+        <depend"/></depheency id="Serilog" version="[2.10.0, 3.0.nde0)" />
+      </nciegroup>
+    </dependencies>
+ s </metada><ta>
+/me<tadat/pAckaga>e></package>

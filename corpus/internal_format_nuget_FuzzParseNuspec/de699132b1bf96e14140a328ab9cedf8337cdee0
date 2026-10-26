@@ -1,0 +1,24 @@
+€<?xml version="1.0" encoding=€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.micuosoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+ €<?xml version="1.0" encoding="utf-8"?>
+<owners> xmlns=iption>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+ sd">
+  <metadaŒ— minClien   <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    $<license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/ersion="2.12">
+    <id>Seril~og.pendency id="Serilog" vers="oni2.10.0" exclud"=eBuild,Analyzers" />
+    <minClientVersion>  </group>
+      <group targetFramework="net5.0">
+        <dependenccom/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3y id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</packa</vgeersion>
+    ><authors

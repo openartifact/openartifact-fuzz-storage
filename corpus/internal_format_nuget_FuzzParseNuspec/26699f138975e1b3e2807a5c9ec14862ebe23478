@@ -1,0 +1,27 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>Ja€<package><metadata><id>Old.Pkg</id><version>1.0.0.0</verruntimes/win-x64mes Newton-King</authors>
+    $<license type="expressio</group>n">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.-->tonsoft.51750s63a549ef" />
+    <dependencies>
+      <group targetFramework€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/Mid</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newt=".NETFramework4.5" />
+      <g§roup targetFra/native/www.apache.org/licenses/LCENSE-2.0</licenseUrl><dependencie<metadata><id>..</id>Óversion>1.0.0</venrosi></metnmework=".NETStandard2.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metacies></metadata></pdata>
+</package>ackage>onsoft.Json" commit="0a2e291c0d9c0c7675d445703e51750363a5(49ef" />

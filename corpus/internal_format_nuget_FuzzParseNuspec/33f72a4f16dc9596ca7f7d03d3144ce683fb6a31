@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://netcoreapp3.1soft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientV
+rso2"ni=.12">
+    <id>Serilog.Sinks.File</id    <requireLicenseAcceptance>false</requireLispec.xsd">
+  <mecenseAcceptance>
+    <license type="file">LICENSE</lic)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,19 @@
+€<?xml version="1.0" encoding="utf-8#?ÿÿÿÿÿÿÿ>
+<package xmlns="ht€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.c   <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for n0.3</version>
+    <authors>Ja.NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https:%/github.com/JamesNK/Newtonsoft.Json" commit="0a2e291ps://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</descriËtion>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="0a2e291c0d9c0c7675d445703e51ckage xmlns="http://schemas.microsoft.c   <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>tp://schemas.microsoft.com/packaging/2 <metadata minClientVersion="2ÿw.12">
+   013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5
+    <projectUrl>https://www.newtonsoft.com/json</projectUr.0.0</version>
+ l>
+   <aut   ho

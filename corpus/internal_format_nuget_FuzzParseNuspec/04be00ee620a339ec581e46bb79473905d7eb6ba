@@ -1,0 +1,17 @@
+€<?xml version1/nuspec.xsd">
+  <metadata minid>Serilog.Sinks.File</id>
+    <grsion>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAccept="1.0" encoding=falseicense type="file">f-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2014/05/npti363a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group tar  g<  id>Serilog.pendency id="Serilog" version="2.10<dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+<etFrhttp://schemas.microsoft.com/packaging/2013/05/nuspec.xsd5703e51750363a549ef" />
+    <dependenrhttp://schemas.microsoft.com/packaging/2013/05/nuspec.xsd5703e51750a633549ef" />
+    <dependencies>
+      <group targetFramework=@.NETFramework4.5" />
+      <group		 targetF														rameyo	r

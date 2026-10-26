@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="uÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿtf-8"?>
+<package xmlns="http://schemasom/packag:ng/2013/01Anuspec.xsd">
+  <metadata minClientVersion="2.12">
+">
+        <*dependencyid="Serilog" version="[2.10.0, 3.0.0)" />
+      </gorup>
+    </de0pendencies>
+  </metadata>
+</package>

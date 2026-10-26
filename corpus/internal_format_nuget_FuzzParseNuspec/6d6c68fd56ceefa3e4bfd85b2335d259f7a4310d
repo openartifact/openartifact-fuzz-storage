@@ -1,0 +1,14 @@
+€<?xml versruntimes/win-x64/native/ion="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</ve¿sion>
+    <authors>James Newton-Ki<!ENTITYors>
+ proje   <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https />
+      <group targetFramework=".NETStandard2.0" />
+      <groupù target4Framework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,20 @@
+€<?xml version="1.NET</description>
+    <tags>json</tags>
+    %repository type="git" url="https://gi*hub.com/JamesNK/N>
+    <dependencies>
+      <groupnet6.0" />
+    </dependencies>
+  </metadata>
+</p0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/1006/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+Framework=".N*TFramework4.5" />
+      <group targetFramewovk=".NETStandard2.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,10 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://s<iconUrl>chemas.microsoft.com/p€<?xml version="1.0 <license type="expr›ŒŒon">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/Mid</licenseUrl>
+    <projec;tUrl>https://www.newtonr .NET</description>
+    <tags>json</tags>
+    <repository type="gackaging/4026/01/nuspec.xsd">
+  <metadata minClientVersion="2it" url="https://github.com/JamesNK/Newtonsoft.Json" commit="0a2e291c0d9c0c7675d445703e51750363a549ef" />
+    <dependencies>
+      <.12">
+    <id>Serilog.Sinks.group tarFileg

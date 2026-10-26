@@ -1,0 +1,8 @@
+€<package><metadata><id>a</id><version>2.0.0-preview.1</version><auohors>x</autttp://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <lic      <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </grouphors></metadata></package>
