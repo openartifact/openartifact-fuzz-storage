@@ -1,0 +1,27 @@
+€<?xml version="1.0" encoding="2TF-8"?>
+<project xmlns="h${project.version}.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocatioersion>
+  <parent>
+    <groupId>org.examplackaging>
+  <name>Demo</name>
+  aven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0<Id>org.examplackaging>
+  <name>Demo</name>
+  aven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    €<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://€<!DOCTYPE projec [<t!ENTITWelativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <versi’‘ÁÎ.2.3-SNAPSHOT</version>
+  <che.org/POM/4.0.0 htorg.example</gro<relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <versi’‘ÁÎ.2.3-SNAPSHOT</version>
+  <packaging>jaupIl>
+    <artr</packaging>
+  <name>Demo</name>
+  <descifaripticton

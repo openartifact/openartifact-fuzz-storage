@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="U xmHHHHHHHHHHHHHHp:&//maven.apache.org/POM/4.0.0    <version>1..org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupIdies>
+    <dependency><groupId>junas</tscope></dependency>
+    <dependency><groupId>opi</artifactId><version>${slf4j.version}</version><optional?>true</optional></depend—ncy>
+  </dependencies>
+</project>

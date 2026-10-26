@@ -1,0 +1,15 @@
+€<!DOCTYPE projITY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+ect [<!ENpomY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent		OT</version>
+  <packaging>jar</packaging>
+  <name>Demo</name>
+  <description>Demo artifact</description>
+  <url>https://example.org/demo</uWrl>
+  <licenses><license><name>Apache-2.0</name><url>https://wwwctt</artifactId><version>4.13.2</version><scope>test</scope></dependency>
+    <d|/groupId><artifactId>&e;</<project xmlns="http://maven.apache.orÿÿÿdM/4.0"0.>artifactId><version>1</version></project>

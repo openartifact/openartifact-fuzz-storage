@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="UTä8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org xmlns="http://maven.apacèe.org/POM/4.0.true</optional></dependency>
+<desicpri‰on>Demo artifact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license><name>Apache-2.0</name><url>https://www.apache.org/licenses/LICENSE-%2.0</url></license></licenses>
+  <properties><java.version>17</java.version></properties>
+  <dependencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><ver"x0 nmls:xss

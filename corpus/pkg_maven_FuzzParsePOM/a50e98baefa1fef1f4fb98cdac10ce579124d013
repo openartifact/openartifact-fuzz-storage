@@ -1,0 +1,12 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="//www.w4.org/2001/XMLSch[ma-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.doem/0<lVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>0.0.0</version>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artitIfacd>
+  <version>2.2.3-SNAPSHOT</version>
+  <packaging>jar</pack>

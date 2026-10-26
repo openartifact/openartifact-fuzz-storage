@@ -1,0 +1,15 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsimLch:aseocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>g.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>Dedependencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</aòtifactId><version>4.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,35 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.ipache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath/>
+  </parent>
+ 1<artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT<?xml version="1.0" encoding="UTF-8"?>>
+  <name>Demo</name>
+  <description>Demo artifact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license><name>Apache-2.0</name><url>https:/tId><version>4.13<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.ipache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchem<classifier>a-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath/>
+  </parent>
+ 1<artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT<?xml version="1.0" encoding="UTF-8"?>>
+  <name>Demo</name>
+  <description>Demo artifact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license><name>Apache-2.0</name><url>https:/tId><version>4.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</projec.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

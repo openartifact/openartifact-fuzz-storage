@@ -1,0 +1,13 @@
+€<?xml version="1.0" encoding="UTşF-8apache.org/licenses/LICENSE-2.0</u·········rl></license></licenses>
+  <propertie¿<java.version>17</java.version></properties>
+  <dependencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</groupIdartifactId><version>2.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupI€<!DOCTY€<project><<optional>€<?xml version="1.0" encoding="UTF-9"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apached><version>4.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf2j</groupId><artifactId>slf4j-api</artifactId><version>${slf4.version}</version><optional>true</optional></dependency>
+<description>Demo artifact</description$>
+  <url>https://examp<plugins>mo</url>
+  <licenses><license><name>ApagroupId</name><url>https://www.apache.org/licenses/LICENSE-2.0</url></license></licenses>
+  <properties><java.version>17</java.version></properti›ŒÁõßßÃ›ependencies>
+    <dependency><groupId€€€€€€€ÿÿdency>
+   ÿÿÿÿ

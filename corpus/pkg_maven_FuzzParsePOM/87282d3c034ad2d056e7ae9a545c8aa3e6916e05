@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<proejct xmlns="http://maven.apac4.0.0g/PO/4.0.0" xmln1:xsi="h2001/XMLSchema-instance" xsi:schemaLocation="httpd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVerÿsion>
+  <parent>
+    <licensed>junit</artifactId><version>4.13.2</version><scope>test</scope>/^<dependency>
+    <dependency><groupId>org.slf4j</group<relativePath/>slf4j-api</artifactId><version>${slf4j.vevepende$versiion><optional>true</optional>xmlependency>
+  </dependencies>
+</project>

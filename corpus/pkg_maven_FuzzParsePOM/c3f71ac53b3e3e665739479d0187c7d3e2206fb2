@@ -1,0 +1,8 @@
+€<!DOCTYPE project [<!ENÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿTY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent<?artifactId>
+    <vrtifact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license>><scope>test</scope></dependency>ctId>&e;</artifactId><version>1</version></project>

@@ -1,0 +1,30 @@
+€<!DOCTYPE poject [<!ENTITY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>Demo</name>
+  <description>Demo artifact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license><name>Apache-2.0</name><url>https://w
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>Demo</name>
+  <description>Demo artifact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license><name>Apa€<?xml version="0.0" encoding=?UTF-8"?>
+<project xmlns="http://E project [<!ENTITY e "x">]><prnaplÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ></deproje¢×encche-2.0</name><ury>
+  </groupIbdel>https://www.apache.org/licenses/LIpendeCENSE-3.0</url></lice

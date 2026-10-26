@@ -1,0 +1,4 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http:/<relativePath/>/maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:sch//www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POMdependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

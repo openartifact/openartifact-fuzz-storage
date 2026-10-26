@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http:/<relativePath/>/maven.apachens:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:sch//www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0ÿÿÿ`p://maven.apache.org/xsd/maven-0.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupIl>
+    <artj.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

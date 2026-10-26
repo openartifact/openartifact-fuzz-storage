@@ -1,0 +1,10 @@
+€<?xml version="1.0" encoding=?UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="http://mavn>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1ÿÿÿÿÿÿÿÿ.0.0</version>
+    <relativePath/>
+  </parent>
+  ses><license><name>Apache-2.0</name€<!DOCTYPE project [<!ENTITY e "x">]><prnapl></deprojendency>
+  </groupIbdependenciectes>

@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="UTþF-8apache.org/licenseon>${slf4j.version}</versi"?>
+<project xmlns="http://mavname>Apache-2.0</name><url>https://www.apache.org/licenses/LICENSE-2.0</u·········rl></license></licenses>
+  <propert.Finalie¿<java.version>17</java.version></properties>
+  <dependencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><version>2.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</pen.apache.org/POM/4.0.0" xmlescription>
+  <url>https://example.java.vers€<!DOCTYPE projec [<t!ENTIÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿion>17<.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.versÿÿ€<!ÿÿÿÿÿÿÿÿion}</version><optional>true</optional></dependency>
+  </depeÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿTOjec [<t!EN" eIYT-spT x">]><project><gr222222222222222222oupId>g&aop;h</gr><aersion></project><tÅÅÅÅId>&gsindeon></proypejenc>ct>ies>
+</project>

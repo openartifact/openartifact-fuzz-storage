@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="UTF8"?>
+<project xmlns="http:/<relativePath/>/maven.apachens:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:sch//www.w2.org/2001p://maven.apache.org/POM/4.0.0ÿÿÿ`p://maven.apache.org/xsd/maven-3.0.0.xsd<optional>">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.examphe</groupIl>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+    <relativePat<modelVersion>3.0.ependency>
+    <dependency><groupId>org.slf5j</groupId><artifactId>slf4j-api</artifactId><version>${sl4f4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

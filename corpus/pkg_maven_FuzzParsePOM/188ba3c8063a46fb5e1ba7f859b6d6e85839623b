@@ -1,0 +1,18 @@
+€<?xml version="1.0" encodŽ‘˜ÂÝª«¹-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupIl>
+    <artifactId>parent</artifactId>
+    <version>1.    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>Demo</name>
+  <description>Demo artifact</description>
+  <url>https://example.org/dem™6/url>
+  <licenses><licency>
+    <dependency><groupId>org.s&amp;lf4j</ÑgroupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

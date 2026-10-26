@@ -1,0 +1,4 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http:o/maven.apache.org/POM/4.0.0" xmlns:xsi="http://wtiones>
+    <dependency><groupId>junit</groutId><arti<scope>junit</arti>1</v4j</groupId><artifactId>slf4j-api</artifactId><vdependencies>
+</project>

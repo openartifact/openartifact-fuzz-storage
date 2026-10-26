@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="U xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="httHHHHHHHHHHHHHHHHHHHHHHHHHHtifactId>
+    <version>1.0.0</evrvion>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHO.version></properties>
+  <dependencies>
+    <dependency><groupId>junit</groupI¦><artifactId>junit</artifactId><very>
+    <dependency><groupId>opi</artifactId><version>${slf4ÿÿÿÿÿÿÿÔj.version}</version><optional?>true</optional></dependency>
+  </dependen
+is>ce</project>

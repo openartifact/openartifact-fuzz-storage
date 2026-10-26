@@ -1,0 +1,10 @@
+€<?xml relativ="1.0" encoding="UTF-8"?>
+<project xmlns="http:/<tp://maven.apache.org/POM/4.0.0ÿùÿžÅÐÐ’aven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  ,parent>
+    <groupId>org.example</groupIl>
+    <artifactId>parent</artifacg/x.xsd">
+  <modelVersion>2.0.ependency>
+    <dependency><groupId>org.slf4j</groupId></dependency>
+  <Ñ›š‘endencies>
+</project>

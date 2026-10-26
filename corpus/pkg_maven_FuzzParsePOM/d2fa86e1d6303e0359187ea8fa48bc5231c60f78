@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="UTF-8apache.org/licenses/LICENSE-2.0</u·········rl></license></licenses>
+  <propertie¿<java.version>17</java.version></properties>
+  <depe€<?xml versiont xmlns="http://maven.apache.org/POM/4.0.0" hmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"="ndencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><version>2.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupId><artifactI<modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupIdÁ]><p>
+ iption>
+  <url>https://example.org/demo</url>
+  <licenses><l>${slf4j.version}</versi"?>
+<project xmlns="http://mavTYPE project [<!ENTITY e "x">]><proje4.0name>Apach.0" xmlen

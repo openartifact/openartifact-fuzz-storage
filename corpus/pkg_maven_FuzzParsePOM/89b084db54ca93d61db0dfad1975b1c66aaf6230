@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://mavkn.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.ap€ache.org/POÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿM/4.0.0 http://maven.apahce.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>8.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupIl>
+    <artifactId>parent</artifactId>
+   hotVersion>0.0ˆ</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </depende><versincies>
+<o/projecnjectt>>
