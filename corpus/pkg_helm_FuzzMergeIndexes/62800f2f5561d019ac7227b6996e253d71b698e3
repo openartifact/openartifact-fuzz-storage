@@ -1,8 +1,0 @@
-€€apiVersion: v1
-entries:
-  a:
-  - {nam a, version: 1.0.0, ur  - {name:io]}
-apiVersion: v1
-entries:
-  b:
-  - {name: b, version: 1.0.0, urls: !b-1.0.0.tgz]}

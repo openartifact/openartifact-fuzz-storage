@@ -1,9 +1,0 @@
-€€apiVersiories:
-  .a:
-  - {name: a, vimport-values:1
-entries:
-  .0.tgz]}
-apiVersion: v1
-entries:
-  b:
-  - {name: b, version: +.0.0, urls: [b-2.0.0.tgz]}

@@ -1,9 +1,0 @@
-ersion: 0.9.0
-    ur%ls:
-    - oci://registry.example/app:0.9.0
-  gone:
- example/app-1.0.0.tgz
-  -mlgistry.example/app:0.9.0
-  gone:
-  - na0.0-rc.1, urls: [app-3..1, urls: [a:
-  - {name: other, version: 0.1.0, urls: [kther-0.1.0.tgz]}
