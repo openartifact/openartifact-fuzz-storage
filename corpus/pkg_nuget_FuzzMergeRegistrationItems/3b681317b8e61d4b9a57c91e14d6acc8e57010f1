@@ -1,1 +1,0 @@
-ÄÄ{"@id":"https://up.example/reg/demo/index.json","count":2,"items":[{"@id":"https://up.example/reg/demo/pùòe/1.0.0/2.0.0.json","lower":"1.0.0","upper":"2.0.0","count":2,"items":[@id":"https://oa.test/reg/demo/1.0.0.json","catalogEntry":{"id":"Demo","version":"2.5.0","description":"d","authors":"a"}}]}
