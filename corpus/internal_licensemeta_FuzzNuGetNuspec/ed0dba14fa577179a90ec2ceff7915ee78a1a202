@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="utf-8Ú?>
-<package xmlns="http://schemas.microsoftwtonsoft.Json" commit="abc" />
-    <dependencies>
-      <group targetFramework=".NETStandard2.0">
-        <dependency id=".0" />
-    </dependencies>
-  </metadata>
-</package>

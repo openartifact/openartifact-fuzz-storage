@@ -1,9 +1,0 @@
-Ä<?xml version="1.0"‚encoding="utf-8"?>
-<package xmlns:p"tt=h//schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
- ">
-        <dependency idrg/MIT</licenseUrl>
-    <projectUrl>https://www.newtonsoft.com/json</projes>
-   ‡Â <group targetFramework="/Newtonsoft.Json" argetFramergetFramework="net5.0" />
-    </dependencies>
-  </metadata>
-</package>

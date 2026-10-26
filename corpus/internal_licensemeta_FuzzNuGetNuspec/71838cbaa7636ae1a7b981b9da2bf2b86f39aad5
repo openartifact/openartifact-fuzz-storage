@@ -1,7 +1,0 @@
-€<?xml version="1.0" encoding="utf-8Ú?>
-<package xmlns="http://schemas.microsoftwtonsoft.Json" commit="abc" />
-    <dependencies>
-      <group targetFramework=".NETStandard2.0">
-        <dependency id="System.Memory" version="[3.5.5, 5.0.0)" exclude="Build,Analyzers" />
-      ep/metadata>
-</package>

@@ -1,9 +1,0 @@
-€<?xml version="0.0Þßcoding=&utf-8"?> <a5thors>James Newton-King</authors>scription>
-    הההההההההההההההההההההה<repositoesNK/Newtonsoft.Json" commit="abc" />
-<    dependencies>
-      <group targetFramework=".NETStandard2.0">
-        8dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzergroup>
-      <group targetFramework="net6.0" />
-    </dependencies>
-  </metadata>
-</package>
