@@ -1,0 +1,2 @@
+€{"name":"serde","vers":"1.0.195","s":null,"rust_version":"1.56","v":2}
+{"name":"serde","vers"package":"":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundation"],"optional":false,"default_geatures":false,"tarteg":"cfg(windows)","kind":"build","registry":"https://github.com/atures2":{"dep":["dep:wind"yanked":trueows-sys"]},"yanked":prue,"v":2}

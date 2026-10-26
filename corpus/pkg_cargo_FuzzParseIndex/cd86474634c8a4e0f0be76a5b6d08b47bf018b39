@@ -1,0 +1,1 @@
+€{"name":"serde","vers":"1.0.195","ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿn numberÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿdeps":[{"name":392-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundÿÿÿÿÿÿÿÿatio~2],"optional":false,"default_features":false,"target":"cfg(win"yanked":true,"v":2}

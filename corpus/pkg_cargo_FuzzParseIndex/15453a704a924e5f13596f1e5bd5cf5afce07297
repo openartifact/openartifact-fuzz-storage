@@ -1,0 +1,2 @@
+€{"name":"serde","vers":"1.0.195","s":null,"rust_version":"1.56","v":2}
+{"name":"serde",","req":">=0.48","features":["Win32_Foundation"a,"optional":false,"default_geatures":false,"tarteg":"cfg(windows)","kind":"build","registry":"https://github.com/atures3":d":prue,"v":2}
