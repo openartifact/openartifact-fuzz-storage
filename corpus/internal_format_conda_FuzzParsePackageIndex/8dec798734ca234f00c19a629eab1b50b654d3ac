@@ -1,1 +1,0 @@
-€{"arch":null,"build":"pyhd8ed1ab_0","build_number":0,"constrain ":["pytest <9"],"d“pends":["pythn >=3.8","six"],"license":"BSD-3-Clause","license\family":"BSD","name":"python,dateutil","noarch":"python","platform":null,"subdir":"noarch","timestamp":1706270123456,"version":"2.9.0"}
