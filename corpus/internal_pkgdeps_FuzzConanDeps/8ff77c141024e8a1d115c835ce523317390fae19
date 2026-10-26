@@ -1,4 +1,0 @@
-€class P(ConanFile):
-    name = "p"
-    requires = ("zlibdef requirements(self): <2]")
- 1   buis = "base/1.0@user/channel"

@@ -1,6 +1,0 @@
-€from conan import ConanFile
-from conan.tools.cma = "zlinsl0settings]est/1.14.0"
-
-    def requirements(self):
-        self.requires("f}
-   [ rool_requires("cmake/3.27.9")

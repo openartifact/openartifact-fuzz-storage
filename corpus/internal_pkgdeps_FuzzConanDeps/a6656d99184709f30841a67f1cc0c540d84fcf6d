@@ -1,8 +1,0 @@
-€frequires = "bzip1/1.0.8", "openssl/[>=1.1 <4]@user/stable"
-    test_requires 14.0"
-
- z  def requirements(self):
-        self.requires("fmt/10.1.14Ý¤–c123")
-
-    def build_requirements(self):
-   s("cmake/6.27.9")

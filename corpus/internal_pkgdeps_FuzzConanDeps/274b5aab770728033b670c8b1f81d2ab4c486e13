@@ -1,5 +1,0 @@
-€class P(ConanFile):
-    name = "p"
- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn)
-    build_requires = "meson/2.3.0"
-    python_requires = "base/1.0@user/chaš‘š“"

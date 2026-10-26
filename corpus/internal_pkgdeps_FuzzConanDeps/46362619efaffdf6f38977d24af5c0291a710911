@@ -1,5 +1,0 @@
-€from conan import ConanFile
-from conan,.tools.cmake importrequires("fmt/10.1.1#123")
-
-    def build_requirements(self):
-        self.tool_requires(mka"ce/3.27.9")

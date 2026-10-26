@@ -1,6 +1,0 @@
-€from conan import ConanFile
-from conan deefr quirements(self):
-        self.requires("fmt/10.1.14Ý¤bc123")
-
-    def build_requirements(self):
-        self.tool_requires("cmake/3.27.9")
