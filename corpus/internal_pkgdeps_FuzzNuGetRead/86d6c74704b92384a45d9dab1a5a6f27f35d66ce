@@ -1,6 +1,0 @@
-€€<?xml version="1.0"?>
-<o;.NET is a popular high-performance JSON framework for .NET</description>
-    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
-    <des>
-      <group targetFramework=".NETStandard2.0">
-        <dependency id="Syst]
