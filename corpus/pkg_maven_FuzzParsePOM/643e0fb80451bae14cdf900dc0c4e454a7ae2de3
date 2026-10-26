@@ -1,9 +1,0 @@
-€<!DOCTYPE project [<!ENTIT§ßšßİ‡İÁ]><project><-milestone-mp;h</groupId><artifactId>&e;</artifac<exclusions>tId><version>1</versiproject xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanc ex"si:schemaLocation="http://maven.apache.org/POM/4.0.0 http://manen.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <org.example</groupId>
-    <artifactId>parent</artifactId>
-    <version>1.0.0</version>
-    <relativePath/>
-  </parent>
-  <artifactId>demo</artifactId>
-  <version>1.2.3on></projec˜>

@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="htt<scope>p://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation="http://</modelVersion>
-  <parent>
-    <groupId>org.example</groupId>
-    versi•n>4.13.2/version><scope>te/tscso<pe></dependency>
-    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
-  </dependencies>
-</project>

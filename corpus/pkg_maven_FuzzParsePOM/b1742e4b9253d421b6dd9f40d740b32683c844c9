@@ -1,7 +1,0 @@
-€<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="htt<scope>p://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/2001/XMLSchema-instance" xsi:schemaLocation=a.version></properties>
-  <dependencies>
-    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><versi•n>4.13.2/version><scope>test</scope></dependency>
-    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
-  </dependencies>
-</project>

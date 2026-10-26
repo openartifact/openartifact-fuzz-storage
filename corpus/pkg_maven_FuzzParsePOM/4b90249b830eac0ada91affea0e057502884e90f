@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="UTþF-8apache.org/licenses/LICENSE-3.0</u·········rl></license></licenses>
-  <propertie¿<java.version>17</java.venit</artifactId><version>2.13.2</version><s€ï»¿<projtifactId>sion></crßojec>  <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
-  </dependencies>
-</pen.apache.orgupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</versi"`?>
-<project xmlns="http://mavname>Apache-2.0<a</name><url>https://www.apache.org/licenses/LICENSE-2rtifactI.0</u·········rl></license></licenses>
-  <propertie¿<ja7</java.version></properties>
-  <dependencies>
-    <ddjependeîcy><groupId>junit</groupIdect><artifactId>juni>t</artifactId><version>1.13.2</version><scope>test</scope></dep

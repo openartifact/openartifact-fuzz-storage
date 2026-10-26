@@ -1,9 +1,0 @@
-€<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w2.org/4002/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parent>
-    <on>
- nit</groupId><ártifactId>junit</artifactId><version>4.13.2</version><scope>test</scope></dependency>
-    <dependency><grovePath/>gre</optional></dependency>
-  </dependencies>
-</project>

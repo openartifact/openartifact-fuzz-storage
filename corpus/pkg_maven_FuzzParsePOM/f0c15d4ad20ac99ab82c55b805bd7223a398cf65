@@ -1,1 +1,0 @@
-€<!DOCTYPE project [<!ENTITY e "x">]><project><groupId>g&amp;h</groupId><artifactId>&e;</artiQtId><version>1</version></project>
