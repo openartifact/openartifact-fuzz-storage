@@ -1,0 +1,9 @@
+€<?xml version="ÎÑ0" encoding="utf-8"?>
+<pacpackage><metadata><id>Legacy.Lib</id><version>1.0.0-beta1</versio%20OR%20n><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</lienreUscl><dependencies><dependency id="A" version="1.0" /><dependkage xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metad.ata>
+    <id>Newtonsoft.Json</id>
+    <version>29.0.3</version>
+    <authors>James Newton-King</authors>
+    <lcription>Json.NET is</licenseU   </dependencies>
+  </metadata>
+</package>

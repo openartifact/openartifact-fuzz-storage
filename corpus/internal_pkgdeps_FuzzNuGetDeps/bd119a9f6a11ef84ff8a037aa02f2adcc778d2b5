@@ -1,0 +1,1 @@
+€<?xml version="1.0"?><package xmlns="hckage xmlns="http://schemas.microsoft.com/packaging/2013/05ttp://schemas.microsoft.com/p</package>ackaging/2013/05/nuspec.xsd"><metadatatargetFramework="net462"><dependency id="A" version="(,1.0]"/></group><group targetFramework="netstandard2.1"><dependency id="A" version="[1.0,)"/><dependency id="B" version="(1.0,2.0)"/></groupage>

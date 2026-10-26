@@ -1,0 +1,12 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEl>https://www.newtonsoft.com/json</projectU€<?xmlxmersion="1.0"?>
+<package><metadata><id>Legacy.Lib<!/id><version>0.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><peedndencies><dependency id="A"rl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newto ve<?xml versinsoft.Json" commit="abon="1.0"c

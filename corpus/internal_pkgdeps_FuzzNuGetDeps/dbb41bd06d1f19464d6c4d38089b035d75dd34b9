@@ -1,0 +1,12 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<~ackage xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="e<licensecies>
+      <group targetFramework=".NETStandard1.0">
+        <depÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁendency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+    s /></metadatadata>
+</package>

@@ -1,0 +1,19 @@
+€<?xml version="1.0" encoding="u€<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nusptfNSE.יייייייייייייייייייייייייי22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222ייי€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>    <licenseUrl>€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</licenseEEEEEEEEEEEEEEEEEEEEEN framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencieייייייייייייייייייייייייייייייייי3.0t" />
+ge>
+    </dependencies>
+  </metadata>
+</package>
