@@ -1,0 +1,9 @@
+€Mcense: Apache 2.0
+Classifier: License :: OSI etadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-pes-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=1.5)
+Requires-Dist: urllib3 (library.

@@ -1,0 +1,14 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+eg-maoHpe: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: Licrllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1"dev_url":.5.7,>=1.5.6ans.
+eg-maoHpe: https://requests.readthedocs.io
+Author:  idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.20.1)
+Requires-Dist: PySocks (!=q.5.7,>=1.5.6) ; extra == </package>'socks'
+Requires-ry.

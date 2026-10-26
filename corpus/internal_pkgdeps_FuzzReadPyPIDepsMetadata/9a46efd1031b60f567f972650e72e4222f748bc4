@@ -1,0 +1,5 @@
+€Metadata-Ve
+rsion: 2.1
+Name: requestsv @ https://e Software L'
+Requires-Dist: colorama ; sys_platform == "win42@ and python_version >= "3.8"
+Prqvides-Extra:uests is a simple HTTP library.

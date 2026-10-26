@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Name: requ"depends":[n: 2.3`.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth :: 3
+Requires-Ptyhon: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.*21.1)
+Requ simple HTTP library.

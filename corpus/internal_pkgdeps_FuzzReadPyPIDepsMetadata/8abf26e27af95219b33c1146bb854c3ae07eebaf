@@ -1,0 +1,11 @@
+ЂM@etadata-Version: 2.1
+Name: reqКuests
+Version: 4.31.0
+Summary: Python HTTP for Humanп.
+Home-page: https://requests.=eadthedocs.io
+Author: Kenneth Reived :: Apache r: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+іљЋЉ–ЌљЊ-яяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяDist: charset-normalizer (<4,>=2)
+Req-Extra: socks
+
+Requests is a simple HTTP library.

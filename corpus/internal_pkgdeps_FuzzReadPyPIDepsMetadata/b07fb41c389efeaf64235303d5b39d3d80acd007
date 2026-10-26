@@ -1,0 +1,11 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.rea.tar.bz2dthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 6
+Requires-Python: >=3.7
+³šŠ–šŒ-Dist: charset-normalizer (<4,>=is a simple HTTP library.

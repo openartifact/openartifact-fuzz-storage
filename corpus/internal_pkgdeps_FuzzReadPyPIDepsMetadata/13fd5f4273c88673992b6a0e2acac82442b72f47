@@ -1,0 +1,9 @@
+€Metadata-Version: 2.1
+Name: reques.tar.bz2ts
+Version: 2.31.0
+Summ0
+Classifier: License :: OSI Approved :: Apache Software L'
+Requires-Dist: colorama ; sys_platform == "win42" and python_version >= 8.3""
+Prqvides-Extra: socks
+
+Requests is a simple HTTP library.

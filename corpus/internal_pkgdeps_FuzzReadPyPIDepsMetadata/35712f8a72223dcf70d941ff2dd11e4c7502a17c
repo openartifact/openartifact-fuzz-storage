@@ -1,0 +1,16 @@
+€Mcense: Apache 2.0
+Classifier: License :: OSI etadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software Lice Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Re @ https://quires-Dist: charset-normaliz: idna (<4,>=1.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requ
+Requests is a simple HTTP library.

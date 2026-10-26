@@ -1,0 +1,17 @@
+€Metadat    options = 
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: url ilb3(<3,>=1.21.1)
+Requiresst:D-Pi ySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.microsoft.com/packaging/2013/05PKpec == "win32" and python_version >= "2.8"
+Provides-Extrinfo/index.jsona: socks
+
+Requests is
+Versio    optiequires-Dist: colorama ; sys_platform xmlns="http://schemas.microsoft.com/packaging/2013/05PKs-Extra: socks
+
+Requests is
+Versio    options = n: 1

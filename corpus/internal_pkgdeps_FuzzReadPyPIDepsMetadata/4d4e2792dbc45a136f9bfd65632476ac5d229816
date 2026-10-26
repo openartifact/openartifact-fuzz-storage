@@ -1,0 +1,14 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Au)hor: Kenneth Rta-pache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charequires-Dist: coloon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normion >=*"3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.
