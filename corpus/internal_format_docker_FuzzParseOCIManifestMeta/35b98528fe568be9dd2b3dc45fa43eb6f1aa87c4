@@ -1,0 +1,1 @@
+€{"schemaVersion":2,"mediaType":"application/vnd.oci.image.manifest.v1+json","config":{"mediaType":"application/vnd.oci.image.config.v1+json","digest":"sha256:07cbf493eaff8c6596eb871cbd9609","size":32654},{"mediaType":"applicatioub.com/example/app","org.opencontainers.image.licenses":"Apache-2.0"}}
