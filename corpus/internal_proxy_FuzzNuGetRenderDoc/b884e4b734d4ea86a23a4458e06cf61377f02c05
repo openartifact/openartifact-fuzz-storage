@@ -1,1 +1,0 @@
-€€{"resources":[{"@id":"httls://nuget.example/owner","@type":"RegistrationsBaseUrl"},{"@id":"https://nuget.example/owner/download","@type":"PackageBaseAddress/3.0.0"}nuget.example/owner/lib/index.json","items":[{"@id":"https://nugenuget.example/owner/download/lib/0.0.0/lib.1.0.0.nupkg","registration":"https:tps://nuget.example/owner","@type":""}]}
