@@ -1,1 +1,0 @@
-€{&version":"3.0.0","resources":[{"@id":"https://api.nuget.org/v3-flatcontainer/","@type":"PackageBaseAddress/3.0.0","comment":"Base URL of where NuGet xmlnspackages are stored"},{"@id":"https://api.nuget.org/v3/Version":"4.3.0-alpha"},{"@id":?https://aervices#","comment":"bject namehttp://www.w3.org/2000/01/rdf-schema#comment"}}
