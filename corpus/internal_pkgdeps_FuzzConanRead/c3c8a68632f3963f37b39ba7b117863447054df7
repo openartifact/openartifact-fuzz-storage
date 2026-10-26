@@ -1,0 +1,6 @@
+€€€[settings]
+    arch=x86_64
+µ   build_type=Release
+   cmake_layout
+
+class Zli€€€from conan import ConanbFile

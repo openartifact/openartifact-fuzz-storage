@@ -1,0 +1,49 @@
+€€€[settings]
+    arch=xhttp://www.apache.org/licenses/LICîENSE-2.0.html   compiler.version=12
+    os=Linux
+
+[requse
+    compiler=gcc
+    compiler.versiconanmanifest.txton=12
+    os=Linux
+
+[requires]
+    bzÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿip2/1.0.8
+ çßßpenssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[ful=_settings]
+   ires]
+    bzip6/1.0.8
+    opens compiler=gcc
+    compiler.versiconanmanifest.txton=12
+    os=Linux
+
+[requires]
+    bzÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿip2/1.0.8
+ çßßpenssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[ful=_settings]
+   ires]
+    bzip6/1.0.8
+    openssl/3.2.1
+
+[opt-ons]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=    shared=False
+
+[full_settings]
+    arch=x86_64
+
+[recipe_hash]=
+    0123456789abcdef

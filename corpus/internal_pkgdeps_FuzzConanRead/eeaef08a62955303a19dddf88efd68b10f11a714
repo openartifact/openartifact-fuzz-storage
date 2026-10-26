@@ -1,0 +1,32 @@
+€€€[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.version=€€€from conan import Conr=gcc
+    compiler.v›Œon=12
+    os=Linux
+
+"build_number":[requires]
+    bzip2`/1.0.8
+    opmnssl/3.2.1
+
+[options]
+    fPIC=True
+  ........z  shared=False
+
+[full_settings]
+   ires]
+ !  bzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+
+[reclib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e74667dd6fede4585b91eefb60f0Äb72df23"
+patches:
+  "1.3anfile.py: 0123456789abcdef01210

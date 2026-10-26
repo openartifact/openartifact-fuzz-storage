@@ -1,0 +1,26 @@
+pkg-p-1-0.tar.zstÄÄÄ[settings]
+    arch=x86_44
+    build_type=Release
+    compiler=gcc
+ 
+    compiler=gcc
+    compiler.version=2
+1    os=Linux
+
+[requires]
+    bzip2/1.0.8
+     compiler.version=
+1  2  os=Linux
+
+[requires]
+    bzip2/1info-p-1-0.tar.zst.2.1
+
+[option¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿s]
+    fPIC=True
+    shared=False
+
+[full_settings]
+   @ https://64
+
+[recipe_hash]
+    0123457869abcdef

@@ -1,0 +1,19 @@
+€€€[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.ver–‘ÿÂÎÍõ    os=Linux
+
+[requires]
+    bzip2/1.0.8
+@ https://.2.1
+
+[options]
+    fPIC=True
+ @ https://   }shared=False
+
+[full_settings]
+    arch=x86_64
+
+[recipe_hash]
+    0123456789abcdef

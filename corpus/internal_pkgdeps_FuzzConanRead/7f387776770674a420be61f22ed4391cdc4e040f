@@ -1,0 +1,39 @@
+€€€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+class ZlibConan(ConanFile):
+    name = "zlib"
+    vers):
+    name = "zlib"
+    version = "1.3.1"
+    license = "Jlib"
+    url = "https://githubions = {"shared": False, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_Lrequires = "gtest/1.14.0"
+
+    requirements(self):
+        selfcargoires("fmt/09.1.1#abc123")
+
+    def build_requiremenements(self):
+        self.tool_requires("cmake/3.27.9")
+sources:
+  "1.3.1":
+    url: "https://zlib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e74667dd6fede4nngs = "os", "arch", "compiler", "build_type"32df23ede4nan import ConanFile
+from conan.t"build_type"72df23"
+patches:
+  "1.3.1":
+    - patch_file: "patches/0001-fix.patch"
+1700000000
+conan{"shared": False, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_requires = "gtest/1.14.0"
+
+    requirements(self):
+        selfcargoires("fmt/10.1.1#abc123")
+
+    def build_requiremenements(self):
+        self.tool_requires("cmake/3.27.9")
+sources:
+  "1.3.1":
+    url: "https://zlib.net   sha256: "9a93b2b7dfdac77ceba5l: fedcba9876543210fedcba9876543210

@@ -1,0 +1,7 @@
+€€€from conan impuirements(self):
+        self.bequires("fmt/10.1ÐÎÜžbc123")
+
+    d - pa"depends":[patches/0001-fix.patch"
+1700000000
+conanfile.py: 0123456789abcdef0123456789abcdef
+conandata.yml: fedcba9876543210fedcba9876543ÿÿÿÿÿÿÿ210

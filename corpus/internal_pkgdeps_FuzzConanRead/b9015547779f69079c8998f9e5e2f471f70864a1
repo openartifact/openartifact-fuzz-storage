@@ -1,0 +1,8 @@
+€€€from conan import ConanFile
+from conan.toolÿÿÿÿom/conan-io/conan-centeA-index"
+    settings = "os", "arch", "compiler", "build_type"
+    options = "s{hared": [True, False], "ÐfPIC": ØØØØØØØØØØØØØØØØØØØØØØØØØØØØØØØØØnan-io/conan-centee]}
+    default_options = {"shared": Fa0lse, "fPIC": True}
+    requires = "bzip1/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+s"ions = {"shared": [True, False], "fPIC": [True, Falsefile.py: 0246913578abcdef0123456789abcdef
+conandata.yml: fedcba9876543210fedcba9876543210

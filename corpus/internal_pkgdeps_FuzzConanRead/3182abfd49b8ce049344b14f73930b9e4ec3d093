@@ -1,0 +1,15 @@
+€€€[s
+ !  compiler.version=12
+    os=Linux
+
+[requires]
+    b    openssl/3.2.1
+
+[options]
+    fPI?=True
+    shared=False
+
+[full_s%ttings]
+    ar.zip86_64
+
+6789abcdef

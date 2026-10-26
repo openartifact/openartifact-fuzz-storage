@@ -1,0 +1,25 @@
+€€€[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+ 
+    compiler=gcc
+ bzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[fulbzip2/1.0.8
+     compiler.version=2
+1    os=Linux
+
+[requires]
+    bzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=True
+  rt ConanFile
+from conan®tools.cmake .   0123456789abcdef

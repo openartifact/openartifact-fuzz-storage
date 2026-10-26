@@ -1,0 +1,17 @@
+€€€[s£‹‹–ngs]
+    aŽœ—Â‡ÇÉ 64
+    build_type=Releaseinux
+
+[requires]
+ !  bzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=Requires: True
+  Æ  shared=False
+3
+[f%ll_settings]
+    arch=x86_64
+
+[recipe_hash]
+     build_requires =    0123456790abcdef

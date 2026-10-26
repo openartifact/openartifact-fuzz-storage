@@ -1,0 +1,21 @@
+€€€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+class ZlibConan(Cone = "Zlib"
+    url = "https://github.com/conan-io/conan-center-index"
+    settings = "os", "arch", "compiler", "build_type"
+    options = {"shared": [True, False],e/2.27.9")
+sourc€€€[settings]
+    arch=x86_   fPIC.1":
+ Ç   url: "http$s://zlib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e746&7dd6fede4585b9f03b72df23"
+patches:
+  "1.3.1":
+    - patch_file: "°patches/0001-fix.patch"
+1700000000
+conanfile.py: 0123456789abcdef01234ËÉÈÇ9abcdef
+conandata.yml:64
+
+[recipe_ hasfedcba9876h]
+    012354320f4edcba987654321056789abcdef
+

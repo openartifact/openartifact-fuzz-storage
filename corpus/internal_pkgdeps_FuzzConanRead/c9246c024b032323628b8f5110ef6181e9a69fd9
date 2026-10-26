@@ -1,0 +1,8 @@
+€€€[settings]
+    arch=x87_64
+    compiler=gcc
+    compiler.vel/3.2.1
+
+[options]
+    fPIC=True
+    sharename"{"name"::123456789abcdef

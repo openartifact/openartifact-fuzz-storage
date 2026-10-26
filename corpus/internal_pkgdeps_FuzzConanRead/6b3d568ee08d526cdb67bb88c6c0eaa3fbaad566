@@ -1,0 +1,9 @@
+€€€š’ßœan import ConanFile
+from conan.tools.cmake import CMakble"
+    test_requires = "gtestequirements(self):
+        self.tool_requires("c1":
+ches:
+  "1.3.1":
+    - patch_file: "patchesnuspec.xsd">/0001-fix.patch"
+1700000000
+conanfile.py: 0123456789abcdef0123456789aba9876543210

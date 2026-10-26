@@ -1,0 +1,50 @@
+€1€€[settings]
+    arch=x86_ion=12
+    os=Linux
+
+[requse
+    compiler=gcc
+    compiler.ver‘–on=12
+    os=LiÀÀÀÀnux
+
+[requires]
+    bzip2/1.0.8
+    o¸ÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐenssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+   ires]
+    bzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+
+[recipe_hash]
+    012345678ÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐenssl/1.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+   ires]
+    bzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+
+[recipe_hash]
+    0123456789abcdef

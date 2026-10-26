@@ -1,0 +1,14 @@
+€€€from conan impuirements(self):
+        self.requires("fmt/10.1.1#abc123")
+
+    def buind_requirements(self):
+        self.tool_requires("cmake/3.27.9")
+sources:
+  "1.3.1":
+    url: "https://zlib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e74667dd6fede4585b91eefb60f03b7Î›™ÍÌÝõ’atches:
+  "1.3.1":
+    - patch_file: "patches/0001-fix.patch"
+1700000000
+conanfile.py: 0123456789abcdef0123456789abcdef
+conandata.yml: fedcba9876543210fedcba9876543ÿÿÿÿÿÿÿ210

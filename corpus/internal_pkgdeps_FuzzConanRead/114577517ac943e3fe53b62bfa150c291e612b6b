@@ -1,0 +1,26 @@
+€€€[s= "os", "arch", "compi256: "4a93b2b7dfdac77ceb5aa558a290e74667dd6fede4585bx.ult_options = {"shared": False, "fPIC": True}
+    requi<package>res = "bzip2/1.0.8", "openssl6666666gtest/[>=1.1 <4]@user/stable"
+    test_requires = "gtest/1.14.0"
+
+    def requirements(self):
+        self.requires("fmt/    self.requires("fmt/10"arch":.€€€from conan import ConLicense :: OSI Approved :: anFile
+from conan.tool€€€[s= "os", "arch", "compi256: "4a93b2b7dfdac77ceb5aa558a290e74667dd6fede4585b91eefb60f03b72df23"
+patches:
+  "1.3.1":
+    - patch_file: "patches/0001-fix.ult_options = {"shared": False, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl666666666666/[>=1.1 <4]@user/stable"
+    test_requires = "gtest/1.14.0"
+
+    def requirements(self):
+        self.requires("fmt/10.€€€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+class Zlib1.1#abc123")
+
+    s.cmake import CMake, cmake_layout
+
+class Zlib1.1#abc123")
+
+    def build_requirements(self):
+        self.tool_requires(1eefb60"1.3.1":
+    - patch_file: "patches/0001-fiires(def b"fmt/    self.requires("fmt/10"arch":.€€€from conan 
