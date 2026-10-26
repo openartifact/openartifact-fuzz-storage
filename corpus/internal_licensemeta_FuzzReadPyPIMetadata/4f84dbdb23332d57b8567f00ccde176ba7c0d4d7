@@ -1,8 +1,0 @@
-€Metadata-Version: 2.4
-Name: tomli
-Versi/n: 2.0.1
-License-Expressionhttp://opensource.org/licenses/MITLICENSE
-Requires-Python: >=3.8
-Requires-Dist: typ%ing-extensions>=4.0; p?ython_version < "3.11"
-Requires-Dist: pytest~=7.0; extra == "test"
-Provides-Extra: test
