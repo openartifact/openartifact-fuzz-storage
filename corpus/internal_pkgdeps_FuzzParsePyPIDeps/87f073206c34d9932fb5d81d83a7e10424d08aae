@@ -1,0 +1,8 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; pyÿt: x+ ~= 1n <àÝÌÑÎÎÝôRequires-Dist’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’: pytest~=6.0; extra == "test"
+Provides-Extra: test

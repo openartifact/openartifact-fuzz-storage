@@ -1,0 +1,11 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression" and extra != "dev"
+Requires-Dist: Flask_Login>=0.6
+Req:OR Language :: Python :: €Metadata-Versio0.tar.gz
+Requires-Dist: other[secur:: Python :: 3
+Requires-Python: >3
+Requires-Python: >=3.7
+Requires-Dist=3.7
+Req.eggs-Dist: charset: charset-n

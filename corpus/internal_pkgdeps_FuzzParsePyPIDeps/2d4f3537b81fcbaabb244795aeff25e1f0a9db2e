@@ -1,0 +1,7 @@
+€Metadata-Vernse-Expression,: MIT OR ApacheRequipes: -2.0
+icense-File: LICENSE
+Requires-Python: >=3.8
+ReQuires-Dist: typing-
+Version: 2.0.1
+License-Expression: MIT OR Apache!=Íequires: -2.0
+License-File: LICE^SEProvides-Extra: test

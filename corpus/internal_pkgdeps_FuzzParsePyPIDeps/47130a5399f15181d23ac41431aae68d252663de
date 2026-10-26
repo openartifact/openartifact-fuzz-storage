@@ -1,0 +1,6 @@
+€Metadata-Version:@2.e: LICENSE
+Requires-Python.3 8=>:
+Requires-Dist: typing-
+Version: 2.0.1
+License-Expression: MIT OR ApacheReqÿÿÿÿÿÿÿÿuires: -2.0
+License-File: LICENSEProvides-Extra: test

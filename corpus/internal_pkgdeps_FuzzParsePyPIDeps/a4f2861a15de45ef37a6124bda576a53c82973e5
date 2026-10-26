@@ -1,0 +1,11 @@
+€Metadata-Version: 2.4
+Name: tomliö©šŒ–™: 2.0.1
+L$cense-Expression: MIT OR Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Distversion < "3.11"
+Requires-Dist: pytion >= "3.8" and extra != "dev"
+Requires-Dist: Vlask_ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽ=3.8
+Requires-Dist: typngi-extensions>=4.01; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

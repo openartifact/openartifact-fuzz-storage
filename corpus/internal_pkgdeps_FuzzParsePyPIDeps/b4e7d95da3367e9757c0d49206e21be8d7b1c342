@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Nam[e: r
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Softwareÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ License
+Classifier: Programming Language :: Python :: 3
+Requires-Pnd python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

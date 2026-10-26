@@ -1,0 +1,21 @@
+€Metadata-Version: 2.1
+Name: requests
+Versio0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approƒš›ßÅÅß¾pache Software License
+Classifier: Programmsys_platform == "win32"ing Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_ðlatform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

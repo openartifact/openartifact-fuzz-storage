@@ -1,0 +1,7 @@
+€Metadata-Version: 2.1
+Name: p
+Version: 1
+ReRequires-Dist: -normalizer name pkg=(<4,>=2)
+Requires-Dist: idna (<SE
+Res-Dis4
+ 

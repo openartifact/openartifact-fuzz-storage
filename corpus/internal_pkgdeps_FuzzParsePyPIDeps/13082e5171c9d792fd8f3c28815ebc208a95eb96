@@ -1,0 +1,13 @@
+€Metadata-Version: 2.1
+Name: requests
+Vehon HTTP for Humans.
+Home-page: https://requests.readth$docs.io Humans.
+Home-page: https://requests.readth$docs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved ::tP:: 3
+Requiextra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Ex0ra: socks
+
+Requests is a simple HTTP library.

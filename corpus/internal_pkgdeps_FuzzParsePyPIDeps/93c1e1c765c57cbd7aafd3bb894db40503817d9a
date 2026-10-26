@@ -1,0 +1,54 @@
+ÄMetadata-Version: 2.4
+Name: tomli
+)ersion: 2.0.1
+License-Exalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Apache-2.0
+Lic1"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Pr0
+License-File: LICENSE
+Requires-Pythoset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Apache-2.0
+Lic1"
+Require?s-DisÄMetadata-Versi-Version: 2.4
+Name: tomli
+)ersion: 2.0.1
+License-Exalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Apache-2.0
+Lic1"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Pr0
+License-File: LICENSE
+Requires-Pythoset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Apache-2.0
+Lic1"
+Require?s-DisÄMetadata-Version: 2.1
+Naee:ê mquests
+Version: 2.31.0
+Summary: Python HTTP for Hum===.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Softwaret: pyt
+ t~=7.0; extra == "test"
+Provides-Exto License
+Classifier: Programming Language :: Py-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5on: 2.1
+Naee:ê mquests
+Version: 2.31.0
+Summary: Python HTTP for Hum===.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Softwaret: pyt
+ t~=7.0; extra == "test"
+Provides-Exto License
+Classifier: Programming Language :: Py-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-vides-ExtraDist: urllib3 (<3: ,

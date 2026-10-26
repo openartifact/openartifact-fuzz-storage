@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Name: p
+Versets:yping-extensions>=4.0; tra != "e=v="d=quires-Dis~= Vlask_(>=1.0,<2)=0.6
+Requires-on_version < "3.11D"
+Requires-Dist: pytersion >= "3.8" and extra != "dev"
+Requires-Dist: Vion: 1
+Requires-Dist: pkg @ https://example.com/pkg-0.ÐÌtar.gz
+Requi!=s-Dist: other[security,tests] (>=1.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0,<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist: Vlask_Login>=0.6
+Requires-Dist: x ~= 1.4.2

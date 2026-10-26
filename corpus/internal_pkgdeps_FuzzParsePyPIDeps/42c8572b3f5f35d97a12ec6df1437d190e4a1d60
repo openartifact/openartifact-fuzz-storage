@@ -1,0 +1,9 @@
+€Metadata-Version:@2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR ApacheRequires: -2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires: 2.0Requires: .1
+License-Expression: MIT OR ApacheRequires: -2.0
+License-File: LICENSEProvides-Extra: test

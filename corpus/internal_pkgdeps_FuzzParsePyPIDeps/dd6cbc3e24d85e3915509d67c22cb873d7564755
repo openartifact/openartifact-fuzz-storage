@@ -1,0 +1,13 @@
+€Metadata-Version: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https://example.com/pkg-1.0.tar.gz
+Requires-Dist: other[security,tests] (>>=3.8<2) ; python_version >= "3.8" and extsion: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https://example.com/pkg-1.0.tar.gz
+Requires-Dist: other[security,tests] (>>=3.8<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist:>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Flask_Login>=0.6
+Requires-Dist: x ~= ra != "dev"
+Requires-Dist:>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Flask_Login>=0.6
+Requires-Dist: x ~= 1.4.2

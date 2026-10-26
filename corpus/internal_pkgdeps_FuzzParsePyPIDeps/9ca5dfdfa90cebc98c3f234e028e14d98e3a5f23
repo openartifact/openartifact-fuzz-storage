@@ -1,0 +1,21 @@
+€Metadata-Version:@2.4
+Name: tomli
+Version: 2cense-File: LICENSE
+R€Metadata-Version: 2.1
+Name: requests
+Version: 1.31.0
+Sumequires-Python: >=3.8
+Requires: 2.0Requires: .1
+Limary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apcense-Expression: MIT ache 2.0
+Classifier: License :: OSI Approved :: Apache Softwa*e License
+Classifier: ProgramminOR ApacheRequires: -2.0
+Licenseg Language :: Python :: 3
+Requiextra == 'socks'
+Requires-Di-Filst: colorama ; sys_plaetform == "win3: LICENSEProvides-Extr2" and pyta: thon_version >= "3.8"
+Provides-Ex0ra: socks
+
+Requests is a simple HTTP libraryest.
+

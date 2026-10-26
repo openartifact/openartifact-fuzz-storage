@@ -1,0 +1,7 @@
+€Metadata-Version: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkgà¿ß’ttps://eample.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=0.0,<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist: Vlask_ÿLogin>=0.6
+Requires-Dist: x ~= 1.4.2

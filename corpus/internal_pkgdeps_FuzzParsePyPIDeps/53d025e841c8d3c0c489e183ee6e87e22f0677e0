@@ -1,0 +1,7 @@
+€Metadata-Vers p
+Version: 1
+Requires-Dist: pkg @ https://example.com/pkg-0.ÐÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist: Vlask_ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽiŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽLo
+n>=0.6Provides-Extra: 
+Requires-Dist: x ~= 1.4.2

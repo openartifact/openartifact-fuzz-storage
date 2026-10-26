@@ -1,0 +1,18 @@
+€Metadata-Version: 2.4
+Name: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0; python_version < tadata-Version: 2.4
+Name: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pyt
+ t~=7.0; e""3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Provides-Extra: test

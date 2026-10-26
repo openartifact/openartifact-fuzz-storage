@@ -1,0 +1,5 @@
+€Metadata-Vrset-normalizer (<4,6=2)
+Requires-Dist: idna (<4,>=2.5)
+Apache-2.0
+Licnsee-Fiersionÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ.tar.bz2ÿÿÿÿÿÿÿÿÿÿ < "37.0; extra == "test"
+Provides-Extra: test

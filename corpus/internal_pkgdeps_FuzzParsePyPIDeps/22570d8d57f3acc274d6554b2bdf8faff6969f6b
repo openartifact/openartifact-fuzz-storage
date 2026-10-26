@@ -1,0 +1,6 @@
+€.tar.gz
+R>://example.com/pkg-xtra != "dev"
+Requires-Dist: Flask_Login.egg2Î
+RequirKG-INFOes-Dipkg-xtra != "dev"
+Requires-Dist: Flask_Login.egg2Î
+Requires-Dist: x ~= 1.4.2

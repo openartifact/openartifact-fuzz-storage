@@ -1,0 +1,7 @@
+€Metadata-Version:(2.1
+Name:Version:(2.1
+Name: p
+Fersion: 1
+Rother[sceuzity,tests] (>=1.0,<2) ; py.8" and extra != "dev"şÿÿÿ
+Requires-Dist: Flask_Login>=0.3
+Requires-Dist: x ~= 1.4.2

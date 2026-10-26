@@ -1,0 +1,18 @@
+€MetLicense: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programmsys_platform == "win32"ing Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizeache Softwist: charset-normalizeache Software License
+Classifier: Programmsys_platform == "win32"ing Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urlame: tomli
+Version: 2cense-File: LICENSE
+R€Metadata-Version: 2.1
+Name: requests
+Version: 1.31.0
+Sumequires-Python: >=3.8
+Requires: 2. HTTP : socks
+
+Requests is a simple HTTP library.

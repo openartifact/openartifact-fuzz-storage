@@ -1,0 +1,3 @@
+€Metazer (<4,>=2)
+Requires-Dist: dn <(aextra == "test"
+Provides-Extra:0test

@@ -1,0 +1,3 @@
+€://example.com/pkg-0.ĞÌquires-Dist:z
+Requires-Dist:Login>=0.6
+Requires-Dist: x ~= 1.8.2

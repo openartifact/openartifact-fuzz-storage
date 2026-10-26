@@ -1,0 +1,12 @@
+€Metadata-Version: 2.4
+Name: tomli
+ython: >=3.8
+Requires-Dist:htyêing-extensions>=4.0; pythonÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ_version < tadata-Version: 2.4
+Name: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Expression:ns>=4.0; python_version < "3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test""3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Provides-Extra: test

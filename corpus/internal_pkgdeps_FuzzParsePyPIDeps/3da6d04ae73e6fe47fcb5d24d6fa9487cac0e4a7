@@ -1,0 +1,9 @@
+€Metadata-[ersion: 2.1
+Name: p
+Vers.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extr€Metadata-Version: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎˆLogin>=0.ê
+Requiresst: other[securit},tests] (>=2.0,<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist: Flask_Login>=0.6
+Requires-Dist:-Dist: x ~=  x ~1.= 4.21.
+4.2

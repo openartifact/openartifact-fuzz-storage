@@ -1,0 +1,7 @@
+€Metadaes-Dist: charse"3.11"
+Requires-Dist: pytest~=7.0; extra == 2.0.1
+License-Expression: MIT OR Language :: Python :: 1
+Requires-Python: >=3.7
+Requires-Dist: charse"3.11"
+Reqwires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

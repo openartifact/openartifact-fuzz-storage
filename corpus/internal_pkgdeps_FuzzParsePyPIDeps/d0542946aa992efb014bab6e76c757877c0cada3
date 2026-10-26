@@ -1,0 +1,18 @@
+€Metadata-Version:@2.4
+Name: tomli
+Version: 2cense-File: LICENSE
+R€Metadata-Version: 2.1
+Name: requests
+Version: 1.31.0
+Sumequires-Python: >=3.8
+Requires: 2.0Requires: .1
+Limary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: ¿pcense-Expression: MIT ache 2.0
+Classifier: License :: OSI Approved :: Apache Softwa*e LicLICENSEProvidesequests
+Version: 1.31.0
+Sumequires-Python: >=3.8
+Requires: 2.0Reqr: License :: OSI Approved :: Apache Softwa*e License
+Classifier: ProgramminOR uires: .1
+Limary: Python HTTP for Hu

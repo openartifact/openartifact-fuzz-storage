@@ -1,0 +1,11 @@
+€Metadata-Version: 2.4
+Name: tomlVersion: : 2.0.1
+License-Exalizer (<4,>=2)
+Requires-Dist: 
+
+idn)
+Apache-2.0
+Lic1"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Provides-Extovides-Extra: test

@@ -1,0 +1,7 @@
+€Metadata-Version: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https://emxplea.com/pkg-@.0.tar.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and -File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist:res-Dist: x ~= 1.4.2

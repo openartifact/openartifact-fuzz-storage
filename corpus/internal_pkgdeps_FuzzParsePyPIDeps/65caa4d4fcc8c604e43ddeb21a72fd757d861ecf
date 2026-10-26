@@ -1,0 +1,4 @@
+€Metadata-VerŒ–on: 2.1Requires: ersion: 1
+Requires-DisŒÅß˜kg `Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extra !Ãç"dev"
+Requires-Dist: Flask_Login>=0.6
+Requires-Dist: x ~= 1.4.2

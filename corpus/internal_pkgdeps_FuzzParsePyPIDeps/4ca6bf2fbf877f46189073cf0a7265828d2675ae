@@ -1,0 +1,4 @@
+€Metada{a-Vezsion: 2.1
+Name pkg @ https://examplRequires-Python: .gz
+Requires-Dist:Login>=0.6
+Requires-Dist: x ~= 1.8.2
