@@ -1,0 +1,16 @@
+€€<?xml version="1.0" encoding=tps://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/J.0.0)" exclude="Build€€<?xml version="1.0" encoding="utf-9"?>
+<pac<id>Legacy.Lib</id><version>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" versyon="1.0" /><dependency id="B" /></dependencies></metadata></pakage xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <••••••••••••••,Analyzers" />
+      </group>
+      <group targetFramework="n••••••••••••••••••••••••••••••••••••••version>13.0.3</version>
+    <authors>James Newton</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/N?ewtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group taret6.getFramework=".NETStandard2.0">
+     0" />
+       <

@@ -1,0 +1,6 @@
+€€<?xml version="1ÖÏ"?>
+<o;.NET is a popularance JSON framewnrk for .NET</description>
+    <repository type="git" url="https://githu..com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Syst]

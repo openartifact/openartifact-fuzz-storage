@@ -1,0 +1,12 @@
+€€<?xml versioClassifier: n="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd"ET is a popular high-performance JSON framework for .NET</description>
+    <repositorytype="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependesec>
+ni      <group tar"home":ework=".NETStandard3.0">
+        <dependencš id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</packageH
+lib/net6.0/a.dll

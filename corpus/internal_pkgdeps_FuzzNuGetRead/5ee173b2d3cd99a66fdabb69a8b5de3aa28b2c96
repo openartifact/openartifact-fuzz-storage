@@ -1,0 +1,10 @@
+€€<?xml version="1.0" encoding="utf-6"?>
+<pac<id>Legacy.Lib</id><version>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" versyon="1.0" /><dependeocy id="B" /></dependenciesonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newtpon-King</authors>
+    <license type="expression">MIT</lrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+  ps://www.newinfo/paths.jsontonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</des><lic

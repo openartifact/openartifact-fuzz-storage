@@ -1,0 +1,11 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemüÿ.microsoft.com/packaging/2014/05/nuspec.xsd">
+  <metad.3</version>
+    <authors>James Newton-King</authors>
+    <license type="exystem.Memory" version="[4..55, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

@@ -1,0 +1,40 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MI\</license>
+   €€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>NewtBnsof <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+ *   <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" t.Json</id>1
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <liojectpython >=3.8,<3.12.0a0Url>https:url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <depenectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5dency id=licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" dency id="A" version="1.0p targetFŽ¨mework="net6.0" //www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <rePository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dRequires-Psdependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)<licenseUr/>
+    </dependencies>
+  </metadata>
+</package>
+lib/netl>" exclud6.0/a.dle="Build,Analyzers" />
+      </group>
+      <group %argetFramework="net6.0" />
+    </dependencies>
+"platform":  </metaldata>
+</package>
+lib/net6.0/a.dll

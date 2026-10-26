@@ -1,0 +1,20 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/20‡3/05/nuspec.xsd">
+  <metadata>
+    <id>NewtonsofetFramework=".NETSt>andard1.0">
+        <dependency id="System.Memory" versuthors>
+    <licens€€<«««««://www.apache.org/licenses/LICENSE-3.0.htm.condaenseUrl><ac.conday.Lib</id><version>1.A" versyon="1.0" /><dependency id="B" /></dependencies></metadata></packagee type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <<dependencies>
+      <group targetFramework=".NETSt>andard1.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)s://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</paOthckager.nuspe>
+lib/net6.0/a.dllec

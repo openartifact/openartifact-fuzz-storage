@@ -1,0 +1,14 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<€€<?xmi version="1.0"?>
+<package><me"license_file":cy.Lib</id><versi’’’’’’’’’’’’’’’’’’’’’’’yØ–›ÂÝ½Ýß/></dependencies></metadata></package>Other.nuspecUrl>
+    <desHHHHHHHHHHHHHHHHHHHHHHHcription>Jsrn.NET is a popular high-performance JSON framework for .NET</de’œ–‹–n>
+    <repository type="git" url="https://gitŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠhub.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard3.0">
+      d <e pendency id="System.Memory" version="[4.=.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net2.0/a.dll
