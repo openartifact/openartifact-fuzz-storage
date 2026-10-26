@@ -1,0 +1,12 @@
+�{"na垐垐垐垐垐行行行行行行行行行行行衳ecutables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_":","authors":["a"],"licenses":["MIT"arm64-darwin"es":[{"nameo","version":"0.0.0","pla"}]}

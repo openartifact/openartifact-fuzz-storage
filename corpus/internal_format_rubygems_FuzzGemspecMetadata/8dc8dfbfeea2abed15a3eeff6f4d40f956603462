@@ -1,0 +1,5 @@
+€--- !ruby/olicen       version:ndencies:
+- !ruby/ersion
+        version: '1.4'
+  type: :runtime
+  prerelease: false

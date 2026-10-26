@@ -1,0 +1,19 @@
+€--- !ruby/objectrm:parser
+license{:
+- MIT
+dependencies:
+- !ruby/object:Gemorm: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licens`s:
+- MIT
+dependencies:&platform=
+- !ruby/object:Gem::Dependency
+  name: rauuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuucg
+  requirement: '1.4'
+  type: :runtime
+  preuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuucg
+  requirement: '1.4'
+  type: :runtime
+  prerelease: false

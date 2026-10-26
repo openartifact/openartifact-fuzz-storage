@@ -1,0 +1,74 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: -0o2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  pre"raw_metadata"release: false
+  version_requirements: !ruby/object:Gem::Requirem"description"ent
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rac€-8- !ruby/object:Gem:":"rack","requik@example.org
+executables:
+- rackup
+extensions: e]
+extra_rdoc_files:
+- README.md
+files:
+- y_version: !ruby/object:Gem::Requirement:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri:0https:]/github.com/rack/rack/issues
+post_install_message:
+rdocrement":"~> 2.0, >= 2.0.1","type":"ru racc
+  requirement: !ruby/object:Gem::Requirement
+  1 requname":"rack","requirement":"~> 2.0, >= 2.0.1","type":"ru racc
+  requirement: !ruby/object:Gem::Requirement
+  1 requirements:
+    - -\\\\ "~>"
+      - !ruby/object:Gem::Version
+        version: '1.4ÿÿÿÿÿÿÿÿÿÿÿÿruby/object:Gem::Requirement
+  1 requiremen_options: []
+require_patREADME.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_optiƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒons: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruYy/object:Gem::Version
+      version: 2.4.0
+required_rubygs_version: !ruby/object:Gts:
+    - -\\\\ "~>"
+      - !ruby/oem::Requirement
+  bject:Gem::Verequirrseion

@@ -1,0 +1,11 @@
+€--- !ruby/object:Gem::Specificaect:Gem::Dependency
+  : !ruby/object:Gem::Requirement
+    requirements:
+ 0 z- - "~>"
+      - !ruby/object:Gem::Versioc
+  requirement: !ruby/object:Gem::Requiremetn
+    requirements:
+ 0 z- - "~>"
+ '1.4'
+  type: :runtime
+  prerelease: false

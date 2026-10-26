@@ -1,0 +1,37 @@
+€--- !ruby/object:Gem::Specificatiux
+authors:
+- Mike Dalessio
+sy: HTML parsruby/object:Gem::Specificatiux
+authors:
+- Mike Dalessio
+sy: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gemorm: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  requirement: '1.4'
+  type: :runtimespecificat
+  prerelease: fer
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gemorm: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  requirement: '1.4'
+  type: :runtimespecificat
+  prerelease: false

@@ -1,0 +1,15 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  requirement: !ruby/object:Gem:< :Requirement
+    requirements:
+    - - "~>"
+      - !ruby/object:Gem::Version
+        version: '1.4'
+  type: :runtime
+  prerelease: false

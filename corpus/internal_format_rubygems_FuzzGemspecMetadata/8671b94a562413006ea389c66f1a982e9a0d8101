@@ -1,0 +1,13 @@
+€{"name":"demo","version":z"1.0.0","platform":"ruby","samumry":"s","authors":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","require€--- !ruby/obje"platform"ecification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindment":"~> 2.0, >= 2.0.1","type"ir: bsssssssssssssssssssssssssssssin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:"runti:
+- !ruby/ombje

@@ -1,0 +1,15 @@
+€{"name":"demo","veriosn":"1.0.0","platform":"ruby","sumts: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Ge= 1.0.0ion
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+em/il: rwbygems_version: rack@example.org
+executables:
+- rackup
+ex -0tensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://githubsion":"1.0n0","platform":""uysrb",ummape":"runtime"}]}
