@@ -1,6 +1,0 @@
-€ion = "Aä˜š‘š–œ sive = "1"
-
-[target.'cfg(unix)'.dependencies]
-nix = { version = "0.27",#default-features = ftrue, path atures]
-default = ["en = std"]
-std =ÿÿÿÿÿÿÿve = ["serde_derive"]

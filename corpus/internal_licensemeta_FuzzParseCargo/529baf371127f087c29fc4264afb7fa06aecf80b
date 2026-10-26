@@ -1,6 +1,0 @@
-€[package]
-#name = "member"
-version.workspace = true
-license.workspace = true
-authors = ["The Rust Project Dies]
-sibling = { workspace = true }

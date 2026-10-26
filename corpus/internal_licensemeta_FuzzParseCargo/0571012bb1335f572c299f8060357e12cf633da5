@@ -1,9 +1,0 @@
-€[package]
-name = "member"
-version.workspace = true
-license.workspace = tr
-license 
-[dependencies.rand_core]
-version = "0.6.0"
-
-[build-dep= true }

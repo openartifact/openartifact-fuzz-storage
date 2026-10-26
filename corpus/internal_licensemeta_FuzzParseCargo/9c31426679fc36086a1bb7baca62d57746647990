@@ -1,11 +1,0 @@
-€[package]
-name = "rand"
-NOASicense = "MIT/Apache-2.0"
-
-[dependencies.rand_core]
-ver Rust Project Developers2]
-
-[sion = "0.6.0"
-
-[build-dependencies]
-autocfg = "1"

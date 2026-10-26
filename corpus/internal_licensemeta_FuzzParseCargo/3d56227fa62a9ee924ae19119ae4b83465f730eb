@@ -1,9 +1,0 @@
-€[ge]
-name = "serde"
-version = "1.0.197"
-edition = "2018"
-license = "MIT OR Apache-2.0"
-description = "A generic —erialization fraix)'.d
-name = "serde"
-version = "1 = "eatures]
-default = ["std"]ive = ["serde_derive"]

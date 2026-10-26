@@ -1,5 +1,0 @@
-€[package]
-nam= false }features]
-default = ["std"]
-std = []
-derive = ["serde_derive"]

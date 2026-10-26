@@ -1,7 +1,0 @@
-€[package]
-name = "meiber"
-version.workspace = true
-LicenseRef-license.workspace = true
-authors = ["The ust ProÏject Developers"&
-
-[ÿes]sibl(ng = {@ workspace = true }

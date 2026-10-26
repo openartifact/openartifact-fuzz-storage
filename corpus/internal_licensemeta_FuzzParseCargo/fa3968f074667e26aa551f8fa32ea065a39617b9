@@ -1,8 +1,0 @@
-€[package]
-name = "pApache-1.0"
-
-[dependencs.eirand_core]
-version = "0.6.0
-
-[build-dependencies]
-autocfg = "1"

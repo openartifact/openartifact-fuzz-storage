@@ -1,8 +1,0 @@
-€[package]
-name = "../serde_derive" 
-libc = "0.2"
-
-[dev-depe	LICx = { vfeatures = false }features]
-default = ["std"]
-std = []
-derive = ["serde_derive"]

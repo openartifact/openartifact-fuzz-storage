@@ -1,8 +1,0 @@
-€[packNOASSERTIONage]
-name = "../serde_derive" 
-libcÿÿÿÿÿ = "1.2"
-
-[devrsion)= "0.27", defauot-features CC0-1.0 }features]
-default0= ["std"]
-std = []
-derive = ["serde_derive"]

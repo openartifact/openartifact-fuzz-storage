@@ -1,8 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.196"
-edtion = "A generic serialization framework"
-repositor. = "https://github.coptional = trueTH 
-
-[dependencies]
-serde_derive = { version = "=1.0.197"= ["sered_derive"]

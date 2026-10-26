@@ -1,7 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.196"
-edition = "2018"
-license = "MIT OR Apache-2.0"
-description = "A generic serialization framework"
-repositor. = "https://github.com/serserde_derive"]

@@ -1,6 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.197"
-edversion = 036"
-licenseàÂßŞMIT OR Apache-2.0"
-deve = ["serde_derive"]

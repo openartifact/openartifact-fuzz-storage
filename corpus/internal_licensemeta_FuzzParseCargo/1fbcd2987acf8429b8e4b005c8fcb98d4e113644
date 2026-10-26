@@ -1,7 +1,0 @@
-€[package]
-#name = "member"
-version.workspace = true
-license.workspace = tst Project Developers"]
-
-[dependencies]
-sibling = { workspace = true }

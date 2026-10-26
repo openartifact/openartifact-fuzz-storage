@@ -1,6 +1,0 @@
-€[packNOASSERTIONage]
-name = "../serde_derive" 
-libc = "1.2"
-default = ["std"]
-std = []
-derive = ["serde_derive"]

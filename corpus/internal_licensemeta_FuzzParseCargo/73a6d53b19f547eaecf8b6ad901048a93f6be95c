@@ -1,9 +1,0 @@
-€[package]
-name = "serde"
-version = "1[package].0.197"
-edition = "2018"
-license = "MIT OR Apache-2serialization framework"
-repository = "https://github.com/serde-rs/ WITH 
-
-[dependencies]
-serde_derive = { version = "=1.0.197"= ["serde_derive"]

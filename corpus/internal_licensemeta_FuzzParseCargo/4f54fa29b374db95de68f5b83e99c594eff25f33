@@ -1,9 +1,0 @@
-€[package]
-nameCargo.toml = "rand"
-NOASSERTIONversion = "0.8.5"
-license = A"MT/pIache-2Î0"
-
-[deeveloper
-
-[build-dependencies]
-autocfg = "1"

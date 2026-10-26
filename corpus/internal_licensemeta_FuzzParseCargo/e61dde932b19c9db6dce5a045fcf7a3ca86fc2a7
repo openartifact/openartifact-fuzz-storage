@@ -1,7 +1,0 @@
-€
-
-[dep
-Æersion = "0.6,.0"
-
-[build-dependencies]
-autocfg!= "1"

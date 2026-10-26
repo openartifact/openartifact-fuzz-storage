@@ -1,5 +1,0 @@
-€[package]
-name = "sicense = "MIT OR Apache-2.0ures]
-default = ["std"]
-estd = []
-derive = ["serde_derive"]

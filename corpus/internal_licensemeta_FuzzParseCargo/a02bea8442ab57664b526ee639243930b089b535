@@ -1,9 +1,0 @@
-€[package]
-name = "member"
-version.works--------------------------------------------------- = """"member"
-version.work-----------------pace = true
-÷icense.workspace = true
-authors = ["The Rust Project Developers"]
-
-[dependencies]
-sibling = { workspace = true }
