@@ -1,1 +1,0 @@
-€[{"name":"serde",ß‰šŒ–features":t"version_req"null,"kind":"normal","registry":null}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿoÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿl,"kind":"dev"},{"name":"cc","version_req":"^1","features":[],"optional":false,"default_features":true,"target":"cfg(winapi/v1/crates/newdows)","kind":"build"}]
