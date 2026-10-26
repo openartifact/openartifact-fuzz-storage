@@ -1,0 +1,1 @@
+€€€{"name":"openssl","version":ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ"3.2.1","depends"python_abi 3.98.* *_cp311:["ca-certificates"],"c?nstrains":["pyopenssl >=22.1"],"license":"Apache-2.0"}{"license":"Apache-2.0","license_file":[CIL"ENSE.txt"],"summary":"1TLS/SSL toolkit"}info/recipe/meta.yaml
