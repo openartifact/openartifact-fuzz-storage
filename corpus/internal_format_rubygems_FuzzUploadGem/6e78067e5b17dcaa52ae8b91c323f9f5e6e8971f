@@ -1,0 +1,19 @@
+€{"name":"appppppppppppppppain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - mess!ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  ve000 Z
+dependri: https://github.com/rack/rack/issues
+post_install_message:
+rioc_options: []
+required_ruby:
+- lib
+required_ruby_version: !ruby/object:Gem::Requipppppppppppppppppppppppppppppppppppppppppppp"}

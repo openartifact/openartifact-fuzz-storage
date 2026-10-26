@@ -1,0 +1,23 @@
+Š{an.gemspec.rzd Ruby frameworks.
+email: rackPexamp-le.org
+execuby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    2- - ">="
+      - !ruby/object:Gem::Version
+   tables:
+- rackup
+extensions:00000000000000000001"}

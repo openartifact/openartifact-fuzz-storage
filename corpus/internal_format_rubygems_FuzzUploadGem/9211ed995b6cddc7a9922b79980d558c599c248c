@@ -1,0 +1,11 @@
+€{"name":"appppppppppppppppain: []
+date: 2024
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org https://github.co.rc1m/rack/rack/issues
+post_install_message:
+rdoc_options: []
+required_ruby:
+- lib
+required_ruby_version: !ruby/object:Gem::Requippppppppppppppppppppppppppppppppppppppp0pppp"}

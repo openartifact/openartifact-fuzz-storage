@@ -1,0 +1,1 @@
+€{"name":"demo","vm":"ruby","summary":"s","authors":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","reatform":"ruby","summary":"s","authors":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 3.0, >=2.". 01,"type":"runtime"}]}
