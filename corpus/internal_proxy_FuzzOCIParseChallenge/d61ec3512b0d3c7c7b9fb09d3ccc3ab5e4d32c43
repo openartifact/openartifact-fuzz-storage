@@ -1,0 +1,1 @@
+€Bearer realm="httpstps://ghcr.io",service="ghcr.io",scope="repitory:owner/app:/token",service="ghcr.io",sc="repository:owner/app:pull"
