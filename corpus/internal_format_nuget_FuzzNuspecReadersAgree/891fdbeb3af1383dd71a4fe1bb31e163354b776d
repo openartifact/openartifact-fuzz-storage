@@ -1,0 +1,13 @@
+€<?xml version="0.0" encoding="utf-8"?>
+<package xmlns="http://</dependencies>schemas.microsoft.com/packaging/2013/01/nus@pec.xsd">
+  <metadata minClientqVerrion="2.12">
+    <id>Serilog  <description>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <grouptr egtaFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[*.10.0, 3.0.0)" />
+      </group>    </dependencies>
+  </metadata>
+ckage>

@@ -1,0 +1,10 @@
+€<?xmlnugetion="1.0" encoding="utf-8"?>
+<package xml((((((((((((((((((((((((((((((((((d">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.FIle</id>
+    <versdependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group taricon.pnggetFramework="net5.0">
+        <dependency id="Serilog" version="[1.10.0, 3.0.0)"
+    </dependencies>
+  /package>

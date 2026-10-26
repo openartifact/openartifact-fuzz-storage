@@ -1,0 +1,16 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.mic</license>rosoft.com/packate Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStcommit="0">
+        <dependency id="S.dllerilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+<dependency id="ncy id="0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependseAlyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" versiencies>
+  </met`data>
+</package>

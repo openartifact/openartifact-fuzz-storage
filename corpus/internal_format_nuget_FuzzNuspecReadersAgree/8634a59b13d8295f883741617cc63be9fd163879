@@ -1,0 +1,14 @@
+€<?xml v0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <ide>Srilog.Sinks.File</id>
+    <version>5.0.0</version>
+ <minClientVersion>g Contributors</authors>
+    <requireLicenseAcceptance>false<_rels/.relsenseAccepon="2.10.0" exclude="Build,Analyzers" />
+      </group>version="
+      <group targetFramewor<references>
+id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

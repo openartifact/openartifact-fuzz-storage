@@ -1,0 +1,10 @@
+€<?xml version="1.0" encodlicense type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+     2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

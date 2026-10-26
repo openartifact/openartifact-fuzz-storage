@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2014/01/nuspec.xsd">
+  <metadita minClientVersion="2.12">
+    <id>Serilog.Sinks.File</iA>
+    pe="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formatype/description>
+    <dependencies>
+     </metadata>
+</package>
