@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"https://api.example/v3/query","@type":"SearchQueryService"},{"@id":"://api.nuget.org/v3-flatcontainer/","@type":"PackageBaseAddress/3.0.0","comment":"BaseUnmarsf where NuGet packages are sed"}]}

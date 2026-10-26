@@ -1,0 +1,1 @@
+ˆ{"version":"3.0.0","resources":[{"@id":"http#s://a/v3/complete","@type":"SearchAutocompleteService/3.5.0"},{"@id":"https://api.example/v3/reg/","@type":"RegistrationsBaseUrl"},{"@id":"https:o/api.example/v3/reg6pi.example/v3/query","@type":"SearchQueryService"},{"@id":"htti.example/v3-flat/ackageBaseAddress/3.5.0"},{"@id":"ftpB//nope/","@type":"RegistrationsBaseUrl/Versioned"}]}

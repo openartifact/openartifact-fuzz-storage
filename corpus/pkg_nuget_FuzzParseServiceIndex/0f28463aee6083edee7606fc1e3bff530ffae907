@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"httpRegistrationsBaseUrls://api.nuget.orginer/","@type":"PackageBaseAddress/3.0.0","comment.nuget.org/v3-flatcontain":"@a00000000000000000000000000000000000000000000000000008198552921648689608se URL of where NuGet packages are stored"}],"@context":{"@vocab":"h.‹uget.org/services#","comment":"http://www.w3.org/2000/0","@type":"Registrat"}}
