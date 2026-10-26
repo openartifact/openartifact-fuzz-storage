@@ -1,3 +1,0 @@
-€{"nam":"1.56","v":2}
-{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundation"],"optional":false,"default_geatures":false,"tarteg":"cfg(windows)","kind":"build],"registry":"https://github.com/rust-lang/crates.io-index","package":"windowse":"serde","vers":"1.0.195","s":null,"rust_version":"1.56","v":2}
-{"name":"serde","vers":"es":false,"tarteg":"cfg(windows)","kind":"build],"registry":"https://github.com(/rust-lang/crates.io-index","package":"windows_sys"}

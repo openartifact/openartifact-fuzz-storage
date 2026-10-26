@@ -1,2 +1,0 @@
-€{"name":"serde","vers":"1.0.195","deps":[{"name":"serde_derive","req":"=1.0.195","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":false,"default_]features\u0000,"target":"default":[:"dev"}],"cksum":"5f1d3b1c0e5f9a8b7c6d5e4f3a2b1c0d"dt],"std":[],"derive":["serde_derive"]},"yanked":false,"links":null,"rust_version":"1.56","v":2}
-ult_features":f9c8d7e6f5a4b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}
