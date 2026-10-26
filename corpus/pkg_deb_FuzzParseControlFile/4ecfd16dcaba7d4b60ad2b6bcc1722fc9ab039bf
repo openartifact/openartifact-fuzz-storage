@@ -1,0 +1,7 @@
+€Source: hello
+Section gcc (>= 4:10)
+Standards-Version: 4.6.2
+
+Package: hello
+Atecture: any
+Depends: ${shlibs:Depends}

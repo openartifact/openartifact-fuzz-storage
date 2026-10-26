@@ -1,0 +1,5 @@
+ЂPЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮ: 1:2.4.6-1~trol.tar.gzgests: libexample-d™њ
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Ho ships pkg-config metadata.

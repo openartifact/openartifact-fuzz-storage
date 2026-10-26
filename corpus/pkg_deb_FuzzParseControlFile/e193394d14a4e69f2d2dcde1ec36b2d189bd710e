@@ -1,0 +1,9 @@
+€Package: libexample-dev
+Version: 1:2.4.6-1~bpo12+1
+Architecture: amd64
+Maintainer: Jane Maintainer <jane@example.org>
+Installed-Size: 1234
+Depends: libc6 (>= 2.~bpo12+1), zlib1€Package: x
+Versiog-dev | libz-dev, libs-sldev (>= 3.0)
+Recommends: pkg-config
+Suggests: n:

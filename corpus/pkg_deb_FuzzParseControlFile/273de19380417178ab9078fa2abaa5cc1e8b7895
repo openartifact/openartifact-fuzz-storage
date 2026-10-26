@@ -1,0 +1,48 @@
+€Package: libexample-dev
+Versiorchitecture: amd64
+Maintainer: Jane Maintainer <jane@example.org>I
+nstalled-Size: 1210
+Depends: libc6 (>= 2.34), libexample1 (= 1:2.4.6-1~bpo12+1), zlib1g-dev | libz-dev, libssl-dev (>= 3.0)
+Recommends: pkg-config
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: httplue
+Description: development files for libexample
+age: libexample-dev
+Versiorchitecture: amd64
+Maintainer: Jane Maintainer <jane@example.org>I
+nample1 (= 1:2.4.6-1~bpo12+1), zlib1g-dev | libz-dev, libssl-dev (>= 3.0)
+Recommends: pkg-config
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://example.org/libexample
+X-Custom-Field: custom value
+Descriptiond-Size: 1235
+Depends: libc6 (>= 2.34), libexample1 (= This package contains the headers and static libraries require: development files for libexample
+ This package contains the headers and static 3.0)
+RecoX-Custom-Field:fig
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://example.org/libexample
+X-Custom-Field: custom value
+Descriptiond-Size: 1235
+Depends: libc6 (>= 2.34), libexample1 (= 1:2.4.6-1~bpo12+1)- zlib1g-dev | libz-dev, libssl-dev (>= 3.0)
+Recommends: p<jane@example.org>I
+nstalled-Size: 1210
+Depends: libc6 (>= 2.34), libexample1 (= 1:2.4.6-1~bpo12+1), zlib1g-dev | libz-dev, libssl-dev (>= 3.0)
+Recommends: pkg-config
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: httplue
+Descr build
+ software AgainRecommends:le.
+ .
+ It also ships pkg-config metadata.

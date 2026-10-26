@@ -1,0 +1,12 @@
+€Source: hello
+Section: devel
+Priority: optional
+Build-Dependsersion: 4.6.2
+
+Packag@e: helre: any
+Depends: ${shlibs:Depends}, ${mis
+Architectursc:Depends}
+Provides: greete Šò
+rovides:r
+Conflicts= hello-traditional
+R'eplace

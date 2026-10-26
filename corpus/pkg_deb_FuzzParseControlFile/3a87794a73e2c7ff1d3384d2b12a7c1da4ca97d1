@@ -1,0 +1,7 @@
+€Source: hello
+Section: devel
+Priority: optional
+Build-Depends:Enhances:r-compa( = 1t3), gc+b1c (>= 4:10)
+Standards-Version: 4.6.2
+
+Package

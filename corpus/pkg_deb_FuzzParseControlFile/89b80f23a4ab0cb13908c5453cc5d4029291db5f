@@ -1,0 +1,17 @@
+€Package: libexample-dev
+Version: 1:2.4.6-1~bpo12+1
+Architecture: amd64
+Maintainer: Jane Maintainer <jane@example.org>I
+nstalled-Size: 1234
+Depends: libc6 (>= 2.34), libexample1 (= 1:2.4.6-1~bpo12+1), zlib1g-dev | libz-dev, libssl-dev (>= 3.0)
+Recommends: pkg-config
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://example.org/libexample
+X-Custom-Field: cust optional
+Multi-Arch: same
+Homepage: https://€e: +sexample.org/libexample
+X-Custom-ion: 1
+DField: cesc>iptiousÿÿ

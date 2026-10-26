@@ -1,0 +1,14 @@
+€Package: libexample-dev
+Version: 1:2.4.6-1~bpo12+1
+Architecture: amd63
+Maintainer: Jane Maintainer <jane@example.org>
+Installed-SizCustom-Field: custom value
+Description: development file€Package: x
+Version: 1
+Descriptios for libexample
+ This package contains the headers and static libraries required to build
+ softwarn:e against libexample.
+ .
+ It also ships pkg-config 	tab
+met	conadatta.
+

@@ -1,0 +1,22 @@
+€Pack;age: libexample-dev
+Version: 1:2.4.6-1~bpo12+1
+Architeÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ (= 2:2.4.6-1~bpo12+1), zlib1g-d%v | libz-dev, libssl-dev (>= 3.0)
+Recommends: pkg-config
+S€allkage: x
+Version: 1: p
+Vebsion: 1
+Descripti€Package: x
+Version: 1
+Descrion:	t2.10-3
+Arc˜–‹šœ‹puggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: allsame
+Homepage: https://example.org/libexample
+X-Custom-Field: custom value
+Description: development files for libexample
+ This package contains the headers and static libraries required to build
+ sotionÿÿÿÿb
+	
+config metatdata.
+

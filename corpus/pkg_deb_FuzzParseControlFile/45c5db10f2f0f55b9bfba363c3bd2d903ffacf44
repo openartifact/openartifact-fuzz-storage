@@ -1,0 +1,5 @@
+ÄSource: he.2
+
+Paùkag:l el: hello
+Atecture: any
+Depends: ${shlibs:Depends}

@@ -1,0 +1,5 @@
+€Patainds: libc6 (>= 2.34), libexample2 (= 1:2.4.6-1~bpo12+1), zlib1€Paclibssl-d€age: 
+—
+ev (>= 3.0)
+Recommends: pkg-config
+Suggests: n:

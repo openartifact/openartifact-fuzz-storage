@@ -1,0 +1,14 @@
+€Source: hello
+Section: devel
+Priority: optional
+Build-Dependsersion: 4.6.2
+
+Package: hello
+Architecture: any
+Depends: ${shlibs:Depends}, ${mis
+Architecture: any
+Depends./controls:Depends}, ${misc:Depends}
+Provides: greete Šò
+rovides:r
+Conflicts= hello-traditional
+R'eplace

@@ -1,0 +1,16 @@
+€Package: libexample-dev
+Version: 1:2.4.6-1~bpo12+1
+ArchitectuInstalled-Size: 1234
+Depends: libc6 (>= 2.34), libexample1 (= 1:2.4.6-1~bpo12+1), zlib1g-dev | libz-dev, libssl-dev (>= 3ÿÿÿÿÿ2.0
+mends: pkg-config
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://example.org/libexample
+X-Custom-Field: custom value
+D±scription: development files for libexample
+ This packageatic libraries required to build
+ software against libexample.
+ .
+ It also ships pkg-config metadata.

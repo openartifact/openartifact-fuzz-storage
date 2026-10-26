@@ -1,0 +1,23 @@
+€Package: libexample-dev
+Version: 1:2.4.6-1~bpo12+1
+Architecture: amd64
+Maintainer: Jane Maintainer <jane@example.org>
+Installed-Size: 1234
+Depen—ŒÅßlibc6 (>= 2.34), libexample1 (= 1:2.4.6-1~bpo12+1), zlib1g-deÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿv | libz-dev, libssl-dev (>= 3.0)
+Recommends: pkg-config
+Suggests: libexample-doc
+Sec€allk€allkage: x
+Version: 1: p
+Vebsion: 1
+age: x
+Version: 1: p
+Vebsion: 1
+Description:	Descripti€t2.10-tion: libdevel
+Priority: optional
+Multi-Arcecture: amd64
+Maintainer: Jane Maintaexample.
+ nt
+.
+ It also ships pkg-config 	tab
+met	conadatta.
+

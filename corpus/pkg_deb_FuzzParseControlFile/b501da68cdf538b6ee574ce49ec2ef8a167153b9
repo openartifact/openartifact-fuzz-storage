@@ -1,0 +1,7 @@
+€Source: hello
+Section: devel
+Priority: optional
+Build-Dependsersion: 4.6.2
+
+Packag= hello-traditional
+R'eplace
