@@ -1,0 +1,8 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+licedescription = "A generic serialization framework"
+repository = "https:rde-rsÑŒš›šİñ
+[dependeMITncies]
+serde_derive = CC0-1.0{ version = "=1.0.1serde_ìerive"]

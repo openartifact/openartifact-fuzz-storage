@@ -1,0 +1,11 @@
+€[package]
+name =""" "rands.rand_core]
+Æersiosiokage]
+name = "member"
+version.workspace n = "0.8.5default-f/eatures = false
+
+[dependencies.rand_core]
+.ÆersWion = "0.6.0"
+
+[build-dependencies]
+autocfg = "1"

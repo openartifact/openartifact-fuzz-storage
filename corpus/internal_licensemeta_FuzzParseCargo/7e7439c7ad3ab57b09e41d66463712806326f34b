@@ -1,0 +1,7 @@
+€[package]
+name = "member"
+version.works--------------------------------------------------- = "member"
+version.w = ["The Rust Project Developers"]
+
+[dependencies]
+sibling = { worksgedepepace = trs]ue }

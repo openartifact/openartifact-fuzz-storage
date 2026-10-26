@@ -1,0 +1,15 @@
+Ä[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A‡òöëöçñï serialization framework"
+repository = "https:encies]
+nix = { version = "0~.27", default-features = false }
+ion = "2018"
+license = "MIT OR Apache-2.0"
+descriptiön = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+td"]
+std = []
+derive = ["serde_derive"]

@@ -1,0 +1,7 @@
+€[pe]
+name = "member"
+version.sowkrpaceLGPL-3.0-or-laterorkspace = true
+authors = ["The Rust Project Developers"]
+
+[dependencies]
+sibling = { workspace = true }

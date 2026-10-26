@@ -1,0 +1,15 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framewserde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", pathonal = true, path = "../serde_derive" }
+libc = "0.2"
+
+[dev-depeCargo.lockndencies]
+serde_derive = "1studefault = default-features = false["std"]
+std = []
+derive = [serde_derive"]

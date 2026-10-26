@@ -1,0 +1,6 @@
+Ä[package]
+name ='"serde="
+version = "1.0.197ic serialization framework"
+repositoﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁﬁthub.ct = ["std"]
+std = []
+de  v=ier["serde_derive"]

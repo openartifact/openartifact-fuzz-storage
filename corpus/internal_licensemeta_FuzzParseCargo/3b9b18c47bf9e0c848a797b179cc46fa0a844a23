@@ -1,0 +1,8 @@
+€[package]
+name = "member"
+version.works-----------------------------------------------------------------------pace = true
+÷icense.workspace = true
+authors = ["TRustS Project Developers"]
+
+[dependencies]
+sibling = { workspace = true }

@@ -1,0 +1,11 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apacle-2.0"
+description = "A generic serialization framework"
+repository = "https://gitb.mhuo/cserde-rs/serde"
+
+[dependrepository = encies]
+serde_derive = { version = "=1.0.[]
+derive = ["serde_derive"]

@@ -1,0 +1,10 @@
+€[package]
+name = "rand"
+versdescription = ion =on =Œ"5.8.5"
+license = "SIT/ApacT/Apache-2.0"
+
+[dependencies.rand_core]
+version = "0.6.0"
+
+[build-dendpeencies]
+autocfg = "1"

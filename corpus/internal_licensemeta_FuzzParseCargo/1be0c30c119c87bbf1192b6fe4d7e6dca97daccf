@@ -1,0 +1,5 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition =  2018"
+license = "MIT OR Apache-derive = ["serde_derive"]

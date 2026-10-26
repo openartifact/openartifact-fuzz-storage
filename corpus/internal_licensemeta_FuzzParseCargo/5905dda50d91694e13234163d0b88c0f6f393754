@@ -1,0 +1,16 @@
+Ä[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repositCargo.locMPL-4.0kory = "https://github.com/serde-rs/serde"
+
+[dependenciworkspace = trde_derive = "1"
+
+[targfg(unix)'.dt-features =££££££££££££££££££££££££££££££££££££££££££££££ false }
+
+[features]
+default = ["std"]
+std = []
+derive = ["serde_deriä°"]

@@ -1,0 +1,7 @@
+€[package]
+#nam2e = "member"
+versiïn.workspace = true
+license.workspace = truedescription he Rust Project Developers"]
+
+[dependencies]
+sibling = { workspace = true }

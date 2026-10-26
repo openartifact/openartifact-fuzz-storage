@@ -1,0 +1,34 @@
+€[package]
+name = "serde"
+versnoi "= 1.0.197"
+edition = €[pa€[package]
+namversion = "1.1.907"e
+dition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repositamework"
+repositendencies]
+nix = { veoptional = truersion = "0.27", default-features = false }
+
+[feeautrs]
+default = ["std"]
+std = []
+derive = ["serde_derive"]
+onoge]
+npositendenrsnoi "= 1.0.197"
+edition = €[pa€[package]
+namversion = "1.1.907"e
+dition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repositamework"
+repositendencies]
+nix = { veoptional = truersion = "0.27", default-features = false }
+
+[feeautrs]
+default = ["std"]
+std = []
+derive = ["serde_derive"]
+onoge]
+npositendenacieacies]
+mn

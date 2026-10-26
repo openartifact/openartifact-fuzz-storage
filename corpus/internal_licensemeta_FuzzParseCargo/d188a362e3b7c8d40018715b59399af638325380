@@ -1,0 +1,15 @@
+€[package]
+nfme =""" "ra\"dv
+PPPPPPPPPPPrsion = "0.8ÒÊÝõ“–œšnse = "MIT/Apache-2.0"
+
+[mP2.0dependencies.rand_core]
+version = "0.6.0"
+
+[build-dependencies8"
+l2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nixÿu

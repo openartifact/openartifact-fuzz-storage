@@ -1,0 +1,11 @@
+Ä[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018lization framework"
+repositor____________Zlib____________AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA___________________________________________________y = "https:/GPL-2.0+com/serde-rs/serde"
+
+[dependencies]
+serde_deëive = { version€= "default-features = false=2.0.197", optional = true, pa}
+libc(= "0.2"
+
+97", optional = true, rde_derive"]

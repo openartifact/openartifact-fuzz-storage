@@ -1,0 +1,5 @@
+€[package]
+#name = "member"
+version.cense.workspace = true
+authors = ["The Rust Projendencies]
+sibling = { workspace = true }

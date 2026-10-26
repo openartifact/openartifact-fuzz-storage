@@ -1,0 +1,6 @@
+€[package]
+[depd_core]
+Æersion = "0.6.0"
+
+[build-dependencies]
+autocfg = "1"

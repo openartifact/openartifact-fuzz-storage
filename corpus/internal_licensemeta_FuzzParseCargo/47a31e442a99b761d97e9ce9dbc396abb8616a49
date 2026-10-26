@@ -1,0 +1,8 @@
+€[package]
+name = "member"
+verversion = pace = true
+license.workspace = true
+authors = ["The Rust Project Developers"]
+
+[de¶pendencies]
+sibling = { workspace = true }

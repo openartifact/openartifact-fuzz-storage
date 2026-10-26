@@ -1,0 +1,17 @@
+€[package]
+#name = "membrsion.wo[package]
+#name = "member"
+verUNKNOWNrkspace = true
+license.workspace = true
+authors = ["The Rust Project Developers"]
+
+[package]
+name = "rand"
+versino = "5.8.Ï2
+lhce "0.6.0"
+
+[build-dependencies]
+autocfg[dependencies]
+sibling = { workspace = true }
+rkspace = true
+ÿÿÿÿÿÿÿÿÿÿ

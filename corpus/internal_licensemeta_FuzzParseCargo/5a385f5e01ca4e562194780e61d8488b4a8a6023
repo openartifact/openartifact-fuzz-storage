@@ -1,0 +1,7 @@
+€[package]
+name = "serde"
+version = "Aä˜š‘š–œ seÿÿÿderive = { version =ies]
+nix = { version = "0.27",#default-packagefeatures = ftrue, path atures]
+default = ["std"]
+std = []
+derive = ["serde_derive"]

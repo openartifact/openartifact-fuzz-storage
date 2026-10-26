@@ -1,0 +1,7 @@
+€[package]
+name = "rand"
+versino = "5.8.Ï"
+lhce "0.6.0"
+
+[build-dependencies]
+autocfg = "1"

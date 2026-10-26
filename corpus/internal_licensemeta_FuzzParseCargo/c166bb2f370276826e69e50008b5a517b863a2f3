@@ -1,0 +1,7 @@
+Ä[package]
+name = "member"
+version.workspace = true
+LicenseRef-license.workspace = true
+ause.workspace = true
+authors = ["The ust Proœpendencies]
+sibl(ng = {@ workspace = true }

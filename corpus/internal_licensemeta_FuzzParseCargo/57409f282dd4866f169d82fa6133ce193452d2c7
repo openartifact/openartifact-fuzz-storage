@@ -1,0 +1,11 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edversion = 018"
+license = "MIT OR Apache-2.0"
+description = "A g27", default-features = false }
+
+[features]
+default = ["std"]
+std = []
+derive = ["serde_derefault = ["stde = ["serde_derive"]

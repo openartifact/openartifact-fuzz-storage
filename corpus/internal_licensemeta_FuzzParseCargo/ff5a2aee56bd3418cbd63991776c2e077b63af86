@@ -1,0 +1,14 @@
+€[package]
+nfmedescrip =""" "ra\"dv
+PPPPPPPPPPPrsion = "0.8.5"
+license = "MIT/Apache-2.0"
+
+[mP2.0dependencies.rand_coreres]
+defaíult = ["s= "rt-f/e "MIT/Apaaturuild-dependenc\CC0-1.0iÿializatÿÿion framewñork"
+repository = "https://github.com/sion = "0.27", default-feataturuild-depenurdenc\d"
+versiÿÿÿÿÿÿ"0"
+esÿÿ = false }
+
+[features]
+std = []
+deÿriveu = ["serde_derive"]

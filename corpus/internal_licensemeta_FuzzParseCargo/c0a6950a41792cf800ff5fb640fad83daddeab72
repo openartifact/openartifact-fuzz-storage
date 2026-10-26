@@ -1,0 +1,17 @@
+€[pacgkae]
+name = "serde"
+versname = 1.0.197"
+edition = "2018"
+license = "MIT OR Apache-1.0"
+description = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+
+[dependen = "MIT OR Apache-1.0"
+description = "A generic serialization framework"
+repositoryve" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[targete = ["serde_derive"]

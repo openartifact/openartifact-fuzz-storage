@@ -1,0 +1,27 @@
+€[package]
+name =""" "ra\d"
+versiÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy = "https://githu= false }
+
+[features]
+defaulpository = "https://gi"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "27",0. default-features = false }
+
+[features]
+default = ["std"]
+std = []
+db.co@@@@@@@@er)'@@@@@@@workspace = true@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.dep[@@@@@@@@@@@@@@@@@@@@m/serde-rs/serde"
+
+[dependencies]
+serde_deriv = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repository = "https://github.co@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ "@@@@@@@@@@@@@@@@@@@@@@@@@@@1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@m/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", optional = trrive = [""
+ serde_deriv"serde_derive"e""2]
+"
+]

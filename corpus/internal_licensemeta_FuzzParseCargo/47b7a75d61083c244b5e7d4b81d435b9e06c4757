@@ -1,0 +1,17 @@
+€[package]
+name = "serde"
+version = "1.0.1977"
+edition AGPL-3.0-onlynse = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repository = "https= { version = "=1.0.1?97", optional = true, path = 2../serde_derive" }
+libc = "0.2"
+
+[dev-depe	ð															ndencies]
+serde_derive = "1"
+
+[target.'c}
+
+[features]
+efault = ["std"]
+std = []
+derive = ["serde_derive"]

@@ -1,0 +1,15 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+descriLLLLLLLLLLLLLLLLLLLLLLLLLLLLLleditioLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLption = "A generic serializatneric serialization framework"
+repositorÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy = "https://github.com²/serde-rs/serde"
+
+[dependeMITncies]
+serde_derive = { version = "=1.0.197", optiondefault-features = false }
+
+[featuework"
+repository ½ "https://githn = "0.8.5"
+license = "MIT/Aprsion = "0.17.8*
+license-file = "LICub.com/s["serde_derive"]

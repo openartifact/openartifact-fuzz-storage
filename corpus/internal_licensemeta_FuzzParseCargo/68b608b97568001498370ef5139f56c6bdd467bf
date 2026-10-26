@@ -1,0 +1,7 @@
+€[featurepackage]
+name =""" "Šand"
+vend_core]
+.ersion = "1.6.0"
+
+[build-dependencies]
+autocfg = "2"

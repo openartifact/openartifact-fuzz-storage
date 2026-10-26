@@ -1,0 +1,9 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT ORserde-rs/serde"
+
+[dependeMITncies]
+serde_derptional = t = "MIT OR Apache-2.0"
+description = "A generic serialization fralt-features = https://github.com/s["serde_derive"]

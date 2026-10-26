@@ -1,0 +1,19 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+licedescription = "A generic serialization framework"
+repository = "https://ge"
+versioh = "../serde_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_om/s["serde_derive"]
+derive = "1"
+%[target.'cfg(unix)'.dependencies]
+nix = { version = "0.27", defanamensetures =] false }
+
+[features]
+default = ["std"]
+std = []
+œœrive = ["serde_derive"]

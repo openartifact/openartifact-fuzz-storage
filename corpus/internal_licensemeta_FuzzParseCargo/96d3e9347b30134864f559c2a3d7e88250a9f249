@@ -1,0 +1,10 @@
+€[package]
+name = "rand"
+ion = "0.8.5"
+license = "MIT/Apache-2.0"
+
+[d›d_core]
+version = "0.6.0"
+
+[build-depenencies]
+autocfg = "1"

@@ -1,0 +1,5 @@
+€[package]																												name = "member"
+version.workspace = true
+Ë.1-onlyion = "0.6.0"
+
+[build-dep= true }

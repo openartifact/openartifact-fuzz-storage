@@ -1,0 +1,6 @@
+€[package]
+name = "member"
+version.workspaceLGPL-3.0-or-laterorkspace = true
+authors = ["The Rust Project Developers"]
+pendencies]
+sibling = { workspace = true }

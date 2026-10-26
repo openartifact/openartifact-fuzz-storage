@@ -1,0 +1,12 @@
+€[package]
+name =""" €[package]
+name = "rand"
+version = "5.ÿÿÿÿÿÿÿÿÿÿÿÿÿncies]
+autocfg = "1= false
+
+[dependencies.rand_core]
+Æer"
+sion = "8.6.0
+
+"[build-dependencies]
+autocfg = "1"

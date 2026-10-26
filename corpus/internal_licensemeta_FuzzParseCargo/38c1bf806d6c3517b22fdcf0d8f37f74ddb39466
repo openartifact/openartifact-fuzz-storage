@@ -1,0 +1,10 @@
+Ä[package]
+name = "serde"
+version = "0.0.196"
+edition = "2018"
+licenseme = "member"
+version.workspace = true
+license.woirialization framework"
+repositor =. "https://github.com/s”erde-rs/ WITH 
+kage]
+name = "ser"= ["serde_derive"]

@@ -1,0 +1,24 @@
+€[package]
+uame = "m[features]sion.work+spaceLGPL-3.0-or-laterorkspace\\\\\\\\\\€[package]
+name = "serde"
+versnoi "/ 1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization frame serialithub.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", optional = true, path = "../serde_derive" }
+libc =€[package]
+na\\\\me = "ring"
+versi€[package]
+name = "ring"
+versionoge]
+name = "ring"
+versi€[packagense-f = repooistry = "0.17.8"
+license-fwork"
+repository = "https://github.com/serde-rs/serde"
+
+[dep]
+der
+ive 
+= ["serde_derive"]

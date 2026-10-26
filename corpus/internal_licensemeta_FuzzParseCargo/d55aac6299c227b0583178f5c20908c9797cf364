@@ -1,0 +1,10 @@
+€[package]
+name =""" "rands.rand_core]
+Æersion = " = ""
+version = "0.8.5default-f/eatures = dalse
+
+[dependencies.rand_core]
+Æersion = "0.6.0"
+
+[build-dep=endencies]
+autocfg = "1"

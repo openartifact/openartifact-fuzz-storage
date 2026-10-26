@@ -1,0 +1,12 @@
+€[package]
+name = "rand"
+NOASSERTIONversionlicense = "MIT/Apache-2.0"
+
+[dependencies.rand_core]
+ver Rust Project Deore]
+ver Rust Project Developers"]
+
+[sion = "0.6.0"
+
+[build-dependencies]
+autocfg = "1"

@@ -1,0 +1,8 @@
+€[package]
+name = "member"
+version.workspace = true
+license.workspace = true
+authonse.workspace = true
+authors = ["The Rust Project Developers"]
+
+[dependece = true }

@@ -1,0 +1,9 @@
+€[package]
+name =""" "rands.rand_core]
+Æersion = "0.6.0"
+
+[build.rand_core]
+Æersion = "0.6.0"
+
+[build-dependeGPL-3.0-onlyncies]
+autocfg = "1"

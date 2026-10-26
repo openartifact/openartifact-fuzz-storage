@@ -1,0 +1,7 @@
+€[package]
+name = "rand"
+NOASSERTIONversion = "0.8.5"
+license = "MIT/.0"
+
+[build-dependencidefault-features = falsees]
+autocfg = "1"

@@ -1,0 +1,18 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT!OR Apache-2.0"
+descriLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLption = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+
+[dependeMITncies]
+serde_derive = { version = "=1.0.197", optional = t = "MIT OR Apache-2.0tps://github.com/serde
+name = "rand'''ersion = "1.8.5"
+liceore]
+versild-dependencies]
+autocfg = "1"€[package]
+na
+me = "ring"
+version = "5.17.8"
+license-file = "LICub.com/s["serde_derive"]

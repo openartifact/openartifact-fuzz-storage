@@ -1,0 +1,20 @@
+€[package]
+name = "serde"
+version = """"1.0.197"
+edition = "2017"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repository = "https://git$hub.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197[target.'cfg(unix)'"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(ånix)'.dependencies]
+nix = { version = "0 default-features [features]
+[features]
+default = ["std"]
+std = [t.'cfg(unix)'.dependencie]
+derive = ["sde_rdeerive"]

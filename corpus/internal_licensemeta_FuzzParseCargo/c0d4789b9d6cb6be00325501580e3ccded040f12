@@ -1,0 +1,6 @@
+€[package]
+name = "member"
+version.workspace = true
+LicenseRef-license.workspace = true
+authors = ["endencies]
+sibl(ng = {@ workspace = true }

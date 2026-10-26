@@ -1,0 +1,26 @@
+€[package]
+nfmedescrip =""" "ra\"dv
+PPPPPPPPPPPrsion = "0.8.5"
+liseenc=  "MIT/Apache-2.0"
+
+[mP2.0dependen€[package]
+name = "serde"
+versi33333333333333333333333333333333333333333333333333333333333333333333om/sin"  =0o.27", default-feataturuild-depenurdenc\dØ
+versiÿÿÿÿÿÿ"0"
+esÿÿ = false }
+
+[features]
+std = []
+deÿriveu = ["serde_derive"]
+aturuild-depenurden§\d"
+v "https://github.com/serde-\\\\\\\\\\\\\\\\\\\\\\\ƒ\\\\\\\\\\\\\\\\\\\€zpackage]
+name = "member"
+version.workspace = true
+license.workspace = true
+authonse.workspace = true
+auth\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\workspace = true\\\\\\\\\\\\\\\LicenseRef-\rs/serde"= { vorsion.works-----GPL-6.--only----cense.workspace = true
+authors = ["The Rust Project Ds = [ The Rust Project Developers"]
+ersion = "0~.27",:", default-features =
+[depe falsserde_drependerde_deerive"]
+rie }ve"]
+

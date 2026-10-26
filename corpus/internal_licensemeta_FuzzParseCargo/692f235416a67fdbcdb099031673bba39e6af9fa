@@ -1,0 +1,14 @@
+Ä[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repositor___________________________________________________________________________y = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version€= "defau)'.dependencies]
+nix = { version = "0.LGPL-3.0-or-laterures = false }
+
+[featuework"
+repository = "https://github.com/s["serde_derive"]

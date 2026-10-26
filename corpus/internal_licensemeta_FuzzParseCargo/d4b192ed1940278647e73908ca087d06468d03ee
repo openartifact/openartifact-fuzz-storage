@@ -1,0 +1,13 @@
+€[package]
+#name = "membrsion.wo[package]
+#name = "membersion.woge]
+#name = "membrsion.wo[package]
+#name = "membersion.wo[package]
+#name = "member"
+version.workspace = true
+license.workspace = true
+authors = ["The Rust Project Developers"]
+
+[package]
+name = "rand"
+workspace = true }

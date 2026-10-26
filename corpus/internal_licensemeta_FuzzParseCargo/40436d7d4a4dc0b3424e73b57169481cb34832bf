@@ -1,0 +1,12 @@
+€[package]
+name = "rand"
+version = "0.8.5"
+license = "MIT/Apache-2.0"
+
+[MPL-2.0dependencies.rand_core]
+version = "0.6.0"
+
+[build-depe€[package]
+name = M-exceptionesindencies]
+autocfg = "1"€[pacense-fionAGPL-8.0-onlyicense-file = "LICge]
+naagemLICENSe = "serde]E"

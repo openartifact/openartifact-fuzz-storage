@@ -1,0 +1,8 @@
+€[package]
+name = "member"
+version.works---------------------------------------------------on.works-----------------------------------------------------------------------pace = true
+÷icense.workspace = true
+authors = ["The Rust Project Developersrs = ["The Rust Project Developers"]
+
+[dependencies]
+sibling = { workspace = true }

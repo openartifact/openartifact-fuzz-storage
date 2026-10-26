@@ -1,0 +1,16 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+e = { version = "=1.0.197", optional = true, path = "../serde_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "27",0.  "0.2"
+
+[dev-dependencies]
+serde_derive = ault = ["std"]
+std = []
+derive = ["serde_derive"]

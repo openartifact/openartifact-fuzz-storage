@@ -1,0 +1,5 @@
+€[package]
+[dependencies.rand_core]
+Æersion = "0.6.0"
+
+[build-dependfg = "1"

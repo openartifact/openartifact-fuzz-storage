@@ -1,0 +1,15 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+liceQse = "MIT OR Apache-2.0"
+description = "A generic serialization framework~"
+repository = "https://github.com/serde-rs/serde"
+
+[s]
+nix = { version = "27",0.  "0.2"
+
+[dev-dependencies]
+serde_derive = ault = ["std"]
+std = []
+derive = ["serde_derive"]

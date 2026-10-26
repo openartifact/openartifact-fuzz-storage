@@ -1,0 +1,4 @@
+€[package]
+name = "member"
+version.workspace = true
+license.woibling = { workspace = true }

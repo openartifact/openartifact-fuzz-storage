@@ -1,0 +1,10 @@
+€[package]
+namscription = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+
+[de.cratecies]
+serde_derive = { version = "=1.0.197", opti€[package]
+nameve" }
+libc = "0.2"
+
+[dev-depe																ndencieencies]!autocfg = "1"

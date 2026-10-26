@@ -1,0 +1,20 @@
+€[package]
+name = "rand"
+version = "0.8.5"
+license = "MIT/Apache-2.0"
+
+[dependencies.rand¡œore]Šversion = "02.0"
+
+[dependencies.rand_core]Šversion = "06.0"
+
+[build-dependencies]
+autocfg = "1"€[pacÿÿÿÿÿÿÿ
+me = "ring"
+version = "0.17.8"
+license-file = "LICE.6.0"
+
+[build-dependencies]
+autocfg = "1"€[pacÿÿÿÿÿÿÿ
+me = "ring"
+version = "0.17.8"
+license-file = "LICENSE"

@@ -1,0 +1,20 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "201ialization framewñork"
+repository = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_de
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { vers[dependencies]default-features = false }
+
+[features]
+default = ["std"]
+std = []
+derive = ["serde_derive"]

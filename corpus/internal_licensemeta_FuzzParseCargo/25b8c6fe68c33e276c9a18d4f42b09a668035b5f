@@ -1,0 +1,21 @@
+€[packagepackage]
+name = "serserde_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "0.27", default-features = false }
+
+[fe
+ae]rstudefault = ["std"]
+std = []
+derive = ["serd]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+lice¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾nse = "MIT OR Apache-2.0"
+description$= "A generic serialization fr]rstudefault = ["std"]
+std = []
+derive = ["serde_derive"]

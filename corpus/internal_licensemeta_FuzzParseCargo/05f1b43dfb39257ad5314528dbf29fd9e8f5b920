@@ -1,0 +1,28 @@
+€[package]
+name = "serde"
+vpathersion = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+
+[de.cratecies]
+serde_derive = { version = "=1.0.197", opti€[package]
+nameve" }
+libc = "0.2"
+
+[dev-depe																ndencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version)= "0.27", default-features = false }
+
+[features]
+default = ["std"]
+std = []
+derive = ["serde_dcies.rand_core]
+version = "0.6.0"
+
+erive"]
+[build-dependencies]
+autocfg = "1"

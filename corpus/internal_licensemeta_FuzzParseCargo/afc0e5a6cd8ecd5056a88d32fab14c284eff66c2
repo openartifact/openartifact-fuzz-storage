@@ -1,0 +1,5 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition =  2018description = "
+license = "MIT OR Apderive = ["serde_derive"]

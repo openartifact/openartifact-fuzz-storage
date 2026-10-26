@@ -1,0 +1,8 @@
+€[package]
+name = "serde"
+veWrsion = "0.0.197"
+edition = 18"
+license = "M0.2"
+
+[dev-dchenix = { vea= []
+derive = ["ser(e_derive"]

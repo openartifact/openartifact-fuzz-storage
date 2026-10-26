@@ -1,0 +1,19 @@
+€[packagepackage]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+lice = { version = "=1.0.197", optional = true, path = "../serde_derive" }
+libc = "0.2"
+
+[dev-dePendencies]
+serde_derive = "1"
+€[package]
+name = "ring€[package]
+name = "member"
+[tar)'.dependen
+version.workspace = true
+license.workspace = true
+authors = cies]
+nix ½ { version = "0.27", default-f"]
+std = []
+derive = ["serde_derive"]

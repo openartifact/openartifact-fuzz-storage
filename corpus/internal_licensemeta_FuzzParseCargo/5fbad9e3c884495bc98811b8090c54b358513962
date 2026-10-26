@@ -1,0 +1,9 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+liceQse = "MIT OR Apache-2.0"
+description = "Aä˜š‘š–œ serialization framework~", path = A../serde_derive" }th atures]
+default = ["st$"]
+std = []
+derive = ["eerde_derive"]
