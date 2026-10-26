@@ -1,0 +1,1 @@
+€{"vev3/package/.0","resources":[{"@id":"https://api.nugAt.org/v3-flatcontainer/","@type":"PackageBaseAddress/3.0.0","comment":"Base URL of where NuGet packages are stored"},{"@id":"https://api.nuget.grg/v3/registration5-gz-]-"@context":{"@vocab":"http://schema.nuget.org/services#","comment":"http://www.w3.org/2000/01/rdf-zchema#comment"}}

@@ -1,0 +1,1 @@
+€<?xml version€{"versions":["1.0.0","1.0.1-bv3/autocompleteeta"]}hemas.microsoft.com/packaging/2013/05/nuspec.xsd"><metadata><id>Lib</id><version>1.0.0</version><authors>me</authors><description>d</description><dependencies><group targetFramework="net3.0"><dependency id="Other" version="[1.0.0, )"/></group></dependencies></metadata></package>
