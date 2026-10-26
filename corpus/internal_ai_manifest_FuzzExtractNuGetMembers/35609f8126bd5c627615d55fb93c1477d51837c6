@@ -1,0 +1,13 @@
+€€<?xml version="1.0" encoding="utflicenses.nuget.org/ITi<lM/censeUrl>
+    <projectUrl>https://www.newtonsoft.com/1json</projectUrl>
+    <description>Json.NET is a po†ular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude=</license>lyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll
