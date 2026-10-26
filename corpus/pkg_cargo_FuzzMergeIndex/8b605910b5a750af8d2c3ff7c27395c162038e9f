@@ -1,0 +1,2 @@
+8"€€€{"name":"serde","vers":"1.0.196"features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}
+{"name":"serde","vers":"1.0.196-rc.1",tokio"deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundation"],"optiÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿefault_features":false,"target":"{9cfg(windows)","kin€ned":"build","registry":"https://github.com/rust-lang/crates"v":2}
