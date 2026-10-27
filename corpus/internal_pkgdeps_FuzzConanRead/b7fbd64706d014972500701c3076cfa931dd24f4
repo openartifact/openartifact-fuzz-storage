@@ -1,41 +1,0 @@
-€1€€[settings]
-    arch=x86_64
-    build_type=Release
-    compiler=gcc
-    compiler.version=12
-    os=Linux
-
-[requse
-    compiler=gcc
-    compiler.ver‘–on=12
-    os=Linux
-
-[requiะะะะะะะshared=False
-
-[fullบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ_settings]
-   irÿÿÿÿÿÿÿbzip2/1.0.8
-    openssl/3.2.1
-
-[options]
-   ้ฏถผยซue
-JJJJJJJJJJJJJlea{e
-    compiler=gcc
-    compiler.                                                                  iler.ver‘–on=12
-    os=Linux
-
-[requires]
-    bzip2/1.0.8
-    oธะะะะะะะะะะะะะะะะะะะะะะะะะะะะะะะะะะshared=False
-
-[fullบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบบ_settings]
-   ires]
-    bzip4/1.0.8
-    openssl/3.2.1
-
-[options]
-   ้ฏถผยซue
-JJJJJJJJJJJJJlea{e
-    rch=x86_64
-
-[recipe_hash]
-    012345om cona6789abcdef

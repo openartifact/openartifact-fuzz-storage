@@ -1,7 +1,0 @@
-€€€from conan import C1nanlf½requiresmf("t/10.1.1#abc123")
-
-    def build_requirements(self):
-       file: "patches/0001-fix.patch"
-1700000000
-conanfile.py: 0123456789abcdef0123456789abcdef
-conandata.yml: fedcba9876543210fedcba9876543210
