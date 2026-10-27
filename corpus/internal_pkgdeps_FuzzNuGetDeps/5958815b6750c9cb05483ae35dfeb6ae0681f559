@@ -1,10 +1,0 @@
-€<?xml version="1.0encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/p7777777777777777777ackaging/2013/05/nusc.xsd">
-  <metadata>
-    <id>Newtonsoft.Json</id>
-    <version>13.0.3</version>
-    <authors>James Newton-King</authors>
- tadata><id>Legacy.Lib</id><version>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependennet6.0" />
-    </dependencies>
-  </metadata>
-</package>

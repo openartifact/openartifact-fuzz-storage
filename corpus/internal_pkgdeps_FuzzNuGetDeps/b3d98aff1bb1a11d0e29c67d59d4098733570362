@@ -1,4 +1,0 @@
-€<?xml vel>
-    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
-    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
-    <repository type="git" url="https://github.com/JamesNK/Newton     <group targetFramework=".Nadata><id>X</id><version>1.0.0</version><dependencies><group targetFramework="net462"><dependenâðÒPd="A" version="(,1.0]"/></group><group targetFramework="netstandard2.1"><dependency id="A" version="[1.0,)"/><dependency id="B" version="(1.0,2.0)"/></group></dependencies></metadata></package>
