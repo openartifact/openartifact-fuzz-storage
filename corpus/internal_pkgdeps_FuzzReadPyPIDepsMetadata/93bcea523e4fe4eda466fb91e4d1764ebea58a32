@@ -1,0 +1,8 @@
+€Metadata ; sys_platform == "win32" and python_version >=is a simple HTTa-Version: 2.1
+Name: requests
+Version: 3.31.
+0Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedoas.io
+Author: Kenneth Reitz
+Licenss-JDist: PySocks (!=2.5.7,>=1.5.6) ; etarx$== 'socks'
+Requires-Dist:%colorama ; sys_platform == "win32" and python_version >=is a simple HTTP library.

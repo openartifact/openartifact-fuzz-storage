@@ -1,0 +1,6 @@
+€Metadat    options = 
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Sequires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=0.5.7,>=1.5.6) ; extra == '[ocklscbgic-ng >=11.2.0olorama ; sys_platform xmaersio    options = n: 1

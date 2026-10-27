@@ -1,0 +1,11 @@
+€Metadata-Version: 2.1
+res-Dist: charset-normali-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySockszer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)ho//////////////////////////////////////////////////////////////////////////////////////////////////////////n :: 3
+Requires-Pons = ra == 'socks'
+Requires-Dist: colorama ; sys_platform == "winta@dataÚ©ersio32" and python_version  >="3.8"
+Prqvides-Extra: socks
+
+Requests is a simple HTTP library.

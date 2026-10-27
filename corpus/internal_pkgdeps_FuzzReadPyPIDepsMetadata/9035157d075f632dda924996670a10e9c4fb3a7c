@@ -1,0 +1,22 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Sumramming Languagon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normst: charset-normalizer (<4,>=2)
+Requires "2.8"
+Pr-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires`Dimary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 3.0class P(ConanFile):
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Prooramming Languagon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires "2.8"
+Pr-Dist: uires-Dist: win32" and>=""2.8"
+rvieoPds-Extra: socks
+
+Requests is a simple HTTP linfo/about.jsonibrary.

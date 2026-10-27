@@ -1,0 +1,12 @@
+€Metadata-Version: 2.1
+Name: re2.5)
+Requires-Dist:Python :: lizer (<4,>=2)
+Requires-Dist: idLicense-File: na (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.Ú©ersion: 2.1
+Nata-Veme: a
+lib: 1~8"
+Provides-Extra: socks
+
+Requests is{"name":e HTTP library.

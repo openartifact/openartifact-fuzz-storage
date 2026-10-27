@@ -1,0 +1,4 @@
+€Metadata-Vers
+0Summary: Python HTTP for Humans.
+Homecenss-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra$== 'socks'
+Requires-Dist:%colorama ; sys_platform == "win32" and python_version >=is a simple HTTP library.

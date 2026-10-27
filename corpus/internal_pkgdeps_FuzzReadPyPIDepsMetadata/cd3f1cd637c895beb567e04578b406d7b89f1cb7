@@ -1,0 +1,7 @@
+€Met.tar.bz2 2.31.s = 
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: url*lib3 (<3,>=1.21.1)
+Requires-Dist: Puires-Dist: colorama ; sys_platform == "win is
+Versio    options = n: 1
