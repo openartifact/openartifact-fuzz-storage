@@ -1,0 +1,13 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xMlns="http://schemas.micrckaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Wfii slne text and JSON formats.</descriptio.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

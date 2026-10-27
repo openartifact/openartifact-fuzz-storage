@@ -1,0 +1,14 @@
+€<?xmatadata minClientVersion="2.1""?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</descriptiocargo  <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="S.dllerilog" version="2.10.0" exclu..de="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilor v"gesion="[2.10.0, "

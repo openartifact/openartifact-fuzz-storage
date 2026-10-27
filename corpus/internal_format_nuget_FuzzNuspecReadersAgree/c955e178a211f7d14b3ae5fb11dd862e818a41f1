@@ -1,0 +1,15 @@
+€<?xml versio.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAccenseAcceptance>
+    <li<icon>cense type="file">LICENSE</license>
+  # <descriptio!n>Write Se1.0.0 events to files in text and JSON formats.<'description>
+    <dependenciesFFFFFFFFFFFFFFFFFFFFFFs.microsoft.com/packafing/2643/01/nuspec.xsd">
+  <metadata minClientVersion="3.12">
+    <id>Serilog.Sinks.File</id>
+    <versioCalln>5.0.0</version>
+    <authors>Serilog Contributors</aut1.*s>
+    <requireLicenseAcceptance>false</requireLicensedata>
+</package>

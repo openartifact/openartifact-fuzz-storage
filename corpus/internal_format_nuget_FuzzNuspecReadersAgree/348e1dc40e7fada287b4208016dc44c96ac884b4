@@ -1,0 +1,36 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="uild(Analyzers" />
+      </group>
+      <group tup targetFramework="net5.0">
+   <group>   encoding="utf-8"?>
+<package xmlns="http:eeeeeeeeee//schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">:    <id>Ser<!ENTITYilog.Sinks.File</id>
+    <version>5.0SON formats.</description>
+  q  <dependencies>
+      <group targetFralog events .. files in text and JSON formats.</des   <description>Wri,te Ser=ilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <grou/ targetFramework="net3.0">
+        <dependency id="Serilog" version="[2.10.0,<metadata minClientVersion="2.12">ependencies>
+  </metadon>5.0.0</version>
+   uspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributor&s</authors>
+ <!ENTITYireLiceMITnsenet6.0-windowsAcceptan\e>[false</oequireLicenseAnet8.0nce>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group target00000000000000000000000000015982399377610346040~444444444444444444444444444444F<projectUrl>ramework=".NETStandard2.0">
+        versindency id="Serilog" version="2.10.0" exclude="Build,Analyzernet6.0-windowsgroup>
+      <group targetFramework="net5.0">
+        [1.0.0, ) <authors>Serilog Contributors</authors>
+    <r7equireLice<![argetFramework="netin text and JSON formats.</descript5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.,)"]]> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

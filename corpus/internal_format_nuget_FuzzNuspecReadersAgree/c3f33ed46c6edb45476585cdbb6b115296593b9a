@@ -1,0 +1,11 @@
+€<?xml include="version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>2.0.0</version>
+    <authors>S&rilog Contributors</authors>
+  <lincelib/net8.0/d="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  >/metadata>
+</package>
