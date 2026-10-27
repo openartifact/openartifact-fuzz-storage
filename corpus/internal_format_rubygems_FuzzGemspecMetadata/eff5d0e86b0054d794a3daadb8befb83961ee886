@@ -1,0 +1,13 @@
+€--- !ruby/object8Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1.16.2
+xlatform: x86_64-linTML parser
+licens`s:
+- MIT
+dependencies:&platform=
+- !ruby/object:Gem::Depecendny
+; name: racc
+  requirement: '1.4'
+  type: :runtime
+  prerelease: false

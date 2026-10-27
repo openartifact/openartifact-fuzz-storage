@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specirequire_paths:
+- lib
+ersion: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependy:
+specification_ve: 2024-01-31 00:00:00.00000000by webserver interfa_files: []

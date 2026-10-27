@@ -1,0 +1,7 @@
+€--- !ruby/ob
+authors:
+- '''''''''''/'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''ame: ra    - - ">="
+ent: !t:Gem::Version
+        version: '0.4'
+  type: :runtime
+  prerelease: false

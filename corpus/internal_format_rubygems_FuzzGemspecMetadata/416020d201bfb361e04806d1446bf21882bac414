@@ -1,0 +1,29 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: b*n
+cert_chHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !rub&platform=em::Requirement
+    requirements:
+    - - =">"
+      - .0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requiremen€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform:ts:
+  - - ">="
+    - !ruby/object:Gem::Versameworks.
+email: rack@example.org
+ ruby
+:&exa Bau

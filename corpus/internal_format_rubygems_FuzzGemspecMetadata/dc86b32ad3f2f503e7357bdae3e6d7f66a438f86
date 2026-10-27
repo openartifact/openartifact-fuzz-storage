@@ -1,0 +1,12 @@
+0Î€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  vÿrsict:Gem::Version
+eah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minit

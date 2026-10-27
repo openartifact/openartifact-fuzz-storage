@@ -1,0 +1,7 @@
+€--- !ruby/object:Gem::Specificaect:Gem::Dependency
+  name: racc
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+ 0  - - "~>"
+      - !ruby/object:Gem::Version
+       evy t rpe: :rlease: false

@@ -1,0 +1,37 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  versio3..: n09
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: b*n
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !rub&platform=em::Requirement
+    requirements:
+    - - =">"
+      - .0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Versameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.con[I"
+2.0.0:E:ETU:Gem::Version[I"0&ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[ssage:
+rdoc_n: 3.5.3
+sig1ning_key:
+specification_versio 4
+summary: A modular Rub webserver £interface.
+test_files: []

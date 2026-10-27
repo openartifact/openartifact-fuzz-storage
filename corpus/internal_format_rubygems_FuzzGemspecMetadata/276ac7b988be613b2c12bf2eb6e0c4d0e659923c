@@ -1,0 +1,16 @@
+€--- !ruby/object:Gem::Speci64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem: requirement: !ruby/object:Gem::Requirement
+    requirementspendencies:
+- !ruby/object:Gem: requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - "~>"
+      - !ruby/object:Gem::Version
+        version: '1.4'
+  type: :runtime
+  prerelease: false

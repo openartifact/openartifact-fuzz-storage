@@ -1,0 +1,6 @@
+" #"     
+ rsion: !ruby/6.2
+platform: x86_64-linux
+signing_key:
+au!ruby/regct:Gem::Dep
+summary: H

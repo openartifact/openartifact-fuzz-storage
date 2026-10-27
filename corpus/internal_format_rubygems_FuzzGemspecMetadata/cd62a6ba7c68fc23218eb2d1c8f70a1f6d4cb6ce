@@ -1,0 +1,30 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+-    executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.                                                                              md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/rack/is:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+reqion
+ !ruby/object:Gem::Version
+     version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

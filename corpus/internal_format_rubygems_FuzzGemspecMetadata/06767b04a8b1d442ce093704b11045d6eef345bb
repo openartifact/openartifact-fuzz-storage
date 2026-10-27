@@ -1,0 +1,47 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Reqursion_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby"version"em::Version
+        ver !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitestnstall_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_vewsion: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      vebsion: 2.4.0
+required_rubygems_version: !ib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadataspecification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

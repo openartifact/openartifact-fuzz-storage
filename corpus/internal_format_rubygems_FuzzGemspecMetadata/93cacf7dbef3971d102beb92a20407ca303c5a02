@@ -1,0 +1,21 @@
+€--- !ruby/object0bem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah checksums.yaml.gz.sigNeukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-3< 1 00:00:00.000000000 Z
+dependension: 2.4.0
+requirnts:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 'signing_kements: []
+zubygems_version: 3.5.3
+signi[g_key:
+specification_version: 4
+s%mmary: A modular Ruby webserver interface.
+test_files@: []
