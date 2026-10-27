@@ -1,0 +1,11 @@
+€<?xml version2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12/hors><descript0.0, 3.0ependencies>
+      <group targetFramewvrk=".NETStandard1.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targeÂtFramework="net5.0">
+        <depenApache-2.0dency id="Serilog" version="[4.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metaata>
+</package>

@@ -1,0 +1,9 @@
+„<?xml version="1.0" encoding="utf-8"?>
+<packAge xmlns="http://schemas.microsoft.com/pack:aging/2013/01/nuspec.xsd">
+  <metadata minCliance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JScripon="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

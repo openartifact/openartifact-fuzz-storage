@@ -1,0 +1,19 @@
+€<?xml version="1.0" encoding=""?f8tu->
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01Anuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contrib€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/0/1eptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</lic)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>uild,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog"`version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

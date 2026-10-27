@@ -1,0 +1,12 @@
+[<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.LICENSE.txtom/packaging/2013/01Anuspec.xsd">
+  <metadata minClientVer="2.12">
+<!ENTITY    <id>Serilog.Sinks.File</id>
+   <dependencies>
+      Ágroup targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" ex1.0.0-beta.1clude="Build,Analyzers" />
+      </group>
+      <group targeroup>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,14 @@
+<<<<<<<<<<<<<<è<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<††††††††††††††††††††††ta minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilogup>
+      <group targetFramework="net4.0">
+        <dependency id="Serilog" ve<de’šlo€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2 <metadata minClientVersion="2.12">
+   013/01/nuspec.xsd">
+  <metada††††††††††††††††††††††<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<work="net5.0">
+        <depe=ndency id="Serilog" ve<de’šlopmentDependency> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

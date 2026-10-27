@@ -1,0 +1,9 @@
+€<?xml versruntimes/win-x64/native/ion="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <author>sJames Newton-Ki<!ENTITYors>
+    <license type="expression">MIT<T is a popular high-performance JSON framework for .NET</descriptype="git" url=.com/JamesNK/Newtonsoft.Jsondencies>
+  </metidadata>
+</package>

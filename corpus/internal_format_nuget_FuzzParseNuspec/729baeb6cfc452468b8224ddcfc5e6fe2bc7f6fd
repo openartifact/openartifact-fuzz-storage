@@ -1,0 +1,16 @@
+€<?xml version="1.0ï»¿ncoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <viption>Write Serilog events to.nuspecin text and JSON formats.</description>
+    <dnuspecin text and JSON formats.</description>
+    >dependencies>
+      <gn="[4.10.0, 3.0ependencies>
+      <group targetFramewvrk=".NETSSerilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFrametags="net5.0">
+        <dependency id="Serilog" version="[4.10.0, 3.0.0)" />
+      </group>
+    </dependenc<metadataies>
+  </metadata>
+</package>

@@ -1,0 +1,10 @@
+€<?xml?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/01/nuepsc.xsd">
+  <metadata repositorymintVersion="2.1d>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      s="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">tion>Write Serilog even<Anakage xmlns="http://schemas.microsoft.com/plyzeackrag
