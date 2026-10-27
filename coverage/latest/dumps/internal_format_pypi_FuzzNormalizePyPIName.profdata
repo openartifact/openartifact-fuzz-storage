@@ -9476,7 +9476,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:64.2,64.37 1 0
 /github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:65.3,66.1 1 0
 /github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:67.2,67.58 1 0
-/github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:86.2,87.1 1 442
+/github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:86.2,87.1 1 434
 /github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:92.2,93.1 1 0
 /github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:99.2,99.9 1 0
 /github/workspace/build-out/src/openartifact/internal/format/pypi/http.go:101.3,101.28 1 0
@@ -11493,7 +11493,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/pypisimple/parse_html.go:181.2,181.18 1 0
 /github/workspace/build-out/src/openartifact/internal/pypisimple/parse_html.go:185.2,186.1 2 0
 /github/workspace/build-out/src/openartifact/internal/pypisimple/parse_html.go:187.2,188.1 2 0
-/github/workspace/build-out/src/openartifact/internal/pypisimple/pypisimple.go:26.2,27.1 1 221
+/github/workspace/build-out/src/openartifact/internal/pypisimple/pypisimple.go:26.2,27.1 1 217
 /github/workspace/build-out/src/openartifact/internal/pypisimple/pypisimple.go:32.2,32.88 1 0
 /github/workspace/build-out/src/openartifact/internal/pypisimple/pypisimple.go:33.3,34.1 1 0
 /github/workspace/build-out/src/openartifact/internal/pypisimple/pypisimple.go:36.2,36.27 1 0

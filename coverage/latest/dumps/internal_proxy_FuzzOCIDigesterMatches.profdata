@@ -11086,13 +11086,13 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:576.2,576.21 2 55
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:577.3,578.1 1 6
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:580.2,580.20 1 55
-/github/workspace/build-out/src/openartifact/internal/proxy/oci.go:583.41,583.87 1 76
+/github/workspace/build-out/src/openartifact/internal/proxy/oci.go:583.41,583.87 1 77
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:588.2,589.9 2 110
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:590.3,591.1 1 36
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:593.2,593.14 1 74
-/github/workspace/build-out/src/openartifact/internal/proxy/oci.go:595.3,595.30 1 21
+/github/workspace/build-out/src/openartifact/internal/proxy/oci.go:595.3,595.30 1 22
 /github/workspace/build-out/src/openartifact/internal/proxy/oci.go:597.3,597.73 1 6
-/github/workspace/build-out/src/openartifact/internal/proxy/oci.go:600.2,600.13 1 47
+/github/workspace/build-out/src/openartifact/internal/proxy/oci.go:600.2,600.13 1 46
 /github/workspace/build-out/src/openartifact/internal/proxy/oci_auth.go:60.2,61.32 2 0
 /github/workspace/build-out/src/openartifact/internal/proxy/oci_auth.go:62.3,63.1 1 0
 /github/workspace/build-out/src/openartifact/internal/proxy/oci_auth.go:65.2,66.1 2 0
