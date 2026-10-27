@@ -1,0 +1,6 @@
+sion: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gonez:
+  - name: gone
+                                                      - oci://registry.{}ample/gone:1.0.0
