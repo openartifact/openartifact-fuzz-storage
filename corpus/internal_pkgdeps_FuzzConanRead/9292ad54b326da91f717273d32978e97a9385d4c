@@ -1,0 +1,19 @@
+€€€[settings]
+    arch=x86_64
+    build_typempiler.version=12
+    os=Linux
+
+[requse
+compiler=gcc
+    comPIC": True}
+ull_setti›˜Œ¢
+   ires]
+   èzip2/1.0.8
+    openssl/3.2.1
+
+[options]
+    fPIC=True
+   ed=False
+
+[fullep_hash]
+  5 0123456789abcdef

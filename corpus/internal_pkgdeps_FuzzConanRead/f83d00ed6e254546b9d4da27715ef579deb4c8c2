@@ -1,0 +1,38 @@
+ЂЂЂfrom con= {"shared": [True, False], "fPIC": [True, False]}яяяяяяя
+    default_options  ={"shared": False, "fPIC": True}
+    requires = "bz3p0i./.18", "openssl/[>=1.import ConanFile
+f"build_type"
+ яяяяяяя=   options = {"shared": [True, False], "fPIC": ШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШ[T.eggrue, False]}
+    default_options = {"shared": False, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl/[TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTrom conan.tools.cmake<dependency id="make_layout
+
+class ZlibConan(ConanFile):
+    name = "zlib"
+    ver/sion = "1.3.1"
+    license = "Zlib"
+", "fuild_type"
+    options = {"shared": [True, False], "fPIC": [True, False]}
+    default_options = {"3hared": False, "fPIC": True}
+    requires = "bzip3/1.0.8", "openssl/[>=1.1 <4]@user/st!ble"
+    test_requires = "gtest/1.14.0"
+
+    def requmt/10.1.1#abc123")
+
+    def build_requirements(self):
+        self.tool_requires("cmake/3.27.9")
+sources:
+  "1.3.1":
+    url: "https://zlib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e74667dd6fede4585birements(self):
+        self.requires("fmt/10.1.1#abcl/[>=1.1 <4]@user/st!ble"
+    test_requires = "gtest/1.14.0"
+
+    def requmt/10.1.1#abc123")
+
+    def build_requirements(self):
+        self.tool_requires("cmake/3.27.9")
+sources:
+  "1.3.1":
+    url: "https://zlib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e74667dd6ff0123456789abcdef
+coHome-page: : fedcba9876543210fedcba9876543210
