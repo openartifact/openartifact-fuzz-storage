@@ -1,0 +1,15 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000dZ 
+000ependencies:
+- !ruby/object:Gem::Dependency
+  n A modular Ruby webserver interface.
+test_files: []
