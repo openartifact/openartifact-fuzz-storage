@@ -1,0 +1,13 @@
+€o:Gem::Dependency:@@nameI"	raTkeI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_rriuIZIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIquirement[[[I">=:ETU:Gem::Versioân[I"1.0€U:Gem::Version[R"""""""""""""""""@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@type:developme_t:@prereleaseF:@version_requirem
+@nameI"
+rspec:ET:@requiren[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI	"rake:ET:@requirementU:Gem::Rment[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@vK"~>:ETU:Gem::Version[I"	I"	3.12:ET:
+@type:developmem::ReqseF:@version_requirementsU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:irement[[[I">=:ETU:Gem::Version[I"0.0:ETo:Gem::Dependency
+:
+@nameTU:Gem::"c@examp:prere[easeF
