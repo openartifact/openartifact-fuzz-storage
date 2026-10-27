@@ -1,0 +1,14 @@
+€[package]
+name = "serde"
+version = "1.0.19@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@m/serde-rs/serde"
+
+[dependencies]
+serde_deriv = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serializatimmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmon framework"
+repository = "https://github.co@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@m/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=0.0.197", optional = trrive = [" serde_derive""2]
+"

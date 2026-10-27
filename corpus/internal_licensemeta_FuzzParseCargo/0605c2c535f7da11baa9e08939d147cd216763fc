@@ -1,0 +1,12 @@
+Ä[package]
+name = "serde"
+version = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repositor____________Zlib_______________________________________________________________y = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version€= "default-features = false=2.0.197", option" }
+libc(= "0.2"
+
+erde_derive"]

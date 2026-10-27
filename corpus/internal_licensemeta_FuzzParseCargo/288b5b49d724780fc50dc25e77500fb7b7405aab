@@ -1,0 +1,31 @@
+GPLsion = "1.8.5"
+license = "MIT/Apache-2.0"
+
+[depeeeeeeeeeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeendencies.rand_core]
+version = "0.6.0"
+
+[build-dependencwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwBSD-3-Clausewwwwwwwwwwieeeeeeeeeeeeeeeeeeeeendencies.rand_core]
+version = "1.6.0"
+
+[build-dependencwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwBSD-3NOASSERTION-Clausewwwwwwwwwwieeeeeeeeeeeeeeeeeeeeeeeeendencies.rand_core]
+version = "0.6.0"
+
+[build-eeeeeeeeeendencies.rand_core]
+version = "0.6.0"
+
+[build-dependencwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwBSD-3-Clausewwwwwwwwwwieeeeeeeeeeeeeeeeeeeeeeeeendencies.rand_core]
+version = "0.6.0-2.0-onlyame = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repositse = "MIT/Apache-2.0"
+
+[depeeeeeeeeeeeeeeeeeeeeeeee‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeendencies.rand_core]
+version = "0.6.0"
+
+[build-dependencwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwory = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = ]
+derive = ["serde_deriä°"]

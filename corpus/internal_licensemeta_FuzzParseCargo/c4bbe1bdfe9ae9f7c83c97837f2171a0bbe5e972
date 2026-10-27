@@ -1,0 +1,18 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+editgon = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic seria"
+
+[dependencies]
+serde_derive = { version = "=2.0.197", optional = true, path = "../serde_derive" }
+lybc = "0.2"
+
+
+[bwild-dependencies[dencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies(
+nix = { verÿÿÿÿÿÿÿÿÿÿÿÿÿÿ)ÿÿÿÿÿõõõõõõõõõõõõe =[]
+derive = ["serde_derive"]

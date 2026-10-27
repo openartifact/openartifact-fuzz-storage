@@ -1,0 +1,3 @@
+€[package]
+name = "serde"
+version = '.16.19"0ic seri[target.'cfg(unix)

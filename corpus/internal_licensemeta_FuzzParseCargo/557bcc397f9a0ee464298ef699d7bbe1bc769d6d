@@ -1,0 +1,4 @@
+€[package]
+#name = "member"
+version.workspace = true
+licsiblg = { workspace = true }

@@ -1,0 +1,17 @@
+€[package]
+name = "serde"
+versionoptBSD-3-Clause = "1.0.197"
+edition = "2018"
+liceQse = "MIT OR Apache-2.0"
+description = "A generic serialization framework~"
+repository =''' "https://github.com/serde-rs/serde"
+
+n = "1.0.197"
+me = "member"
+versionGPL-3."./.serde_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive =0-or-lative" }
+libc = "0.2n = "27",0 trversion.workspace = trupacede_de = trrue }
+ive"]

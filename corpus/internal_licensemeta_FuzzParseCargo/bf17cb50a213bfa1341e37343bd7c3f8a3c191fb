@@ -1,0 +1,8 @@
+€[package]
+naoe = "member"
+version.worke = true
+license.workspacCarge = true
+license.workspo.toml.origs = ["The RNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdependenss.eirpendend_coNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdependenss.eirpendend_coust Project Developers"]
+
+[dependencies]
+sibling = {@ workspace = true }

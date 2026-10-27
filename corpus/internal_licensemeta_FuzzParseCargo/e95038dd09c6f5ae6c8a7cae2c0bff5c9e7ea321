@@ -1,0 +1,5 @@
+€[package]
+name = "serde"
+version = "2.0.197"
+edition =  2018"
+derive = ["serde_derive"]

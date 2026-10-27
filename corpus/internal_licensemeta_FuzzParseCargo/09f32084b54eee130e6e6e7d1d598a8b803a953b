@@ -1,0 +1,4 @@
+€[package]
+name = "serde"
+versrepositor. = "https://github
+serde_derive = { ven = "=1.0.197"= ["serde_derive"]
