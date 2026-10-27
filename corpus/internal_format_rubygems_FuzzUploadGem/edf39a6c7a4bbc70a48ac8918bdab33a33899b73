@@ -1,0 +1,19 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirc@hen
+autorequire:
+b: bin
+cert_chain: []
+date: 2024-01-31k provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables"homepage"rsion: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

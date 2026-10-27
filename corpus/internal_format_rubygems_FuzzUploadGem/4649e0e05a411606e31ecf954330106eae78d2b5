@@ -1,0 +1,17 @@
+€{"name":"appppppppppppobject:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - mess!ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  ve000 Z
+dependri: https://github.com/rack/rack/issues
+post_install_message:
+rioc_options: []
+required_ruby:
+- lib
+required_ruby_versidependencies:
+ct:Gem::Requipppppppppppppppppppppppppppppppppppppppppppr"}

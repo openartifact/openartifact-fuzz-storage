@@ -1,0 +1,6 @@
+€{"naequirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2 - ">="
+    - !ruby"runtime"}]}

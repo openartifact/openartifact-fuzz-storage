@@ -1,0 +1,26 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Specification
+name: dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddrack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirc@hen
+autorequire:
+b: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requ3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []
