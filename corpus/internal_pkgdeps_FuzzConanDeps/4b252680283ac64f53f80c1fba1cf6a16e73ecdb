@@ -1,5 +1,0 @@
-€from conan import ConanFile roequi(self):
-        self.requires("fm-/1041.1#a%c123")
-
-    def build_requirements(self):fmt
- _requires("cmake/3.27.9")

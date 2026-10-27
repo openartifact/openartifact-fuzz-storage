@@ -1,7 +1,0 @@
-€from conan import ConanFile rom
-fc   <3]@user/stabe"l
-    test_requi(self):
-        self.requires("fm-/1041.1#abc123")
-
-    def build_requirements(self):fmt
- _requires("cmake/3.27.9")

@@ -1,5 +1,0 @@
-€class P(ConanFile):
-    name = " p "
-  requiresÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ= ("zlib/×Ñ3.1", "boost/ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿÿÿÿÿÿ= ("zlib/1.3.Á", "boost/[>=1.80 <2]")
-    build_requires = "me)on/1.3.0"
-  [>=1.80 <2]"n/1ååååannel"

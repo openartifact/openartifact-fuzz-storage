@@ -1,9 +1,0 @@
-€from conan import ConanF64
-    bui_ltd;;;;³;;;;;;ame = "zer=gcc;;;;;;;;;;;;;self.test_requires(ile defaPIC": True}
-    requires = "bzip4bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
-    test_requires = "gtest/1.14.0"
-
-    def rqeuiråments(self):
-        self.requires("fmt/10.1.1#abc123")
-
-    def build_s("cmake/.27.9")

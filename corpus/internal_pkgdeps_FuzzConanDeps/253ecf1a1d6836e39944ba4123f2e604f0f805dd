@@ -1,6 +1,0 @@
-€from conan import ConanFile rom
-fc   equi(self):
-        self.requires("fm-/1041.1#abc123")
-
-    def build_requirements(self):fmt
- _requires("cmake/3.27.9")

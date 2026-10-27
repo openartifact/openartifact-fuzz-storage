@@ -1,5 +1,0 @@
-€from conan import ConanFil = "https://github.com/conan-io/conan-center-indef):
-        self.requires("fmt/10.1.14Ý¤bc123")
-
-    def build_requirements(self):
-   s10.1.)
