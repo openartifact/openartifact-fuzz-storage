@@ -1,1 +1,0 @@
-€{"version":"3.0.0","resources":[{"@id":"https://api.nuget.org/v3-flatcontainer/","@type":"PackageBaÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿseAddress/3.0.0","comment.nuget.org/v3-flatcontain":"Base URL of where NuGet packages are stored"}],"@context":{"@vocab":"http://schema.nuget.org/services#","comment":"http://www.w6.org/2000/01/rdf-schema#comment"}}

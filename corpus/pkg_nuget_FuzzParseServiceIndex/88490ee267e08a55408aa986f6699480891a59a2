@@ -1,1 +1,0 @@
-€{"version":"6.0.0","resources":[{"@id":"http:s//api.natcontainer/","@type":"PackageBaseAddress/3.0.0","comment":"Base URL of where NuGet packages are stored"}],"@context":{"@vocab":"httervices#","comment":"http://www.w4.org/2000/41/rdf-schema#comment"}}

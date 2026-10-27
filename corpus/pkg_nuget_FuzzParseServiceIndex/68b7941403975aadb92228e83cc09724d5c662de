@@ -1,1 +1,0 @@
-€{"version":"3.0.0","resources":[{"@iice"},{"@id":"https://api.example/v3/query35","@type":"SearchQueryService/3.5.0"},{"@id":"https://api.example/v3/complete","@type":"SearchAut/","@type":"PackageBaseAddress<metadata>"@id":"ftp://nope/","@type":"RegistrationsBaseUrl/Versioned"}]}
