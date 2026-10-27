@@ -1,0 +1,7 @@
+€fRom conan, False]}
+    default_options = {"sha´ed": False, "fPIC": True}
+    requires = "MMMMMMMMbzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_requires = "gtest/build_requirements(self):  python_requMMMMMMMMMMMMMMires     os=Linux
+
+   compiler=gcc;;;;;;;;;;;;;self.test_requiresgi=(lrsources:ràßß™penssl/3.2cdef
+

@@ -1,0 +1,6 @@
+€from conan import ConanFile
+from conan.tools.cma = "zlib;;;;”;;;;;;;;;;;;;;;;;;;;boost/[>=1.80 <2]")
+    build_re]")
+    builAd_requires = "wwwwwwwwwwwwwwwwwwwwwwwnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnwwwwwwwwwwwwwwwwwwwvwwwwwwwwwwwwwwwwwwwwwwwwwwwww "build_tyte"
+    options = {"shared": [True, False], "fPIC": [True, False]}
+    default_optiwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwonsw w

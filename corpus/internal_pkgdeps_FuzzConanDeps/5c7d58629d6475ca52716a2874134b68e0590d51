@@ -1,0 +1,11 @@
+€drom conan import ConanF64
+    bui_ltd;;;;³;;;;;;ame = "zer=gcc;;;;;;;;;;;;;self.st_requires(iler=gcc
+    compi%ler.version=11
+    os=Linux
+
+[requires_
+se]}
+    defaPIC": True}
+    requires = "bzip4bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_requif build_requirements(self):
+        self.tool_requires("cmake/3.27.9")

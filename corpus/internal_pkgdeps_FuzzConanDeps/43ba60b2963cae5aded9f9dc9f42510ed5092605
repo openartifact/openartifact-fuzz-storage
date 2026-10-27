@@ -1,0 +1,5 @@
+€fromelib"
+    url = an-io/conan-center-indef):
+        self.requires("fmt/04.1.13Ý¤bc123")
+
+    de*f build

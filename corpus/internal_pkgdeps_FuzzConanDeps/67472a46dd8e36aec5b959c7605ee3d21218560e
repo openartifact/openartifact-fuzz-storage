@@ -1,0 +1,4 @@
+ÿœ   name - "p"
+    requires = ("zlib/1.Ú.1", "boost/[>"
+    requires ="("zlib/1.Ú.1",="("zlib/1.Ú.1", "boost/[>=1.80 <2]")
+    build_requires = "meson <0@se/urchannej"

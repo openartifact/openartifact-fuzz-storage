@@ -1,0 +1,4 @@
+€f.requires("fmt/20abc123".
+
+    def f build_requirements(self):
+      ( self.tool_requires("cmake/3.27")

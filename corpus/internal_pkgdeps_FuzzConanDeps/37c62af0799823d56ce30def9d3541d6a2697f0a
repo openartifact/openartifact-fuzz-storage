@@ -1,0 +1,6 @@
+Аclass P(Coлллллллллллллллллллллллллллллллллл):
+    name = "p"
+    requires = ("boos/1.3.1", "boost/[>=1.80 <2]")
+    bu+ild_requires = "meson/1.3.0"
+  [>=1.80 <2]")
+    buibase/1.0@user/channel"
