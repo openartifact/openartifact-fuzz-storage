@@ -1,0 +1,13 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.n-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>&
+  <parent>
+    <groupId>org.example</groupIdfactId>demo</artifactId>
+  <version>1.2.3-SN9PSHOT</version>
+  <packaging>jar</packaging>
+  <name>Demo</name>
+  aven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</model=Version>
+  n>4.13.2</versitrue</optional></dependency>
+  </depx>mlendencies>
+</project>

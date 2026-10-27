@@ -1,0 +1,6 @@
+€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.ipache.org/POM/4.0.2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  relativePath/>  <dependencies-
+    <dependency><groupId>junit</groupIwwwversion><optional>true</optional></dependency>
+  </dependencies>
+</project>

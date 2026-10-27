@@ -1,0 +1,7 @@
+€<?xml version="1.0" encoding="UTF-8apache.org/licenses/LICENSE-2.0</u·········rl></license></licenses>
+  <propertie¿<java.version>17</java.version></properties>  <dependencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><versiNSE-2.0</u·········rl></license></licenses>
+  <propertie¿<java.version>17</java.version></properties>  <dependencies>
+    <dependency>d>junit</artif!ctId><version>2.13.2</version><scope>test</scope></dependency>
+    <dependency><groupId>org.slf4j</groupId><artifon><optional>true</optional></dependersion>${slf4j.version}</versi"?>
+<project xmlns="h€<?xml version="1.0" encoding="UTşF-8apache.org/licenses/LICENSE-2.0</u··E project [<!ENTTIY e"r ojec·······rl></license></licenses>  <propertie¿<java.version>17</java.vet
