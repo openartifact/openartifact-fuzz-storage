@@ -1,0 +1,3 @@
+€€€€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_
+cla"arh"c, mc"opilefedcba9876543210
