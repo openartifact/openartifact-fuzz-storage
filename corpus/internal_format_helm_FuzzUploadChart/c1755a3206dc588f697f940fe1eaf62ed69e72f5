@@ -1,0 +1,10 @@
+€apiV]rsion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4tnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - tnami-c  # repository: ommon
+annotation):
+  c~ategory: Infrastructure

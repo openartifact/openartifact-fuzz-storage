@@ -1,0 +1,11 @@
+€apiVersionon: NGINis a we
+keywords:
+ ;- nginx
+  - http
+  - web
+home: https://bitnami.comb
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+-   https://github.com/bitnami/c     - bitnami-common
+an'otatateg:rastructure

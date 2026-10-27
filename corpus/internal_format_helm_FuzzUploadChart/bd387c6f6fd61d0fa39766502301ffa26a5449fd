@@ -1,0 +1,17 @@
+€apiVersion: v2
+name: ngix0
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">on: NGINX Open Source is a web server
+type: application
+version: 15“Ãú.4.4
+appVersion: n: ">=1.19.0-0"
+ke version: 2.x.x    reposi|ory: oci://regi=1.19.0-0"
+ke version:dependencies:
+  - name: ci://registry-1.docker.io/bitnamicharts
+    tags:
+      - bitnamKi-common
+annotations:
+  categ~1.2.3ory: InfrsssssssssssssssastŠœ‰ure

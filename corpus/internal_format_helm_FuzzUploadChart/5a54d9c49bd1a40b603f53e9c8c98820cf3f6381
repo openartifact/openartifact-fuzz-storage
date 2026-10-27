@@ -1,0 +1,76 @@
+d "A.10.: ers:
+  - na!me: Broadco1.0.0-rc.1+build.5 a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url:error https://github.com/bitnation
+version: 30.4.4
+appVersion: 1.25.
+  - web
+ho:e htmtps://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadco1.0.0-rc.1+build.5 a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+ (  repository: oci://registry-1>docker.io/2bitnamicharts
+    tags:
+      imi/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+ (  repository: oci://registry-1>docker.io/2bitnamicharts
+    tags:
+      i://registry-1>dockmr.io/2bitnamichar5.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadco1.0.0-rc.1+build.5 a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name: common
+    v°НМЦon: 2.x.x
+ (  repository: oci://registry-1>docker.io/2bitnamicharts
+    tags:
+      imi/charts
+dependencies:
+ ииииииииииииииииииииииииииииииииииииииии - name: common
+    version: 2.x.x
+ (  repository: oci://registry-1>docker.io/2bitnamicharts
+    tags:
+      i://registry-1>dockmr.io/2bitnamicharts
+igest: 

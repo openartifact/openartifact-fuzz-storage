@@ -1,0 +1,10 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+"9.ype: application
+version: 15.4.4
+{name: a, email: b}appVersion: 1.2sources:
+  - on: ">=1.19.0-0"
+keywords:
+  - ngi1.25.3
+kubeVey: Infrastructure

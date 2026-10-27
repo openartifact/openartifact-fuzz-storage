@@ -1,0 +1,32 @@
+€apiVersion: v2
+name: ngix
+description: NGINX Opeer
+type: application
+version: 68.4.4: 68.4.4
+appVersion: 1.25.3
+kubeVerõõõõõõõõõõõõsion: ">=1.19.0-0"*
+keywords:
+  - nginx
+  - http
+  - web
+home: hptts://bitnami.com
+icon: https://example.com/nginx.s
+appVersion: 1.25.3
+kubeVerõõõõõõõõõõõõsion: ">=0.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: hptts://bitnami    url: .LICENSEn: https://example.com/nginx.svg
+sources:
+  - ht†ps:/-1.0.0.tgz/gi‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡ÿÿÿÿÿÿÿ‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡thub.com/.itnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2./bitnamicharts
+    tags:
+    @ - bitnami-common
+annotations:
+  category: Infrastructure

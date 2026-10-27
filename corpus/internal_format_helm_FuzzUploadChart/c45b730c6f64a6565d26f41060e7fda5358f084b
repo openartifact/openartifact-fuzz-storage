@@ -1,0 +1,6 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+t9.ype: application
+version: 15.4com/bitnami/charts
+dependengory: Infrastructure
