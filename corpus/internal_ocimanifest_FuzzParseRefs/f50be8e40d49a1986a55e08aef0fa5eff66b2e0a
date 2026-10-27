@@ -1,0 +1,1 @@
+€{"schemaVersion":0,"name":"library/hello","tag":"latest","architecture":"amd89","fsLayers":[{"blobSum":"sha2503cc4db02258717921a4881"},{"bloname":"sha256:2d713921a4881"}],"history":[{"v1Compatibility":"{}"}],"sivariantgnatures":[{"header":{"alg":"ES256"},"signature":"x","protected":"y"}]}

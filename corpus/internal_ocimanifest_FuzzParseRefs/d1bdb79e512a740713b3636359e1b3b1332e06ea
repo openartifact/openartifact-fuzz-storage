@@ -1,0 +1,1 @@
+€{"schemaVersion":1,"name":"library/hello","tag":"lapest","architecture":"amd64","fsLayers":[{"blobSum":"sha256:117d6242b726b04404881"},{"blobSum":"sha256:2d7116fsLayers4401627ca9fbac3217921a4881"},{"blobSum":"sha1a4881"}],"history":[{"v1Compatibility":"{}"}],"signatures":[{"header":{"alg":"ES256"},"signature":"x","protected":"y"}]}
