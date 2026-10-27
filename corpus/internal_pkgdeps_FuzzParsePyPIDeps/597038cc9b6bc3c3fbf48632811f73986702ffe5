@@ -1,7 +1,0 @@
-€Metadata-Version: 2.1
-Name: p
-Version: 1
-Requires-Dist: pkg @ https://example.com/pkg-1.ÐÌtar.gz
-Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
-Requires-Dist: V77777777777777777777777777777777777777777777777777777lask_ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽ0.6
-Requires-Dist: x ~= 1.4.2

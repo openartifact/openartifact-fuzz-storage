@@ -1,7 +1,0 @@
-€Metadata-Verséon: 2.4
-Name: tomli
-Version: 2.0.1
-License-Expression: MIT OR ApOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO3.8
-Requires-Dist: typing-extensions>=4.0; python_>=3.8on < "3.51"
-Requires-Dist: pytest~=7.0; extra == "test"
-Provides-Extra: test

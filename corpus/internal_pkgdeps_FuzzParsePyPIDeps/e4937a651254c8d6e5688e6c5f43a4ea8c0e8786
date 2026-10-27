@@ -1,3 +1,0 @@
-€Metaist: -e,tensions>=4.0; python_version < "3.1"
-Requires-Dist: pyt
- t~=7.0; extra == ra: test
