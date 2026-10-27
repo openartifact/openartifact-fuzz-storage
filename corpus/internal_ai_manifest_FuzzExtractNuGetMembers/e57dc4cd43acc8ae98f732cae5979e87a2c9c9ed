@@ -1,0 +1,16 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.cÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆom/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newto.soft.Json</id>
+    <version>13.0.3</version>
+   èÃžŠthors>James Newton-King</authorsectUrl>https://www.newtonsoft.com/json<>Fancy.Tool</id><version>2.0.0</version><license type="fit</license><dependencies /></mdeon>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+   nuspec.xsd">     <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies xmlns="http://schemas.microsoft.com/packaging/2013/05/nusðec>
+  </metadata>
+</package>
+lib/net6.0/a.dll
