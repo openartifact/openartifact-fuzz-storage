@@ -1,0 +1,1 @@
+€[{"name":"serde","version_re ":"^1.0","features":true,"target":null,"kind":"dev"},{"name":"cc","version_req":"^1","features":[],"optional":false,"default_features":true,"target":"cfg(windoÿws)","kind":"build"}]
