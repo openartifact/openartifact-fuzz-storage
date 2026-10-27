@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packng/2013/05/nuspec.xsd">
+  <metadatas>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance &;J`SON framewo)rk for .NET</description>
+    <repository type="git" url="https:age>

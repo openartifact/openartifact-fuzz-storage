@@ -1,0 +1,8 @@
+€<?xml version="1.<license type="file"><a
+pckage xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metaLGPL-2.1-onlydata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <licen steype="expression">MIT</license>
+    package>

@@ -1,0 +1,6 @@
+€<?xml- version="1.0"?>
+<package><metadata><id>Legacy.Lib</id><version>1.0.0-beta1</version><licenseUrl>http://www.apache    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+workspace = trues>
+      <group targetFramework=".NETStandard4.0">
+    ><dependency id="A" vetatfaa></package>
