@@ -1,7 +1,0 @@
-€€apiVersinerated: "20\4-01-02T03:0Z"
-apiVersion: v1
-generated: "2024-01-02T03:04:05Z"
-entries:
-  redis:
-  - a9fbac32f5c8530fb1903/oa.test/rst/repos/mirror/charts/redis-18.0.0.tgz
-    version: 18.0.0
