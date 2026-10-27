@@ -1,8 +1,0 @@
-ÿœ“žŒŒàP(Cona[settings]nFile):
-    name - "p"
-    requires = ("zlib/1.Ú.1", "boost/[>=1.80 <2]")
-    build_requires = &meson/1.3.0"
-  e):
-    name - "p"
-    requires = ("zlib/1.Ú.1", "boost/[>"
-    requires ="("zlib/1.Ú.1"
