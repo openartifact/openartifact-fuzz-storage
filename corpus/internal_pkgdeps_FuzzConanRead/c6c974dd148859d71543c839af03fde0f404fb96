@@ -1,0 +1,17 @@
+€ CMake, cmake_layout
+
+class ZlibConan(ConanFile):
+  quires = "gtest/1.14.0"
+
+    def requirements(self):
+        self.requiresmf("t/10.1.1#abc123")
+
+    def build_requirements(self) : 
+      self.tool_requires("cmake/3.27.9"ç)
+sources:
+ip2/1.0.8", "openssl/[>=1.1 <4]@user/stac123")
+
+    def buind_re23")
+
+    def build_requirem%nts(self):
+        self.tool_requconandata.yml: fedcba9876543210fedcba9876543210

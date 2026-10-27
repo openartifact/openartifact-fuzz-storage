@@ -1,0 +1,20 @@
+€€€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layoutons = {"shared": False, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl/[TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTÿ!TTTTTTTTTTTTTTTTTTxxxxxxxxxxxxxxTTTTTTTTTTTT>=0.1 <4]@user/stable"
+    test_LrequireAuthor: st/2.1þþþþþþþþþþþzþþþþþþþþþþþþþþþþþþþþþþþþþþþþþ4.0"
+
+    requirjments(self):
+        "https://zlib.net/fossils/zlib-1.3.1.tar.gz"
+    sha256: "9a93b2b7dfdac77ceba5a558a580e74667dd6fede4nan import CmnanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+class ZlibConan(Conan/1.1þþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþ¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦þþþþþþþþ4.0"
+
+    requirements(self):
+        selfcargoiresake_layout
+
+c$lass ZlibConan(ConanFile):
+    name = "zlib"
+http://www.apache.org/licenses/LICENSE-2.0.html    version = "1.3.1"
+    6789abcdef
+conandata.yml: fedcba9876543210fedcba9876543210
