@@ -1,6 +1,0 @@
-€apiVersion: v2
-name: evlor
-dsion: 2.0.0
-deprecated: true
-appVersion: "1.0"
-description: Deprecated chart

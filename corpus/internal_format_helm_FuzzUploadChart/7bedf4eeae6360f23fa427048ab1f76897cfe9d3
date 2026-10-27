@@ -1,8 +1,0 @@
-€apiVersion: v2
-name: 19.0-0"
-kedependencies:
-  - name: sitory: oci://registry-1.docker.io/bitnamicharts
-    tags:
-      - bitnami-common
-annotations:
-  catego~1.2.3frastructure
