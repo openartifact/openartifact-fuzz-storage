@@ -1,8 +1,0 @@
-€[package]
-n = "member"
-version.worke = true
-license.workspacCarge = true
-license.workspo.toml.origs = ["The Rust Project Developers"]
-
-[dependencies]
-sibling = {@ workspace = true }

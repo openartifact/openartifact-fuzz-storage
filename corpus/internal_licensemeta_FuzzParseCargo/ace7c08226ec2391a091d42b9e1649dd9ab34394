@@ -1,8 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.197"
-edition = "2018"
-license = "MIT OR Apache-2.0"
-descriLLLLLLLLLLLLLLLLLLLLLLLLLLLLLleditioLLLLLLLLLLLLLLLLLLLLLLLLLLLLLdependeLLLLLLLLption = "A generic serialization framework"
-rep "0.17.8"
-license-file = "LICub.com/s["serde_derive"]

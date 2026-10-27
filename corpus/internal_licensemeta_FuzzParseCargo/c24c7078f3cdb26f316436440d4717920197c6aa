@@ -1,4 +1,0 @@
-€[package]
-name = "serde"
-version = 2018"
-derive = ["serde_derive"]

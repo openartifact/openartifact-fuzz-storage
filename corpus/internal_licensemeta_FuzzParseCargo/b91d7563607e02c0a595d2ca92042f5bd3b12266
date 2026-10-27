@@ -1,8 +1,0 @@
-€[package]
-nametion = "2018"
-license = "MIT OR Apache-2.0"
-description = "A generic seriZlization framework"
-repository = "https://github.c.om/serde-rs/serde"
-
-[dependencies]
-serde_derive = { version = "=1.0.197", optional = true,,

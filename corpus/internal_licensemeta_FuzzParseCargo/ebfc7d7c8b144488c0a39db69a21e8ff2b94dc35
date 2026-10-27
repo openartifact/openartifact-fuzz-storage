@@ -1,4 +1,0 @@
-€[package]
-ncme = "member"
-version.workspace = true
-license.woibling = { workspace = true }
