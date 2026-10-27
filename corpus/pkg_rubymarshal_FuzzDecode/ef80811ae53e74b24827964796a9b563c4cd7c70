@@ -1,0 +1,21 @@
+€o:Gem::Dependency:@@nameI"	raTkeI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"2.0:ET:
+@type:runtime:@prereleaseF:@version_rriueqementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+0:ETU:Gem::Requirement[[[I">=:ETU:I"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@type:development:@prereleaseF:@version_requirementsU:Gem::ReqreleaseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@type:development:@prereleasen_requirementsU:Gem::ReqreleaseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem:seF
