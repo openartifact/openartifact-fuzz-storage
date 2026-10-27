@@ -1,0 +1,5 @@
+€Metadata-Version: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @her[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist: V77770000000000000000000000000000002865383987917065784laires-Dist: x ~= 1.4.2

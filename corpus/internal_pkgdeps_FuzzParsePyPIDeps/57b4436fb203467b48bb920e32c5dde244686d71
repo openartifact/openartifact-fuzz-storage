@@ -1,0 +1,7 @@
+€Metadata-Version: 2.1
+Name: p
+Version: 1
+Requireÿÿÿdst: pka != "dev"
+Requires-Dist: Vlask_ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽ
+tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
+Rsion: 2.2

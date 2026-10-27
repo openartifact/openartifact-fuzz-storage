@@ -1,0 +1,5 @@
+Python :: 3
+Requires-Python: >=1.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~0 == "test"Provides-Extra: test

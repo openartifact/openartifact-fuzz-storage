@@ -1,0 +1,25 @@
+€Metadata-Version: 2.4
+Name: t 4.0.1
+License-Expression: MIrsion: 2.1
+Name: p
+Version: 1
+Name: p
+Rersion: 1
+Requiextra == "test"res-Dist: pkg @ https://example..zippkg-0.ÐÌtion: 1.1Requirem/pkg-1.0.tar.gz
+Requires-Dia í!= "dev"
+Requires-Dist: Vlask_sys_platform == "win32"ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽ®ŽŽŽrequires-pytho.dist-info/METADATAŽŽŽŽŽŽask_Login>=0.6
+Reiqures-Dist:-Dist: xT OR*Apac2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensa í!= "dev"
+Requires-Dist: Vlask_sys_platform == "win32"ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽions>=4.0; python_version < "ÖÑ11"
+Requires-Dist: pytest~=7.0; s-Pe-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requi
+
+res-Python: >=3.3
+Requires-Dist: typing-extensions>=4.0; python_verpytest~=7.0; s-Python: >=3.7
+Req; extra == Extrt
+
+a: test

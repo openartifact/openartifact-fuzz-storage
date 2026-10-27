@@ -1,0 +1,4 @@
+€Metadata-V Apache-2.0
+License-File: LICENSE
+Requires-P{thon: >=3.8
+Requires-Dist:: test

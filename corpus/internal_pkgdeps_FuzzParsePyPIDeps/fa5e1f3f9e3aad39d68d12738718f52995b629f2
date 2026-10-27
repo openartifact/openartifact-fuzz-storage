@@ -1,0 +1,17 @@
+€Metadata-Version: 2.1License :: OSI Approvedpython_version < "3.11"n HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Li: chaPKG-INFOrset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Rense
+Classifier: Programming Language :: Python :: 1
+Requires-Python: >=3.7
+Requires-Dist: chaPKG-INFOrset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+ReDist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_quires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-D.wh: socks
+
+Requests is a simple HTTP library.

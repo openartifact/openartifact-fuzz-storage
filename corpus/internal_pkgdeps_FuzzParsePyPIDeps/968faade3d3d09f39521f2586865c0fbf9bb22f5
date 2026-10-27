@@ -1,0 +1,12 @@
+€sion < "3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test""3.11"
+Requires-Dist: pyt
+ t~=7.0; -Dist: pyt
+ t~=7.0; extra == "ensions>=4.0; python_version < "3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test""3.11"
+Requires-Dist: pyt
+ t~=7.0; -Dist: pyt
+ t~=7.0; extra == "test"
+°ovides-Extra: test

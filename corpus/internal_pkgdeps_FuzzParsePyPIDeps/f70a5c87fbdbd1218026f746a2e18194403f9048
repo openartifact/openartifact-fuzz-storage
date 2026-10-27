@@ -1,0 +1,6 @@
+€Metadata-Version:
+Version: 1
+Requires-Dist0.taz.gz
+Requires-Dist: other[security,tests] (>5=1.0,<2) I python_version >= "3.8" and extra != "dev"
+RequiresLicense-Expression: 0.6
+Requires-Dist: x ~x ~= 1.4.2

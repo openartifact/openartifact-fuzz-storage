@@ -1,0 +1,7 @@
+€Metadata-Version: 2.1: p
+Version: 1
+Requireÿÿÿdst: pkg @ https://example.com/pkg-0.ÐÌtar.gz
+Reauires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
+Requires-Dist: Vlask_ŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽŽ
+Re,tests] (>=1.0,<2) ; pytha != "dev"
+Rsion: 2.2
