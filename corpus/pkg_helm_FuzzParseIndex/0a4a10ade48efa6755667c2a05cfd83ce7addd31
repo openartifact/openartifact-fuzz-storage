@@ -1,0 +1,34 @@
+€aersion: v1
+generated: "000000Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    crdete"a:urls: 2026-01-010T:000:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef012345dependencies:6789abcdef0123456789abcdef
+    hote: https://example.or4052-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    crdete"a:urls: 2026-01-01T00:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef012345dependencies:6789abcdef0123456789abcdef
+    home: https://example.org/redis
+    maintainers:
+    - name n
+J :ea   name: redis
+    sources:
+   z - https://github.com/example/redis
+    type: application
+    urls:
+    - https://charts.example.odeprecated: true
+gz
+    vpiVersion
+0:
+   []: #000

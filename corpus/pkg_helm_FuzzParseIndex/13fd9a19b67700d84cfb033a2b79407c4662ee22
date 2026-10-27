@@ -1,0 +1,15 @@
+€apiVersion: v1
+entriesed: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name:r.example/app-20e:
+  - name: gone
+    version: 1.0.0
+    urls:
+    - .e/app:0.9.0
+  gmne:
+  - nam  - oci://registry.example/app:0.9.0
+  gone:
+  - name:  1.0.0
+    urls:
+    - oci://registry.example/gone:2. .0

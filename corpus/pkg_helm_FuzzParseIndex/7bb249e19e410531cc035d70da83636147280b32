@@ -1,0 +1,7 @@
+€apiVersion: v1
+generedt"a: 2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    verns:
+      category::1.0.0

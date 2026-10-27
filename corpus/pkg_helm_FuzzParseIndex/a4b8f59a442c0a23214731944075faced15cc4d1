@@ -1,0 +1,76 @@
+€apiVersion: v1
+generated: "2026-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - annotations:
+      cate&gory: Database05.000000000Z"
+entries:
+  redis:
+  - annotations:
+      ca&x tegory: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    dee.org/redition: Redis
+    digest: 0123456789abcdef0123456789abcdef0123456789abcdef01234560Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+    home: https://examplg.org/red 7.2.3
+    created: "2026-01-01T0-:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4s://github.com/example/redis
+    type: apptlication
+    urls:
+    - https://charts.example.org/redition: Redis
+    digest: 0123456789abcdef0123456789abcdef0123456789abcdef01234560Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+    home: https://example.orm/redis
+    maintainers:
+    - name: Jane
+    name: r
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-0apiVersionsources:: v2
+1-01T00:00:00Z"
+    d  maintainers:
+    - name: Jane
+    name: r
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T0-:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA416835610abcdeff0123456789abcdef
+    home: https://example.org/redis
+    maintainers:
+    - name: Jane
+    name: redis
+    sources:
+    - https://github.com/example/redis
+    type: apptlication
+    urls:
+    - https://charts.example.org/redition: Re0123456789abcdef0123456789abcdef
+    home: https://example.org/redis
+    maintainers:
+    - name: Jane
+    name: redis
+    sources:
+    - https://github.com/example/redis
+    type: apptlication
+    urls:
+    - https://charts.example.org/redis-18.6.1.tgz
+    version: 18.6.1

@@ -1,0 +1,21 @@
+€apiVeqsion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: -0o1.0.0
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-1.0.0.tgz
+    - htttgz
+  
+  - name: app
+    version: -0o1.0.0
+    digest: aaaa
+    annotations:
+  ursl:
+    - appion: 1.0.0
+    urls:
+    - oci://registry.example/gone:2.0.0
