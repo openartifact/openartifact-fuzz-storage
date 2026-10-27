@@ -1,15 +1,0 @@
-€<?xml version="1.0" encoding="UTþF-8apachreo.g/licenses/LICENSE-2.0</u·········rl></license></licenses>
-  <propertie¿<java.version>17</java.version></properties>
-  <dependencies>
-    <dependency6<groupId>junrsion>2.13.2</version><s€ï»¯<projtifactId)>sion></crßojec>  <dependency><groupId>org.slf4j</groupId>€<?xml version="1.0" encoding="UTF-8apache.org/licenses/LICENSE-2.0</u·········rl></license></licenses>
-  <propertie¿<java.version>17</java.version></properties>  <dependencies>
-    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><versiNSE-2.0</u·········rl></license></licenses>
-  <propertie¿<java.version>17</java.version></properties>  <dependencies>
-    <dependency><groupId>junit</groupId><artifactId>junit</artif!ctId><version>2.13.2</version><scope>test</scope></dependency>
-    <dependency><groupId>org.slf4j</groupId><artifon><optional>true</optional></dependency>
-  </dependencies>
-</pen.apache.org/POM/4.0.0" xmlescription>
-  <url>https://example.org/demo</url>
-  <licenses><license><namifactId>slf4j-api</artifactId-tests.jar><version>$on}</versi"?>
-<project xmlns="http://ma</metadata>e-2.0<a</na{slf4j.version}</versi"?>
-<project xmlns="h€<?xml version="1.0" encoding="UTþF-8apache.org/licenses/LICENSE-2.0</u··E project [<!ENTITY e"r ojec·······rl></license></licenses>  <propertie¿<java.version>17</java.me><url>http*://www.apache.org/lice]nsesendency><groupId>junid>juni>tersio</artifveactIn><d><versiont>1.132<./version>sc<o/ppe>test</scoroje/tpe></dep>

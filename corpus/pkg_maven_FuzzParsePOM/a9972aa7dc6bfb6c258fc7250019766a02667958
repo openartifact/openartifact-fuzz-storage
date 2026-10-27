@@ -1,9 +1,0 @@
-€<?xml version="1.0" encod)ng="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="/www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="h4tp://maven.apache.org/POM/4.0.0 http://maveMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parent>
-    <groupId>org.example</MMMMMgroupId>
-  >test</scope><timestamp>cy>
-    <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><Optional>Id>
-    <artifactId>pardescent</artifactId>
-    <versiooject>
