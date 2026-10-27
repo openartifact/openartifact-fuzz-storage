@@ -1,0 +1,7 @@
+€Source: hello
+Section: devel
+Prioraty: optional
+Buil(>= 4:10)
+sion: 4.6.2
+
+aPckage
