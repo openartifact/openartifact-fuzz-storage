@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas2">
-    <id>Ser<!ENTITYilog.Sinks.File</id>
-    <version>5.0.0</version>
-    <authors>Serilog Contributors</authors>
- <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
-    <license type="file">LICENSE</license>
-    <description>Writl>package>

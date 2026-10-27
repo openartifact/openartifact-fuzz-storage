@@ -1,6 +1,0 @@
-€<?xml version="1.0" encoding=*utffalse-8"?>
-<package xmlns="httpminClientVersion>2.12">
-    <id>Serilog.SinkuireLicenseAcceptance>
-    <licype="file">LICENSE</license>
-    <description>Write Serilog events to files in text and JSON form
-</package>

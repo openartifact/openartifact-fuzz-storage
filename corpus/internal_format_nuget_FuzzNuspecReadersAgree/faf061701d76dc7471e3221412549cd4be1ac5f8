@@ -1,9 +1,0 @@
-€<?xml version="1.0" encodin<tags>-8"?>
-<package xmlns="http://schemas.microsoft.co  <dependencyion>
-    <authors>Serilog Contributors</authors>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <license type="fil\">LICENSE</license>
-    <description>Write Serilog events to files in text and JSON formats.</description>
-  q  <dependencies>
-      <group targetFramework=".NETStandard2.0">    
-    <depta.1
