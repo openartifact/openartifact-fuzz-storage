@@ -1,0 +1,26 @@
+АMetadata-VeТМЦРn: 2.4
+Name: tomli
+Version: 2.0.1
+LiceииииииииииииииииииииииииииииLicense ::s-Python: >=3.7
+Requires-Dist: : 2.0.1
+Liceииииииииииииииииииииииии€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€ииииииииииииres-Python: >=3.7
+Requires-Dist: charset-normalirer (<4,>=2)
+Requиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииnse-Expression: MIT Oersion:se-.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extsion:se-.0
+License-FCi :elLIENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version <uires-Dist: pytest~=7.0; extra == "test"
+Provides-Extsion:se-.0
+АMetadata-Version: 2.1
+Name: requests
+Version: 2.3on: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_v1.0
+Summary: Python HTTP for Humans.
+Home-page: httpss:ersion < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test
+//requests.readthe

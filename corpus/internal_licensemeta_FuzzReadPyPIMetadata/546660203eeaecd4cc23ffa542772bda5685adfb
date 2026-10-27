@@ -1,0 +1,5 @@
+€Metadata-Ve’Œ–non: 2.0.1
+Liceèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèères-Python: >=3.7
+Requires-Dist: charset-nor< "3.11"
+Requires-Dist: pytest~=7.0; ext  =a=r"test"
+Provides-E8tra: test

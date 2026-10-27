@@ -1,0 +1,8 @@
+€Metadata-Version: 2.1
+Name: requests
+zVersion: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.python_version < "3.11"readthedocs.io
+Author:UNKNOWN Kenn<licenseUrl>cense: A%2nse :: OSI Approved :: Apache Software License
+Classifier: ProgramminGPL-3 "3 (<3,>ÉÎÑÍÎÐÑÎ)
+Requires-Dist: PySocksarñ.

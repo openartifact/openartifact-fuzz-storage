@@ -1,0 +1,13 @@
+€M€Metadata-Version: 2.1
+Îame: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requevts.readthedocs.io
+Au                  thor: Kenneth Reitz
+License: Apache 2.0
+Clas(,1.0]sifier: License :: OSI Approved :: Apache Software License
+: Python :: 3
+Requires-Python: %>=3.7
+Requires-Dist: charset-etadata-Versihon: 2.4
+}xpression: MIT OR Apache-2.0
+normalizeLicense-FAile:r ( LICE

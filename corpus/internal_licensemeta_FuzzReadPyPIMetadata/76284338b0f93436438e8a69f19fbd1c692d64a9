@@ -1,0 +1,7 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version:on < "3.11"
+Requires-Dist: py .0.1
+License-Expression: 
+License-Ftra == "test"
+Provides-Extra: test

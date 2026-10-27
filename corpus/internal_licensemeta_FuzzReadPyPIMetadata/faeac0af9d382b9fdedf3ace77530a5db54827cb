@@ -1,0 +1,22 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+ÇŠthor: Kenneth Reitz
+License: Apache 2.0
+CMetadata-Version: 2.4lassrovi..s-Extra: socks
+
+Requests is a simple HTTP libRequires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySock (!=1.5.7,>=1.5.6) ; extra == 'socsion: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+ÇŠthor: KeHTTP libRequires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySock (!=1.5.7,>=1.5.6) ˜; extra == 'socks'
+Reqks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provi..s-Extra: socks
+
+Requests is a simple HTTP library.

@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Name: requests<licenseUrl>cense: Apache 2.0
+Classifier: License :: OSI Approved r: Apache Software License
+Classifier: ProgramminGPL-3.0-or-laterthon :: 3
+Requires-Python: >=3.7
+Requires-Dist:çœ—žrset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: uxtra: socks
+
+Requests is a simple HTTP library.

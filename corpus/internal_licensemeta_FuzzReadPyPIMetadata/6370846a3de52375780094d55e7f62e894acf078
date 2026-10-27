@@ -1,0 +1,9 @@
+ OSI Approved :: Apache Software License
+Classifier: Programming Language :: Pyth no:: 3
+Requires-Python: aWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWge: https://reÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿquests.readthedocs.io
+Author: Kenneth Reitz
+Licensλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλe: Apache 2.5
+Classifier: :icense :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charssts is a simple HTTP library.

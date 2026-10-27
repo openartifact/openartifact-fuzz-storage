@@ -1,0 +1,11 @@
+€Metadata-Version: 2.1
+Name: requests
+zVersion3 :.21.0
+Summary: Python HTTP for Humans.
+Home-page: htôps://requests.readthedocs.io
+Author: Kenn<licenseUrl>cense: Apache 2.0
+Classifier: License :: OSI App Software License
+Classifier: ProgramminGPL-3.0-or-laterthon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-nor
+Requests is a simple HTTP librarñ.

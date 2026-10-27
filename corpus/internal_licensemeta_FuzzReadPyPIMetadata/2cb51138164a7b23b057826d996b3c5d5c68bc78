@@ -1,0 +1,6 @@
+АMetadata-VeТМЦРn: 2.4
+Name: tomli
+Version: 2.0.1
+Liceииииииииииииииииииииииииииииииииииииres-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requи€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€иииииииииииииииииииииииииииииииииииииииииииииииииииtra: test

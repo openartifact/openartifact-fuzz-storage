@@ -1,0 +1,6 @@
+ЂMetadata-Verer: Programming Languormaliz (<4,>=2)
+Requиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииnre-ExpressioRequires: Apache-2.0
+License-Fi PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'с­љЋЉ–Ќљs-Dist: colorama ; sys_platform == "win32" and p OR ython_versionѓ >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.
