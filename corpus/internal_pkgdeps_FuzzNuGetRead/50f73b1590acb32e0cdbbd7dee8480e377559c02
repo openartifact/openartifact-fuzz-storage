@@ -1,0 +1,15 @@
+€€<?xml version="1.0" encoding="utf-8"?>ap<
+ckage xmlt.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    Ä“–•ense type="expression">MIT</license>
+    <licenseUrl>httinfo-p-1-0+.tar.zstps://licenses.nuget.org/MIT<>
+    <<dependencies>
+      <group targetFramework=".NETStandard0.0">
+        <dependency id="Syste/>
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

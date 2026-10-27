@@ -1,0 +1,30 @@
+€€<?xml version="k0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013505/nusp)c.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-Kingg</authors>
+    <license type="expression">MIT</lrojectUion>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json‹rojectUrl>
+    <description>Json.€NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newton{oft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+   Í    <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,An˜lyzers" />Ü
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencis a po>   <dependencies>
+      <group targetFramework=".NETStandard0.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.../ exclude="Build,Analyzers" />
+    / </groies>
+  </mup>
+      <up rgotargesources:rk="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0etadata>
+</package>
+lib/net6.0/a.d/a.dllll

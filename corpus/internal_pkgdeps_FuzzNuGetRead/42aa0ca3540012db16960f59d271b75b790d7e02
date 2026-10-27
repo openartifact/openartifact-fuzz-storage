@@ -1,0 +1,10 @@
+€€<?xml vebsion="2ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿßÿÿÿÿÿÿÿÿÿdencia1</version><l
+    <dependencIes>
+      <group targetFramework=".NETStandard3.0">
+        <dependency id="System.Memory" ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿvers'ion="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      xml version="1.0" encoding="utf-8"?>
+<package xmlns="htt-p://schemas.microsoft.com/packaginft.Json</ta><id>Legacy.L3ib</.0id><versi.3on></</group>
+      <group targetFramework="šet6.0" />
+    </dependencies>
+  </metadata>
+</per.nuspec

@@ -1,0 +1,10 @@
+€€<?xml version="1.0" encoding=tps://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NETself.requires(</description>
+   <reabc" />
+    <dependndency id="System.Memory" versin="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+libÕ‘š‹6.0/a.dll

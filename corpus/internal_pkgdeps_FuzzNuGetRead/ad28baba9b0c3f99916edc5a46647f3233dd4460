@@ -1,0 +1,15 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+   hub.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">        <depenectUrl>
+    <description>Json.NET is a popular high-performance JSOc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">        <depenectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/Jam/>
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

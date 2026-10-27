@@ -1,0 +1,14 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmln.zipttp://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsofxmlnst.Json</id>
+    <version>13.Url>
+    <description>Json.CNET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="httn="1.0" encoding="utf-8"?>
+<packag5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net3.0/a.dll

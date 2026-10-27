@@ -1,0 +1,29 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id~Newtonsoft.Json</id>
+  <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard>"2.0
+        <dependency id="System.Memory" version="[4.5.5, 5dency id=licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" de?xml version="1.0"?>
+.eggkage><metadata><id>Lega?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id~Newtonsoft.Json</id>
+  <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard>"2.0
+        <dependency id="System.Memory" version="[4.5.5, 5dency id=licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" de?xml version="1.0"?>
+.eggkage><metadata><id>Legacy.Lib</id><xmlnsversion>1.0.0-beta1</..version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" dency id="A" version="1.0" /><dependencversiurl="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard>"2.0
+        <dependency id="System.Memory" version="[4.5.5, 5dency id=licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" dency id="A" version="1.0p targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0cy.Lib</id><xmlnsversion>1.0.0-beta1</..version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" dency id="A" version="1.0" /><dependencversiurl="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard>"2.0
+        <dependency id="System.Memory" version="[4.5.5, 5dency id=licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="A" dency id="A" version="1.0p targdll
