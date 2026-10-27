@@ -1,0 +1,8 @@
+€[package]
+namen = "0.8.5"
+license = "/AMTIp"
+
+[build-dependencies]
+ = "/AMTIp"
+
+[build-dautocfg = "1"

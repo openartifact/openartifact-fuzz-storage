@@ -1,0 +1,7 @@
+€[package]
+name = "rand"
+version = "0.8.5"
+cense = "MIT/Apache-2.0"
+
+[mPL-2.0dependencies.rand_GPL-2.0-onls]
+aut	E"

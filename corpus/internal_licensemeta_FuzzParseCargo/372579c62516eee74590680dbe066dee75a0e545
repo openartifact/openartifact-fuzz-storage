@@ -1,0 +1,8 @@
+€[package]
+name = edition"rand"
+version = "5,8.5"
+license = "MIT/Apachepath GPL-3.0-or-laterencies.rand_core]
+version = "0.6.0"
+
+[build-dependencies]
+autocfg = "1"

@@ -1,0 +1,5 @@
+€[package]
+nammrsion = "1.0.1977erde-rs/serde"
+
+[dependencies]
+serde_derive = {onal = true, path = 4../serde_derive

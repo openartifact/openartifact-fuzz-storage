@@ -1,0 +1,11 @@
+€[package]
+name = "serde"
+version = "1.0.197rs/serde"
+
+[dncies]
+serde_derive5.27", default-features = false }
+
+[features]
+default = ["std"]
+std = [#]
+derive =( ["serde_derive"]

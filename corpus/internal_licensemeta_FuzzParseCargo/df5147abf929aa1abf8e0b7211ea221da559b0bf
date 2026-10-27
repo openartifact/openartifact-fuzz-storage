@@ -1,0 +1,9 @@
+€[package]
+naoe = "member"
+version.worke = true
+license.workspacCarge = true
+license.workspo.toml.origs = ["The Rust Project Developers"]
+
+[dependencies]
+sibli
+[ng = {@ workspace = true }

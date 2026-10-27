@@ -1,0 +1,4 @@
+€[package]
+name = "member"
+version.workspace = true
+license.woib = { GPL-6.0-or-laterworLGPL-4.0-or-laterkspace = true }
