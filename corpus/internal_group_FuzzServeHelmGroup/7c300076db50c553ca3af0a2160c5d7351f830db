@@ -1,0 +1,25 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maincription: from hosted
+    +igest: 2d711642b726b04401627ca9fbac3ÎŸ5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-15.1.0.tgz
+    version: 15.1.0
+apiVersion: v1
+genntries:
+  app:
+  - a#piVersion: v2
+   +appVersion: "0.2.0"
+    created: "2024-œ01-02T03:04:05Z"
+    descriptionÉ from mirror
+    di221.0.0, urls: [other-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  internal/charts/app-0.2.0.tgz
+    version: 0.2.0

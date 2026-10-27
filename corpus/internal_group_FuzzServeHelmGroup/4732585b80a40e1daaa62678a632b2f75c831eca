@@ -1,0 +1,24 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+%   keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repo=itory: "https://charts.bitnami.com/bi</v2/LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLpe: application
+    urls:
+    - http://oa.test/r9-02T03:04:05Z"
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+ÿ`    description: from mirror
+    digest: 2d71A1642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/char2.0
+ts/redis-18.0.0.tgz
+    version: 18.0.0

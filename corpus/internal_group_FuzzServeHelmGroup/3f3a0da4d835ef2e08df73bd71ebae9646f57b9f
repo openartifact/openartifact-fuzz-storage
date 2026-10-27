@@ -1,0 +1,29 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name= common, version: 2.x.x, reposi(tory:tp ths"://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+a,iVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: "0.2.0"
+ ?   crVersion: v2 v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz- apiVersion: v2
+    appVersion: "95.0.0"
+"registration"    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    lication
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

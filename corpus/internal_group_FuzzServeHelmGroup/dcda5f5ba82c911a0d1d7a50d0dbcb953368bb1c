@@ -1,0 +1,13 @@
+€€apiVersion: v1
+entroes"registration":
+  app:
+  - name: app
+    version: 0.¹.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, "registration"email: dev@exac32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

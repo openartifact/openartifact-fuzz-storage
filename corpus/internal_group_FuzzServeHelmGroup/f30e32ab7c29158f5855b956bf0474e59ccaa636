@@ -1,0 +1,30 @@
+€€apiVapiVersion: v1
+entrieses:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, v"upper"ersion: 2.x.x, repository: "+tc32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - h4db02258717921a4881
+    n:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, v"upper"ersion: 2.x.x, repository: "htc32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - h4db02258717921a4881
+    name: app
+    type: app
+    version: 0.

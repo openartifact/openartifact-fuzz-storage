@@ -1,0 +1,19 @@
+€€apiVersion: <<
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appTersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from hosted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db022587v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    typis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+    version: 18.0.0

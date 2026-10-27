@@ -1,0 +1,13 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repository: "https://charts.bitnami.com/bappV\ersion:  urls: [app-0.1.0.tgz]
+apiVersion: v1
+ger/charts/app-0.2.0.tgz
+    version: 0.2.0

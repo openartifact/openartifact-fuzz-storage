@@ -1,0 +1,12 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version:- 0.1.0
+  !!str  kncies:
+    - {name: common,* version} 23cc4db02258717921a4881
+    name: pap
+    type: application    urls:
+    - http://oa.test/repos/mirror/cha;rts/ap: v1
+entries:
+  iersion: 0.2.0Package3.xz
