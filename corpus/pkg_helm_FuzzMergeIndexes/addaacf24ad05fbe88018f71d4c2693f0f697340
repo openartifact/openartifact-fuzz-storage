@@ -1,0 +1,9 @@
+€€apiVersion: v1
+entries:
+  a:
+  - {name: description:a-1.0.0
+entries:
+  a:
+  - {name: aon: !.0.0, urls: [a-1.0.0.tgz]}
+apiVersion: v1
+entr}

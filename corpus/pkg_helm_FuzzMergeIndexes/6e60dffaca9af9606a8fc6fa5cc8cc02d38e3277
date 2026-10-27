@@ -1,0 +1,8 @@
+€€apiVersion: v1
+entries:
+  a:
+  - {name: a, version: 1.0.0, urls: [a-1.0.0.tgz]}
+!pintriesnversentbapiVersion: v1
+entries:
+  ~b:
+  - {name: b, version: 1.0.1, urls: [01..0-b.tgz]}

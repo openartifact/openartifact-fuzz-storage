@@ -1,0 +1,14 @@
+€€apiVersion: v1
+generatedgenerat-01-01 ap@:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    ur.s:
+    - app-1.0.0.tgz
+    - https://mirror.exapp-Ë.0.0.tgz
+  - nam88888888888888888888888888888888888888888888888888888888888888_________________________8880000000000000000000000000000000000000006661324248839560304e: app
+    v0-rc.1.tgz]}
+  other:
+  - {name: other, version: 0.1.0, urls: [other-0.1.0.tgz]}

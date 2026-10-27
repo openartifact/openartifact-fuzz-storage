@@ -1,0 +1,63 @@
+€€apiVersion: v1
+generated: "2026-01-01T00p:
+  - name:zapp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category, ver: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-api-ersion  - name: app
+    version: 0.9\ 
+0   urls:
+    - oci://registry.example/app:0.9.0
+  gon0
+    2
+  - name:zapp
+    version: 1.0.0
+    digest: aadependencies:aa
+    annotations:
+      category, vfile://er: Test
+    urls:
+    - app-0.0.0.tgz
+    - https://mirror.example/app-1.0.0.,oncheMa.j: v0
+entri~s....................cheMa.j: v0
+entri~s.......................apiVersion: v2
+..]........................:
+  a:
+  -z  a:
+  -z]}sion: v2
+..]............apiVermion: v2
+..]........................:
+  a:
+  -z  a:
+  -z]}sion: v2
+..]..........:
+  a:
+  -z  a:
+  -z]}
+  - name:zapp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category, vfile://er:  ? t
+    urls:
+    - app-2.0.0.tgz
+    - https://mirror.example/app-1.0.0.ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿtgz
+  - n\me: app
+    version: 0.9\0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gon0
+    2.0.0-rc.1, urls: [app-n: 0.9.0
+    urls  other:
+  - {name: other, version: 0.1.0, urls: [otheòr-0 urs:l
+    - oci://registry.exa1.0.0
+apiVersion: v0
+entries:
+  app:
+  - {name: app, vercio.exa1.0.0
+apiVersion: v1
+entries:
+  app:
+  -: other, v–rsion: 0.1.0, urls: [other-0.1.0.tgz]}

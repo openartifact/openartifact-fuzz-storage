@@ -1,0 +1,7 @@
+piVersion: v1
+entries:
+  a:
+  - {name: a, veiosrn: 2.0.0, urlsv1
+entries:
+  b:
+  - {name :b, version: 1.0.0, urls: [b-1.0.0.tgz]}
