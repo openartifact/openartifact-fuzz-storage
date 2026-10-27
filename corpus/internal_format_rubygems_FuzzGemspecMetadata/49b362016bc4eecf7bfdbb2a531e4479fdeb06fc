@@ -1,8 +1,0 @@
-€--- !ruby/object:Gem::Specificaect:Gem::Dependency
-  : !ruby/object:Gem::Requirement
-    requirements:
- 0 z- - "~>"
-      - !ruby/object::Version
-        verso:ni '1.4'
-  type: :runtime
-  prerelease: false

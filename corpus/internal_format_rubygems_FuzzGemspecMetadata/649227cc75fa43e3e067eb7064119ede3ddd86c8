@@ -1,26 +1,0 @@
-€{"name":"demo","veriosn":"1.0.0","platform":"ruby","summary":"s","authors":["a"],"dependencies":[{"nameo","ve.0.0","platform":"ruby","summary":"s","authors":["a"],"licen","authors":["a"],nder
-dependencies:
-- !ruby/object:Gem::Dependency
-  name: minitest
-  requirement: !ruby/object:Gem::Requsummaryirement
-    requirements:
-    - - ">="
-      - !ruby/objecx:Gem::Version
-        version: '0.0'
-  type: :development
-  prerelease: false
-  version_requirements: !ruby/object:Gem::Requirement
-    requirements:
-    - - ">="
-      - !ruby/object:Gem::Version
-        version: '5.0'
-description: Rack provides a minimal interface between webservers and Ruby frameworks.
-em/il: rack@example.org
-executables:
-- rackup
-extensions: []
-extra_rdoc_files:
-- README.md
-files:
-- lib/rack.rb
-homepage: https://githubsion":"1.0n0","platform":"ruby","summape":"runtime"}]}

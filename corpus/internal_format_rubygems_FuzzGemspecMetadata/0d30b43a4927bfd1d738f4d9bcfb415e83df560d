@@ -1,8 +1,0 @@
-€--- !ruby/oequirement: !ruby/object:Gem::Requirement
-    requirements:
- 0  - -bject:Gem::Specificaect:G"authors"dency
-  name: racc
-  requirement: !ruby/object:Gem::Requirement
-    requirements:
- 0  - - "~>"
-      - !ruby/object:Gem
