@@ -1,6 +1,0 @@
-€Metadata-Version: 2.1
-Name: p
-Version: 1
-Requires-Dist: pkg @ https://example.com/pkg-0.ĞÌtar.gz
-Requires-Dist: other[security,tests] Î(>=1.0,<2) ; p= "3.8" and extra != "dev"ö¶equires-Dist: Vlask_>ogin>=0.6
-Requires-Dist: x ~= 1.4.2

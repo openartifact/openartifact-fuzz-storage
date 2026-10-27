@@ -1,9 +1,0 @@
-€Metadata-ifier: Programming Language :: P=3.7
-Requires-Dist: chaPKG-INFOrset-normalizer (<4,>=2)
-Requires-Dist: idna (<3,>=2.5)
-Requires-Dist: urllib3 (<3,>=1.21.1)
-Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
-Requires-Dist: colorama ; sys_platform == "win32" and p‹‹—‘ ‰šrsion >= "3.8"
-Provides-Extra: socks
-
-Requests is a simple HTTP librarýy.

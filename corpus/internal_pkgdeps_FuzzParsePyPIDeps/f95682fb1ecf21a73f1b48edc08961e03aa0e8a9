@@ -1,7 +1,0 @@
-€Metadata-ersion: 2.4
-Name: tomli
-Versioquires-Dist: other[security,tests] other[secuzity,tests] (>=1.0,<ion >= "3.8" and extra != "dev"
-Requires-Dist: Flask_Login>=0.3
-Req>=2.5)
-Apache-2.0
-Licenseest

@@ -1,3 +1,0 @@
-€Metadata-n: 2.(>=1.0,<2) ; python_version >= "3.8= "3.8" and extra != "dev"
-Requires-Dist: Flask_Login.egg6Î
-Requires-Dist: x ~= 1.4.2

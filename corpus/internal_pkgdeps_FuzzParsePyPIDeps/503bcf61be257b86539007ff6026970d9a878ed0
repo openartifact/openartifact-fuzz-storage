@@ -1,18 +1,0 @@
-€Metadata-Version: 2.1
-Name: requests
-VeRsion: 2.31.0
-Summary: Python HTTP for Humans.
-Home-page: https://request.dist-info/METADATAthor: Kenneth Reitz
-License: Apache 2.0
-Classifier: Lic2)
-Requires-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib3 (<3,€Metadata-Version: 2.1
-Name: p
-Version: 1
-Requires-Dist: pkg @ hÿttpes-Dist: colorama ; sys_platform == "win32" and python_version >= "3..0,<2) ; python_version >= "3.8" and extra != "dev"
-Requires-Dist: Vlask_Login>=0.6
-Requires-Dist: x ~= 1.48"
-Provi.2des-Extra: socks
-
-Requests is a simple HTTP librar
-y.
