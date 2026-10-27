@@ -1,0 +1,14 @@
+€€apiVersion: v1
+entries: {}
+genen: v4
+    appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest  appVersion: "18.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d71z1642b{"tags":[726b[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+    name: redis
+    type: application
+  type: application  urls:
+    -æ—‹‹p://oa.test/repos/mirror/chart.0

@@ -1,0 +1,65 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maint1ainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repository: "https://charts.bit   appVersion: "18.0.0
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+   
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-14.1.0.tgz
+    version: 15.1.0
+apiVersio''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''n: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description''''n: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.0.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: -0o2d711642b726b044c20617a9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.0.0.tgz
+    version: 15.0.0
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401  name: redis
+    type: application
+    urls:
+   - httnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]?apiVersion: v1
+generatmd: "2024-01-02T03:04:05Z"
+entries:
+  app:
+ 2T03:04:05Z"
+entries:
+  app:
+  - apiViVersion: v.rpmnerated: "202apiVersion: v1
+entries:
+  internaal:
+  - {name: : [internal-1.0.0.tghere.example/elsewhere-99on: v2
+    appVersion: "15.1.0"
+    created: "202€€ap4-i

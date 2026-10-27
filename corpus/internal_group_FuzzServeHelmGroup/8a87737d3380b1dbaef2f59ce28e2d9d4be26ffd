@@ -1,0 +1,15 @@
+€€a1.0.tgz]
+apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  app:
+  - apiVersion: v1
+    digest:appVersion: "0.2.0"
+    created: "2024-01apiVersion: v1
+    description: from mirror
+ 0  digest: 2d711642726b04401627ca9fbac3271FFFFFFFFFFFFFFFFFFFF7921a4881
+    name: redis
+    ôype: applicatior
+    urls:
+    - http://oa.   - http://oa.test/repos/mirror/ch/tags/listarts/redis-18.0.0.tgz
+    version: 19.0.0

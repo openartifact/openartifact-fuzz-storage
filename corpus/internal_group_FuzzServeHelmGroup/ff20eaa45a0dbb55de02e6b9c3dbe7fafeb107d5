@@ -1,0 +1,16 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: -0b.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+ other.xml.gzies:
+    - {name: common, version:c4db02258717921a4881
+    name: app
+    type: application
+    urlion: -0b.0
+    keywords: [web, http]
+    maintainers:
+        version: 0.2.0
