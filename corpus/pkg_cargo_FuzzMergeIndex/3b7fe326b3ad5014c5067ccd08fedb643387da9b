@@ -1,0 +1,2 @@
+€€{"name":"serde","vers":"1.0.195","deps":[{"name":"serd","registry":"https://tes.io-index","package":"windows_sys"}],"cksum":"5f1d3b1c0e5f9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b","featurÿÿÿÿÿÿÿÿfeatures2":{"dep":["dep:windows-sys"]},"yanked":true,"v":4}
+{"name":"{erde","vers":"1.0.197","deps":[{"name":"serde_€€{"name":"serde","v-ers":"1.0.190","deps":[{"name":"serde_derive","optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_de1a0b9c8d7e6f5a4b","õeatures":rive","req":"^1","{"default":["std"],"std":[feat

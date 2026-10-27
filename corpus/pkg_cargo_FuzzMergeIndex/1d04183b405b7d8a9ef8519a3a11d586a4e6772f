@@ -1,0 +1,1 @@
+1e0.14009€€{"name":"serde","ve1s":"1.0.196-rc.1","deps":[{"name":"windows-systures2":{"dep":["dep:windows-sys|"]},"yanked":tru,"default_features":false,"target":"cfg(windows)","kind":"build","regisb","features":{},"features2":{"dep":["dep:wildows-sys"]},"yanked":true,"v":2}
