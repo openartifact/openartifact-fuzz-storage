@@ -1,0 +1,9 @@
+€<!DOCTYPE project [<!ENTITY e "x">]><project><groupId>g&amp;hven<snapshotVersions>0.0 htt2://maven.apache.org/xsd/maVen-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</6ers1on>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>PSHOT</version>ject>

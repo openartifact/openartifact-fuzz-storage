@@ -1,0 +1,15 @@
+€<!DOCTYPE projITY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+ect [<!ENTITY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 htt/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+ect [<!ENTITY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.ap<ersion>aven-4.0.0.xsd">
+  <mooupId>
+ect [<!ENTITY e "x">]><project><groupId>g&amp;hven.apache.ormodelVersionsion><optional>true</optional></depeoupId>
+    <artifactId>parent]</artifactId>
+    <version>0.0.0</version<modelVersion>ePath/>
+  </parent>
+  <artifactId>ifac|Id><version>1</version></project>

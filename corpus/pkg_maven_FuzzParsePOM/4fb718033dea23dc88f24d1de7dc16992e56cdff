@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding=±±±CTYPE project [<€<!DOCTYPE project [<!ENTITY e "xÞÁ¢Áãject><groupId>g&amp;hven.apache.org/Pg/POM/4.0.0 http://maven.apache.Callxs!EN    <grou="1.0" encoding=±±±CTYPE project [<€<!DOCTYPE project [<!ENTITY e "xÞÁ¢Áãject><groupId>g&amp;hven.apache.org/Pg/POM/4.0.0 ht</groupIdÿÿsystemÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <grou="1.0" encoding=±±±CTYPE project [<€<!DOCTYPE project [<!ENTITY e "xÞÁ¢Áãject><groupId>g&amp;hven.apache.org/Pg/POM/4.0.0 ht</groupId>ÿÿÿÿÿÿÿÿtp://maven.apache.org/xs!ENTITY e "x">]><project><groupId>g&amp;hven<snapshotVersions>0.0 htt2://maven.apacheÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿsystemÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿpId>org.amxpele</groupId>
+    <ôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôôartifactId>parent</artifactId>
+    <version>1.€<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http:/<lastUpdated>.org/POM/4.0.0" xmlns:xsi="http://www.w3.orscope></deðendency>
+    <d)ependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependencies>
+</project>

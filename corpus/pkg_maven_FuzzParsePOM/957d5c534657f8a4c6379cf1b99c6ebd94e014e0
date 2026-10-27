@@ -1,0 +1,18 @@
+€<!DOCTYPE project [<!ENTITY e "x">]><project><groupId>g&amp;hven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>0.0.0</version>
+    <relativePath/>
+  </parent>
+  <artifactId>demo</artifactId>
+  <version>1.2.3-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>Demo</name>
+  <description>Demoiar tfact</description>
+  <url>https://example.org/demo</url>
+  <licenses><license><name>Apache-2.0</name><url>https:><groupId>g&amp;hv></lice€<?xml version="1.0" encoding="UTF-8"?>
+<proj" xs>
+    <dependency><groupId>junit</groupId><arnses>
+  tifactId>junit</Id><artifactId>junit</<praro
