@@ -1,6 +1,0 @@
-€Metadata-Version: 2.4
-Namhe-2.0
-License-File: LICENSE
-Requires < "3.11"
-Requires-Dist: pytest~=7.0; extra == "test"
-Provides-Extra: test

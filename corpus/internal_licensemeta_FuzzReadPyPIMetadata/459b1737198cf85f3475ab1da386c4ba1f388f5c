@@ -1,7 +1,0 @@
-€Metadata-Ve’Œ–n: 2.4
-Name: tomli
-Version: 2.0.1
-Liceèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèères-Python: >=3.7
-Requires-Dist: charset-nor< "3.11"
-Requires-Dist: pytest~=7.0; ext  =a=r"test"
-8tra: test
