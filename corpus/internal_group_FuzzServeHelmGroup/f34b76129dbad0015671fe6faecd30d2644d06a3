@@ -1,8 +1,0 @@
-€€apiVersion: v1
-entries:
-  internaal:
-  - {name: internal, version: 1.0.0, urls: [internal-1.0.0.tgz]}
-apiVersion: v1
-entriejjjjjjjjjjjjjjjjjjjs:
-  internal:
-  - {name: elsewhere, version: 99.0.0, urls: ['https://elsewhere.example/elsewhere-99.0.0.tgz']}
