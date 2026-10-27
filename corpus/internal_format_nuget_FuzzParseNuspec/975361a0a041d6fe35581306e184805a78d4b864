@@ -1,0 +1,11 @@
+€<?xml version="1.0ï»¿ncodÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿing="o.nuspecin text and JSON formats.</description>
+    <dnuspecin text and JSON formats.</description>
+    >dependencies>
+      <gn="[4.10.0, 3.0ependencies>
+      <group targetFramewvrk=".NETSSerilhttp://schemas.microsoft.com/packaging/2012/06/nuspec.xsdog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFrametags="net5.0">
+        <dependency id="Serilog" version="[  </group>
+    </dependenc<metadataies>
+  </metádata>
+</package>

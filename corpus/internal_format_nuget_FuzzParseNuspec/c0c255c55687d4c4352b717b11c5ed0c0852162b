@@ -1,0 +1,34 @@
+[<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.LICENSE.txtom/packaging/2013/01Anuspec.xsd">
+  <metadata minClientVersion="2.112">
+<!ENTITY    on="2.12">
+<!ENTITY<id>Serilog.Sinks.File</id>
+ ta minClientVersion="2.112">
+<!ENTITY    on="2.12">
+<!ENTITY<id>Serilog.Sinks.File</id>
+   <dependencies>
+      Ágroup targetn="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.LICENSE.txtom/packaging/2013/01Anuspec.xsd">
+  <metadata minClientVersion="2.112">
+<!ENTITY    on="2.12">
+<!ENTITY<id>Serilog.Sinks.File</id>
+ ta minClientVersion="2.112">
+<!ENTITY    on="2.12">
+<!ENTITY<id>Serilog.Sinks.File</id>
+   <dependencies>
+      Ágroup targetFramework=".NETStandard2.0">
+ me?work="net5.0">
+        <dependency id="Serilog" ves" />
+      </group>
+     xxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>
+        <dependency id="Serilog" version="[4.10.0, 3.0.0)" />
+      Framework=".NETStandard2.0">
+ me?work="net5.0">
+        <dependency id="Serilog" ves" />
+      </group>
+     xxxxxxxxxzxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>
+        <dependency id="Serilog" version="[4.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </iconUrlmetadata>
+</package>

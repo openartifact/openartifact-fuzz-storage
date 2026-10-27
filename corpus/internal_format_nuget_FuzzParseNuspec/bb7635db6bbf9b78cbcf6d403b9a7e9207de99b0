@@ -1,0 +1,19 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01Anuspec.xsd">
+  <metaata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireMicenseAcceppackagŸ><metadata><id>a1.0.0-beta.1n>2.0.0-preview.1</versrequireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exClude="Build,Analyzers" />
+      <ntributors</authors>
+    <tFramework="net5.0">
+        <dependency id="Serilog" version="[ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ<package><metadata><id>Old.Pkg</id><vers,ionÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadat1.0.0.0</version><licenseUa>
+</parl>http://www.apache.org/licenses/LICENSE-42.0.0.0enseUrl><dependencies><depenownersid="Dep" version="(,2.0]"/></d€<package><metadata><id>Old.Pkg<cka/id><version>ge>1.0.dency id="Dep" version="(,1.0]"/></dependenacies>ta></pa</metadackata><g/epa>ckage>
