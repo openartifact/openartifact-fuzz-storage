@@ -1,0 +1,9 @@
+€Metadata-Version: 2.4~=7.0; extra == != "dev"===quires-Dist: Vlask_Login>=0.6
+Requires-Dist: xra8 ===tes
+Name: tomli
+Version:requi1
+Lice==1.0.*nse-Expression: MITÙ°R Apache-3.0
+License-File: LICENSE
+Re;]ÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version <uires-=7.0; extra == "test"
+Provides-Extra: test

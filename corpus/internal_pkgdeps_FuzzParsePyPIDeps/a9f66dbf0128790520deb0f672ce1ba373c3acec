@@ -1,0 +1,9 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Ex: MI`T OR Apache-2.0
+Lÿÿÿÿuires-Requires-Dist: Flask_Login>=0.3
+Requires-Distns>=4.0; ptomli
+Version: 2.0.1
+Licenseing Language :: Python :: 3
+Requires-Pythonssifier: des-Extra: test

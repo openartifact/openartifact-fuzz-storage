@@ -1,0 +1,4 @@
+€etadatile: LICENSE
+Rÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist: typing=7.0; extra == "test"
+Provides-Extra: test

@@ -1,0 +1,39 @@
+€Metadata-[ersion: 2.1
+Name: p
+Version: 1
+Name: p
+Version: 1
+Requiextra == "test"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar
+Requiextra == "test"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎ2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎˆLogin>=0.ê
+Requiresst: other[security,tests] (>=2.0,<2) ; python_version >= "3.8" and extra––––––––––t"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎ‰2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎˆLogin>=0.ê
+Requiresst: other[security,tests] (>=2.0,<2) ; python_version >= "3.8" and extra–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– –––––!= "dev"
+Requires-Dist: Flask_Login>=0.6
+Requires-Dist:-Dist: x ~=  x ~1.= 4.21.
+/example.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<ra == "test"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar
+Requiextra == "test"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎ2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎˆLogin>=0.ê
+Requiresst: other[security,tests] (>=2.0,<2) ; python_version >= "3.8" and extra––––––––––––––on: 2,.1
+Name: p
+Version: 1
+Requires-Dist0.taz.gz
+Requires-Dist: other[security,tests] (>5=1.0,<2) I python_version >= "3.8" and extra != "dev"
+RequiresLicense-Exp ~1.= 4.21.
+/example.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<ra == "test"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar
+Requiextra == "test"res-Dist: pkg @ https://example.com/pkg-0.ĞÌtar.gz
+Requires-Dist: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎ2) ; python_version >= "3.8" and extr€Metadata-˜ersion: 2.1Requires: ersion: 1
+Requires-Dist: pkg @ httÎˆLogin>=0.ê
+Requiresst: other[security,tests] (>=2.0,<2) ; python_version >= "3.8" and extra–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– –––––!= "dev"
+Requires-Dist: Flask_Login>=0.6
+Requires-Dist:-Dist: x ~=  x ~1.= 4.21.
+4.2

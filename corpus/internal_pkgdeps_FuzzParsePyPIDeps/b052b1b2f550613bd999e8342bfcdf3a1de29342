@@ -1,0 +1,41 @@
+€Metadata-Version: 2.1Requkreÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿs: ersion: 1
+Requires-Dist: pkg @ h.0,<2) ; python_version >= "3.8" andersion: 2.4
+Name: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0 extQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQra != "dev"
+Requires-Dist:
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0Â pythonst-Expression: MITDist: x sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensi~=ons>=4.0Â pythonst-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-Fÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensi~=ons>=4.0Â pythonst-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Pyth 1.4.2on: >=3.8
+RequiresMIT OR Apache-[ÿÿÿÿÿÿÿ2.0 extQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQra != "dev"
+Requires-Dist: Flnnnnnnnnnnnnnnnnnnnnnnnnnnask_Login>=0.6
+Requires-sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0Â pythonst-Expression: MITDist: x sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensi~=ons>=4.0Â pythonst-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Pyth 1.4.2on: >=3.8
+Requires-Dist:htyping--Dist:hÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0Â pytyping-extensions>=4.0Â pytho"
+Provides-Extri:
+ test

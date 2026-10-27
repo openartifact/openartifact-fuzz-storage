@@ -1,0 +1,8 @@
+€Metadata-Version2.4
+Name: tomli
+Version: 2.= "dev"
+Requires-Dist: Flask_Logisys_platform == "win32"n>=0.6
+Req: MIT OR Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: ireq (<4,>=2.5t

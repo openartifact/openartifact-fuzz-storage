@@ -1,0 +1,65 @@
+€.tar.gz
+R>://exrsion: 2.4pkg-xtra != "dev"
+Requires-Dist: Flask_Login8"€Metadata-Versio and extra €Metadata-Version: 2.4MMMMMMMMMMMMMMMMMMMMMMŽŽŽŽŽŽŽŽŽŽŽŽ
+Name:Summary: rsio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyêing-extensions>=4.0; python_version < tadata-Version: 2.4
+N!= "dev"
+Requires-Dist: Vlask_Log== "tŸst"
+Provides-Exuires-Dist: 4
+N!= "dev"
+Requires-Dist: Vlask_Log== "tŸst"
+Provides-Exuires-Dist: Vlask_Login>=0.6
+~=quires-n: 2.1
+Name: p
+Version: 1-Requires-Dist: pkg @ https://example.com/pkg-0.ÐÌtar.ame: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Expression: MIT .8"€Metadata-Versio and extra != "dev"
+Requires-Dist: Vlask_Log== "tŸst"
+Provides-Exuires-Dist: Vlask_Login>=0.6
+~=quires-n: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https://example.com/pkg-0.ÐÌtar.gz
+Requires-Dist: other[trasec: MMMMMMMMMMMMMMMMMMgz
+Requ1
+Name: p
+Version: 1
+Reÿÿÿÿÿquires-Dist: pkg @ https:ty,test.egzs£×(>=1.0,<2) ; python_ve1"
+Requires-Dist: pyt
+ t~=7.0; extra == "test""3.11"
+Requiresrsion adata-Version: 2.1
+Name: p
+>= "3-Dist: pyt
+ t~=7.0; extra .8"€Metadata-Versio¸and extra != "dev"
+Requires-Dist: Vlask_Log== "test"
+Provides-Exuires-Dist: Vlask_Login>=1.6
+~=quires-n: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https:Version: 1
+Reÿÿÿÿÿquires-Dist: pkg @ https:t.egi
+Versio›ÅßÍÑÏÑÎ
+License-Expression: MIT .8"€Metadata-Versio and extra != "dev"
+Requires-Dist: Vlask_Log== "tŸst"
+Provides-Exuires-Dist: Vlask_Login>=0.6
+~=quires-n: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https://example.com/pkg-0.ÐÌtar.gz
+Requires-Dist: other[trasec: MMMMMMMMMMMMMMMMMMgz
+Requ1
+Name: p
+Version: 1
+Reÿÿÿÿÿquires-Dist: pkg @ https:ty,test.egzs£×(>=1.0,<2) ; python_ve1"
+Requires-Dist: pyt
+ t~=7.0; extra == "test""3.11"
+Requiresrsion adata-Version: 2.1
+Name: p
+>= "3-Dist: pyt
+ t~=7.0; extra .8"€Metadata-Versio¸and extra != "dev"
+Requires-Dist: Vlask_Log== "test"
+Providesg2Î
+Req//example.com/pkg-0.ÐÌtartuires-estuDist: x ~= 1.4.2

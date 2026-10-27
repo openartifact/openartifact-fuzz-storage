@@ -1,0 +1,6 @@
+€MeEGG-INFO/PKG-INFOdata-Version: 2.1
+Name: p
+Version: 1
+Requires-Dist: pkg @ https://exampÌtar.gz
+Requires-Dist: -2.0
+License-File: LICE^SEProvides-Extra: test

@@ -1,0 +1,42 @@
+€Metadata-Version: 2.1Requkreÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿs: ersion: 1
+Requires-Dist: pkg @ https://exam @ httÿÿÿÿÿÿÿÿÿÿ€Metadata-Vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿps://ple.cgm/pkg-1.0.tar.gz
+Requires-Dist: other[security,ÿÿsts] (>=2.0,<2) ; python_version >= "3.8" andersion: 2.4
+Name: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Ex€Metadata-Version: 2.4
+Name: .0; extra == "test""3pression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0 extQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQra != "dev"
+Requirense-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0Â pythonst-Expression: MITDist: x sio›ÅßÍÑÏÑÎ
+License-Expressita-Vÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿps://ple.cgm/pkg-1.0.tar.gz
+Requires-Dist: other[security,ÿÿsts] (>=2.0,<2) ; python_version >= "3.8" andersion: 2.4
+Name: tomli
+Versio›ÅßÍÑÏÑÎ
+License-Ex€Metadata-Version: 2.4
+Name: .0; extra == "test""3pression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0 extQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQra != "dev"
+Requirense-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0Â pythonst-Expression: MITDist: x sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensi~=ons>=4.0Â pythonst-Expression: MIT OR Apacvides-Extrahe-[ÿÿÿÿÿÿÿ2.0sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Pyth 1.4.2on: >=3.8
+Requires-Dist:htyping--Dist:hÑÎ
+Licenon: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensi~=ons>=4.0Â pythonst-Expression: MIT OR Apacvides-Extrahe-[ÿÿÿÿÿÿÿ2.0sio›ÅßÍÑÏÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Pyth 1.4.2on: >=3.8
+Requires-Dist:htyping--Dist:hÑÎ
+License-Expression: MIT OR Apache-[ÿÿÿÿÿÿÿ2.0
+Lic: tesense-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=6.8
+Requires-tDist:htyping-extensions>=4.0Â pytyping-extensions>=4.0Â pytho"
+Provides-Extri:
+ 
+test

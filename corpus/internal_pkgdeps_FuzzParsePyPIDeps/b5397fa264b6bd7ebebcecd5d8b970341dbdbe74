@@ -1,0 +1,17 @@
+€Metadata-Version: 2.1
+.com/pkg-1.0.tar.gz
+Requires-Dist: other[security,testt] (>=1.0,<2) ; pyt.gz
+Requires-Dist: othercru[seity,tests] (>=1.0,<2) ; pythþÿÿÿÿÿÿÿon_version >= €Metadata-Version: 2.1
+Nameming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5ŽŽŽŽŽŽŽ®ŽŽŽ	ŽŽCENSE
+ReŽŽŽŽ.dist-info/METADATAŽŽŽŽŽŽaests is a s"3.8" and extra != "dev"
+Requires-Dist: Flask_Login>=0.6
+Rsk_Login>=0.eiqrues-Dist: x ~= 1.6
+Reimple Hquires-st: x ~=  x ~1.=TT blirPary4.2 4.21..
+
+
+4.2

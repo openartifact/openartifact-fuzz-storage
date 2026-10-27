@@ -1,0 +1,9 @@
+€Mexalizer (<4,>=2)
+Requires-Dist: 
+
+idn)
+Apache-2.0
+Lic1"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Provides-Extovides-Extra: test

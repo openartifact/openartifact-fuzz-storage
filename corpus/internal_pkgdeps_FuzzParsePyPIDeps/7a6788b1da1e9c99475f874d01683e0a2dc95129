@@ -1,0 +1,10 @@
+€Metadata-Version: 2.4
+Name: tomli
+Versio€Metadata-Version: 2.4
+Name: tomli
+Version: 1.°.1
+License-Expression" and extra != "dev"
+Requires-Dist: Flask_Login: 2.= "dev~"
+Requires-Dist: Flask_Logisys_platform == "win32"n>=0n>=0.6
+Req: MIT OR Language :: Python :: €M.6
+Req:etad 
