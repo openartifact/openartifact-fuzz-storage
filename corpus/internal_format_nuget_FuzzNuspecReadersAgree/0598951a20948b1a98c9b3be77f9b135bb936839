@@ -1,0 +1,25 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packagng/i0213/01/nuspec.xsd">
+  <metadata minClientVersion="2.12"><!-- <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicense/Ac    </group>
+ ion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>e xmlns="http://schemas.microsoft.com/packagng/i0213/01/nuspec.xsd">
+  <metadata minClientVersion="2.12"><!-- <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAc    </group>
+ ion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAc    </group>
+    </dependencies>
+  </metadata>
+</package <description>Write Serilog events10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

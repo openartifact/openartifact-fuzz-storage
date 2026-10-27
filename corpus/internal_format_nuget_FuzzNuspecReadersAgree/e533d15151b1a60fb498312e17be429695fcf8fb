@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="`t</version>as.microsoft.com/packaginlib/netstandard2.0/d">
+  <metadata minClientVersion=("2.12">
+    <id>Serilog.Sinks.File</id>
+    <versi    </gro pu>  
+   <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,23 @@
+€<?xml v.nuspec.NUSPEC"1.0" encoding="utf-8"?>
+<package xmlns="uild,Analyzers" />
+      </group>
+      <group tup targetFramework="net5.0">
+   <group>     <dependen <authors>Serilog Contributors</authors1.0.0 <requireLicenseAcceptance>false</requireLit6.0-windowsAcceptance>[false</requireLicenseAnet8.0nce>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to frosoft.com/packaging/2013/|titill01/titillle<?nuspec.xs!d">  <metadata minClientVerrio!ENTITYilog.Sinks.   <license type="file">ework=".NETStandlib/netstandard2.0/ard2.0">
+        versindency id="Serilog" version="2.10.0" exclude="Build,Analyzernet6.0-windowsgroup>
+      <group targetFramework="net5.0">
+        <dependen <authors>Serilog Contributors</authors>
+    <requireLice<![argetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)"]]> />
+      </group>
+    </dependencies>
+  </meiles in text and JSON formats.</description>
+  q  <dependencies>
+      <group target44444444444444444444444444444444444444444444444444444444444444444444444444444F<projectUrl>ram encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/|titill01/titillle<?nuspec.xs!d">  <metadata minClientVerrio!ENTITYilog.Sinks.   <license type="file">ework=".NETStandard2.0">
+        versindency id="Serilog" ncy id="Serilog" version="[2.10.0, 3.0.0)"]]> />
+    lyzers" />
+      </group>
+      <g/metadata>
+</package>

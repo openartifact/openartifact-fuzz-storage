@@ -1,0 +1,11 @@
+€<?xml version="1.0" eninClientVerrion="2.12">
+    <id>Ser<!ENTITYilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+ <!ENTITYireLiroup targetFramework=".NETStandard2.0">
+<group>        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+ >Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group targetFramework=".NETStandard2.0">
+<group>        <dependency id="Serilog" version="2.10.0" exclude="Build,Anpackage>

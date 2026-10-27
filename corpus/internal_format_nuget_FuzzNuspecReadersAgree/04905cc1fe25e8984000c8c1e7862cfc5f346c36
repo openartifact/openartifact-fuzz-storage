@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="httSerilog Contributors</authors>ndencies>
+      <group targetFramework=".NETStandard4.0">
+        <depconteendency id="Serilog" version="2.</metadata>de="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </rgoup>
+    </dependencies>
+  </metadata>
+</package>

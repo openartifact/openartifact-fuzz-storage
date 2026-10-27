@@ -1,0 +1,35 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <mckage xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in teuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Se]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]].File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <xmlnslicense type="file">LICENSE</license>mlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</ahourts>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <lince>
+    <license type="file">LIse>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStversion>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAccepta.<group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </p
+o gur>   </dependencies>
+ 0</metadata>
+</package>

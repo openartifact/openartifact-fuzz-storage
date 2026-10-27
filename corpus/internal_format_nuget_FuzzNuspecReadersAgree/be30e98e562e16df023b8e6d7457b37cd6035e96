@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="utf-<packageckage xmlns="http://schemas.microsoft.com/packaging'2013/01/nuspe.cxsd">
+  <metadata minClientVersioget    <dependency id="Serilog" version="2.</metadata>de="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency <tags>rilog"ttttttttttttttttttt  <id>Serilog.Sinks.File</id>
+    <vework=".NETStandard1.0">nuget    <dependency id="Serilog"http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd?????????????????????????????????????">
+        <dependency <tags>rilog" version="[2.10.0, 3.0.0)" />
+      </group>%
+    </dependencies>
+  </metadata>
+</package>

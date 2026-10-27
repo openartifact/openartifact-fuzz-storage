@@ -1,0 +1,10 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="httSerilog Contributors</authors>
+    <requireLicenseAcceptanc@e>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</commit="ion>
+    <dependenciadata>de="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+  >

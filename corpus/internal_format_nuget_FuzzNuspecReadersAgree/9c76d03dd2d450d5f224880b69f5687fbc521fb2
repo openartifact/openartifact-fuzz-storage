@@ -1,0 +1,17 @@
+€<?xml version="1.0" </metadata>tf-8"?>
+<package xmlns="http://sche="1.0" encoding="utf[1.0, 2.0)ackage xmlns="http://scnemas.micion="1.0" encoding="utf[1.0, 2.0)ackage xmlns="http://schemas.microsoft.com/packagrosoft.com/mas.microsoft.com/packaging/2013/01(nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors><?xml version="1.0" encodi</dependencies>reLicenseAcceptance>[false</requireLicenseAnet8.0nce>ance>false</requireLicenseA(1.0,)cceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serription>
+    <dependencies>
+      <group targetFramework=".m/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</vep ta"[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

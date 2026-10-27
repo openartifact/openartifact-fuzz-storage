@@ -1,0 +1,43 @@
+€<?xml version="1.0" enclib/net462/8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrionid>Serilog.Sinks.File</i55555555555555555555555555555555555555555555555555555555555555555555d>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authoxt and JSON formats.</description>
+    <dependenciesowners>
+      <group targetFramework=".NETStandard1.0">
+        <depende<serviceable>ncy id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id=er<!ENTITYilog.Sinks.F versionnce>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in teuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</i55555555555555555555555555555555555555555555555555555555555555555555d>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authoxt and JSON formats.</description>
+    <dependenciesowners>
+      <group targetFramework=".NETStandard1.0">
+        <depende<serviceable>ncy id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id=er<!ENTITYilog.Sinks.F version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.tance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and J="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.tance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NET
+  ="2.12">
+    <id>Ser<!ENtp://schemas.micro/packaging/2013/01/nuhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhpack<!DOCTYPEhhhhhhhhhhhhhhhhhhhild,Analydencies>
+  </metadata>
+</package/package>s" />
+k="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

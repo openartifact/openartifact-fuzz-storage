@@ -1,0 +1,17 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schdmas.mSE</license>
+    <description>Write Serilog event-s to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard3.0">
+        <dependency id="Serilog" versage xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata mienseAcceptance>
+    <license type="file">UICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group t<?xml version="1.0" encoding="utf-8"?>    <dependency id="Serilog" lientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>6.0.0</version>
+    <authors>Serilog Contrrs</authors>
+    <requireLicenseAcceptndencies>
+  </metadata>
+</package>

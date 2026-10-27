@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="httSerilog Contributors</authors>
+    <requireLicenseAcceptanc@e>false</re JSON formats.</commit="ion>
+    <dependencies>
+      <group targetFramework=".NETStandard="Serilog" version="[2.10.0, 3.0.0)" />
+      </rgoup>
+    </dependencies>
+  </metadata>
+</package>

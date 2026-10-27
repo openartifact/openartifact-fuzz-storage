@@ -1,0 +1,7 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/p\ckaging/2013/01/nuspec.xsd"http://schemas.micontentFiles/any/any/equireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</licens
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[1.10[2.10.0, 3.0.0)" />
+      </>
+</package>
