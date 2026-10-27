@@ -1,0 +1,44 @@
+�Metadata-Version: 2.4
+Name: tomling Language :: Python :: .readthedocs.io
+Ǌthor: Kenneth Reitz
+License: Apache 2.0
+Classi1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+Ǌthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: \icense :: OSI Approved :: Apache Software License
+Classifion >= "3.8"
+Provi..sx-Etra: socksVersion: 2-extensions>=4.0version = ersoptional = truerequests.readthedocs.io
+Ǌthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+&lasovi..s-Extra: socksVersion: 2-extensions>=4.0version = ersoptional = truerequests.readthedocs.io
+Ǌthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+&lassifier: Programming Language :: Python :: .readthedocs.io
+Ǌthor: Kenneth Reitz
+License: Apache 2.0
+Classi1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+Ǌthides?Extra�Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-eag :phttpss://requests.readthedocs.io
+Ǌthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+&la0.tar.gzssifier: Programming Language :: Python :: .readthedocs.io
+Ǌthor: 3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Req: tesuires-Dist: idna (
+
+Requests i
+s a simple HTTP library.

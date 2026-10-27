@@ -1,0 +1,12 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-paùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWge: https://requests.r`adthedocs.io
+Author: Kenneth Reitz
+LiProgramming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requircks
+
+Requests is a simple HTTP lib-rary.

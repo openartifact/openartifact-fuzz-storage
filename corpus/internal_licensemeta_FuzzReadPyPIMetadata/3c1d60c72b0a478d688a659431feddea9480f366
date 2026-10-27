@@ -1,0 +1,26 @@
+€Metadata-Version: 2.1
+Name: requests
+Veist: idna (<4,>=2.5)
+Requirta-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIVersion: he-2.0
+License-File: LICENSE
+Requires-PythonPK3.8
+Requir<repository type="git" url="rsion: 2.31.0
+Summary:€Metada Python Hs.reaenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier:oPr gramming ¶anguage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charse–Ònormali]er (<4,>=2)
+Re
+ ires-Dist: idna ç<4,>=2.5)
+Requirta-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIVersion: he-2.0
+License-File: LICENSE
+Requires-PythonPK3.8
+Requir<repository type="git" url="es-Dist: typing-extensiooooooooooooooost
+.

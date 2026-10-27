@@ -1,0 +1,10 @@
+€ttaMdaea-Versdescription = ion: 2.1
+Nÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿame: requests
+Versionifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=1.7
+Requires-Dist: charset-normalizer (<4,>=2)nse-File: LICE"git" url="es-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "wiense :: OSI Approved :: Apache S
+Provides-Extra: socks
+
+Requests is a simple HTTP library.
