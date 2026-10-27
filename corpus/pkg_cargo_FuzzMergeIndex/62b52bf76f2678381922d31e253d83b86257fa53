@@ -1,0 +1,1 @@
+ÄÄ{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"ws-sys","req":">=0.44","features":["Win32_Foundation"],"optio\tes.io-index","pùackage":"windows_sys"}]et"."cfg(windows)","kind":"build","registry":"h:{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}

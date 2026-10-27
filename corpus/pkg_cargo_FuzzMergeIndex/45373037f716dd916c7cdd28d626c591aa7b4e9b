@@ -1,0 +1,4 @@
+€€{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48"     €€{"name":"serde","v1.0.19ÕİÓİ"default":[deps":[{"nserde_der~ive"ndŞ:"de":2}
+"Win32_Found0b9c8d7e6f5ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿa4b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}â
+{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundation"],"optional":false,"defaäult_features":false,"target":"cfg€€{"na(windows)","kind":"build","registryrde_der~ive"nb","features"!:{},"fdŞ:"de":2}eatures2Ô:{"dep":["dep:windows-s
+ys"]},"yanked":true,"v":2}
