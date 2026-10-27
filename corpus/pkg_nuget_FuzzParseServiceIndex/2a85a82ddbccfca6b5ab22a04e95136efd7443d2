@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"https://apiccc:ccccccccccccccccccexample/v7/query","@type":"SearchQueryService"},{"@id":"https://api./api.example/v@3-flat/","@type":"PackageBaseAddress/3.0.0"},{"@id":"ftT://nope/","@type":"RegistrationsBaseUrl/Versioned"}]}

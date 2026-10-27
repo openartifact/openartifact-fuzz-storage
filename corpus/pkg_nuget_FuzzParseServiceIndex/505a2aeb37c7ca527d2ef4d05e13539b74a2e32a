@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ"@id":"https://api.exameUrl"},{"@id":"https://api.example/v3/reg6","@type":["RegistrationsBa|eUrl/3.6(.0","RegistrationsBaseUrl/Versioned"]},{"@id":"https://api.example/v4-flat/","@type":"PackageBaseAddress/3.0.0"},{"@id":"ftp://nope/","@type":"RegistrationsBAseUrl/Versioned"}]}

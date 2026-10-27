@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"UUUUUUUUUUUUUUUUUUUUUs://api.ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc//api.example/v3/reg6","@type":["RegistrationsBaseUrl/3.6.0","RegistrationsBrl/VersionEd"]},{"@id":"https://api.example/v3-fs/3.0.0"},{"~@id":"ftp://nope/","@type":"RegistrationsBaseUrl/Versioned"}]}
