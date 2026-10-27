@@ -1,0 +1,9 @@
+€Metadata-Versi: PApache Software License
+Classifier: Programming Languaon: >=3.7
+Requires-Dist: charret-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist:xtra == 'socks'
+Requ-Extra: socks
+
+Requests is a simple HTTP library.

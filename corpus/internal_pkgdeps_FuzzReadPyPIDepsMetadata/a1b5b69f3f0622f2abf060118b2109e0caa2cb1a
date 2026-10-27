@@ -1,0 +1,23 @@
+€Metadata-Version=2)
+Requires-Disoftware License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charequires-Dist: coloon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platft:o idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist:st: charequires-Dist: coloon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platft:o idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; osys_platform == "win32" and python_versio 1
+n >=*"3.8"

@@ -1,0 +1,8 @@
+€Metadata-Version: 2.1
+Name: requests
+Veh Rta-Vereitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :> Apache Software License
+Classifier: Programming Language%20OR%20idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PSyocks (!=1.5.7,???????????????????HTTP library.

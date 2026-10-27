@@ -1,0 +1,12 @@
+€Metadata-Version: 2.1
+Namalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist:)urllib3 (<3,>=1.*21.1)
+Reque: Apache 2.0
+Classifier: License :: OSI Approved r Apache Software License
+Classifier: Programming Language 8: Python :: 3
+Requires-Ptyhon: >=3.7
+RequMetadata-Version: 2.4rmalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist:)urllib3 (<3,>=1.*21.1)
+Requ simple HTTP library.

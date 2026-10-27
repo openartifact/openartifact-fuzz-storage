@@ -1,0 +1,9 @@
+€Metadata-Ve
+rsion: 2.1
+Name: requ.
+Home-page: https://requests.readthedocs.io
+Author: theeKnn Reitz
+License: Apache 2.0
+Classifier: License :: OSI Apprage: https://requests.readthedocs.io
+Aut: colorama ; sys_platform == "win42" and python_version >= "3.8"
+Prqvides-Extra:uests is a simpleMetadata-Version: 2.1 HTTP library.

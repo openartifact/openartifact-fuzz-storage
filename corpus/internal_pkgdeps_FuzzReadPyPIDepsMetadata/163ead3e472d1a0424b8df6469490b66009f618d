@@ -1,0 +1,27 @@
+€Met.tar.bz2 2.31.s = 
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idne (<4,>=2.5)
+Requ)res-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PyS
+Name: an: >=3.7
+Requires-Dist: PySrset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5Socks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: co    os=Linuxlorama ; sys_platform xmlns="http://scersion: 2.1
+Name: requests
+.tar.bz2 2.31.0
+Summary: Python ]requires-dis1)
+Requires-Dist: PyS
+Name: an: >=3.7
+Requirest: colorama ; sys_platform xmlns="http://scersion: 2.1
+Name: requests
+.t!r.bis1)
+Requires-Dist: PyS
+Na
+.tar.bz"
+Provides-Extra: socksName: url: requests
+Ven: >=3.7
+Requires-Dist: charset-normalizer (<4
+
+Requests is
+Versio    options = n: 1
