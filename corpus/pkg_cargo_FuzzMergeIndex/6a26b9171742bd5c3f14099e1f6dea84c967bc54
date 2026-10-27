@@ -1,2 +1,0 @@
-€€{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.4ndex","package":"windows_sys"}],"cksum":"5f1d3b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked#:true,"v":2}
-{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name,"v":2}

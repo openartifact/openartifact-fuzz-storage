@@ -1,2 +1,0 @@
-€€{"name":"serde","vers":"1.0.195","deps":[{"name":"serde_derive","re/q":"=1.0.195","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":false,"default_features":true,"targe~2:null,"kin"":ddev"}],"cksum":"5f1d3b1c0e5f9a8b7c6d5eÿÿÿÿÿÿÿÿ4f3a2b1c0d9e8f7a6b5ll,"rust_version":"1.56","v":2}
-{"name":"serde","vers":"1.0.196-rc.1","depf9a8b7c6d5e4f3a2b1c05a4b","features":{"default":["std"],"std":[],"derive":["serde_derive"]},"yanked":false,"links":null,"rust_version":"1.56","v":2}

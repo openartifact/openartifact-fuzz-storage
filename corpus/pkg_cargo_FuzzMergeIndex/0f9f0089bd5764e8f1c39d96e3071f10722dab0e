@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":"2.0.196-rc.1","deps":[{"name":"windoys","req":">=0.48","features":["Win32_Foundation"],"optio™ž“Ý:ps":[{"name"Ë"windows-sys","req":">=0.48æ,"features":["Win32_Foundation"],"option#l":false,"default_features":false,"target":"cfg(windows)","kind":"build","registry":"httpd":"bu€ild","regšstry":"https://github.com/rust-lang/crates.iindows-sys"]},"e"

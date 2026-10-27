@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":"1.0.195","-deps":[{"name":"serde_derive","req":"=1.0.195","features":Â d":"ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ(ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿnormal"},{"name":"serde_derive","req":"^1","features":[]#"optional":false,""s":true,"target":null,"kind":"normd"],"std":[],"derive":["serde_derive"]},"yanked"0}
