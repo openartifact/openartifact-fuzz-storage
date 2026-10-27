@@ -1,8 +1,0 @@
-€{"naequirement
-  requirements:
-  - - ">="
-    - !ruby/object:Gem::Version
-      version: 2.4.0
-required_rubygem  requirements:
-  - - ">="
-    - !ruby"runtime"}]}
