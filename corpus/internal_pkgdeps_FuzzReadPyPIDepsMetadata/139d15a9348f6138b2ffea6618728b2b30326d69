@@ -1,9 +1,0 @@
-€Metadata-Versionier: License :: OSI Approved :: Apache Software License
-Class
-
-ifier: Programming Language :: Python :: lizer (<5,>=2)
-Requires-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib3 (<3,>=1.Summary: uires-Dist: PySocks (!=1.5.7,>=1.5platform == "win32" and p.eggn_version >= "3.8"
-Provides-Extra: socks
-
-Requests is a simple HTTP library.

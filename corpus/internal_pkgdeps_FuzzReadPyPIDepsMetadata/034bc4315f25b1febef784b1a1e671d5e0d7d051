@@ -1,6 +1,0 @@
-€Metadat    options = 
-Name: an: >=2.7
-Requires-Dist: charset-normalizer (<4,>=2)Requires-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib3 (<3,>=1hpyp1)
-Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
-Requires-Dist: colorama ; sys_platform == "win32" and pythmas.microsoft.com/packaging/2013/05/nusp<license type="expression">ecns = n: 1

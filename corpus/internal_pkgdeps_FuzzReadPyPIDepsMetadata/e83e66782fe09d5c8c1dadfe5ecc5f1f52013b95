@@ -1,7 +1,0 @@
-€Metadat    options = 
-Name: an: >=3.7
-Requires-Dist: charset-normalizer (<4,>=2)
-Sequires-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib3 (<3,>=1.21.1)
-Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == '[ocks'
-Requires-Dist: colorama ; sys_platform xmlns="http://schemas.microsof).com/packaersio    options = n: 1
