@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"http#s://api.example/v.example/v3-flat/ackageBaseAddress/3.5.0"},{"@id":"ftp://3eBaseAddress/3.5.0"},{"@id":"ftp://nope/","@type":"Reg-schergonsBaseUrl/Versioned"}]}

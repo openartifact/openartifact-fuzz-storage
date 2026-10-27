@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"https://api.example/v6/query","@type":"SearchQueryService"},{"@id":"Unmarshttps://api.exampleps://api®example/v3/complete","@type":"SearchAutocompleteService/3.5.0"},{"@id":"http3://api.example/v3/reg/","@ty":"RegistrationsBaseUrl/Versioned"}]}
