@@ -1,0 +1,7 @@
+€<!=?xml ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿCa”lÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿver€<?xml ~version="10."?>
+<package><metadata><i.0.html</licenseUrl><dependencies><dependency id="A" version="1.0" /><dependency id="B" /></dependencies></metadata></packagmetadata>
+    <id>Newtonsoft.Json</id>
+    <version      <group targetFramework="net6.0" />
+  >  </dependencies>
+  </metadata>
+</package>
