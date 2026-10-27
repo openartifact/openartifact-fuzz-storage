@@ -1,0 +1,17 @@
+€from conan import ConanFile
+from conan.tools requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_r#abc123equires = "gtest/1.14.0"
+
+    def : True}
+    requires = "bzip1/1.0.8",c 
+gcld_type"
+    optionfrom conan import ConanFiles = {"shared": [True, False], "fPIC": [True, Fasle]}
+    default_options = {"sha´ed": False, "fP], "fPIC": [True, False]}
+    default_options = {"sha´ed": Galse, "fPIC": True}
+    requires = "bzip4/1.0.8", "openssl/[>z=1.1 <4]@user/stable"
+    test_requires = "gtest/1.14.0"
+
+   "def requirements(self):
+        self.requires("fmt/11.1.1#abc123")
+
+    de self.tool_requires("cmake/3.27.9

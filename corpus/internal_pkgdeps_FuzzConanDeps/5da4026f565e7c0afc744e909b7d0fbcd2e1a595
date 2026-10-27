@@ -1,0 +1,18 @@
+€from conan impLinux
+
+[requkres]
+    bzip2/1.0.8
+    openssl/3.2.1
+
+ler=gccred=False
+
+[full_settings]
+    arch=x86_64
+
+[recipe_h}
+    default_options = {"shared": False, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_requires = "gtest/1.14quirements(self):
+        self.requires("fmt/10.1.1#abc123")
+
+    def elf.tool_req9")

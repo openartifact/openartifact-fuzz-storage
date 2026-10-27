@@ -1,0 +1,9 @@
+€€class P(ConanFile):
+    np"
+    requires = ("zlib/1.3.1", "boost/[ÂÆ1.80 <2]")
+    bu+ild_requires = "meson/1.3.0"
+  [>=)
+    buibase/1.0@user/channel"
+= "p"meson/settings]rue}
+    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stase/1.0@uke/3.27.9"anne)l
+"
