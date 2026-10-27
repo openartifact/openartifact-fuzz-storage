@@ -1,0 +1,1 @@
+€{"schemaVersoin":1,"name":"library/hello","tag":"latest","architecture":"amd64","fsLayers-":[{"BlobSum":"sha256:2d711642b726b04401627ca9fbad711642b726b04401627ca9fbac32f5c8530fb1903cc4db0225871792~1a4881"}],"history":[{"v1Compatibility":"{}"}],"signatures":[{"header":{"alg":"ES256"},"signature":"x","protected":"y"}]}

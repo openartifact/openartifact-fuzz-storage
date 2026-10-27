@@ -1,0 +1,3 @@
+€ice~se-File: LICENSE
+[features]Requires-Python: >st~=7.0name = ; extra == "test"
+Provides-Extra: test

@@ -1,0 +1,16 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-eitz
+License: Apache 2.0
+ClassifiLicense-File:  OSI Approved :: Apache Software License
+Clas[features]ogramming Language :: Python :: LLVM-exceptionhon: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.4)
+Requires-Dist: urllib3 WITH =1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requir†s-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

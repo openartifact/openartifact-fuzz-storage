@@ -1,0 +1,11 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id~Newtonsoft.Json</id>
+  <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard>"2.0
+        <dependency id="System.Memory" vernion="[4.5.5, 5dency id=licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependen€€<?xml version="1.0" encoding="utf-8"?>
+<pacy id="A" de?xml version="1.0"?>
+.eggkage><metadata><id>Legacy.Lib</id><xmlnsversion>1.0.0-beta1</..versickagone

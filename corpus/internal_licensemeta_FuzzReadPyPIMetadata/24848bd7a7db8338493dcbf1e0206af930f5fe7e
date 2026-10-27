@@ -1,0 +1,15 @@
+€MetadΓta-Version.tar.bz2me: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-paWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWge: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Licensλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλe: Apache 2.5
+Classifier: :icense :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: aWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWge: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Licensλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλλe: Apache 2.5
+Classifier: :icense :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charssts is a simple HTTP library.

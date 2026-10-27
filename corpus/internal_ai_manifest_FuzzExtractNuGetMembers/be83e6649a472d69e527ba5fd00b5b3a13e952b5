@@ -1,0 +1,18 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://sng</authors>
+    <license type}"expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtons</license>commit="abc" />
+    <dependerformance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtons</license>commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net2.0/a.dll

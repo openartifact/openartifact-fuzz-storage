@@ -1,0 +1,9 @@
+€Metadata-Version: 2
+m1aN.ePython :ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ: 3
+Requires-Python: >=3.7
+Requires-sDit: charset-normali}er (<4,>=2)
+Requires-Dist: idna (<4,>=2.<dependencies>5)
+Requires-Dist: urll@b3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requir urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=a simple HTTP library.

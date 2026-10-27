@@ -1,0 +1,3 @@
+€Metadata-Version: 1.4
+Name: tom
+Requires-Dist: pytest~=7.0; extr test

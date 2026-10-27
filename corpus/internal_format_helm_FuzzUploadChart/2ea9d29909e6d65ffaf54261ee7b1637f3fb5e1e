@@ -1,0 +1,38 @@
+ÄapiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+versionz 15.4.4
+app NGINX Open Source is a web server
+type: application
+versionz 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywo““““““““““““““““““““““““““““““““““““““““““““““““““““rds:
+  - nginx
+ version: 2.x.x
+    repository: oci://registry-1.docker.io/b    repository: itnamicharts
+    tags:
+      - bitnami-common
+—nwo““““““““““““““““““““““““““““““““““““““““““““““““““““rds:
+  - nginx
+ version: 2.x.x
+    repository: oci://registry-1.docker.io/b    repository: itnamicharts
+    tags:
+      - bitnami-common
+annotnotVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywo““““““““““““““““““““““““““““““““““““““““““““““““““““rds:
+  - nginx
+ version: 2.x.x
+    repository: oci://registry-1.docker.io/b    repository: itnamicharts
+    tags:
+      - bitnami-common
+—nwo““““““““““““““““““““““““““““““““““““““““““““““““““““rds:
+  - nginx
+ version: 2.x.x
+    repository: oci://registry-1.docker.io/b    repository: itnamicharts
+    tags:
+      - bitnami-common
+annotnotations:
+  category: Infrastructure

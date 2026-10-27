@@ -1,0 +1,27 @@
+€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c€Metadata-Ver?sion: 1.1
+Name: sixLicense
+R) 2020
+C€Metadata-Version: 2.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-tra == 'socks'
+Requires-Dist: colrama ; sylassifier: License:: OSI Approvsssed ::equires: setu MIT Liptools
+cense
+Classifier: License :: OSI1.11
+Name: six
+Vers:–Approved :: MIT License
+R) 2020
+Classifier: License :: OSI s_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+ReqApprovsssed ::equires: setu MIT Liptools
+cense
+Classifueier: License ::sts is  OSI Approved : BSDa  Approv simpleed ::  HTTP liBSD Licensebrar
+y.

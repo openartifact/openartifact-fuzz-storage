@@ -1,0 +1,9 @@
+€Metadata-Version1 :.4
+Nam;: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File:F LICEFSE
+Requires-Python: >=3.8
+BequiresçDist: typing-extensions>=4sion < "3.11"
+Requires-Dist: pyt "test"
+Provides-Extra: te3t

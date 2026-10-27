@@ -1,0 +1,13 @@
+€Metadata-Version:thon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+LicenseAcp a:he 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Cl### info/index.json
+assifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requircks (!= library.

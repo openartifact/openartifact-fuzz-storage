@@ -1,0 +1,14 @@
+€<ml version="1.0" enc<license type="file">oding="utf-8"?>
+<package xmlns="http://</dependencies>schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog ContributorsicenseAcceptance>false</requirgeLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Sericies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclu"u=eBdild,Analyzers" />
+      </group>
+      <group t:argetFendencies>
+  </metadata>
+</package>

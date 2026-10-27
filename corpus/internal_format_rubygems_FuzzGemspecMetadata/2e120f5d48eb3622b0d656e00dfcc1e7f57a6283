@@ -1,0 +1,110 @@
+€--- !ruby/object:Gem::Specification
+name: rac*k
+version: !ruby/object:Gem::Version
+  version: 2.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:eGm::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !!ruby/regexpruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/obobject:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface betweenby/object:Gem::Specification
+name: rac*k
+version: !ruby/object:Gem::Version
+  version: 2.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:eGm::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !!ruby/regexpruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/obobject:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homeject:Gem::Version
+        version: '5. webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homeject:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+exec:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homeject:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal in~erface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_file"type"EADME.md
+files:
+- lib/rack.rb
+homepage: https://gby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 5.5.3
+signing¡”š†Åõutables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://gby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 5.5.3
+signing¡”š†ÅõŒ”ecification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

@@ -1,0 +1,8 @@
+ЂMetadata-Ve-sion: 2.4
+Name: tomli
+Verиииииииииииииииииииииииииzer (<3,>=2)
+Requиииииииииииииииииииииииииииpython_vsioLicense:зn: 2.0.1link
+Liceииииииииииииииииииииииииииииииииииzer (<3,>=2)
+Requиииииииииииииииииииииииииииpython_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

@@ -1,0 +1,8 @@
+€[package]
+#name = "membrsion.wo---------------------------------------------------------------------------------pace = true Rust Project Developers"]
+
+[package]
+name = "rand"
+versino = "2[build-dependencies]
+autocfg[dependencies]
+sibling = { workspace = true }

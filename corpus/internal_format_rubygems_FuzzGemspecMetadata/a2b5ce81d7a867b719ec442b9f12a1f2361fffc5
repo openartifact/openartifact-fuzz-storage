@@ -1,0 +1,15 @@
+€-Version
+  version: 1€{"namservers a~d Ruby frameworks.
+email: rack@example.org
+executables:
+- ra€--- !rubyckup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licexses:
+- MIT
+metadata:
+  bug_track_uri: https://github.com/rac/object:G

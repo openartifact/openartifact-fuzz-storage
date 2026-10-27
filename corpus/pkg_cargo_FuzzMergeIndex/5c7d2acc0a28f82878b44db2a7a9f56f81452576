@@ -1,0 +1,1 @@
+��{"name":"serde","vers":"1.0.196-r种种种种种种种种謣2种謈.1","deps":[{"name":"lse,"default_features":false,"target":"cfg(windows)","kind":"build","registry":"https://github.com/rust-l"dep":["dep:windows-sys"]},"yanked":true,"v":2}

@@ -1,0 +1,1 @@
+€{"¹version":"3.0.0","resources":[{"@id":"https://api.example/v3/query","@type":"Seaice"},{"@id":"https://api.ex~ample/v3/query35","@type":"SearchQueryService/3.5.0"},{"@id":"https://api.example/v1/complete","@type":"SearchAutocompled"]},{"@id":"https://api.example/v3-flat/","@typÿ":"PackageBaseAddress/3.*[]map[string]stringnope/","@type"rsioned"}]}

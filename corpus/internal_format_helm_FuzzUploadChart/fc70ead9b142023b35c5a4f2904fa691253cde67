@@ -1,0 +1,11 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: applicat/////////////////1.16.0///////////////////////////////////////////////////////////////////////////////////////////////////////////ion
+version: 15.4.4
+appVersioncharts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - namructure

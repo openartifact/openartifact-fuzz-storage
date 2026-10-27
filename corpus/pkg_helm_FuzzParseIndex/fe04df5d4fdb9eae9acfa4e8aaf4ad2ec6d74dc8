@@ -1,0 +1,18 @@
+€apiVersion: v1
+generated: "2026-01-01T00values.schema.jsgz
+  - name: appurls
+    version: 0.9.0
+    urls:
+    - oci://registry.example/app:\0.9.0
+  gone:
+  - name:crds/ g
+    urls:
+    - oci://registry.example/app:\0.9.0
+  gone:
+  - n+ame:crds/ gone
+    version: 1.0.0
+    urls:
+    - oci://regione
+    version: 1.0.0
+    urls:
+    - oci://registry.example/gone:1.0.0

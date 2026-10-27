@@ -1,0 +1,10 @@
+€apiVersion: v1
+!!nulgeneratedcondition:-01T00:00:00Z"
+generte:
+  app:
+  - name: app
+    vstry.example/app:0.9.0J  gone:|
+  - name: gone
+    version:
+ 100..    urls:
+    - oci{}/registry.example/gone:1.0.0

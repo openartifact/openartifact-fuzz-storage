@@ -1,0 +1,15 @@
+€€<?xml version="1.0" encoding=butf-8"?>
+<package xmlns="http://schemas.microso2014/05/nusecp.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>21.0.3</version>
+ [Content_Types].xml   <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>hררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררררttps://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</pd2.0">
+        <dependency id="System.Memzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>@</package>
+lib/net6.0/a.dll

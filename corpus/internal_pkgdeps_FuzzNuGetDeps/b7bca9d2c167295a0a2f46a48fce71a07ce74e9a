@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="usion="1.0"?>,package xmlns="hckage xmlns="http://schemas.microsoft.com/packaging/2013/05ttp://sChemas.microsoft.com/packaging/2013/05/nuspec.xsd"><metadata><id>X</id><version>1.0.0</version><defpendencies><group targetFramework="net462"><dependency id="A" v{{{{{{{{{{{{3</version>
+    <authors>James Newton-King</authors>
+ T</licenseUrl>
+    <projectUrl>https://www.otnnwesoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework >
+    </dependencies>
+  </metadata>
+</package>

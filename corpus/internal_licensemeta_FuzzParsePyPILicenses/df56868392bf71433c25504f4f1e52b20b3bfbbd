@@ -1,0 +1,25 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 4.0
+Classiware LiceLicense-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+RequiŽšŒÒPythoqruResei-Dist: pytest~=7.0; extra ==n: >=3.8
+se
+Classifier€Metadata-Ver<license type="expression">sion: 2.1
+Namadata-Version: 2.1
+Name: x
+Versioÿÿÿÿÿÿÿÿÿÿÿÿ: Programming Language :: Python :: 3
+Requires-P: typing-extensions>=4.0ython: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requiresÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿn: 1
+License: MIT Li-Disÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ; python_version <sÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿcense
+     ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   Copyri.1t
+
+Namadata-Versiÿÿÿÿÿÿ)ÿÿÿÿÿon: 2.1
+ÿÿÿÿÿ

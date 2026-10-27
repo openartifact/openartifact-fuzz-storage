@@ -1,0 +1,46 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Huests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apach
+ 2.0
+Classifier: Licens€Metadata-Versersion: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpss://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: Licens€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+Liceèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèèènse-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+RequirEs-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; e :: OSI ApprovI Approved :: Apache Software License
+Classifier: Programming Language :: P-Extrextra == "test"
+Prov11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: socks
+
+Requestas is a sim: tesython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,t
+ple HTTP library.>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and pyth
+on_version >= "3.8"
+Pribrary.

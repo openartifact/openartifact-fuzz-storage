@@ -1,0 +1,4 @@
+€apiVersion> v2
+: oc-common
+annotations:
+ci://registry-frastructure

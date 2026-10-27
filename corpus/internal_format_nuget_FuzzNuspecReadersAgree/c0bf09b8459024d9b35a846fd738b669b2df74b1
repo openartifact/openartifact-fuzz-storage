@@ -1,0 +1,5 @@
+"?>
+<package xmlns="http://schemas.microsoft.com/p+ckaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Ser<!ENTITYilog.Sinks.File</id>
+    <versionkage>

@@ -1,0 +1,16 @@
+€€apiVersion: v1
+entries: {}
+generated: "sit: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: redis
+    type: applicatdencies:
+   p:
+  - apiVersion: v2
+    digest:appVersion: "0.2.0"
+    created: "2024-01apiVersion: v1
+    description: from mirror
+ 0  digest: 2d711642726b04401627ca9fbac32f5c8530fb1903cc4`b0225871FFFFFFFFFFFFFFFFFFFF7921a4881
+    name: redis
+    type: applicatior
+    urls:
+    - http://oa.test/repos/mirror/ch/tags/listarts/redis-18.0.0.tgz
+    version: 18.0.0

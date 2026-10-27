@@ -1,0 +1,6 @@
+€{"name&1.0.0","platform":"ruby","summary":"s","authors":["a"+],"licenses":["MIT"],"dependencies":[{"name":"ra","summary":"s","authors":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type"::r"u"n"demo","version":"1.0.0","platform":"ruby","summary":"s","authors":["a"],"licename"1.0.0","platform":"ruby","summary":"s":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type"::r"u"n"demo","versi:["a"+],"licenses":["MIT"],"dependencies":[{"name":"ra","summary":"s","authors":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type"::r"u"n"_chain: []
+date: 2024-01-31 00:00:00.000*00000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  re‰uirement: !ruby/ob,"licenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type"::r"u"n"demo","version":"1.0.0","plnses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type":"runtime"})}

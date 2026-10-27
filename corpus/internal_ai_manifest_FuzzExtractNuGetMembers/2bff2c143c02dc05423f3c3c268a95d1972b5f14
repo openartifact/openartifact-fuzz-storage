@@ -1,0 +1,13 @@
+€<€?xml version="1.0" en..ding="utf-8"?>
+<package xml.nuspecp://schemas.microsoft.com/packaging/2013/05/nuspec.xsl">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license t=y"xeeppression">MIT</2013/05/nuspec.xsd"><metadata><id>Fancy.Tool</id><version>2.0.0</version><license type="file">LICENSE.tx.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

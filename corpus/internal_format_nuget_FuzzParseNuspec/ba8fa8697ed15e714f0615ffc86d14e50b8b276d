@@ -1,0 +1,32 @@
+€<?xml version="1.0" encoding="utf-ÈÝÀÁõÃ¦ckage xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minlneiveErsioon="2.12">
+  ; <€<?xml version="1.0" encoding=€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http:soft.51750s63a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramewor•ËÑÊÝßÐ·
+      <group targetFramework=".NETStandard2.0" />
+      <group targetFramework="net6.0<package xmlns="http://schemas.micuosoft.com/packaging/2013/05/nuspeid>Serilog.Sinks.File®/id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicensENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard1.‰0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </groueLicenseAcceptance>false</requireLicenseAcceptan  <depec.xsd">
+  <mendency tadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</v1.0.0ersion>
+    <authors>James Newton-King</authors>
+    $<license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.51750s63a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramewor•ËÑÊÝßÐ·
+ id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </meta     <group targetFramework=""utf-8".NETStandard2.0" />
+      <group ?>
+<packagdata>
+</packagete>ar

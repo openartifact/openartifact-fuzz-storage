@@ -1,0 +1,16 @@
+€Met!dcta-Version: 2.1Provides-Extra: 
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+AuthoR: Kenneth Reitz
+License: U?NKNOWN2.0
+Classifier:[builependenciesÿÿÿÿ=1.5.6) ; extra == 'socks'
+Require3-D: 
+Name:#requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthadthedocs.io
+AuthoR: Kenneth Reitz
+License: U?NKNOWN2.0
+Classifiers a simple HTTP library.

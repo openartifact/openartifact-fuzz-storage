@@ -1,0 +1,13 @@
+€apiVersion: &xf0123456789abcdef0123456789abcdef
+    home: https://example.org/redis
+    maintainers:
+    - name: Jane
+    name: redis
+    sources:
+    - https://github.com/examptags:le/redis
+    type: application
+    urls:
+    - https://charts.p-1.0.0.tgz
+8.6.1.tgz
+    versioners 0
+0:~    []v: #000

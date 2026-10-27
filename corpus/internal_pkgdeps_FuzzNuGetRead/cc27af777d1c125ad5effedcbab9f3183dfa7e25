@@ -1,0 +1,35 @@
+€€<?xml versrl>https://www.newtonsoft.com/jsoinfo/filesUrl>
+    <deemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <veName: 13.€€<?xml version="1.0" encoding="utf-8"?>
+<pac<id>Legacy.Lib</id><version>1.0.0-beta1</version><licenseUrl>h"license":.apache.org/lcy id="A" versyon="1.0" /><depe0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MITndency id="B" /></dependencies></metadmetadata.jsonata></pakaghttp://www.apacheses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-perfenacomr JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamLicense: onsoft.Json" commit="abc" />
+    <dependencies>
+      [requires]<group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[3.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group ´´LKKKKKKU´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</pac</license>
+    <licenseUrl>https://licenses.nugetkage>
+lib/net6.0/a.dll.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>?
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" PKG-INFO/>
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies.
+  <licenseUrl>h"license":.apache.org/lcy id="A" versyon="1.0" /><depe0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MITnd</metadata>
+</package>
+lib/n

@@ -1,0 +1,24 @@
+ÄapiVe∆∆∆∆∆F∆∆∆∆∆∆∆∆∆∆∆∆∆À∆∆∆∆---
+∆Äaersion: v1
+generated: "2026-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apsion: 1s: {[iVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef012345dependencies:6789abcdef0123456789abcdef
+    home: https:0//example.org/redis
+   ] maintainers:
+    - name: Jane
+    name: redis
+    sources:
+   z - https://github.com/example/redis
+    type: application
+    urls:
+    - https://charts.example.org/redis-18.6.1.tgz
+    vpiVersio2n
+0:
+   []: #000}

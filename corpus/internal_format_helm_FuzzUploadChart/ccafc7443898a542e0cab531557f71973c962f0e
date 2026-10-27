@@ -1,0 +1,25 @@
+€apiriVseon: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersts
+dependencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://registry-1.docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https²://github.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://registry-0.docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure

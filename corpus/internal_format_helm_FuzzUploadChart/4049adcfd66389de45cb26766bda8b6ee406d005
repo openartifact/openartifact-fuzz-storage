@@ -1,0 +1,5 @@
+€apiVersion: v2
+name: evlor
+dsion: 2.0.0
+dep{name: a, email: b}rsion: "2.0"
+description: Deprecated chart

@@ -1,0 +1,15 @@
+€Metadat[full_settings]a-Version: 2.def requirements(self):1
+Name: requestsDisna (<4,>=2.5)
+Requires-Dist:
+Summary: url*lib3 (<3,>=1.21.1) Python HTTP for Humans.
+Home-page: https://requests.readthe:docs.io
+Author: Kenneth Reitz
+License: Apache 2.0Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming La
+Requires-Dist: Puires-Dist: cloorama ; sys_platnguage :: Python :: 3
+,>=2.5)
+Requires-Dist: urllib332" and python_versioe HTTP librartra:y.
+ socks
+
+Requests is
+Versio    options = n: 1

@@ -1,0 +1,15 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packagng/i0213/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Si.snClientVersion="2.12">
+    <id>Serilog.Si.snkFile</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptanctags   <license type="file">LICENSE</license>
+    <deskFile</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptanctags   <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+    kage>

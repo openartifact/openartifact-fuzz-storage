@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{ n@id":"https:///v3/query35","@type":"SearchQueryService/3.5.0"},{"@id":"https://api.example/v3/complete","@type":"Strations/3.0"},{"@id":"ftp://nope/","@type":"Registrations}]}

@@ -1,0 +1,28 @@
+€€apiVersion: v1
+enntereentries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common,á‰šŒ–‘: 2.x.x, repository: "https://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+apiVersion: v1
+generatmd: "2024-01-02T03:04:05Z"
+entries:
+  app:
+  - apiViVersion: v.rpmnerated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersi€apentries:: v1
+entries:
+  internaal:
+  - {name: internal, version: 1.0.0, urls: [internal-1.0.0.tgz]}
+apiVersion: v1
+entriejjjjjjjjjjjjjjjjjjjs:
+  internal:
+  - {name: elsewhere, version: 99.0.0, urls: ['https://elsewhere.example/elsewhere-99on: v2
+    appVersion: "15.1.0"
+    created: "202€€ap4-i

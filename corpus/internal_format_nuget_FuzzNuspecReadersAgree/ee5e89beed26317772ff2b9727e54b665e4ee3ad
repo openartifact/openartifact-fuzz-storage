@@ -1,0 +1,10 @@
+€<?xml version="1 0".encoding="utf-8"?>
+<package xmlns="hstp://sc<group>icrosoft.com/packaging/2013/01/nuhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh$hhhhhhhhhhhhhhhhhhhgroup targetFramewo=rN.k"ETStandard3.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+    netcoreapp3.1etFvamework="net5.0">
+        <)dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

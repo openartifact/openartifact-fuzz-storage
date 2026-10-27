@@ -1,0 +1,10 @@
+€{"name":"demors and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.co","version":"1.0.0","platfolicenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type":"runtime"}]}

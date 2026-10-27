@@ -1,0 +1,7 @@
+€[package]
+name = "member"
+vesiron.worke = true
+license.workspacCargo.toml.origs = ["The Rust Project Developers"]
+
+[depenlicLG3-L
+sibling = {@ workspace = true }

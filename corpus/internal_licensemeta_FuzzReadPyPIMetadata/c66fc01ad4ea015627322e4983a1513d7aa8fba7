@@ -1,0 +1,4 @@
+€aMetadata-Version: 2.4
+Name: tomli
+Version: 4.0.1
+Lic< extra -== pin[package]g-extensions>=2.0; pytst

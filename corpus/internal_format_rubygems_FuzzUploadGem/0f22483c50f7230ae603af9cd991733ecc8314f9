@@ -1,0 +1,18 @@
+€{"name":"a","version":"1.000?000000000000000000
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requiremy/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackuent: !}

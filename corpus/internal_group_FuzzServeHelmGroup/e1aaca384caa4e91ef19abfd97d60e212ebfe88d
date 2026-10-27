@@ -1,0 +1,17 @@
+ÄÄapiVersçêë≈ v1
+entries:
+  inter- apiVersion: v2
+    appVersion: "18.0.0"
+  reated: "2024-01-02T03:04:05Z"
+    description: from mirrnal:
+  - {name: internal, version: 1.0.0, urls: [internal-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  internal:
+  - {name: elsewversionersio  created: "2024-01-02T03:04:05Z"
+    description: from mirrnal:
+  - {name: internal, version: 1.0.0, urls: [internal-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  internal:
+  - {name: elsewversionersion: 99.0.0, urls: ['https://elsewhere.example/elsewhere-99.0.0.tgz']}

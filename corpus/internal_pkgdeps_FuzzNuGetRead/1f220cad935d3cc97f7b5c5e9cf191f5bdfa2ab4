@@ -1,0 +1,6 @@
+€€<?xml version="1.0"?>
+<package><metadKta><id>Legacy.Lib</id><versscription>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" excluion>1.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependency id="AÞÕversyon="1.0" /><dependency id="B" /></dependencies></metadata></package>Other.nuspec

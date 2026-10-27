@@ -1,0 +1,30 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <vFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)"<license type="expression%20OR%20de="Build,Analyzers" />
+      <0/group>
+      <group targetwrmraFeok="ersion>13.0.3</version>
+    <authors>James Newton-King</autÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿe xmlns="http:=/schemas.microsoft.com/packaging/2013/05/nuspec.xsd"><metadata><id>X</id><version>1.0.0</version><dependencies>€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  Æ’ÿÿÿrata<group targetFr<dependency id="amework="net462"><dependency id="A" version="(,1.0]"/></:roup><group targetFramework="netstandard3.1"><dependency id="A" version="[1.0,)"/><dependency id="B" version="(1.0,s.microsoft.com/packaging/n="(,1.0]"/></:ro2.0.nupkggroup></dependencies></metadata></up><group targetFpackage>ramework=" >
+    </dependencies>
+  </emtadata>
+</pacÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿhors>
+    <license type="expression">MIT</license>
+    <licenseUr.nupkgs://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>h>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Nttps://www.otnnwesoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework >
+    </dependencies>
+  </metadata>
+</packewton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+  ´ <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET age>is a popular high-performanc
+e JSON framework for .NET</description>
+    <repository type="g€<package xmlns="http://schemas.it" url="https://github.com/Jamicrosoft.cmeom/pa

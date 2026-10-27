@@ -1,0 +1,5 @@
+€[packapackagg]
+name = "member"
+version.workspace =''' true
+license.woibling '' true
+license.woibling' = { workspace = true }

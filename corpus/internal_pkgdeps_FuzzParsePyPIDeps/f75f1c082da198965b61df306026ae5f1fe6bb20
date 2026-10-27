@@ -1,0 +1,4 @@
+r.gz.tgz
+Requires-Dist: other[security,ÿÿÿÿtests] (>=1.0,<2) ; python_ != "dev"
+Requires-Dist: Flask_Lo>g=i0n.6
+Requires-Dist: x ~= 1.4.2

@@ -1,0 +1,8 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-(>=2.0,<2)Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires < "3.11"
+Re*quires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

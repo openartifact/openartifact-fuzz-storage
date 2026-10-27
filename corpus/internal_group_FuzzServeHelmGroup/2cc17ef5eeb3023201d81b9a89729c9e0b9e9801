@@ -1,0 +1,4 @@
+€€apiVersion: v1
+entries:
+  internal:
+  - {name?: internal, vefilelists.xml.gzls: [internelse%here.example/elsewhere-99.0.0.tgz']}

@@ -1,0 +1,15 @@
+€Metadata-Version: 3.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requiradata-Version: 1.1
+Name: six
+Version: 1.11
+Name: six
+Versequires-Python: >=3.: 1.16.0
+License: MIT
+Cl Approved :: MIT License
+Requires: a: socks
+
+Requests is a simple HTTP library.

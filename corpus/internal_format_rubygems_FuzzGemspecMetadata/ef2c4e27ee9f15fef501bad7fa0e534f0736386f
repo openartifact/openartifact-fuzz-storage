@@ -1,0 +1,64 @@
+€--- !ruby/object:Gem::Specific
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+ type: :runtime
+  pration
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 0.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependen: !ruby/object:Gem::
+
+
+
+
+
+
+
+
+
+
+
+,
+ type: :runtime
+  prerelease: false

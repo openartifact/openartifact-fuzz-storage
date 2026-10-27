@@ -1,0 +1,7 @@
+.whl€Metadat-Vaersion: 2.4
+Name: toqli
+Version: 2.0.1
+License-(>=1.0,<2)Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires < "4.11"ytest~=7.0; extra == "test"
+Provides-Extra: test

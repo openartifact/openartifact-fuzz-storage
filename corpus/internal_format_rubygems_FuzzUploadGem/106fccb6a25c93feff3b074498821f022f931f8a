@@ -1,0 +1,17 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 0o3.0.9
+platform: ruby
+authors:
+- Leah Neu: rack@example.org
+executables"homepage"
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage:
+specification_version: 4
+summary: A modular Ruby webserver interfacem::Req_files: [].: 
+1.0

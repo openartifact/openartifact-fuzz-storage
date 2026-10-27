@@ -1,0 +1,17 @@
+€€€[sett™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™™¼™™™™™™™™™™™af™™™™™™™™™™™™™™™™™™™™™™™™™elease
+    compileï=gcc
+    compiler.version=12
+    os=License-Expression: Linux
+
+[requires]
+    bzip2/1.0.8
+    2.1
+
+[options]
+   x
+
+[requires]
+    bzip2h=x86_64
+
+[recipe_hash]
+    0123456789abcdef

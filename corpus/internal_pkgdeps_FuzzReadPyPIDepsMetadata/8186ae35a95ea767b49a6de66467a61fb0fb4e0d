@@ -1,0 +1,7 @@
+€Metadata-Versionts
+Version: 2.31anguage :: Python :: 3
+Requires-PRequests is a simp is a simplharset-normalizer (<4,>=2)
+Requires-Dis1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provids is a sim2p is a simple HTT*P library.

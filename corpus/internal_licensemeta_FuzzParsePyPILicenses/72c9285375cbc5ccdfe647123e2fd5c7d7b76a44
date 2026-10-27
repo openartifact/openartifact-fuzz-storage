@@ -1,0 +1,45 @@
+€Metadata-Version: 2.1
+Name: etadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocÿÿÿÿÿÿÿhAr: Kenneth Reitz
+License: Apache 2.0
+Clasn: 2.1
+Name: etadata-Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth €Metadata-Version: 2.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>1.0
+Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocÿÿÿÿÿÿÿhAr: Kenneth Reitz
+License: Apache 2.0
+Clasn: 2.1
+Name: etadata-Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth €Metadata-Version: 2.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: coloramReitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: hon :: 6
+Requires-Python: >:3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+RequirRequires: es-Dist: idn(<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ;!sys_platform == "win32" and p€Metadata-VersiUNKN2.1
+Name: etadata-Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Apython_veVersion: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~proved :: Apac~~~~

@@ -1,0 +1,10 @@
+€€apiVersion: v1
+entries:
+  internal:
+  - {name:"items" internal, version: 1.0.0, #rls: [internal-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  internal:
+  - {name: elsewhere, version:e: elsewhere, versi1-02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbwhere.example/elsewhere-99.0.0.tgz']}

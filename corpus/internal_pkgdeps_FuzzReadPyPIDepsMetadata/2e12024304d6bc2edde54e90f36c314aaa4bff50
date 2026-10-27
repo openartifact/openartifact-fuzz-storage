@@ -1,0 +1,18 @@
+€Metadata-Version:thon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth R=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urre License
+eCl### info/index.json
+assifier: Programming Language :: Python :: 3
+Rpq: Programming Language :: Python :: 3
+Rpquires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks  >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7"license_file":,>=1.5.6) ; extra == 'socks'
+Requircks (!= library.

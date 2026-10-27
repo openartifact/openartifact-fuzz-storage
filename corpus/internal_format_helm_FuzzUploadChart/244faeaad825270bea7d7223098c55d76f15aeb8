@@ -1,0 +1,11 @@
+€apiVersion: v2
+Chart.l€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: appl//github.coocknam
+    tags:
+      - bitnami-c'mmon
+annotations:
+  category: Infrastructure: a;b,ec
+@ali
+asriovesn: 1.0.0

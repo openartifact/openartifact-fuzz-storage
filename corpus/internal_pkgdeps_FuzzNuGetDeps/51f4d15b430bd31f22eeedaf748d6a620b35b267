@@ -1,0 +1,32 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUlr>
+    <projory type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" verss.microsoft.com/packaging/2013/05ttp://schemas.microsoft.com/packaging/2013/05/nuspec.xsd"><nseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependemetadata><id>X</˜›ÁÃ‰šŒion>1.0.0</version><dependencieion="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFTStandard2.0">
+     d <  ependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <groectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Jchemas.microsoft.com/packaging/201ackaging/2013/05/nuspec.xsd"><nseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependemetadata><id>X</˜›ÁÃ‰šŒion>1.0.0</version><dependencies><group targetFramework="net975"><dependenâðÒPd="A" ncversion="(,1.0]"/></group><group targetFramework="netstandard2.1"><dependency id="A" version="1.0" /><dependency ></py id="A" version="[1.0,)"/><dependency ida="B" version="(1.0,2.0)"/></group></dependencies></met</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <descrip<group targetFramework="net6.0">performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" verss.microsoft.com/packaging/2013/05ttp://schemas.microsoft.com/packaging/2013/05/nuspec.xsd"><nseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl><dependencies><dependemetadata><id>X</˜›ÁÃ‰šŒion>1.0.0</version><dependencieion="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFTStandard2.0">
+  àßßßßßÃ›ependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </depen.nupkgs>
+  </metadata>
+</package>

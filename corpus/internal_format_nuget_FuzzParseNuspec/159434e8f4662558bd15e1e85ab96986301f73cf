@@ -1,0 +1,11 @@
+€<?xml version="1.0Ö£encdoing="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nusepc.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</ve‘sion>
+    <authors>James Newto0-King</authors>
+    <liaense type="expression">MIT</license>
+    <licenseQrl>https://licenses.nuget.org/MIT</licenseUrwork="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

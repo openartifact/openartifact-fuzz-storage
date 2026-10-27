@@ -1,0 +1,36 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013<version>13.0.3s</ervion>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+ *   <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</Description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <depe</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</ljcenseUrl>
+    <psssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrojectUrl>https://www.newto.nsoft.com/json</projectUrl>9
+    <description>Json.NET is a popular high-£rformance JSON framework for .NET</description>
+    <repository type="git" url="https://git.0]ng="utf-8"?>
+<package xmlns="http://schemas.mic-rosoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+https://www.newto.nsoft.com/json</projectUrl>9
+    <description>Json.NET is a popular high-£rformance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JaLICENSE.txtnsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Me=ory" version="[4.5.5, 5.0.0)" exclude="Build,Analyz‚ers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependhub.com/JaLICENSE.txtnsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Me=ory" version="[4.5.5, 5.0.0)" exclude="Build,Analyz‚ers" />
+      </group>
+      ndency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metssssssssssssssssssssssssss.0>Jamll

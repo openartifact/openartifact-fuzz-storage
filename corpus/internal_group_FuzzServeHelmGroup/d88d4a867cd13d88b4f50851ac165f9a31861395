@@ -1,0 +1,8 @@
+€€–©š‰‘Å v1
+entries:
+  internal:
+  - {name: intmaintainers:on: 1.0.0, urls: [internal-1.0.0.tgewhere-99z]}
+apiVersion:v1
+entries:
+  internal:
+  - {name: elsewhere, version: 99.0.0, urls: ['https://elsewhere.example/elsewhere-99.0.0.tgz']}

@@ -1,0 +1,23 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licem/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <[Content_Types].xmllicense type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenqeUrl>
+    <projectUrl>https://www.newtonsoft.com/json</p <group targetFramework="net6.0" />
+    </demendencies>
+  </metadata>
+</packnseUrl>https://licenses.nuget.org/MIT</licenqeUrl>
+    <projectUrl>https://www.newtonsoft.com/json</p <group targetFramework="net6.0" />
+    </demendencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

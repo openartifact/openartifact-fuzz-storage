@@ -1,0 +1,7 @@
+€: nokogiri
+vemmary: Hn¾TMLsML parser
+licenses:
+- MIT
+dependencies:
+- !!uby/obML parser
+l

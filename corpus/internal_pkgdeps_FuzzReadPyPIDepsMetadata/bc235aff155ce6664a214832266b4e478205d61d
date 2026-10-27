@@ -1,0 +1,22 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :€Metadata-Version: 2.1
+Name: requests
+Vers[Content_Types].xml: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: O€Metadata-Version: 2.1
+Namequires-Dist:ist: idna (<4,>=2.5)5.6= "win32" and python_version >= ") ; extra == 'socks'
+Requires-3sio"
+Provn >= "3.8"
+Provides-.Ex8"
+Pides-Extra: socks
+
+Reqrovideuests is a simple HsTTP library.

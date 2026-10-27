@@ -1,0 +1,6 @@
+€class P(ConanFile):
+    name = "p"
+    requires = ("zlib/1.3.#abc1231", "boos…/[>=1.80 <2]")
+    bu+—“› šŽ…ires = "meson/1.3.0"
+  [>    python_requires = ;conaninfo.txt;;;;;;;;;;;;;;;;;;;;3;2;;;;;;;;;;;;;;;    compiler=g¶¶¶¶¶¶¶¶¶class P(ConanFile):_requires = ;conaninfo.txt;;;;;;;;;;;;;;;;;;;;3;2;;;;;;;;;;;;;;;    compiler=g¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶:¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶=1.80 <2]")
+    buibase/1,0@user/chennel"

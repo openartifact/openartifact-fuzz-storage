@@ -1,0 +1,2 @@
+€€{"name":"se","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32ÿ_Foundation"],"optional":false,"defÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ<;;;;;;Ä;ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄational":false,"default
+eatures":false,"targ‹":"cfg(windows)","kind":"build","registry":"https://github.com/rust-33333333333333333333333333333ub.comlse,"tard7e6f5a4b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}

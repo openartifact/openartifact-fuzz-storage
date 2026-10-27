@@ -1,0 +1,8 @@
+€Metadata-Version: 2.1
+Name: requests
+.tar.bz2x509usefallback: Python HTTP for Hum>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and pythocks'
+Requires-Dist: colorama ; sys_platform == "win32"  "2.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

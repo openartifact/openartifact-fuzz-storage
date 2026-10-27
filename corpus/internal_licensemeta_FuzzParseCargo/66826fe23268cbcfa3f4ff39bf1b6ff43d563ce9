@@ -1,0 +1,10 @@
+€[packLicenseRef-age]
+name = "rand"
+NOASSERTIONversion = "0.8.5"
+license = "MIT/Apache-2.0"
+
+[dependencie
+[sion = "0."0.6
+
+[build-dependencies]
+autocfg = "1"

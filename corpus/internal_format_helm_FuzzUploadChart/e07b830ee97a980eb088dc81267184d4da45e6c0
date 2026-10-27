@@ -1,0 +1,5 @@
+Ä{name: a, email: b}: old
+version: 2.0.0
+dçeprecated: true
+appVersion: "1.0"
+description: Deprecated chart

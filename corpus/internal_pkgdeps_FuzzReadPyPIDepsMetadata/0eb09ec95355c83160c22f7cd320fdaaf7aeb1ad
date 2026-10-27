@@ -1,0 +1,10 @@
+€Metadat    options = 
+Name: an: >=3.7
+Requires-Dist: charset-norm    options = )
+Sequires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == '[ocks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.mlic+nse: apa[Content_Types].xtra: socks
+
+Re.uests is
+Versio    options = n: 1

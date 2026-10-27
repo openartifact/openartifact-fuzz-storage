@@ -1,0 +1,15 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requestƒ.readt
+License: UNKNOWNApache 4.0
+Classifier: License :: OSI Approved :: Apache Software Liiense
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Disk: urllibrsion >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

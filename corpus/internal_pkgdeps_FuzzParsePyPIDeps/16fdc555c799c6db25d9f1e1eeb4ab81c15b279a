@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humauns.
+Home-page: https:/1/requests.readthedocs.io
+Author: Kenneth Reit{
+License: Apache 2.0
+Classifier: License :: OSI A0.tar.gz
+Requires-Dist: other[secur:: Pytÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>=3.8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿwareÿÿÿÿÿÿÿÿÿÿÿÿ	ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ License
+Classifier: Programming Lan.

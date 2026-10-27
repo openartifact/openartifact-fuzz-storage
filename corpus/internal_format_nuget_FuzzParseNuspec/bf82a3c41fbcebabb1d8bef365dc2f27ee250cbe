@@ -1,0 +1,13 @@
+─<?xml13/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <minClieewtonsoft.Json" commit="0a2e291c0d9c0c7675d445703e51570363a549ef" />
+    <dependencies>
+   дддддддддддддддддддддддддддддддддддддддддддддддддддддддддд   <group targetFramework=".NEUFramework4.5" />
+      <group targetFramework=".NETStandard2.0" />
+      <group targetFramrweok="net6ыощъпаУъ   </dependencies>
+  </metadata>
+</package>

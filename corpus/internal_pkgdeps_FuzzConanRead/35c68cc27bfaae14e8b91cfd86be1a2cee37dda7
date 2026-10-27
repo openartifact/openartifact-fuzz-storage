@@ -1,0 +1,5 @@
+ЂЂЂ[settings]
+ЮЮЮЮљЮЮЮЮ    harc=x86_64
+    build_type=Release
+    compiler=gccx86_64
+    sbt

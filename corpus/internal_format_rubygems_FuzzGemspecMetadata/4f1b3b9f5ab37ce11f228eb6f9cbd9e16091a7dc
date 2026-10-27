@@ -1,0 +1,21 @@
+€---bru! y/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  versiequirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/obents:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

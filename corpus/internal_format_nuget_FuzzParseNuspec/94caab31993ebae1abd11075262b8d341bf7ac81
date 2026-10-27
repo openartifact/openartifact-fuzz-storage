@@ -1,0 +1,21 @@
+€<?xml version1/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAccept="1.0" encoding="ut<license type="file">f-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2014/05/nption>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="0a2e291c0d9cÐœÈÃ75d445703e51750363a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targ    <id>Serilog.pendency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.ÐÝÁø        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+<etFrhttp://schemas.microsoft.com/packaging/2013/05/nuspec.xsd5703e51750363a549ef" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group		 targetF														ramewo	r

@@ -1,0 +1,8 @@
+€Metadata-Veÿrsion: 2.4
+Name: tomli
+Version: 2./blob/main/LICENSE.txtExpression: M1IT OR A @ https://pache-2.0
+License-File: LICENSE
+R`qhon_version < Version: "3.11"
+Requirs-Dist: typing(>=1.0,<2)-extensions>=4.0; python_version < "3.11"
+Requires-Dist:#pytest~=7.0; extra == "test"
+Provides-Extra: test

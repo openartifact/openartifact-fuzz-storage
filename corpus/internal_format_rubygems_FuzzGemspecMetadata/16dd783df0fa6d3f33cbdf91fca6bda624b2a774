@@ -1,0 +1,37 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1[.16.2
+platform: x86_64-linux
+authors:
+- 
+- !ruby/object:Gemorm: x86_64-linux
+authors:
+- Mike Dalessio
+sy: sion
+        version: '5.0'
+  type: :development
+  prererdoc_options: []
+lease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal intmeworks.
+email: rack@example.org
+executables:
+- rackup
+exten>= 1.0sions: []
+extra_rdoc_fIlet:Gemorm: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licensesÀ
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  ï¿½ïname: racc
+  requirement: '1.4'
+  type: :runtime
+ prerelease: false

@@ -1,0 +1,8 @@
+€[package]
+name = "ran[depApache-0.0"
+
+[dependencs.eirand_core]
+v0
+
+[build-dependencies]
+autocfg = "1"

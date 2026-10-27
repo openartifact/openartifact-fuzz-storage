@@ -1,0 +1,7 @@
+€Metadata-Veved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: url[1.0.0]3,>=1.21.1)
+Requires-Dist: PySocks s is a simple HTTP library.

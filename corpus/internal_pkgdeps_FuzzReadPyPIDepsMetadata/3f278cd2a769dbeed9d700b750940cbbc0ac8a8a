@@ -1,0 +1,11 @@
+€Metadata-Version: 2.1
+Name: reques:: Apache Softwa: 2.1re License
+Classifier: ython HTTPuests.readthedocs.io
+Authobbbbbbbr: Kenneth Rta-Vereitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Softwa: 2.1re License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charse: 4t-normalizer (<4,>=2)
+Requires-Dis1)
+R extra == 'sockss a mpi sis a simple HTTP library.

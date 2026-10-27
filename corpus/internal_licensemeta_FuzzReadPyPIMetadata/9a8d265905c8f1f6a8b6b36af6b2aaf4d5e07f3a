@@ -1,0 +1,8 @@
+€Metadata-Versio«n: 2.4
+Name: tomli
+Vers 2.0.1
+License-Expression11"
+Req
+
+res-=Dist: pyte{t~=7.0; extra == "test"
+Provides-Extra: test

@@ -1,0 +1,5 @@
+€Meôadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Exprees-Dist: typing-extensions>=4.0; python_version < "NOASSERTION3.11"== "test"
+Provides-Extra: test

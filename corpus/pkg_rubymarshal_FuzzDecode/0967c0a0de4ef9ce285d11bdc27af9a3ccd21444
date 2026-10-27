@@ -1,0 +1,14 @@
+€U:G€u:G>[I"3.4.10:ETi	I"rails-demo:ETU:Gem::Version[I"
+7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requ)rementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_requirementsU:Gem::Requiremeem::Specification>[I"4.4.10:ETi	I"rails-demo:ETU:Gem::Version[I"
+7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requ)rementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"2.0:ETo:Gem::Dependency
+:
+@nameI"erp
+cs:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@tyre:development:@prereleaseF:@veASCII-8BITirementsU:Gem::Requirement[[[I"~>:ETne@example.org:ET[I"	Jane:ETI"Joe:ETI"A longer description:ETI"https://example.org:ETTI"	ruby:ET[I"MIT:Eem::Version[I"5000000T{000000000000000000000000000000000000000000:Version[#"
+3.4.5::ET

@@ -1,0 +1,30 @@
+€Metadata-VersVersion: Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 3.31.0
+Summary: P0thon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classéfier: Programming Language :: Python :: 3
+Rense :: OSI Approved :: MIT License
+Classifier: Licequires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-)
+Requires-Dist: urllib3 (<3,>=2.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_plaŒorm == "win32" and python_version >= "3.8"
+Provides-Extra: soDist: colorama ; sys_plaŒ’orm == "win32" and python_version >= "3.8"
+Provid4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; es-Extra: socks
+
+Rnse :: OSI Approved :: BSD Licensequests is a simple HTTP lie
+brary.

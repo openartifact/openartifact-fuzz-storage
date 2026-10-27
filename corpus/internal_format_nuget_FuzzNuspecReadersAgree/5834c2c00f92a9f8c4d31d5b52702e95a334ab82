@@ -1,0 +1,5 @@
+€<?xml version="1.0" encnetcoreapp3.1oding="utf-8"?>
+<package xmlns="http://schemas."ETStandard2.0">
+  `     <de<projectUrl>"Serilog" version="2.10.0" exclude="Build,Analyzers" />ependencies>
+  <
+</package>

@@ -1,0 +1,5 @@
+€Metad{### info/index.json
+cme: aersion: 1 extra == 'socks'
+Requires-Dist: colorama ; sysha255: rm == "win@32" and python_version >= "3.6"
+Provides-Extra: socks
+JRe

@@ -1,0 +1,26 @@
+€Metadata-Version: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Sum 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: Ly: 
+N0; extra == "test"
+Prhvidås-Eier: License :: OSI Approved :: MIT License
+RequietadataVersionUNKNOWNion: 1.1Su 1.1Summare
+res: setuptools
+a-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Express:i IoTnM OR Apache-2.0
+License-File: LICENSE
+Requires-Pyt‹: >=3.8
+Requires-Dist: typing-extensnse :: OSI Approved :: BSD Licensequests is a simple HTTP lie
+brary.

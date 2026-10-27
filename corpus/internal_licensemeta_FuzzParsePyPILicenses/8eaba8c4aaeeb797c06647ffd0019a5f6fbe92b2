@@ -1,0 +1,18 @@
+€Metadata-Version: 2.1
+Name: etadata-Versioo`: 2.1
+Name: requests
+Versioion: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: License :: OSI Approved :: MIT License
+Classifn: 2.31.0
+Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifiˆšr (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'sock: socks
+
+Requests is a simple HTTP library.

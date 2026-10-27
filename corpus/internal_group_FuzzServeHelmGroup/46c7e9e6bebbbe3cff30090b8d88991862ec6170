@@ -1,0 +1,7 @@
+€€apsion: v1
+entries:
+  internal:
+  - {name: other, -version: 1.0.0, urls: [other-1.0.0.tgz]}
+apiVersion: v1
+efilelists.xml.gzal:
+àß- {name: internal, version: 9.9.9, urls: @internal-9.9.9.tgz]}

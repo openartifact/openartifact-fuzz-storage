@@ -1,0 +1,21 @@
+€<?
+ml version="1.0" encoding</authors>
+    <<title>LicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file"/authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</qicense>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <gro``````````````````````````````````````````````up targetFramework=".NETStandard2.0">
+        <dependency id="Serile="Build,Analyzers" />
+  /   < group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+    <group targetFramework="net5.0">
+        <dependency id="Serencies>
+  </metadata>
+ackage>

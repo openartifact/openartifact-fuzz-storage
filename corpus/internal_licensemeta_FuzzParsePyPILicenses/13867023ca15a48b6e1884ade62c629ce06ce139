@@ -1,0 +1,12 @@
+€Metadata-Version: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Clas—fier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io«««««««««««««
+Aer: Licequires-Python: ensequests is a simple HTTP lie
+brary.

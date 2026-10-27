@@ -1,0 +1,36 @@
+"   # -        version
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@examcation
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bple.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+‰homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri:    requirement:  - "="

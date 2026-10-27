@@ -1,0 +1,9 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15/registry-1.docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+an'otations:
+  category: Infrastructure

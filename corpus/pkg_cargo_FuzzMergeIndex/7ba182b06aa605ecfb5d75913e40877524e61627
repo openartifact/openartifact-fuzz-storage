@@ -1,0 +1,2 @@
+€€{"name":"serde","vers":"1.0ההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה.196-rc.1","deps":[{"name":"windows-sys""auth-required":true,"req":">=0.48","feaeatures":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}
+{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundation"],"optios-sys"]},"yanked":true,"v":2}

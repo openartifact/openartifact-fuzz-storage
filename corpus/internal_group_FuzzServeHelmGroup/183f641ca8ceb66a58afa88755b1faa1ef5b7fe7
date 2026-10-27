@@ -1,0 +1,23 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: -0b.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repository: "https://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+apiVer3ion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: "0.2.0"
+    created: "2024-01-02T03:04:05bac32f5c8530fb1903cc4db02258717921a4881
+    name: app
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

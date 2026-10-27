@@ -1,0 +1,17 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+   <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonso”t.ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿcom/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>.nupkgrepository type="git" url="https://github.com/JamesNK/Neþýonsoft.Jqon" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <depÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁendency id="System.Memory" version="[4.5     <group targetFrameworÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿcom/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>.nupkgrepository type="git" url="https://github.com/JamesNK/Newtonsoft.Jqon" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <depÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁk="net6.0" />
+    </dependencies>
+  </metadata>
+</package>

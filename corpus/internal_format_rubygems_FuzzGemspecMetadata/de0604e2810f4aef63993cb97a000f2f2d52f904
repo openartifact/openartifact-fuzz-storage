@@ -1,0 +1,16 @@
+€--- !{uby/object:Gem::Specificati !m::Specificati !rubyersion"ame: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1.16.2
+platform: ?x86_64-linux
+authors:
+- Mike Dalessio
+summars:
+-inux
+authors:
+- Mike Dalessio
+sy: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gemuntime
+  prerelease: false

@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns=iption>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+ sd">
+  <metadaŒ— minClientVersion="2.12">
+    <id>Seril!og.pendency~id="Serilog" vers="oni2.1.0.0+metaud"=eBuild,Analyzers" />
+    <minClientVersion>  </grou)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

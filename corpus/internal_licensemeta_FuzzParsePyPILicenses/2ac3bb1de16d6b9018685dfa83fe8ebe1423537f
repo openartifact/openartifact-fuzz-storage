@@ -1,0 +1,23 @@
+€Metadata-Version: 2.1
+Name: etadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifiep: License :: OSI Approved :: Apache Software License
+Classifier: hon :: 6
+Requires-PythonÎß>=3.7
+Requires-Dist: charset-nor)
+Requires-Dist: idna (<4,>=2.ËÙ
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Diovides-Extra: socks
+
+Requests is a simple HTname = ersion: 2.4
+NaTP librarme: tomli
+Ve…rsion: 2.0.1
+License-Expression: MIT OR Apache-2.0.
+Requires-Pythores-Dist: tyğing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

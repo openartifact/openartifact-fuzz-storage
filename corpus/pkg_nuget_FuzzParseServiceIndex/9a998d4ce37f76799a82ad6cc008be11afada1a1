@@ -1,0 +1,1 @@
+€{"version":"3.0.0","resources":[{"@id":"https://api.nuget.org/v4-flatcontainer/","@type":"PackageBaseAddress/3.0.0","comment":"Base URL of where NuGet presources":[{"@id":"https://api.nuget.org/v3-flatcontainer/","@type":"Packaw3.org/2040/01/rdf-schema#coma#commEnt"}}

@@ -1,0 +1,37 @@
+€--- !ruby/object:Gem::fipceSication
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1.16.2
+platform: x86_64-linux
+authors:
+- MikeDalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  require€--ment: !ruby/object:Gem::Requirement
+    requirements:
+    - - "~>"
+      - !ruby/object:Gem::Version
+        version: '1.4ÿÿÿ- æææææææææææææææææææææææææææææææææææææææ€îul¾!!binaryæææææææææææææææææææææææææææææææææææææææ!ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Deÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ'
+  type: :runtime
+  prerelease: fpendency
+  name: racc
+  requirement: !ruby/object:Gema::Requirement
+    ents:
+    - - "~>"
+      - !ruby/object:Gem::Version
+        version: '1.4ÿÿÿ- æææææææææææææææææææææææææææææææææææææææ€îul¾e

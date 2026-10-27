@@ -1,0 +1,1 @@
+€€€npmlodash@4.17.20[{"id":"GHSA-35jh-r3hCRITICAL","cvss":9.1,"fixed_in":"4.17.21","cwes":["CW*[]map[string]interface {}03","severity":"HIGH","cvss":7.4,"fixed_in":"4.17.19"}]

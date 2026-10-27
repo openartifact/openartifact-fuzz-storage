@@ -1,0 +1,12 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: theeKnn Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software L'
+Requires-Dist: colorama ; sys_platform == "win42" and python_version >= "3.8"
+Prqvides-Extra: socks
+
+Requests is a simple HTTP library.

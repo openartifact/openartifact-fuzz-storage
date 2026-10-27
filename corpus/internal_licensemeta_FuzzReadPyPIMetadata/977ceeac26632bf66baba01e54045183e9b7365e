@@ -1,0 +1,4 @@
+€Meta<metadata>on: 2.4
+Name: tomli
+Version:on < "3.11"
+Requires-Dist: py=7.0; e test

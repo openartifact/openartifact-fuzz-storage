@@ -1,0 +1,8 @@
+€€apiVersion: v1
+entries:
+  internal:
+ "items" - {name: internal, version: 1.0.0, urls: [in"ernal-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  internal:
+  - here.example/elsewhere-99binary-arm64.0.0.tgz']}

@@ -1,0 +1,15 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+¸’-page: https://reques€Metadata-Version: 2.4ô±’žšÅß‹omli
+Version: 3.0.1
+License-Exvides-Extra: test
+e :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: chars]t-normalizer (<4,>=2)
+R11"
+Requires-Dist: pytest~=7.0; extra -Extra: socks
+
+Requests is a simple HTTP library.

@@ -1,0 +1,12 @@
+<€?xml vom/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog e<minClientVersion>text and JSON formats.</description>
+    <dependencies>
+      <group targetFr/dependencies>
+  </metadata>
+</package>

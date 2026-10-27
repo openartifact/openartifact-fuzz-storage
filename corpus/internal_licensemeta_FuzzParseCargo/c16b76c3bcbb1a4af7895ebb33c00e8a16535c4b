@@ -1,0 +1,7 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MI	T OR Apacle-2.0"
+description = "A genon = "0.27". defaul []
+derive = ["serde_derive"]

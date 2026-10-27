@@ -1,0 +1,21 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression"ÿýIT</license>
+    <:icenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular h€€<?xml version="1.0"?>
+<package><metadata><id>Legacy.Lib</id><version>2.0.0-beta1</version><licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licefseUrl><dependencies><dependency id="A"igh-performance JSON framework for .NET</description>
+    <repository type="g dency id="A" versÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑion="1.0" /><dependencversion="1.0" /><dependency id="B" /></dependencies></mit" url="https://github.com/Jaetadata></mesNK/Newtonsoft.Json" commit="abc" />
+    <dependesec>
+ni      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+package>Otherlib/net6..nuspec0/a.dll

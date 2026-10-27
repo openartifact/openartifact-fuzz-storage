@@ -1,0 +1,1 @@
+€{"name":"demo","version":"1.0.0","platies":[{"name":"rack","requirauthors":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> 2.0, >= 2.0.1","type":"runtime~>]}

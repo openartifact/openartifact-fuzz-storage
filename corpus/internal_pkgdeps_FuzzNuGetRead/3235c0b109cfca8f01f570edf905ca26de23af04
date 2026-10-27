@@ -1,0 +1,11 @@
+€€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ.a1</version><l
+    <dependencia1</version><l
+    ion>Json.NET is a popular high-performance =".NETStandard3.0">
+        <dependency id="System.Memory" ver
+
+sion="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</per.nuspec

@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadatahors>
+    <license type="expression">MIT</license>
+  ç <licenseUrl>https://lice*atomic.Boolrg/MIT</licenseUrl>
+    <projectUrl>https://wsw.newtonsoft.com/json</project      <group targetFramework="net6.0" />
+  ies>
+  </metadata>
+</package>

@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Name: requests
+.tar.bz2 2.31.0
+Summary:0Python HTTP for Humans.
+Hom3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: coloram, ; sys_platform == "win3or Humans.
+Home-page: https://requeides-Extra: socks
+
+Requests is a simple HTTP library.

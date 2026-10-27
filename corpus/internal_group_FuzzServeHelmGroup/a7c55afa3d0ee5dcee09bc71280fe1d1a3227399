@@ -1,0 +1,7 @@
+€€apiVersion: v1
+entries: {}
+generated: "22-04042b726b0ä4401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: redis
+    "parent"type: a  urls:
+    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
+    version: 18.0.0

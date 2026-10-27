@@ -1,0 +1,11 @@
+€--- !{uby/object:Gem::Specibicati !rue Dalessio
+summars:
+-inux
+au___________________________________________________thors:
+- Mike Dalessio
+sy: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gemuntime
+  prerelease: false

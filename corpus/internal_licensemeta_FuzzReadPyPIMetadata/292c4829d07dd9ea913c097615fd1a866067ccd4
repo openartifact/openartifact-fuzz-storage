@@ -1,0 +1,5 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2-extensions>=4.0; python_version < "3.11"
+Req1ires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test

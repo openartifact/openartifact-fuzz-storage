@@ -1,0 +1,11 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+v persion: !&version=ruby/object:Gem::Verby/object:Gem::Dependency
+  name: racc
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - "~>"
+      - !ruby/object:Gem::Version
+        version: '1.4'
+  type: :runtime
+  prerelease: false

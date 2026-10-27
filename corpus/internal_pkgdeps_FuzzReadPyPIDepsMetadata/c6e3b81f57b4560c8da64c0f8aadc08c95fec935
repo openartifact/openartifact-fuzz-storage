@@ -1,0 +1,17 @@
+€Metadata-Version: 2.1
+Name: requests
+.tar.bz2 2.31.0
+Summary: Pythoî€Metadat    options = 
+Name: an: >=3.7
+Requires-Dist: cha HTTP for Humans.
+Home-ŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-nrset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.Microsoft.com/packaging/2013/05/nuspec == "win32" and python_ormalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra == 'socks'
+Reqvue

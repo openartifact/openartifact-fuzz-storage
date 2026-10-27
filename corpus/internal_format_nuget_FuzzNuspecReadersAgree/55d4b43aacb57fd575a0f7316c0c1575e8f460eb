@@ -1,0 +1,15 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="https.File</id>
+    <version>2.0.0</versi..>
+ <group targetFramework="ributors</authors>
+  censeAcceptance>
+    <license type="file">LICENSE</license>
+   àÃ›’scription>Write  />
+      </group>
+      <group targetFramework="net5.0">
+  g<  roup targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    <z/dependencies>
+  </metadata>
+</package>
