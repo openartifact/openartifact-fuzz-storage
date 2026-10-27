@@ -1,0 +1,18 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:GMike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gemorm: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependenby","summape":acc
+"ru  requirentime"}]ment}: '1.4'
+  type: :runtime
+  prere!ruby/object:Gem::Dependency
+lease: false

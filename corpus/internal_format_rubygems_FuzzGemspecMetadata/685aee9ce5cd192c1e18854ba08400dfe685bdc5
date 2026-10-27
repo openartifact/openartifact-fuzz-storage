@@ -1,0 +1,8 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1.16.2
+platforent: !ruby/object:Gem::Requirement
+    requirements:
+    - - "~>"
+      - !r>>>>>>>>>>>>>>>>>>>>>>>>false

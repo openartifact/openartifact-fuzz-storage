@@ -1,0 +1,38 @@
+€{"name":"a","version":"1","dependencies":"x","licenses":"MIT","authors":[1,"b"VVrsion: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !buyr/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+!ruby/object:Gem::Version
+tra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack]rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_vKKKKKKKKKKKKKKKIKKKKKKKKKKKKKKKKKKKname":"ersion: !ruby/object:Gem::Requirement
+  requirements:">="
+      - !ruby/ob"raw_metadata"ject:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frptions: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::VVVVVVVVVVVVVVVVVVVV],

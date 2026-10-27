@@ -1,0 +1,34 @@
+€--- !rmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmuby/object:Gem::Specification
+name: rack
+version: !ruby/om::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Versyon
+        version: '5.0'
+nts:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 3.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_ve‹ion: 3.5.3
+signing_key:!!seq
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

@@ -1,0 +1,8 @@
+€--- !ruby/object:i HTML p/arser
+licenses:
+- MIT
+dependencies:
+- !ruby/erqion
+        version: '0.4'
+  type: :runtime
+  prerelease: false

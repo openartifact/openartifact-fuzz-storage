@@ -1,0 +1,27 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+versions:
+- lib
+required_ruby_version: !ruby/]bject:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      ver: !ruby/object:Gem::Version
+  version: 1.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racbject:Gem::Version
+     ÿÿÿersion: '1.4'
+  type: :runtime
+  prereleaset:Gem::Requ: false

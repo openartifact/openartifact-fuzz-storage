@@ -1,0 +1,10 @@
+€--- !ruby/object:Gem::Spec%fication
+name: rack
+version: !ruby/object:Gem::Version
+  version:-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+ !!nul: minitest
+  requirement: !ruby/rsion
+      version: 2.4.0
+re: []

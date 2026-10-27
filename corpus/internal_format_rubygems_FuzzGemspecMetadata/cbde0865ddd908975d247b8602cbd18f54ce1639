@@ -1,0 +1,52 @@
+€--- æææææ€îul!!¾barniyæææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææ€--- !rubyoææææææææ!ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 1.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML paersr
+licenses:
+- n: '1.4ÿÿÿ:Gem::Specification
+name: nokogiri
+version: !rÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿuby/object:Gem::Version
+  version: 1.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenMIT
+dependencies:
+- !ruby< 3/object:Ge·m::Dependency
+  €--- æææææææææææææææææææææææææææææææææææææææ€îul¾!!binaryæææææææææææææææææææææææææææææææææææææææ!ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::€--Version
+  version: 1.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessses:
+- MIT
+dependencies:
+ÿÿÿÿÿÿÿÿÿÿÇÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ'
+  type: :runtime
+  pio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gname: racc
+  requirement: !ruby/object:Gem::Rem::Dependency
+  = 1.0.0name: racc
+  requirement: !ruby/object:Gem::Requirement
+    requirementsux
+authors:
+- Mike Daautorequirmary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  requbject:Gem::Version
+        version: '1.4'
+  type: :runtime
+  prerelease: false

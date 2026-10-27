@@ -1,0 +1,32 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/-Geobject:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autirement: !ruby/object:Gem::Rueqirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        veminimal interface between webservers and Ruby frameworks.
+email: .4.0
+required_rubygems_version: #ruby/object:Gem::Requirement
+  rRuby frameworks.
+email: .4.0
+required_rubygems_version: #ruby/object:Gem::Requirement
+  requirement        version: s:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubyge³³³³³³³³³³³³equirement        version: s:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubyge³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³³ms_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: [)

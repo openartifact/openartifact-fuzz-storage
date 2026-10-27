@@ -1,0 +1,67 @@
+€--- !ruby/object:Gem::Specification
+nancies:
+- !rps://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bwg_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+  me: rack
+version: !ruby/obj.gemGem::Version
+  version: 2.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-00-31 00:00:00.000000000 Z
+dependencies:
+- !rps://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bwg_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem:m: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-00-31 00:00:00.000000000 Z
+dependencies:
+- !rps://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bwg_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/objec:Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

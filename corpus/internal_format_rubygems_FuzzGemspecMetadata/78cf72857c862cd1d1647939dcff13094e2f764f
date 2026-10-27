@@ -1,0 +1,41 @@
+"  []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 4.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver inter:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00s
+post_install_message:
+rdoc_options: []k
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https://gmthub.com/rack/rack/issues
+po&platform=st_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      ve  type: :development
+rsion: 3.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  re# - g-  # "
