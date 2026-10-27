@@ -1,8 +1,0 @@
-€Metadata-Version: 2.4
-¤ame: tomli
-Version: 2.0.1
-Licens.tar.bz2sion: MIT OR Apache-2.0
-License-File: LICENSE
-Requires-P}thon: >=3.8
-Requires-Dist: tyons>=4.0; python_veVersion: 3.11"== "test"
-Provides-Extra: test

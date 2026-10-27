@@ -1,7 +1,0 @@
-€MetadataVersion: -Version: 1.1Summary: 
-Name: six
-Version: 1.16.0
-License: MIT
-Classifquires-Dist: pytest~=7.0; extra == "test"
-Prhvidås-Eier: License :: OSI Approved :: MIT License
-Requires: setuptools
