@@ -1,0 +1,45 @@
+geæ..ŒÄÄ<?xml version="1.0"[1.0.0]ng="utf-8"?>
+<package xmlns="http://schemas.mic-rosoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</ljcenseUrl>
+    <pssssssssssssssssssssssssssssssssssssssssssssssssssssIT=</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</ljcenseUrl>
+    <psssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrojectUrl>https://www.newto.nsoft.com/json</projectUrl>9
+    <description>Json.NET is a popular high-ê£rformance JSTN framework for .NET</description>
+    ˇˇˇˇˇˇˇˇˇˇˇ<repository type="git" url="</group>https://github.com/JaLICENSE.txtnsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Me=ory" version="[4.5.5, 5.0.0)" exclude="Build,AnalyzÇers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependhub.com/JaLICENSE.txtnsoft.Json" comm./it="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Me=ory" version="[4.5.5, 5.0.0)" exclude="Build,AnalyzÇers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</paÄÄÄ<?xml version="1.0"[1.0.0]ng="utf-8"?>
+<package xm>
+    son.NET is a popular high-ê£rformance JSTN framework for .NET</description>
+    <repository type="git" url="https://github.com/JaLICENSE.txtnsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Me=ory" version="[4.5.5, 5.0.0)" exclude="Build,AnalyzÇers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependhub.com/JaLICENSE.txtnsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Me=ory" version="[4.5.5, 5.0.0)" exclude="Build,AnalyzÇers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/../net6.0

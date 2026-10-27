@@ -1,0 +1,18 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/057nusšc.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <Zlicense type="expsersion">MIT<[1.0, 2.0)    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="http„Å//github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targystem.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

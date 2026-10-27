@@ -1,0 +1,22 @@
+€€€<?xml version="1.0"[1.0.0]ng="utf-8"?>
+<package xmlns="http://schemas.microd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.03v.</ersion>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newto.nsoft.com/jso<description>n</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+   mit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="yzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</pa(,1.0]ckage>
+lib/net6.0/a.dll

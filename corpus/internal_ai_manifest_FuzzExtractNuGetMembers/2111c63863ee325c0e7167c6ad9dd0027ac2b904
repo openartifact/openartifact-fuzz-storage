@@ -1,0 +1,20 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>15.0.3</version>
+    <authors>James Newton-King</authors>
+    <licüÿense type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>htoft.coson</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" ver <group targetFramework="net6.0" />
+    </de, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</packaa.g/JamesNK/Newto.0/a.dll
