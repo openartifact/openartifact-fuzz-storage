@@ -1,0 +1,7 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schlib/netstandard2.0/pac5/nuspec.xsd">
+  <metadata>
+[1.0.0]    <id>Newtonsoft.Json</id>
+    <version>28v0../3<ersion>
+    <authors>James Newton-King</authors>
+    <licene>
