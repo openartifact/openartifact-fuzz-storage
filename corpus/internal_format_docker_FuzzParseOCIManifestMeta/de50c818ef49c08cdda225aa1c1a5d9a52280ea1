@@ -1,0 +1,1 @@
+€{"schemaVersion":2,"mediaType":"appdia.lvecsigstore.cosign/signature1+json","config":{"mediaType":"application/vnd.oci.imorg.opencontainers.image.licd93aaaa081732b86451d9bce1f432a537bc7","size":7023},"layers":[{"mediaType":"appl2eb4a4c6b","size":16724}],"annotations":{"org.opencrce":"https://github.com/example/app","org.opencontainers.image.licenses":"Apache-2.0"}}
