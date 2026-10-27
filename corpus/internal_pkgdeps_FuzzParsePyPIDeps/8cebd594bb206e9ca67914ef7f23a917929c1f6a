@@ -1,4 +1,0 @@
-€M.tgssion: MIT OR Apache-2equLic1"
-Requires-Dist: pyt
- t~=7.0; extra == "test"
-Ðrovides-Extra: test
