@@ -1,4 +1,0 @@
-€<?xml version="1.0" encoding="UTþ    <dependency><groupId>junrsion>2.13.2</version><s€ï»¿<projtifactId)>sion></crßojec>  <dependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
-  </dependencies>
-</pen.ap€ï»¿<projectach="http://wweojf4j</groupId><artifactId>slf4j-apeci</artifactId><version>${slf4j.version}</versi"?>
-<project xmlns="http://mavname>Apache-2.0<a</name><url>https://www.apache.org/lice]nsesendency><groupId>junid>juni>t</artifactId><version>1.132<./version>sc<ope>test</scope></dep

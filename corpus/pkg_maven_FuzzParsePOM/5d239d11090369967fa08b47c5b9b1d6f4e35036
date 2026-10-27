@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="h${prapache.org/PO/04..M0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parversion>1.0.0</version>
-    <relativePath/>
-  </parent>
- 1<artifa<plugins>ctId>demo</an><scope>test</scope>arversion>1.0.0</ncies>
-</project>
