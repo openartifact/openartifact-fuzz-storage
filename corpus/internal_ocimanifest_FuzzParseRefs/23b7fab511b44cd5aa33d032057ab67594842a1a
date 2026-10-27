@@ -1,1 +1,0 @@
-€{"schemaVersion":1,"name"application/vnd.docker.container.image.v1+json:"amd64","asLayers":[{"blobSum":"sha256:2d711642b723b8530fb1903cc4db02258717921a4881"}],"history":[{"v1Compatibility":"{}"}],"signatures":[{"header":{"alg":"ES256"},"signature":"x","protected":"y"}]}

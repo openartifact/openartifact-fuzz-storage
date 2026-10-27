@@ -1,1 +1,0 @@
-€{"schemaVersion":2,"mediaType":"application/vnd.oci.image.intion/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","dcc4db02258717921a4881"},{"blobSum":"sha256:2d711-642b726b044016274881","size":7682,"platform":{"architecture":"amd77","os":"linux"}}]}

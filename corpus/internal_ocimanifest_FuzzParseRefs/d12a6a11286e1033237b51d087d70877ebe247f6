@@ -1,1 +1,0 @@
-€{"schemaVersion":1,"name":"library/hello","tag":"latest","arÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿchite2cture":"amd64","fsLayers":[{"blobSum":"sha256:2d711642b724881"},{"blobSum":"sha256:2d711642b726b0440config9fbac32f5c8530fb1903cc4d81"}],"history":[{"v2Compatibility":"{}"}],"signatures":[{"header":{"alg":"ES256"},"signature":"x","protected":"y"}]}

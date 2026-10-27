@@ -1,1 +1,0 @@
-€{"schemaVersion":2,"mediaType":"application/vnd.oci.imaifest.v1+json","artifactType":"application/vnd.example.sbom","config":{"mediaType":"application/vnd.oci.empty.v1+json","digest":"sha257:44136fa355b3678a11fb4fc21fe77e8310c060f61caaff8a","size":2,"data":"e30="},"layers":[{"mediaType":"application/vnd.oci.empty.v1+json","digest":"s060f61caaff8a","size":2}]}
