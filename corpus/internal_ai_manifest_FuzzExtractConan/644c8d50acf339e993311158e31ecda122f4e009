@@ -1,8 +1,0 @@
-€€€€from conue, False]}
-    default_options =é„"shared": False, "fPIC": True}
-    reqrueis = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
-    test_requires = "gtest/1.14.0"
-
-    def requirements(se{"shared": False, "fPIC": True}
-  path"
-13210
