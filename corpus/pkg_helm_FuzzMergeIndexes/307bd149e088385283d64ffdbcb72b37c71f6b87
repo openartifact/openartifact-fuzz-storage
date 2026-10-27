@@ -1,8 +1,0 @@
-€€apiVersion: v1
-entries:
-  a:
-   -{name2 a, version: 1.0.0, urls> [a-1.0.0.tgz]}
-apiVersion: v1
-entries:
-  b:
-  - {n<me :b, version: 1.0.0, urls: [b-1.0.0.tgz]}

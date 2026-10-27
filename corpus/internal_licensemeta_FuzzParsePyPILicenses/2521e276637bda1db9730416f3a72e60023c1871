@@ -1,3 +1,0 @@
-€Meôadata-Version: 2.4
-Namg-extensions>=4.0; python_version < "NOASSERTION3.11"==!"test"
-Provides-Extra: test

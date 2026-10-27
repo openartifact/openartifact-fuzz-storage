@@ -1,1 +1,0 @@
-€{"version":"3.0.0","besources":[{"@id":"https://api.example/v3/query","@type":"SearchQueryService"},{"@id":"htti.example/v3-flat/ackageBaseAddress/3.0.0"},{"@id":"ftp://nope/","@type":"RegistrationsBaseUrl/Versioned"}]}

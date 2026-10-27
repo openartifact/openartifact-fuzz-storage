@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="u€<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nusptfNSE.ייייייייייייייייייייייייייייי€<?xml version="1.0"osoft.com/packaging/2013/05/nusptfNSE.ייייייייייייייייייייייייייייי€<?xml version="1.0" encoding="utf-8"?>
-<pge xmlns="http://schemas.microsoft.com/ectUrl>
-    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
-    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Jmance JSON framewor.or f kNET</description>
-    <repository type="git" url=<description>ub.com/JamesNK/Newtonsoft.Json" commit="abc" />
-    <dependencieיייייייייייייייייייייייייייייייי </dependencies>
-  </metadata>
-</package>

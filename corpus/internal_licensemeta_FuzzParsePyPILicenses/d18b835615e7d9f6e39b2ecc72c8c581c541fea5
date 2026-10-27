@@ -1,5 +1,0 @@
-€Metadata-Version: 2.4
-Name: tomli
-.•
-Requires-Dist: typinn: >=3.•
-Requires-Dist: typing-extensions>=4.0; python_version <st

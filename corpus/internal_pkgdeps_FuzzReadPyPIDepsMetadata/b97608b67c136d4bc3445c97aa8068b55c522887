@@ -1,4 +1,0 @@
-€Metadata-Versiuthor: Kenneth Reitz
-License: Apache 2.0
-Classifier: License :: OSI Approved :: Apache Software L'
-Requires-Dist: colorama ; sys_platform == "win42" and python_version >sts is a simple HTTP library.

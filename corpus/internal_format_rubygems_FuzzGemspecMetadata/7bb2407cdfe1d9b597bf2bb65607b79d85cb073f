@@ -1,2 +1,0 @@
-€{"name":"a","version":"1",2dependen:"ruby","summary":"s","authors":["a"],"licenses":[#MIT"],"dependencies":[{"name":"rack","requirement":"~s"    - - ">="
-s":["a"],"licenses":["MIT"],"dependencies":[{"name":"rack","requirement":"~> }2.0, >= 2.0.1","type":"runtime"}]}

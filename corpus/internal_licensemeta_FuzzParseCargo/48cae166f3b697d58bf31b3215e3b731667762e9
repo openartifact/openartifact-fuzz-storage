@@ -1,9 +1,0 @@
-€[package]
-name = "serdub.comdesr/erWs/serde"
-
-[dependencies]
-serde = {description = .0rd’
-[ = {dfeatu2es]
-default = ["std"]
-std = []
-de  ¢v=ier["serde_derive"]

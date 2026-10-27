@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":-"1.0.195","deps":[{"name":"serde_deriv,"deps":[{"name":"windows-sys","req":">=0.48","feature"rust_version":"1.56","v":3}

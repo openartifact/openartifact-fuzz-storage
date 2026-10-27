@@ -1,9 +1,0 @@
-€[packageies.rand_core]
-version = "0.6.0"
-
-[build-dependencies]
-ion = "0.6.0"
-
-[build-dependencies]
-autocfg =""
-

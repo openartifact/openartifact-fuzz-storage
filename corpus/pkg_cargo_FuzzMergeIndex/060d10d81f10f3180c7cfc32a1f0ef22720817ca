@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":"1.0הההההההההההההההההההההההההההההההההההההההההההההההההההההההה²ההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה.392-rc.1","deps":[{"name":"windows-sys"res":false,"target":"cfg(windows)","kind":"build","registry":"https://github.com/b0c8d7e6f5a4b","features":{},"features2װ:{"dep":["dep:windows-sys"]},"yanked":true,"v":2}

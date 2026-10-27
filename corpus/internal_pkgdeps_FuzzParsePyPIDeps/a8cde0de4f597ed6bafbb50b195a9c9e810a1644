@@ -1,4 +1,0 @@
-€Metadata-Version: 2.EGG-INFO/PKG-INFO: 1
-Requires-Dist: pkg @ h~=ttps://example.com/pkg-1.0.tar.gz
-Requires-Dist: other[securitykg @ https://example.creqï¿½ï¿½ï¿½ï¿her[security,test.egxtra != "dev"
-Requi0nLi>=igcense-File: st: x ~= 9.4.2

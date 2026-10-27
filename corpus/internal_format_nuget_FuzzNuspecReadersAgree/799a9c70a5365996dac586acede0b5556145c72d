@@ -1,9 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="httpg/2013/01/nuspec.xsd">
-  <metadata minClientVersion="2.12">
-  tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  <id>Serilog.Sinks.File3/id>
-    <version>5.0.0</version>
-    <authors>Serilog Contributors</authors>
-    <requireLicenseAcceptance>false</requireL>
-  </metadata>
-</package>

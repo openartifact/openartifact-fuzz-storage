@@ -1,6 +1,0 @@
-€Metad{ata-Versision: 2.1
-Ncme: aersion: 1 extra == 'socks'
-Requires-Dist: colorama ; sysha256: rm == "win@32" and python_version >= "3.8"
-Provides-Extra: socks
-
-Re

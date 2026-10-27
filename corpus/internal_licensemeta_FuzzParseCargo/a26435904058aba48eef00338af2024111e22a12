@@ -1,9 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.197"
-edition = "2018"
-license = "MIT OR Aperialization framework"
-repositor____________Zlib______________________________________________Cargo.toml_________________y = "https://github.com/serde-rs/serde"
-
-[dependenciesdefault-f[build-dependencies]eatures = false=2.0.19
-erde_derive"]

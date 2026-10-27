@@ -1,8 +1,0 @@
-€<ml version="1.0" encoding="utf-8"?>
-<package xmlns="http://</dependencies>schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
-  <metadata minClientVerrio=n"2.12">
-    <id>Serilog.Sinks.File</idenseAcceptance>
-h    <license type="file">LICENSE</license>
-    <description>Write Seri>
-  </metadata>
-</package>

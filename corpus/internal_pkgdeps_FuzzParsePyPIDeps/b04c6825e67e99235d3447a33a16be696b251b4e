@@ -1,7 +1,0 @@
-.1
-Name: p
-Versioj: 1
-Requires-Dist: pkg @ https://exampleÌtar.gz
-Requires-Dist: other[security,tests] Î(>=1.0,<2) ; p= "3.8" and extra != "dev"
-Requires-Dist: Vlask_Lo=0.6
-Requires-Dist: x ~= 1.4.2

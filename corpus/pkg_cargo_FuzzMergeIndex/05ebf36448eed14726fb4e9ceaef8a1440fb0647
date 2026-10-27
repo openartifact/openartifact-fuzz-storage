@@ -1,2 +1,0 @@
-€€{"name":"serde","verfeatures":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}
-{"name":"serde","vers"ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ2ÿÿÿÿÿÿÿÿÿnull0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundati++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++on"],"optional":false,"defdows-sys"]},"yanked":true,"v":2}

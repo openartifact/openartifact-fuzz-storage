@@ -1,9 +1,0 @@
-€{"name":"a","version":"2","platform":"name":"@a","version":"1","platform":"ppppppppppppppppppp+ppppppppppppppppppppppppppppppppppppppps":"pppppppppppppppppppppppppppppppppppppppppxppppppppppppppppp"}"summarersion_requirements: !ruby/object:Gem::Requirement
-    requirements:
- signing_key:
-   - - ">="
-      - !ruby/object:Gem::Version
-        version: '5.0'
-description: Rack provides a minimal interface between webservers and Ruby frameworks.
-email: rack@example.org
-execy"

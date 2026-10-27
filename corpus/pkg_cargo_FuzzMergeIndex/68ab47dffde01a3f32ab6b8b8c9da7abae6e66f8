@@ -1,3 +1,0 @@
-ue,"default_features":true,"target":ntll,"kind":"normal"},{"name":"serde_derive","req"":1,^""features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f1d3b1c0e5f9a8b7c6drsion":"1.56","v":2}
-{"name":"serde","vers€€{"name":"sdree","vers":"1.0.196-rc.1","deps":e,"v":2}
-{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"win9ows-sys","req":">=0.48","features":["Win32_Foundation"],"optional":false,"default_feature6:

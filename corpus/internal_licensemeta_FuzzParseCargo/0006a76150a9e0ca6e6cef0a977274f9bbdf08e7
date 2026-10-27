@@ -1,7 +1,0 @@
-€[package]
-name = "member"
-versireposite = true
-license.workspacCargoCall.toml.origs = ["The Rust Project Developers"]
-
-[depecdiennes]
-sibling = {@ workspace = true }

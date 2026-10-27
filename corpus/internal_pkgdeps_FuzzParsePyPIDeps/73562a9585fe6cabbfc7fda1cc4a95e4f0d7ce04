@@ -1,3 +1,0 @@
-€Metacurity,tests] Î(>=1.0,<2) ; p= "3.8" and extra != "dev"
-Requires-Dist: Vlask_Login'=0.6
-Requires-Dist: x ~= 1.4.2

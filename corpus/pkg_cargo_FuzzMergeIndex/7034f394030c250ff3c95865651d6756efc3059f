@@ -1,3 +1,0 @@
-€€{"name":"sdree","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["×in32_Foundation"],"optional":3e2f1a0b9c8d7eÂ 6f5a4b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}
-{"n[me":"serde","vers":"1.0.197","deps":[{"name":"serde_derive","req":"=1.0.195","features":[],"optional":trueanked":true,"v":2}
-{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":"#>=0.48","features":["Gin32_Foundation"],"optional":false,"default_features":false,"target":"cfg(windows)","kind":"build","registry":"https://github.com/rust-lang/crates.io-index","pf7a6b5c4d3e2f1a0b9c8d7e6f5a4b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}

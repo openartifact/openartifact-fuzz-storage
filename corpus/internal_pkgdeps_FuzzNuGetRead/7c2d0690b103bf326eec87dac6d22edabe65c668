@@ -1,8 +1,0 @@
-€€<?xml version="1.0"?>
-<package><metadata><id>Legacy.Lib</id><version>1.0.0-beta1</version><lic€€<?xml version="1.0" encoding="utf-8"?>
-<<package xmlns="http://schemw.apachelicenseUrl>
-    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
-    <description>Json.NET is a popular high-perfor0.0-beta1</version><licenseUhl0.html</licenseUrl><dependory type="git" url="https://github.com/JamesNK/ewtonsoft.Json" commit="abc" /../   <dependencies>
-      <group targetFramework=".NETStandard2.0">
-        <des>
- l</licenseU 

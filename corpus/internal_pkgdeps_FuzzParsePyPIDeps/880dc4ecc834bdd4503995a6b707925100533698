@@ -1,8 +1,0 @@
-€Metadata-Version: 2.4
-Name: tomli
-Version
-Requires-Dist: typing-extensions>=4.0; pyÿt: x+ ~= 1n <àÝÌÑÎÎÝôRequires-Dist’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’
-Requ~=es-Dist: typing-extSummary: 4.0; pyÿt: x+ ~4
-Name: tomli
-.0; extra == "test"
-Provides-Extra: test

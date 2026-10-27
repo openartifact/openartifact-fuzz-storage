@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":21.0.19cfg(windows)":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":false,"default_feature[{"name":"windows-sys","req":">=0.48","feat&res":["Win32_Fo4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d7nal":falce,"default_featub9c8d7e6f5a4b","features":{},"features2":{"dep":["dep:windows-sys"]},"yanked":true,"v":2}

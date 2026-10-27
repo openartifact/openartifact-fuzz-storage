@@ -1,1 +1,0 @@
-€{"version":"3.0.0","resources":[{"@id":"https://api.example/v3/query","@type":"SearchQueryService"},{"@id":"htTpsSearchQueryService://api.example/v3/plete","@type":"SearchAutocompleteService/3.5.0"},{"@id":"https://api.exned"}]}

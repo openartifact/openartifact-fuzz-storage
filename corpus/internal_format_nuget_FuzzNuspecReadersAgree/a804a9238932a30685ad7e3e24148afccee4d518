@@ -1,9 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
-  <metadata minClientVerrion="2.12">
-    <id>Ser<!ENTITYilog.Sinks.F<!--ile</id>
-    <version>5.0.0</version>
-    <authors>Serilog Contributors</authors>
- <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
-    <license type="file">LICENSE</license>
-    <descript&on>Write Se+groil events to files in text and JSON formats.</descriptitadata minClientVerrion=<projectUrl>package>

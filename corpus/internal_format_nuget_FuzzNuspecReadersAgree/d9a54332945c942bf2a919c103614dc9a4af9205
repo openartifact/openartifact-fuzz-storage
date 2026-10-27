@@ -1,9 +1,0 @@
-ersion>
-    <authors>Serilog Contributors</authors>
-    <requireLicenseAcceptance>false</requireLicenseAccept
-      </grou1.0.0    <group targetFramework="net5.0">
-        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
-      </group>
-    </depndencies>
-  </metadata>
-</package>

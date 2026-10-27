@@ -1,6 +1,0 @@
-€apiVersion> v2
-: oci://registry-1.docker.io/bitnamicharts
-    tags:
-      - bi%3Bmi-common
-annotations:
-ci://registry-frastructure

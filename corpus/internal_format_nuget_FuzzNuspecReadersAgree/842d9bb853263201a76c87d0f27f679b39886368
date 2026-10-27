@@ -1,9 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ~ÿÿ?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/01rsion="2.12">
-    <id>Serilog.Sinks.File</id>
-    <version>5.0.0</versi..>
-    <authors>Serilog Conicense>
-    <description>Write Serilog events to file  <dependency      </group>
-    </dependencies>
-  </metadata>
-</pexclude="ackage>

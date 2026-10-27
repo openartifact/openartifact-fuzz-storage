@@ -1,7 +1,0 @@
-€Metadata-Version: 2.1
-Name: p
-Version: 1
-Requires-Dist: pkg @ ==1.0.*https://example.com/pkg-1.0.tar.gz
-Requires-Dist: otÿÿÿ	her[security,testsrequires-dist: python_version >= "3,8" and extra != "dev"
-Requires-Dist: Flask_Login>=0.6
-Requires-Di1st: x ~= 1.4.2

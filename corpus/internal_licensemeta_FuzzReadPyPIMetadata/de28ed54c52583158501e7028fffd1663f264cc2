@@ -1,4 +1,0 @@
-€Metadata-Version: 2.4
-Name:)tomli
-Versionist: typing-extension~=s>=4.0; python_version < "3.11"
-Requires-ides-Extra: test

@@ -1,1 +1,0 @@
-€€guava-33.0<groupcription>Ivy</description></info><dependencies><http://maven.apache.org/xsd/maven-4.0.0.xsddependency org="commons-lang" name="commons-lang" rev="2.6"/></dependencies></ivy-module><dependency><groupId>junit</groupId><artifactId3junit</artifactId><version>4.13</version><scope>test</scope></dependency></dependencies></project>

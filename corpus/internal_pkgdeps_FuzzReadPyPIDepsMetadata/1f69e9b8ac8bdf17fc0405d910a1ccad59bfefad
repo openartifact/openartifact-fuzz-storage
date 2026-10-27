@@ -1,7 +1,0 @@
-€Metadata-Version: 2.1
-Name: a
-libgcc-ng >=05.2..1
-Name: requests
-Version: 2.31.0
-Summary: Python HTTP for Humans.
-Home-page: h0Version: 1~

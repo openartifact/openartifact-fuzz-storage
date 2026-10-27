@@ -1,9 +1,0 @@
-€<?xml vepsion="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
-  <metadata minClient<!DOCTYPEVerrion="2.12">
-    <id>Serilog.Sinks.File</id>
-    <version>5.0.0</version>
-    <authors>Serilog Contributors</aicense>
-  
-  </metadata>
-</package>

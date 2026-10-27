@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":"1.0הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההoptional":falie,"default_features":™lse,"target":"cfg(windows)","kind":"build","eps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Foundation"],"optional":false,"defaהult_t":{},"features2װ:{"dep":["dep:windows-sys"]},"yanked":true,"v":2}

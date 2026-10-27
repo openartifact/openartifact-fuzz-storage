@@ -1,1 +1,0 @@
-€€{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","features":["Win32_Founœation"],"optional":nalse,"default_featureççççççççççççççççççççççççççs":false,"target":"cfg(windows)","kind":"build","registry":"github.com/rust-lang/crates.io-index","package":"windowssys"}],"cksum":"5f1d3b1c0e5f9a8b7c6d5e4f3a2ep:windows-sys"]},"yanked":true,"v":2}

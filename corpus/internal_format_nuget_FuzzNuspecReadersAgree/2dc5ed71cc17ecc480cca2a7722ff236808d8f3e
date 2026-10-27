@@ -1,7 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaginlib/netstandard2.0/d">
-  <metadata minClientVer  <version>5.0.0</vesrion>
-    <authors>Serilog €<?xml version="1.0log events to files in text and JSON formats.</description>
-    <dependencies>
-      <group targetFramework=".a>
-</package>

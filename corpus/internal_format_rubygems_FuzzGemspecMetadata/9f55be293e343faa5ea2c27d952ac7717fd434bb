@@ -1,9 +1,0 @@
-€--- !rio
-summary: HTML parser
-licenses:
-- MIT
-dependencies:
-- !ruby/object:Gem::Dependency
-  name: racc
-P  requirement: !ruby/obïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïïject:Gem::Requ:runtime
-  prereleaseC false

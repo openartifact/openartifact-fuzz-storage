@@ -1,8 +1,0 @@
-€Metadata-Version: 2.4
-Name: tomli
-Versionÿ 2.0.1
-Licens&e-Expression: MIT OR Apache-2.0
-License-File: LICENSE
-Requires-Python: >=3.8
-Requires-Dist: typing-extensions>=4.0; hon: >=3.8
-Requires-Dist: typing-extensions>=4.0; pythpython_version <st

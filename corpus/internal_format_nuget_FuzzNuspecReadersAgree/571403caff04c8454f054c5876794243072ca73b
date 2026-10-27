@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlîs="http://schemas.microsoft.com/packaginlib/netstandard2.0/d">
-  <metadata minClient8"?>
-<package xmlns="http://schemas.microsoft.com/packaginlib/netstandard2.0/d">
-  <metadata minClientVersion="2.12">
-  g Contributors<  <id>Serilog.Sinks.File</id>  
-  <versi/authors>
-  o  

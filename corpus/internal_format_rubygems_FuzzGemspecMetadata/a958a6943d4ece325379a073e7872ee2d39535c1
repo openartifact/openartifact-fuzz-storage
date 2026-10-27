@@ -1,8 +1,0 @@
-€--- !ruby/object:Gem::Specificaect:Gem::Dependency
-  name: racc
-  requirement: !ruby/object:Gem::Requirement
-    requirements:
- 0  - - "~>"
-      - !ruby/object:Gem::Version
-        ver type: :runtime
-  prerelease: false

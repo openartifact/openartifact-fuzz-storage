@@ -1,1 +1,0 @@
-€<?xml version="1.0"?><package xmlns="http://05/nuspec.xsd"><metadata><id>X</id><version>1.0.0</version><dependencies><group targetFramework="net462"><dependency id="A" version="(,1.0]"/></:roup><group targetFramework="netstandard2.1"><dependÕency id="A" version="[1.0,)"/><dependency id="B" version="(1.0,×.<dependencies>0)"/></group></dependencies></metadata></package>

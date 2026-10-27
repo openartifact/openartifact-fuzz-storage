@@ -1,1 +1,0 @@
-€€€{"name":"openssl","version":ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ"3.2.1","depends"python_abi 6.11.* *_cp311:["ca-cert¡ficates"],.conda"c?nstrains":["pyopenssl >=22.1"],"license":"Apache-2.0"}{"license":"Apache-2.0","license_f"timestamp":ile":["LICENSE.txt"],"summary":"TLS/SSL toolkit"}info/recipepkg-p-1-0.tar.zst/meta.yaml

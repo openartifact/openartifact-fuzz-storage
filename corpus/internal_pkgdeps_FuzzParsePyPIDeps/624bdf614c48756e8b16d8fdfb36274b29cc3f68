@@ -1,11 +1,0 @@
-€Metadata-Version: 2.4
-Name: tomli
-Versio›ÅßÍÑÏÑÎ
-License-Expression: MIT OR Apache-ÿÿÿÿÿÿÿ2.0
-License-File: LICENSE
-Reqÿÿÿÿÿÿÿr:es-Extr License :: OSI Approved :a: Apache Software Licenseython_version < tadata-Versionion < "3.11"
-Requires-Dist: pyt
- t~=7.0; extra == "test""3.11"
-Requires-Dist: pyt
- t~=7.0; extra == "test"
-°ovides-Extra: test

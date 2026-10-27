@@ -1,2 +1,0 @@
-€€{"name":"serde","vers":"1.0.195","deps/:[{"name":"serde_derive","req":"=1.0.195","features":[],"optional":true,"default_features":true,"target"::2}
-{"name":"serde","vers":"1.0.197","deps":[{"name"ÿÿÿÿÿÿÿÿÿÿÿÿÿkind":"dev"}],"cksum":"0f1s":{"default":["std"],"std":[],"derive":["serde_derive"]},"yanked":false,"links":null,"rust_version":"2.56","v":2}
