@@ -1,12 +1,0 @@
-€U:Gem::Version[I"555550000000000000000000:ETi	I"rails-demo:ETU:Gem::Version[I"
-7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
-:
-@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
-@type:runtime:@prereleaseF:@version_requirementsU:ion[I"555550000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
-:
-@nameI"
-rspec:ET:@requirexample.org:ET[I"	Jane:ETI"Joe:ETI"A longer description:ETI"https://example.org:ETTI"	ruby:00000000000000000000000000000000€I"
-1.4.50000000000000000000000000000000000€I"
-1.4.50000000000000000000000000000008198552921648¶8006
-3.4.5U:Gem::Versi:on[#"
-3.4.5:ET:ET
