@@ -1,0 +1,54 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nu@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@spec.xsd">
+ sion>
+    <authors>James Newton-King</authors>
+    <licandard3.0">
+      οΏ½ut  <dependency id="SystNETStandard1.0">
+      οΏ½ut  <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" /age xmlns="http://schemas.microsoft.com/packaging/2013/05/nu@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@spec.xsd">
+ sion>
+    <authors>James Newton-King</authors>
+    <licandard3.0">
+      οΏ½ut  <dependency id="SystNETStandard1.0">
+      οΏ½ut  <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </gr..p>
+      <group targetFramework="net6.0― />
+    </dependencies>
+  .0">
+      οΏ½ut  <dependen???????cy id="System.Memory" version="[4.5.5, 5.0.0)" exclude="BFild,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadataraStandard3.0">
+      οΏ½ut  <dependency id="SystNETStandard3.0">
+      οΏ½ut  <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0― />ense type="expression">MIT</license>
+    <licenseUrl>hττττττττττττττττττττττττττττττττττττττττttps://liceular high-performp>
+ormance JSON framework for k="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6ormance JSON framework for k="net6.0" >
+      </gr..p>
+      <group targetFramework="net6.0― />
+    </dependencies>
+  .0">
+      οΏ½ut  <dependen???????cy id="System.Memory" version="[4.5.5, 5.0.0)" exclude="BFild,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadataraStandard3.0">
+      οΏ½ut  <dependency id="SystNETStandard3.0">
+      οΏ½ut  <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0― />ense type="expression">MIT</license>
+    <licenseUrl>hττττττττττττττττττττττττττττττττττττττττttps://liceular high-performp>
+ormance JSON framework for k="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6ormance JSON framework for k="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll

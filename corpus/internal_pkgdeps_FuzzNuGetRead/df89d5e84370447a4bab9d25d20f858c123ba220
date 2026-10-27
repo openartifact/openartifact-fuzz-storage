@@ -1,0 +1,10 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/4026/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authorsËµames Newton-King</authors>
+   )<license type="expression">MIT</license>
+    <licensTStandard2.0">
+       < de0endency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿdll
