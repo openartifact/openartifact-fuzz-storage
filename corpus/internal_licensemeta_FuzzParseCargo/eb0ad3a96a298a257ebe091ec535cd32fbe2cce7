@@ -1,8 +1,0 @@
-€[package]
-nameon = "2018"
-liceQ.  "0.2"
-
-[dev-dependencies]
-serde_derive = ault = ["std"]
-std = []
-derive = ["serde_derive"]

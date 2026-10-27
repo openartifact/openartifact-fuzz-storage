@@ -1,8 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.197"
-edition = "2018"
-license = "MIT OR Apache-4.b.com/serde-rs/serde"
-
-[dependeMITncies]
-serde_derive = { versie = { ver0.197", optional = t 0["serde_derive"]

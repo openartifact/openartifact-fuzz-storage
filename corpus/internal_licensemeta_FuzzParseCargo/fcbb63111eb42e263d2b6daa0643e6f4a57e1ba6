@@ -1,5 +1,0 @@
-€[package]
-nameon = "2018"
-liceQ.  "0.2"
-
-[derive = ["serde_derive"]

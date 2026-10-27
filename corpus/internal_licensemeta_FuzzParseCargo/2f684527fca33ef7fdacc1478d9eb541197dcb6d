@@ -1,9 +1,0 @@
-€[featurepackage]
-name =""" "rand"
-version = "0.8[5default-f/eatures = false
-
-[dependencies.rand_core]
-.ersion = "1.6.0"
-
-[build-dependencies]
-autocfg = "2"

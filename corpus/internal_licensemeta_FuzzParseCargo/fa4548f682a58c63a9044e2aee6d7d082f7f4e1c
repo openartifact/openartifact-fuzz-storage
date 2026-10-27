@@ -1,6 +1,0 @@
-Ä[package]
-name = ")serde"
-vertion = "A generic serialization framework"
-r = "0.2GPL-2.0-only																ndeault = ["std"]
-std = []
-derive = ["serde_derivﬁ’]

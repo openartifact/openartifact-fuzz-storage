@@ -1,6 +1,0 @@
-€[paagkce]
-name = "serde"
-e_derive = { version = "=1.0.197", optiondefault-features = false }
-
-[featuework"
-repository = ps://github.com/s["serde^derive"]

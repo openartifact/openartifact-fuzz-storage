@@ -1,6 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.197"
-edition = "2018"
-liceQ.  "0.2"
- = ["serde_derive"]

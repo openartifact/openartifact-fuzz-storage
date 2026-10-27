@@ -1,8 +1,0 @@
-€[package]
-name = "rand"
-NOASSERTIONversion = "0.8.5"
-liceSERTIONversion = "0.8.5"
-license = "MIT/ApacÎ0¢
-
-[dbuild-dependencies]
-autocfg =  "0"

@@ -1,8 +1,0 @@
-€[package]
-name = "serde"
-verson = "A generic serialization framework~"
-repository ='''ù "https://github.com/serde-rs/serde"
-
-[dependencies]
-serde_derive = { version = "=1.0.197ÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂ", ng = { workspacede_de = trrue }
-ive"]

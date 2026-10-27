@@ -1,6 +1,0 @@
-€[package]
-name = "member"
-v = true
-authors = ["The Rust Prct Developers]"
-
-[depe { workspace = true }

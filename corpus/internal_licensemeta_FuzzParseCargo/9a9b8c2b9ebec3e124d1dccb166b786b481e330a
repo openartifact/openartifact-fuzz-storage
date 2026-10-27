@@ -1,6 +1,0 @@
-€ion.workspace = true
-license.workspace = true
-authors = ["The Rust Project Developers"]
-
-[dZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZependencies]
-sibling = {@ workspace = true }
