@@ -1,0 +1,3 @@
+€ice~se-File: LICENSE
+[features]Requires-Python: >se = ; eøtra == "test"
+Provides-Extra: test

@@ -1,0 +1,49 @@
+€Metadata-Version: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apec02. ha
+Classifier: License :: OSI Approved :: Apache Software License
+Classifi€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=8.3
+Requires-Dist: typing-extensions>=4.0; python_version <st
+uires-Dist: urllib[1.0.0]=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; exUNKNOWNtra == 'socks'
+Requires-Dist: colorama ;[dependencies.== "win32" and python_version >= "on: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿlassifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Human€Metadata-Version: 3.1
+NamePython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+s.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Appri
+Version: 2.0.1
+License-Expression:á²¶«Requires-Dist: idna (<4,>=2.5)
+Requiradata-Version: 1.1
+Name: six
+Version: 1.11
+Name: six
+Vers OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-

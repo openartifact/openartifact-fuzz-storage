@@ -1,0 +1,19 @@
+€Metadata-VersiUNKN2.1
+Name: etadata-Summary: Pyuhon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License:uuuuuuuuuuuuuuuer: hon :: 7
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires~~~~~~~~~~~~~ÓÑ1
+Name: requests
+Version: 2.31.0
+¯ummary: Pyuhon HTTP fos Humans.
+Home-page: https://requests.readthedocs.io
+Au
+Versi“–‘ÅßÎõLicense: MIT ÿÿÿÿLicense
+        Coifier: License :: OSI Approved :: Apache Software License
+Classifirsion >= "3.8"
+Provides-Extra: socks
+qeR
+uests is a simple HTTa rPlbiry.

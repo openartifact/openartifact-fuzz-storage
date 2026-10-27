@@ -1,0 +1,34 @@
+€Metadata-Version: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+License: MIT License
+        Copyright (c) 2020
+Classifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: htter: License :: OSI Approved :: Apache Software License
+Classifi€Metadata-Version: 1.4
+Name: tomli
+Version: 2.0.1
+License-Expression:ersion: 2.0.1
+License-Expression:á²¶« OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-exteVersion: 1
+License: MIT License
+        Copyright (c) 2020
+Cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿlassifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Hr: License :: OSI Approved :: Apache Software License
+Classifi€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression:á²¶« OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Diwt: typing-extensions>=4.0; pythoing-exteVersion: 1
+License: Ms
+
+Rnse :: OSI Approved :: BSD Licensequests is apython_version >= "3.8.

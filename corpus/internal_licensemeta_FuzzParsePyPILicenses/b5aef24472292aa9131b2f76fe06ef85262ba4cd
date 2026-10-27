@@ -1,0 +1,43 @@
+€Metadata-Version: 2.1€Metadata-Version: 2.1
+Name: x
+Version: 1
+License: MIT License
+        Copyright (c) 2020
+Clasisfier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifi€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version <st
+uires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; exUNKNOWNtra == 'socks'
+Requires-Dist: colorama ;[deÿÿÿÿÿÿÿÿÿÿÿÿÿlassifier: Lice
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifi€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression:á²¶« OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version <st
+uires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; exUNKNOWNtra == 'socks'
+Requires-Dist: colorama ; sys_plaŒ’orm == "win32" anens3.8"
+Provides-Extra: socks
+
+Rnse :: OSI Approved :: BSD Licensequests is apython_version >= "3.8.
