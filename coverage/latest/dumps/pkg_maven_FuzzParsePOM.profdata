@@ -80,9 +80,9 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/maven/path.go:29.3,30.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/maven/path.go:32.2,36.1 5 0
 /github/workspace/build-out/src/openartifact/pkg/maven/path.go:37.2,37.54 5 0
-/github/workspace/build-out/src/openartifact/pkg/maven/pom.go:53.2,54.84 2 432
-/github/workspace/build-out/src/openartifact/pkg/maven/pom.go:55.3,56.1 1 427
-/github/workspace/build-out/src/openartifact/pkg/maven/pom.go:58.2,58.18 1 5
+/github/workspace/build-out/src/openartifact/pkg/maven/pom.go:53.2,54.84 2 509
+/github/workspace/build-out/src/openartifact/pkg/maven/pom.go:55.3,56.1 1 503
+/github/workspace/build-out/src/openartifact/pkg/maven/pom.go:58.2,58.18 1 6
 /github/workspace/build-out/src/openartifact/pkg/maven/snapshot.go:20.2,21.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/maven/snapshot.go:24.2,25.14 2 0
 /github/workspace/build-out/src/openartifact/pkg/maven/snapshot.go:26.3,27.1 1 0
