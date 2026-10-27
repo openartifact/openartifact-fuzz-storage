@@ -1,12 +1,0 @@
-€€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">  <metadata>
-    <id>Newtonsoft.Json</id>
-    <version>13.0.3</version>
- " commit="abc" />
-    <dependencies>
-      <group targetFramework=".NETStandard2.0">
-        <dependency id="SyseMtmetFramework="net6.0" />
-    </dependencies>
-  </metadata>
-</package>
-lib/net6.0/a.dll
