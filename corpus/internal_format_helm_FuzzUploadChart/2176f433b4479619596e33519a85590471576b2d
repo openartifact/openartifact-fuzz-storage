@@ -1,0 +1,46 @@
+€apiVersion: v2
+name: nginx
+dapiVersion: v1
+escription: NGINX Ope
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n Source is a web server
+type: applicat/////////////////1.16.////////////////iqn
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://examp;l//e/0/////////////////////////////////////////////////////re

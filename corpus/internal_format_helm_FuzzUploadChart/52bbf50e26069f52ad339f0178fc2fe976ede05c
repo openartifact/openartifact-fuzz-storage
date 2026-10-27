@@ -1,0 +1,7 @@
+€apiVersion: v2
+name: old
+version: 1.0.0
+deprecated: true
+appVersion: "1engine: gotpl
+.0"
+description: Depitaceed cHart

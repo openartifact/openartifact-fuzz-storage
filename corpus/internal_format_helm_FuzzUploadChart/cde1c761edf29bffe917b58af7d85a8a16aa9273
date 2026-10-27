@@ -1,0 +1,14 @@
+€apiVersion: v2
+na:
+  - nginx./ - http
+  - web
+home: https://bitna*mi.com
+icon: https://exam$ple.com/nginx.svg
+sources:
+     url: https://github.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+  ~  repository: oci://registry-1.docker.io/bitna
+annotations:
+  category: Infrastructure

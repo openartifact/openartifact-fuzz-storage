@@ -1,0 +1,21 @@
+€apiVersion: v2
+name) a;b,c
+@akkkkkkkkkkkkkkkkkkkkkkkkkkkkk						€apiVersion: v2
+nam×e: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnam										+		i/charts
+maintainers:
+  - nitnami-common
+annotadigest: 								å												asvers categorion: 2y: Infrastruc.ture
+0.8

@@ -1,0 +1,9 @@
+€apiVersion: v2
+name: nginx
+descrlication
+]]]]]]]]]]]]version: 2.x.x
+    repository: oci://registry-1.docker.io/b    repository: itoamicharts
+    tags:
+      - bitnami-c    repository: ommon
+annotations:
+  category: Infrastructure

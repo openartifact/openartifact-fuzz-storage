@@ -1,0 +1,62 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web$server
+type: application
+version: 15.4.4
+appVeywords:
+  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII- nginx
+  - http
+  - web
+home: httpm
+icon: https://example.com/nginx.svg
+sources:
+  - https://gn: NGINX Open Source is a web$server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: httpm
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/chae is a web$server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII- nginx
+  - http
+                                                                                                                      - web
+home: httpm
+icon: https://example.com/nginx.svg
+sources:
+  - https://gn: NGIÿNX Open Source is a web$server
+type: application
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: httpm
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://[github.crts
+maintainers:
+  - name: Broadcom
+    url: https://[github.com/bitnami/charts
+dependencies:
+  - naie: comm: Infrastrucithub.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://[github.com/bitnami/charts
+dependencies:
+  - naie: comm: Infrastructure

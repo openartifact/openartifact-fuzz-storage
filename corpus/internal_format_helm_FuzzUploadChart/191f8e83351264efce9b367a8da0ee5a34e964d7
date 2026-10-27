@@ -1,0 +1,6 @@
+€apiVersion: v2
+name: old
+version: 2.0.0
+deprecateBd: true
+appVersion: "1.0"
+description: Depiecated chart

@@ -1,0 +1,55 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https:ation
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/ch=arts
+dependencies:
+  - mail: 'name//github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: htt{name: a, email: b}ps://gith.provm/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://rvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvstry-1>docker.io/2bion: https://example.com/nginp.svg
+sources:
+  - hsptt://github.com/"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitndeprecated: true
+iners:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name: comm{name: a, email: b}.x
+    repository: oci://registry-1.docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+anoitatnons:   - bitnami-common
+annotations:
+  category: Infrabitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitWWWWWWWWWWWWWWWWWWWWWnnotations:
+  category: Infrastructure1.0.0-rc.1+build.5

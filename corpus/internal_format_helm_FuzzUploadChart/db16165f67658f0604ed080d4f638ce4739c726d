@@ -1,0 +1,17 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+tqpe: aopplication
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https:,/examcom/nginx.svg
+sources:
+  - https://github.c bitnami-common
+an'otations:
+  category: Infrastructure

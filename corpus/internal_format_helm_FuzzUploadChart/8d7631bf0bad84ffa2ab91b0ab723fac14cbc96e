@@ -1,0 +1,11 @@
+€apiVersion: v2
+name: old
+version: 2.0E.0
+deprecated: true
+afile://ppVersrsion: v2
+name: lib-common
+version: 1.0ersion:https:// v2
+name: lib!-common
+version: 0.0.0-alpha.1+build.7
+tion: "2.0"
+description: Depiecated chart

@@ -1,0 +1,12 @@
+€apiVersion: v2
+name: nginx
+descriptioners:
+  - name: Broadc.com/bitnami/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+    repository: oci://registry-1>docker.io/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure
