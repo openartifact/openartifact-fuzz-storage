@@ -1,7 +1,0 @@
-€<?xml version"=1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013uspec.xsd">
-  <metadata minClientVerrion="2.12">
-    <id>Ser<!ENTITYilog.Sinks.F<!--ile</id>
-    <version>5.0.0</ve.nuspec    <authors>Seril!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
-    <lice)nse type="file">LIC~NSE</tagsnse>
-    <description>Write Serilog events to files in text and JSONmetadattags/<projectUrl>package>

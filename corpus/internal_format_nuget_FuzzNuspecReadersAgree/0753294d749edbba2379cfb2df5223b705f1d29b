@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packagi!ng/2013/01/nuspec.xsd">
-  <metadata minClientVersion="2.12">
-  tttttttttttt   <version>5.0.0</version>
-    <authors>Serilog Contributors</authors>
-    <requireL>false</requireL>
-  </metadata>
-</package>

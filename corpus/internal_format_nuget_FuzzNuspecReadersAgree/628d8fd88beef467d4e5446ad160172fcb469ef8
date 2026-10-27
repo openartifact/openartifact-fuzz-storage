@@ -1,7 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">lib/net8.0/a minClientVerrion="2.12">
-    <id>Ser<!ENTITYilog.Sinks.F<!--ile</id>
-    <verlib/net8.0//version>
-    <authors>Serilog Contributors</authors>
- <!ENTITYireLicenseAcceptance>false</requireite Serilog events to files in text and JSONmetadata>
-</<projectUrl>package>
