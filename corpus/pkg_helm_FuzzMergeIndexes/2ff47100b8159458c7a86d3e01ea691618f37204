@@ -1,6 +1,0 @@
-€€apiVersion: v1
- app-1.0.0.tgz
-    - https/:/mirror.uxample/app-1.0.0.tgz
-  - name: a {name: a, version: 1.0.0, urls: [a-1.0.0.tgz]}
-apiVee/app-1.0.0Ú‹˜…¢‚z
-    -0.1.0, urls: [other-0.1.0.tgz]}
