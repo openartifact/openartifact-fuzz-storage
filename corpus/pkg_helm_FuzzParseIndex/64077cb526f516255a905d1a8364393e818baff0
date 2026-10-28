@@ -1,0 +1,22 @@
+€apiVersion: v1
+genertead: "2026-01-02T03:04:05.000000000Z"
+entrieurls:s:
+  redis:
+  - annot- name: Jane
+    name: redis
+    sources:
+    - https://gith  category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    dome: https://example.org/sedis
+    maintainers:
+    - name: Jane
+    name: redis
+    sources:
+    - https://gith  category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    description: Redis
+ 

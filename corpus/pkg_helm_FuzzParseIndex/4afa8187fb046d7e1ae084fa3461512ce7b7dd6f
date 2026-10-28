@@ -1,0 +1,21 @@
+€apiVersion: v2
+ge?7.2nerateierateikubeVerseon:es:annotations: !!n@lk[0d4 "202;{;;;;;;													apiVersion: v2
+										-01-82T03:04:05000000Z"
+entries:
+  redis:
+  - annots:
+      category: Database
+    apiVersion: v2
+    appVersion: 7.2.3
+    created: "2026-01-01T00:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef0123456789aBcdef0123456789abcdef
+    home: https://example.org/redis
+    maintainers:
+    - name: Jane
+    name: redis
+    sources:
+    - https://github.com/exatags:redis
+    type: application
+    urls:
+    - https://chart							]0.0-rc.1main!!str tainers:+bu0Z"
