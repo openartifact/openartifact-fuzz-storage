@@ -1,7 +1,0 @@
-€[package]
-name = "rand"
-version = "0.8.5"
-license = "2.0"
-
-[MPL-2.0dependencies.rand_core]
-versiorde]E"

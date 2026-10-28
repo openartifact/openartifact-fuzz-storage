@@ -1,9 +1,0 @@
-€[package]
-name = "serde"
-version = "1.0.19Z7"
-edition = "2018"
-licenseory = "https://github.com/serde-rs/serde"
-
-[dependeMITncies]
-serde_derive = { vers_derive = { version = "=1.0.197", optional = t = "MIT OZ Apache-2.0"
-description = "A generic serialization fpendeMITncies]iv_derive"]

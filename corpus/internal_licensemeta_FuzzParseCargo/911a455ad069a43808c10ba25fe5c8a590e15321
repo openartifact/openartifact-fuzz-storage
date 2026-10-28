@@ -1,5 +1,0 @@
-€[package]
-name = "member"
-workspace = true
-license.workspace = true
-a{ workspace  true }

@@ -1,8 +1,0 @@
-€[package]
-name = ")serde"
-version = "1.0.1977eworrepository = k"
-repository = "https://github.com/serde-rs/serde"
-
-[dependencies]
-serde_derive = { version = "=1.0.197", optional = true, path = "../serd´_derive" }
-libc = "0.2Ges]					

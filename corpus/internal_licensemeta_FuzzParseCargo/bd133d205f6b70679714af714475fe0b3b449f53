@@ -1,4 +1,0 @@
-€[package]
-name = "member"
-version.workspace = true
-license.woib = { GPL-1.0-or-laterworLGPL-3.0-or-laterkspersion = 0 }
