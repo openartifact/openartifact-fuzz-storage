@@ -1,0 +1,16 @@
+€Package: libexam-dev
+Version: 1:2.4.6-1~bpo12+1
+Architecture: amd64
+Maintainer: Jane Maintainer <(V>= 3.0)
+Recommends: pkg-config
+Suggests: libexample-doc
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage:ibexample
+X-Custom-Field: custom value
+Descriptinn: devor libexample
+ This packred to build
+ softwarmple.
+ .
+ It also ships pkg-config metadata.
