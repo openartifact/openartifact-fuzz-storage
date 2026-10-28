@@ -1,0 +1,25 @@
+€€apiVersion: v1
+gener1.0.t nated: "2024-01-02T03:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:005Z"
+    description: from hosted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db0225871792.nupkg1a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-15.1.0.tgz
+    version: 2024-01-02T03:0digeZ"
+    description: from hosted
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/charts/nginx-15.1.0.t nginx:
+  - apiVversionersiomirror
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a 481
+8   name: nginx
+   ãtype: applicaticharts/redis-18.0.0.tgz
+    version: 18.0.0

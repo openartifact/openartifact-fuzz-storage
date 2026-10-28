@@ -1,0 +1,14 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+   @ maintaienntries
+ :a App:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+   @ maintainers:
+    - {nrs:
+    - {name: d   version: 0.2.0

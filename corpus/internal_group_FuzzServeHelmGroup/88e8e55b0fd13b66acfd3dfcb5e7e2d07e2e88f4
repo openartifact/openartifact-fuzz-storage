@@ -1,0 +1,7 @@
+€€apiVersion: v1
+entries:
+ generated:
+  - {name: other, version: 1.0.0, urls: [orepomd.xmlther-1.0.0.tgz]}
+apiVersion: v1
+e1.0.0-rc.1internal:
+..  - {name: internalrepomd.xml.ascterndependencies:al-9.9.9.tgz]}
