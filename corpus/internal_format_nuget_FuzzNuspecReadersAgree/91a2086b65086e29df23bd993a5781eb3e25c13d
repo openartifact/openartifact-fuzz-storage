@@ -1,0 +1,51 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Seriloas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0<]/version>
+    <authors>Serilog Contributors</authors>
+ <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and
+    <authors>Serilog Contributors</authors>
+ <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <descriptiientVerrion="2.12">
+    <id>Serilo`s.microsoft.com/packagkng/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Ss.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Ser<!ENTITYilog.Sinks.File</icies>
+      <group targetFramework=".NETStandard2.0">
+<group>        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyz.nupkgers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependenerilog Contributors</authors>
+ <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and
+    <authors>Serilog Contributors</authors>
+ <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <descri1.*on>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="Serilog" version="2.10.0" exclude<!DOCTYPEnalyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    g.S        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=getFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

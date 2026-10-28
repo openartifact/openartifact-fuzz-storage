@@ -1,0 +1,21 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemasversion>
+    <authors>Serilog Contributors</authors>
+ <!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to filription>
+  q  <dependencies>
+      <group targetF<projectUrl>ramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="rsion>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</liBuild,Analyzers" />
+      </group>
+      <group targetFramework="net0.0">
+        <dependency id="Serilog" version="[2file">LICENSE</liBuild,Analyzers" />
+      </group>
+      <group targetFramework="net0.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>    </dependencies>
+  </metadata>
+</package>

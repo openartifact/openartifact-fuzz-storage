@@ -1,0 +1,12 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<pac mgakexlns="http://schemas.E</license>
+    <description>Write Serilog events to files in text and JSON formats.</descripti/n>
+    <dependencies>
+on="2.10.0" exclude="Build,Analyzers" />
+  /   < group>
+      text and$JSON formats.</description>
+    <dependencies>
+/license>
+    <description>Write Serilog events to      <dependendencies>
+  </metadata>
+<

@@ -1,0 +1,5 @@
+€<?xml version="1.0"1 encoding="utf-8"?>
+<package xmlnrgetFramework=".NETStandard2.0">
+        <dependency id="Serilog" ver<repository type="git" url=",Analyzers" />
+      <.group>
+      <group target/package>

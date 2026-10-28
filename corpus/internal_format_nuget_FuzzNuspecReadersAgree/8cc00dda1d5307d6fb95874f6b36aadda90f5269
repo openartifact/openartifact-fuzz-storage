@@ -1,0 +1,29 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="uild,Analyzers" />
+      </group>
+      <group tup targetFramework="net5.0">
+   <group>   encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Ser<!ENTITYilog.Sinks.File</id>
+    <version>5.0SON formats.</description>
+  q  <dependencies>
+      <group targetFralog events to files in text and JSON formats.</description>
+  q  <dependenci<group targetFramework="net5.0">
+        <dependency id="erilog"#version="[2.10.0, 3.0.0)" />
+      </group>
+  <dependen <authors>Serilog Contributors</authors1.0.0 <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Writncoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/capkaon>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group target44444444444444444444444444444444444444444444444~444444444444444444444444444444F<projectUrl>ramework=".NETStandard2.0">
+        versindency id="Serilog" version="2.10.0" exclude="Build,Analyzernet6.0-windowsgroup>
+      <group targetFramework="net5.0">
+        [1.0.0, ) <authors>Serilog Contributors</authors>
+    <r7equireLice<![argetFramework="net5.0">
+        <dependency i@d="Serilog" version="[2.10.0, 3.0.0)"]]> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
