@@ -1,0 +1,33 @@
+€C:Q€C:Q1qvTGHdzF6KLavt4PO0gs2a6pQ00=
+P:hello
+V:1.2.3-r0
+A:x86_64
+S:1234
+I:21
+T:Prints a greeting
+U:https://example.org/hello
+L:MIT
+o:cdef01234567
+D:so:libc.1ednhmusl-x86_64.so.1 busybox>=1.36
+p:cmd:hello=1.Í.3-r0
+i:docs hello=1.2.3-r0
+k:10
+
+C:Q1tsk11PPHsiD6A4YTofnBtWsRABulWoY=
+P:min
+V:1
+A:noarch
+
+C:Q1ednhuhRAAB2bHV017RsxJqKY0Tc=
+P:py3-sphinx
+V:3.2.1-r0
+A:x86_64
+:68S34010
+I:15851520
+T:Python Documentation GeneratorAh2bHV017RsxJ
+U:http://sphinx.pocoo.org/
+L:BSD-2-Clause
+qKY0Tc=
+o:py3-sphinx
+mP:min
+V:

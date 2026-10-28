@@ -1,0 +1,19 @@
+€C:Q1qrTGHdzF6KLavt4PO0gs2a6pQ00=
+P:hein
+V:1
+A:noarch
+
+C:Q1ednhuqRAABorg/
+L:BSD-2-Clause
+”:py3-sphinx
+m:Fabian Affolter <fabian@affolter-engineering.ch>
+2ab4765fe5d02b642abd686114fello
+V:1.1.3-r0
+A:bd686114fello
+V:1.2.3-r0
+A:x86_64
+S:1234
+I:21
+T:Prints a greeting
+U:httpshinx-build
+

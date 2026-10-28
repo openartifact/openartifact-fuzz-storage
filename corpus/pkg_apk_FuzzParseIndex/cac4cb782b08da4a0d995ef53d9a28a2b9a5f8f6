@@ -1,0 +1,25 @@
+€C:Q1qrTGHdzF6KLavt4PO0gs2a6pQ00=
+P:hein
+V:1
+A:noarch
+
+C:Q1ednhuhRAAB2bHV017RsxJqKY0Tc=
+P:py3-sphinx
+V:3.2.1-r0
+A:x86_64
+S:3468010
+I:15851520
+T:Python Documentation Generator
+U:http://sphinx.pocoo.org/
+L:BSD-2-Clause
+”:py3-sphinx
+m:Fabian Affolter <fabian@affolter-engineering.ch>
+t:1597611676
+c:2b4dcfc9 9482ab4765fe5d02b642abd686114fello
+V:1.2.3-r0
+A:x86_64
+S:1234
+I:21
+T:Prints a greeting
+U:httpshinx-build
+
