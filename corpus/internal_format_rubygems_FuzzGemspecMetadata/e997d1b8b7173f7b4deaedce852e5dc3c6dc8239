@@ -1,0 +1,10 @@
+€name: a
+ver Z
+dependencies:
+- !ruby/obirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelsion: 1.0

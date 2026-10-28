@@ -1,0 +1,9 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: "ruby/object:Gem::Version
+  version: 1.16.2
+platform: ::Dependency
+  nmea: racc
+  requirement: !ruby/object:Gem:'1.4'
+  type: :runtime
+  prerelease: false

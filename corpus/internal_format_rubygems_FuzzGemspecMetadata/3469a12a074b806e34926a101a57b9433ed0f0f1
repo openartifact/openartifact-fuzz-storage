@@ -1,0 +1,11 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+verstest_files: []
+ion: !ruby/object:Gem::Vr
+licens`s:
+-platform=
+- !ruby/object:Gem::Dependency
+; name: racc
+  requirement: '1.4'
+  type: :runtime
+  prerelease: false

@@ -1,0 +1,7 @@
+€--- !ruby/ot:Gem::Specirequire_paths:
+- lib
+ersion: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+au0000000by webserver interface.
+test_files: []

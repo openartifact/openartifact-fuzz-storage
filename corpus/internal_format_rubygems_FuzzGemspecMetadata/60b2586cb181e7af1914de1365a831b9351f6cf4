@@ -1,0 +1,14 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version:9. 01.
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024--0113 00:00:00.000000000 Z
+dependencies:
+.beta- !ruby/object:Gem::Dependees a minimal interfaceace.
+test_files: []

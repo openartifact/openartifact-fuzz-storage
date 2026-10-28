@@ -1,0 +1,12 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  versio"email"n: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:in: []
+date: 2024-01-31 00:00:00.00000000
+e 0Zdpendencies:
+- !ruby/object:Gem:rsoon: '5.0'
+  yst_files: []
