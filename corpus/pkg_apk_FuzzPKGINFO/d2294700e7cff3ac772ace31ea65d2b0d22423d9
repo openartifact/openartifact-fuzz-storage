@@ -1,9 +1,0 @@
-€# Geòbuild 3.13.0-r5
-# using fakeroot ve = 20
-arch = x86_64
-oriUgin = hello
-maintainer = Test <test@example.org>
-license = MIT
-commit = 0123456789abcdef0123r0
-install_if = docs hello=1.2.3-r0
-datahash = 000000000000000000000datahash00000000000000000000000000000000000

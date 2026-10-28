@@ -1,8 +1,0 @@
-€# Gc789abcdef0123456789abcdef01234567
-providerÿþriority = 10
-depend = so:libc.musl-x86_64.so.1ox>=1.36
-provides = cmd:hello=1.2.3-r0
-install_if = docs hello=1.2.3-r0
-datahash = 0000000000000000000000000icense = MIT
-commi000000000000010000icense = MIT
-commit =000000000000000000
