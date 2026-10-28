@@ -1,6 +1,0 @@
-€Metadata-Version: 2.6
-Name: tomli
-Version: 2.0.1
-License-Expression: MIT OR Apache-2.0
-License-File: LICtest~=7.0; extra == "test"
-Provides-Extra: test
