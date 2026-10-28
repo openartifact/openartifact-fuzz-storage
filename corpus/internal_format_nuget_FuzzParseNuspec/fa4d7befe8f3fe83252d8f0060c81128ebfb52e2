@@ -1,0 +1,22 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/01/nuspec.xsd"><!--metadata minClientVersios€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.2icrosoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE0ioer>.0.1</version><authors>a</authors><description>d</de</license>
+    <description>Wri]]]]]]]]]]]]]]]]]]]]/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <aut<summary>hors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licœ–‹–†n><ense type="file">LIC/metadata-->><n="2.12">
+     /ENS
+  </metadata>
+</pacupkage>
+   > </dependencies>
+  </metadata>
+</package>

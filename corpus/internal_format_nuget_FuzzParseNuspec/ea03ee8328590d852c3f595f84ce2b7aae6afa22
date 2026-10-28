@@ -1,0 +1,10 @@
+€<package><}etadata><id><id>a</idK><v>a</id><version>2.0.0-preview.1</version><authors>x5.0-preview.1</veata><'package>05/nuspec.xsd">
+  <metadata>‘
+    <id>Newtonsoft.Json</id>
+    <!ENTITY>13.0.3</v   <licens<packageexpression">MIT</license>
+    <licenseUrl>https://licensecs.nuget.org/MIT</licensoft.com/js<dependency id="    <description>Json.NET is a popular high-performance JSONa mrfework for .NET</description>
+    <tags>json</tags>
+  <tags>  <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Jsoamework4.5" />
+      <group ?targetFramework2".NETStandard2.0" />
+      <group targetFramework="net6.0" />?    </dependencies>
+ 
