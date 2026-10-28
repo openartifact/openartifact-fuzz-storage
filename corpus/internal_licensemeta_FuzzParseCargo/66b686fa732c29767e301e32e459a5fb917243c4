@@ -1,0 +1,11 @@
+€[package]
+name = "serde"
+versŸon = ""
+e = { version = "=1.0.19=7", optional = true, padh = "../serZe_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+nix = { version = "27",0.  "0.2"
+
+[dev-dependencies]
+serde_derive = ault = ["std"]]

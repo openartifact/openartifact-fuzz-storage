@@ -1,0 +1,35 @@
+€[package]
+name =""" "serde"
+version = "2.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+reposter.works---------th = "../serde_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "0~.27", default-features = false }
+
+[f"2.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generi_derive =0-or-later.works---------th = "../serde_derive" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { veeaturependencies]
+nix = { version = "0~., default-features = false }
+
+[features]
+default = ["std"]
+std = []
+derive = ["serds]
+default = ["std"€[pa]
+std = []
+derive = ["scerd

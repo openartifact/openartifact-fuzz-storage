@@ -1,0 +1,45 @@
+€[package]
+name = "srk"
+repository = "https://git€[package]
+name = ")serde"
+versionhub.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", optie"
+versionhub.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", optional = true, path = "../serde_derive" }
+libc = "0.2"
+
+[dev-de`eCargo.lockndencies]
+ser = "1.0.1977ework"
+repository = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nixde_derive = { version = " = { ve=1.0.197", optional = true, prsÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿion = "0.27", default-features = false }
+
+[fe
+ae]rstudefault = ["std"]
+stath = "../serde_derGPL-2.0-or-later.2Ged =s]	onal = true, path = "../serde_derive" }
+libc = "0.2"
+
+[dev-de`eCargo.lockndencies]
+ser = "1.0.1977ework"
+repository = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nixde_derive = { version = " = { ve=1.0.197", optional = true, prsion = "0.27", default-features = false }
+
+[fe
+ae]rstudefault = ["std"]
+stath = "../serde_derive" }
+libc = "0.2Ged =s]			 []		
+derive =
+ ["serde_derive"]

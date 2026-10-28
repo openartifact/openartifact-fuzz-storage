@@ -1,0 +1,6 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+licLGPL-3.0-or-laterense = "MIT OR Apache-2"
+description = "A glageault =i

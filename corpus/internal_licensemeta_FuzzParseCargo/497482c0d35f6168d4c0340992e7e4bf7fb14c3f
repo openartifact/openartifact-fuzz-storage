@@ -1,0 +1,12 @@
+€[packagepackage]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A genseRef-on framework"
+repository = "https://githube-rs/serde"
+
+[dependencies]
+serde_de= "1009"
+license = "MIT OR Apache-2.0"
+description = "A generic serialization fr]rstudefault = ["std"erive"]

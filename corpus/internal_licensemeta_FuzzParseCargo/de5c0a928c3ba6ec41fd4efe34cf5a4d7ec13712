@@ -1,0 +1,14 @@
+€[package]
+name = "2018"
+liceQse = "MIT OR Apache-2.framework~"
+repository = "https://gi"
+
+[target.'cfg(uni€[[																x)'.dependencies]
+nix = { version = "26",0. default-features	= ".  = false }
+
+[features]
+defaulpository = "https://gi"
+
+[target.'cfg(unix)'.dependencies]
+nix = { ve= "LICENSE"
+rsioVn = "27",0. ]

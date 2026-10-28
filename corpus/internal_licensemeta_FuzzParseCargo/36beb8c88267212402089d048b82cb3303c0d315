@@ -1,0 +1,4 @@
+GPL-3.0-onlyame = "serde"
+version = "1.0.196member"
+version.workspace = true
+licens

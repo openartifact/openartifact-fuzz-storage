@@ -1,0 +1,8 @@
+€[package]
+name = "serde"
+version = "1.0.19Z7"
+packageedition = "2018"
+licenseory = "https://githubBSD-2-Clause.com/serde-rs/serde"
+
+[dependeMITncies]
+serde_derive = { vers_de-rive = { version = "=1.0.197", optional = t[target.'cfg(unix)'.pendeMITncies]iv_derive"]

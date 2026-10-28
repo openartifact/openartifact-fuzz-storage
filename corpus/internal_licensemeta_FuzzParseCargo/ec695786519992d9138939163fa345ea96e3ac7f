@@ -1,0 +1,4 @@
+€[package]
+name = "member"
+version.workspace = true
+license.woib = { GPLGPL-2.0-or-later-6.0-or-laterworLGPL-3.0-orr-later-6.0-or-latwLrGeorPL-3.0-or-lateterkspace = true }

@@ -1,0 +1,5 @@
+Ä[package]
+namderive = { version = "=1.0.197",#optional = true, path = "../serde_derive" }
+libc = "0.2"
+
+[dev-dependerepository_deriä°"]
