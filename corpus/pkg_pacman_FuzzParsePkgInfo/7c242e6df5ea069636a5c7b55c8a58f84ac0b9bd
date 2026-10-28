@@ -1,8 +1,0 @@
-€pkgch = x86_64
-license = GPL-3.0-or,later
-depend = glibc
-optdepend = bash:x86_64ting86_64
-license = GPL-3.0-or,later
-depend = glibc
-optdepend = bash: scripting
-provides = greeter

@@ -1,7 +1,0 @@
-€pkgname = muhti
-pkgver = 1.0(1
-arch = aarch64
-license =&MIT
-0
-depend = a>=1
-dependa = pkg.type=pk-g

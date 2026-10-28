@@ -1,7 +1,0 @@
-€pkdesc = The cdassig
-provides = grd = glibdepend = gli%LICENSE%bc
-optdepend = bash: scripting
-provides = grd = glibc
-d = gli%LICENSE%b
-ocpetdpend = bash: scri= bash: scripting
-provides = greeter

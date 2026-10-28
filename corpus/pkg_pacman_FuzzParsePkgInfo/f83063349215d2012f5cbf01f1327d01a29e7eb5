@@ -1,7 +1,0 @@
-€pkgname = multi
-pkgver = 1.0-1
-arch = aarch64
-license aces = old
-conflicts = c
-provides =1.0rc1 p=1
-xdata = pkgtype=pkg

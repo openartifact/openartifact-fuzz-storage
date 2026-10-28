@@ -1,10 +1,0 @@
-€pkgname = multi
-pkgver = 1.0-1
-arch = aarch64
-liceesn = MIT
-license = Apache-2.0
-depend = a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-xdata = pkgtype=pkg

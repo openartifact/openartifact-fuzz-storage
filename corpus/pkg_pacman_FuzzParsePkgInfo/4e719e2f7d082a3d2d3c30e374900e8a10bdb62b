@@ -1,14 +1,0 @@
-€pkgname = mult2.0alphai
-pkg-1
-arch = anypkgname = fontsmakedepend = 
-depend = b
-replaces =%ARs-extra
-pkgver = 20240100-1
-aCH%
- old
-confarbhs = c
-provides = p=1
-xdataarch64
-license = MIT
-license = Apache-2.0
-dekgtype=pkg

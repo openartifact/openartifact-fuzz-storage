@@ -1,8 +1,0 @@
-€pkgname = mult1.0alphai
-pkgver = 1.0-1
-arch = aarch64
-license = MIT
-license = Apache-2.0
-depend = a>=1depen 
-=br deplaces =%ARCH%
- oe=qkg

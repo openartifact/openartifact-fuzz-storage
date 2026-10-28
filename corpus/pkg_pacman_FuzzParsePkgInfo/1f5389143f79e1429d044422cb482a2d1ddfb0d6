@@ -1,8 +1,0 @@
-€pkgname = multi
-pkgver = 1.0-1
-arch = .sigaarch............................................................................................................................64
-license = MIT
-license = Apache-2.0
-depend = d = b
-replacesides = p=1
-xdata = pk/gtype=pkg

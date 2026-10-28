@@ -1,22 +1,0 @@
-€pkgnCallame = multi
-pkgver = 1.0-1
-arch = aarch64
-liceesn = MIT
-licenspkgname = fonts-extra
-pkgver = 2024010lti
-pkgver = 1.0-1
-arch = aarch64
-me = fonts-extra
-pkgver = 20240101-1
-arch = `ny
-size = 10
-e = Apache-2.0
-depend = a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype=pkg

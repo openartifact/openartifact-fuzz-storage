@@ -1,14 +1,0 @@
-€pkgname = mult2.0alphai
-pkgver = 1.0-qra
-pkgver = 20240101-1
-arch = anypkgname = fontsepend = a>=1
-depend = b
-replaces =%ARCH%
- old
-conflicts =
-pc rovides = p=1
-xdataarch64
-license = Mver=1:2-3
-arch=x86_am6_amIT
-license = Apache-.0
-depend = a = pkgtype=pkg

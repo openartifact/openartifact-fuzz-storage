@@ -1,9 +1,0 @@
-€pkgname = multi
-pkgver = 1.0-1
-arch = acn0
-dpkgname = Bad Name
-pkgver = 1
-conflicts = c
-prviodes = p=1
-xdata arch = = x86_pkg64t
-ype=pkg
