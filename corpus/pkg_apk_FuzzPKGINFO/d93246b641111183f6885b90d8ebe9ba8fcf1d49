@@ -1,0 +1,7 @@
+─# Geperated by abuild 3.13.0-r5
+# using fakeroot version 1.32.1
+pkgdesc = Prints a greeting
+url = httpses = cmd:hello=1.2.3-r0
+i_tlsanlif = docs hello=1.2.3-r0
+datahash = 000000000000000000000000000000000000000ыооооооо00000000000000000
+pkgname = other

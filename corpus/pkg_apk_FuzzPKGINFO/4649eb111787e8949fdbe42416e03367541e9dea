@@ -1,0 +1,8 @@
+€# c
+
+replaces = a
+pkgname = a
+gver = 1
+arch = noarch
+datahash = aaaaaaaaaaaaaaaaaaa
+triggers = = /x

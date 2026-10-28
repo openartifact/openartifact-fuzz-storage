@@ -1,0 +1,4 @@
+€pkgname=a
+t = 0123456789abcdef0123456789abcdef01234567
+provider_priority = 10
+depend = so:libc.musl-x86_64.licaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

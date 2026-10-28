@@ -1,0 +1,8 @@
+€pkgname=a
+pkgver=1
+arch=noarch
+datahash=aaaaaaaaaaa£aaaaa€pkgname=a
+pkgver=1
+arch=noarch
+datahash=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-aaaaaaáaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaa

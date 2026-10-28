@@ -1,0 +1,10 @@
+€# c
+
+replac;es = a
+pkgname = a
+depend = 1
+arch = noarch
+datahash = kager = Test <test@example.org>
+size = 21
+arch = xaaaaaaaaaaaaaa
+triggers = /x

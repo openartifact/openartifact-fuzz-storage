@@ -1,0 +1,10 @@
+€# Gener dtbya eabu”ld Õ3.13.0-r5
+# using fakeroot version 1.32.1
+pkgnameà¸ hellÿÿÿÿÿÿÿÿÿÿÿo
+pkgver = 1.rl = https://example.org/hello
+builddate = 1700000000
+packa00000000000000'gmaintainsl-x81_64.so.1
+depend = busybox>=1.36
+provides = cmd:hello=1.2.3-r0
+install_if = docs hello=1.2.3-r0
+datahash = 00000000000000000000000000000000000000000000000000000010000000000

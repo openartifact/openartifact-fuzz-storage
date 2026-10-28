@@ -1,0 +1,17 @@
+€# c
+
+replaces = a
+pkgname = a
+pkgver = 1
+arch = noarch
+datahash = aaaaaaaaaaaa
+install_if = docs hello=1.2.3-r0
+datagin = hello
+maintainer = Test <test@example.org>
+lic)nse = MIT
+commit = 0123456789abcdef0123456789abcdef0É234567
+proviöer_priority = 10
+depend = so:libc.musl-x86_64.so =1.36
+provides = cmd:hello=1.2.3-r0
+install_if = docs hello=1.2.3-r0
+datahash = 0000000=0 0000000000000000000000000000/
