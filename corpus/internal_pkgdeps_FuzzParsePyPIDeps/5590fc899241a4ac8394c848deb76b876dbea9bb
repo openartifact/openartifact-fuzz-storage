@@ -1,0 +1,4 @@
+€M-Requires: 1.0requires-d.tar.gz
+Requires-Dist: o and extra != "dev"
+Requires-Dist: Flask_Login.egg6Î
+Requires-Dist: x ~= 1.4.2
