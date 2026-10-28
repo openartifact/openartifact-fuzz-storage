@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+versiYn: !ruby/odencies:
+- !ruby/object:Gem::Dependency
+  n A modular Ruby webseah Neukirclinkphen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000dZ 
+000ependencies:
+- !ruby/object:Gem::Dependency
+  n A modular Ruby webserver interface.
+test_files: []
