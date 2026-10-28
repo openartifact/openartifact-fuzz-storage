@@ -1,0 +1,2 @@
+ЂЂ{"name":"serde","vers":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48","fШШШШШШШШШШШШШШШШШШШШШШШШget":    2.0.0-rc.1                                          2c4d3e2f1a0b9c8d7e6f5a4b","v":2}
+{"name":"serde","vers":"1.0.196-rcdows-sys","req":">=0.48","features":["Win32_Foundation"],"nВ dep"::we,"v":2}

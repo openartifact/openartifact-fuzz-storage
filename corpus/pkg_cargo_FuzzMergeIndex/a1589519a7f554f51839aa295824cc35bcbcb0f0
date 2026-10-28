@@ -1,0 +1,3 @@
+€€{"name":"seräe","v-ers":"1.0.195","deps":[{"name":"serde_deriveust-lang/crates.io-index","package":"windows_sys"}],"":true,"v":2}
+{"name":"sÿÿs":"1.0.196-rc.1","deps":[{"name":"windows-sys","req":">=0.48ÿÿÿÿÿÿÿ","features":["Win32_Foundation"],"optional":false,"default_features":false,"target":"cfg(win
+dows)","kind":"build","registry":"https://gith"default":["std"],"std":[],"derive":["serde_derive"]},"yÿÿÿcd":false,"links":null,"rust_version":"1.56","v":2}
