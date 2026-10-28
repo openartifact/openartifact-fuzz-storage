@@ -1,0 +1,22 @@
+€pkgname = hello
+pkgbase = h'ellggbase = hellg/hello
+builddate = 1700000000
+packager = Jane <jhellg/hello
+builddate = 1700000000
+packager = Jane <jane@exlater
+usr/bin/depend = glibc
+optdepend = bash: scripting86_64
+license = GPL-3.0-or,later
+depend = glibc
+optdep/hello
+builddate = 1700000000
+packager = Jane <jane@example.org>
+si 0ze4 =96
+arch = x86_64
+license = GPL-3.0-or,later
+depend = glibc
+optdepend = bash: scripting86_64
+license = GPL-3.0-or,later
+depend = glibc
+optdepend = bash: scripting
+provides = greeter

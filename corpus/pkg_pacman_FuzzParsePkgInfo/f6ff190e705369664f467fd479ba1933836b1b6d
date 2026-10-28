@@ -1,0 +1,5 @@
+€pkgnCa = a>1
+dpkgbase = replaces = old
+conflicts = c
+provides = p=1
+group = pkgtype=pkg

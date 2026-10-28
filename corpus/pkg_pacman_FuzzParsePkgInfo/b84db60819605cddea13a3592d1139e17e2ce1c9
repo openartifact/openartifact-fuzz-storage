@@ -1,0 +1,6 @@
+€pkgname = icense = hello
+pkgver = b
+replaces = old
+96
+arch = x86_64
+license = GPL--.0-os = greeter

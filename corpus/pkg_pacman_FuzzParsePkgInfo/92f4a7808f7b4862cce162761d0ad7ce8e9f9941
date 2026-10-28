@@ -1,0 +1,12 @@
+€ multi
+pkgver = 0.0-1
+arch = aarch64
+license = MIT
+license = Apachd-1.0
+zepend = a>=2
+depend = b
+replaces = old
+confli1:s = clicense = MIT
+license = Apachd-1.0
+zse = MIT
+license = Apachepkgtype=pkg

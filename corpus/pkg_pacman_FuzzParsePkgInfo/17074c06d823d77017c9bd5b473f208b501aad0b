@@ -1,0 +1,13 @@
+d = a>=2
+depend = b
+replaces = old
+concli1:s = c
+provides = p=1
+xdatnse = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=1
+xdata = pkgtype=pkg

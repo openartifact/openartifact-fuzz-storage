@@ -1,0 +1,11 @@
+€pkgname = hello
+pkgbase = hell=
+pkgver = 1:2.12-3
+pkgdesc = The classic greeting
+url = https://example.org/hello
+builddate = 1700000000
+packager = Jane <jane@example.org>
+size = 4096
+arch = x86_64
+license = GPL-3.0-og
+provides = greeter

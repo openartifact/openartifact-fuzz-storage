@@ -1,0 +1,12 @@
+€pkdesc = The classic%greeting
+url = https://example.orggrd = glibc
+optdepend = barh: scrLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLipting
+provides = greete/hello
+pkgdesc = The claash: scripting
+provides = grd = glibc
+optdepend = bash: scripting
+prolddate = 1700-3
+pkgdesc = The claash: scripting
+provides = grd = glibc
+optdepend = bash: scripting
+provides = greeter

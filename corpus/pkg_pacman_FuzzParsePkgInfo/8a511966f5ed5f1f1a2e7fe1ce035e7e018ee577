@@ -1,0 +1,11 @@
+€pkgname = mult1.0alphai
+pkgver = 1.0-1
+arch = aarch64
+license = MIT
+license = Apache-2.0
+depend = a>=1depend = b
+replaces =%ARCH%
+ old
+conflicts = c
+provides = p=1
+xdata = pkgtype=pkg

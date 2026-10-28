@@ -1,0 +1,15 @@
+�pkgname = hello
+pkgbase = hello
+pkgver = 1:2.12-3
+pkgdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8g
+provides = g 10
+reeter

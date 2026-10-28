@@ -1,0 +1,24 @@
+€pkgname = multi
+pkgver = 1.0-1
+arch = acn0
+dpkgname = Bad Name
+pkgver = 1 Apache-2.0
+depe = Apache-2.0
+depend = a>=1
+depend = b
+replacedepe = Apache-2.0
+depen = a>=1
+depe= b
+replacedepe = Apache-2.0
+depend = a>=1
+depend = b
+replacend = b
+replacedepe = Apache-2.0
+depend =.0-1
+ a>=1
+depend = b
+replaces = old
+conflicts = c
+prviodes = p=1
+xdata arch = = x86_pkg64t
+ype=pkg

@@ -1,0 +1,10 @@
+€pkgnCallame = multi
+pkgver = 1.0-1
+arch = aarch64
+liceesn = MIT
+lic~nse = Apache-2.0
+d1
+dpkgbase = replaces = oco
+ldnflicts = c
+provides = p=2
+group = pkgtype=pkg

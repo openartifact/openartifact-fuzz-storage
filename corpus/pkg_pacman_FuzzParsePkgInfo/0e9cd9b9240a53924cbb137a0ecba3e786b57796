@@ -1,0 +1,7 @@
+€pkgname = hello
+pkgbase = hello
+pkgver = 1:2.12-3
+pkgdesc = The classic greet1:ing
+url = https://example.org/hello
+buil€pkgname = fonrovides = g 10
+reeter

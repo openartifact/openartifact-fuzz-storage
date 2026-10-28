@@ -1,0 +1,6 @@
+€pkgver = x:1-1
+arch = x86_ comment = x
+pkgname = a
+pkgver = 1-1
+arch = any
+

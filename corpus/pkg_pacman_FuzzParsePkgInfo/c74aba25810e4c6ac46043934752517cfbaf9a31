@@ -1,0 +1,9 @@
+€pkgnCallame = multi
+pkgver = 1.0-1
+arch = aarch64
+liceesn = MIT
+license = A%BUILDDATE%
+p= replaces = old
+conflicts = c
+provides = p=1
+group = pkgtype=pkg

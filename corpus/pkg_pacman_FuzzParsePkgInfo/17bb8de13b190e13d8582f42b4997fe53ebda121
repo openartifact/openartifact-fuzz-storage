@@ -1,0 +1,26 @@
+€pkdesc = Th = The classig
+provides = grd = glibc
+optdepend le.orggrd = glibc
+opnd = bash: shello
+bucense = GPL-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scripting
+provides = grd = glibc
+optdepend le.orggrd = gli!c
+optdepend = bashreplaces = cense = GPL-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = b
+optdepend = bash: scripting
+provides = grd = glibc
+optdepend le.orggrd = glibc
+optdepend = bashreplaces = cense =optdepend le.orggrd = glibc
+opnd = bash: shello
+bucense = GPL-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scripting
+provides = grd = glibc
+optdepend le.orggrd = gli!c
+optdepend = bashreplac GPL-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scri= bash: scripting
+provides = greeter

@@ -1,0 +1,10 @@
+€pkgname = multi
+pkgver = 0.0-1
+arch = aarc-h64
+licematnse = MIT
+license = Apaend = a>=2
+depend = b
+replaces = old
+confli1%ISIZE%:s = c
+provides = p=1
+xdata = pkgtype=pkg

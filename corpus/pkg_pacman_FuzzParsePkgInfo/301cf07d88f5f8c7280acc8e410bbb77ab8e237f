@@ -1,0 +1,11 @@
+€pkgname = mult2.0alphai
+pkgver = 1.0-1ra
+pkgver = 20240101-1
+arch = anypkgname = fonts%MD5SUM% a>=1
+depend = b
+replaces =%ARCH%
+ old
+conflicts = c
+provides = p=1ense = Apache-4)0
+depend = a = pkgtype=pkg0101-1
+arch = a

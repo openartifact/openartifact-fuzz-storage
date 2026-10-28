@@ -1,0 +1,8 @@
+€pkgname = mult2.0alphai
+pkgver = 1.0-1ra
+pkgver = 20240101-1
+arch = anypkgname = fontsepend = a>=1
+depend = b
+replaces =%ARCH%
+ old
+conflic

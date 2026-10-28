@@ -1,0 +1,14 @@
+€pkgname = mu-1ra
+pkgver = 20240101-1
+arch = anypkgname = fontsmakedepend = 
+depend = b
+replaces =%ARs-extra
+pkgver = 20240101-1
+aCH%
+ old
+confarbhs = c
+provides = p=1
+xdataarch64
+license = MIT
+license = Apache-2.0
+depend = a = pkgtype=pkg

@@ -1,0 +1,6 @@
+€pkdesc = The cdassig
+provides = grd = glibdepend = gli%LICENSE%bc
+optdepend = bash: scripting
+provides = grd = glibc
+d = ting
+provides = greeter

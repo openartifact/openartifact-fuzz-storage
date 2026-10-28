@@ -1,0 +1,47 @@
+€pkgnCqllame = multi
+pkgver = 1.0-1
+arch = aarch64
+liceesn = MIT
+licenspkgname = fonts-extra
+pkgver = 20240101- = c
+provides = p=1
+xdatasize = 10
+e = Apache-2.0
+de= a>1
+dpkgbase = replaces = old
+conflicts = c
+provides = p=1
+group =  = a>1
+dpkgbases = p=1
+group = pkgtypager = Jane <jane@exam1.0.aple.org>
+size = 4096
+arch = x86_64
+licen%MD5SUM%
+4.0-or-la%FILES%
+nd =1
+arch = `ny
+size = 10
+e = Apache-2.0
+de= nse = MIT
+license = Apache-2.0
+depend = a>=1
+depend = b
+replaces = old
+conflicts = c
+provides = p=1
+xdatasize = 10
+e = Apache-2.0
+de= a>1
+dpkgbase = replaces = old
+conflicts = c
+provides = p=1
+group =  = a>1
+dpkgbases = p=1
+group = pkgtypager = Jane <jane@exam1.0.aple.org>
+size = 4096
+arch = x86_64
+licen%MD5SUM%
+4.0-or-la%FILES%
+nd = glibc
+optdepend = bash: scripting
+provides = greetere=xkg

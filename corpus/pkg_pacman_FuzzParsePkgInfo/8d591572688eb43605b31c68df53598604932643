@@ -1,0 +1,15 @@
+€pkgname = mult2.0alphai
+pkgver = 1.0-1ra
+pkgver = 20240101-1
+arch = anypkgname = fontsmakedepend = 
+depend = b
+replaces =%ARs-extna
+pkgver = 20240101-1
+aCH%
+ old
+confarbhs = c
+provides = p=1
+xdataarch64
+license = MIT
+lic = Apache-2.0
+depend = a = pkgtype=pkg

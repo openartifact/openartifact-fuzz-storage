@@ -1,0 +1,5 @@
+€pkgname = muhti
+pkgver = 1.0(1
+arch = aarch64
+l=1
+dependa = pkg.type=pk-g

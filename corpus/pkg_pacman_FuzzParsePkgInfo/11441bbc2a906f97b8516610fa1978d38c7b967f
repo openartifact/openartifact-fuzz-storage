@@ -1,0 +1,6 @@
+€pkepend = a>=1
+depend = b
+replaces = old
+conflicts = c
+provides = p=1
+xdata = pkgtype=pkg

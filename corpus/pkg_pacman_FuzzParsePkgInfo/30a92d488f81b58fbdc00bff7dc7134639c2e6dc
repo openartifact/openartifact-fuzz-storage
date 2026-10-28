@@ -1,0 +1,11 @@
+�pkg:2-3
+archÊ8?6_64k# GenerTTTTTgdesc = The classic greeting
+url = https://example.orgeh/llo
+builddate = 1700-3
+pkgdesc=  The classikg:2-3
+archÊ8?6_64k# GenerTTTTTgdesc = The classirg/hello
+bucense = GPL-3.0-or-later
+depend = glibc
+optdepend = bash: scripting
+provig
+provides = gree

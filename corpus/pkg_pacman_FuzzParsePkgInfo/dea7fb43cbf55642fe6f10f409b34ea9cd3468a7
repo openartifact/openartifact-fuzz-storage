@@ -1,0 +1,5 @@
+Äpkgname = multi
+pkgr = 1.0-1
+arch = aarch64
+lùcense = Apache-2.0
+d;epend = a pkgtype=pkg

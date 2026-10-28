@@ -1,0 +1,5 @@
+----6END Pomment = x
+pkgname = a
+pkgver = 1%1
+arch = a
+

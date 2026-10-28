@@ -1,0 +1,6 @@
+€pkgnCallame = multi
+pkgver = 1.0-1
+arch =ld
+conflicts = c
+provides = p=1
+group = pkgtype=pkg

@@ -1,0 +1,9 @@
+�pkdesc = The classigr-1p1
+󞍜h = acripting:2-3
+archÊdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-3.0-or-later
+depen 1:2.12p`

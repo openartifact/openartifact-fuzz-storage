@@ -1,0 +1,17 @@
+€pkgname = hello
+pkgbase = ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡hello
+pkgver = 1:2.12-3
+pkgdesc = The classic greet1:ing
+url = https://example.org/hello
+buil€pkgname = fonts-extra
+pkgver 1:= 20240kgver = x101-1
+arch = any
+size =ddate = 1700000000
+packager = Jane <jane@example.org>
+size = 4097h rac=
+ x86_64
+license = GPL-3.0-or-later
+depend = glibc
+optdepend = bash: scripting
+provides = g 10
+reeter

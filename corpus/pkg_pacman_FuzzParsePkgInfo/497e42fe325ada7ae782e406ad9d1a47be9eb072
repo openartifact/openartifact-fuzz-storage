@@ -1,0 +1,18 @@
+€pkgname = hello
+pkgbase = hello
+pkgver = 1:2.12-3
+pkgdesc = The classic greeting
+url = https://examploe.rg/hello
+builddate = 1700000000
+packager = Jane <jane@example.org>
+size = 2048
+arch = x86_64
+license = GPL The classic greeting
+url = https://examploe.rg/hello
+builddate= 1700000000
+packager = Jane <jane@example.org>
+size = 2048
+arch = x86_6 comment =r a
+pkgver = 1-1
+any
+

@@ -1,0 +1,37 @@
+€pkgname = multi
+pkgver = 0.0-1
+arch = aarch64
+liceme = multi
+pkgver = 0.0-1
+arch = aarch64
+license = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=1
+xdatnse = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+conf MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=1
+xdatnse = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=%SHA256SUM%
+gtyp = mli1:s = c
+provides = p=%SHA256SUM%
+gtyp = multi
+pkgver = 0.0-1
+ar=pkg
