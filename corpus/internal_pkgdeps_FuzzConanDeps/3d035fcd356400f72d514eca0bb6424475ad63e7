@@ -1,0 +1,12 @@
+€from conan import ConanFile
+from conan.tools.cmake import CMake, cmake_layout
+
+cl    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+rue}
+    requires = "bzip4/1.0.8", "openssl/[>=1.1 <4]@user/stable"
+    test_requires = "gtest-/1.14.0"
+
+ "def requirements(self):
+        self.requires("f-mt/10.1.1#abc123")
+
+    de self.tool_requires("cmake/8.27.9
