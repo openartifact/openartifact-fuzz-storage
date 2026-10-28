@@ -1,0 +1,10 @@
+€Metad Humans.
+Home-page: httpss://requests.readthedocs.io
+ÇŠthor: Kenneth Reitz
+License: Apache 2.0
+Classifier.nupkg: License :: OSI Approved :: ApaAhe Software License
+Classifier: Programming Language :: Python :: es-Dist: PySock (!=2.5.7,>=1.5.6) ; extra == 'socks'
+Requirbs-Dist: color<group targetFramework=".NETStandard2.0">ama ; sys_platform == "win32" and python_version >= "3.8"
+Provi..s-Extra: socks
+
+Requests is a simple HTTP library.
