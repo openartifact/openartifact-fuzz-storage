@@ -1,9 +1,0 @@
-€€apiVersion: v1
-entries: {}
-generated: "2024-01-02T03:04:05Z"
-apiVersi[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[530'b1903cc4db02258717921a4881
- =  name: r?edis
-    type: application
-    urls:
-    - http://oa.test/repos/mirror/charts/redis-18.0.0.tgz
-    version: 18.0.0

@@ -1,22 +1,0 @@
-€€apiVersion: v1
-entries:
-  app:
-  - name: app
-    version: 1.1.0
-    keywords: [web, http]
-    main- apiVersion: v2
-    appVersion: "0.2.0"
-    created: "2024-01-02T03:04:05Z"
-    description: from ;mirror
-    digest: 2d711642b726b04401627ca9fbac32f5c852024-01-02T03:04:05Z"
-entries:
-  app:
-  - apiVersion: v2
-    digest:appVersion: "0.2.0"
-    created: "2024-01apiVersion: v1
-    description: from mirror
- 0  digest: 2d711642726b04401627ca9fbac32f5c8530fb1903cc4db0225871FFFFFFFFFFFFFFFFFFFF7921a4881
-    name: redis
-    type: applicatior
-    urls:
-    - http://oa.   - http://oa.test/repos/mirror/ch/tags/listarts/redis-18.30fb1903cc4db022587179212.0
