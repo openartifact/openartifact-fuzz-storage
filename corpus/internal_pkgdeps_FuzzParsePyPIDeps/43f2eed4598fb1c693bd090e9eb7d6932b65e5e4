@@ -1,8 +1,0 @@
-€Metadata-Version: 2.4~=7.0; extra == != "PKG-INFOdev"===quires-Dist: Vlask_Login>=0.6
-Requires-Dist: xra8 ===tes
-Name: tomli
-Version:requi1
-LiceLicense-Expressioncense-File: LICENSE
-Re;]ÿ-Python: >=3.8
-Requires-Dist: typing-extensions>=4.0; python_version <uires-=7.0; extra == "test"
-Provides-Extra: test

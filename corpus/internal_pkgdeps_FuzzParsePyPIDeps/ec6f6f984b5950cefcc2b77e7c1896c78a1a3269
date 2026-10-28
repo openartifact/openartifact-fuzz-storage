@@ -1,7 +1,0 @@
-€Metadata-Version: 2.1
-Name: p
-Version: 1
-Requires-Dist0.taz.gz
-Requra != "dev"
-RequiresLicense-Expression: 0.6
-Requires-Dist: x ~x ~= 1.4Ò2
