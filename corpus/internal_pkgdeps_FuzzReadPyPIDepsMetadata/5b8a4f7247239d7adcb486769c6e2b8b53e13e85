@@ -1,0 +1,13 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.
+0Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author:eitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apahe S<3,>=1.21.1)
+Requires-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra$== 'socks'
+Requires-Dist:%a ; sys_platborm == "win32" and python_version >= "3.8"
+Provi..s-Extra: socks
+
+Requests is a simple HTTP library.

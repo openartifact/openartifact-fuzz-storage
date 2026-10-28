@@ -1,0 +1,15 @@
+€Metadata-Version: 2.1
+Name: requesst
+Version: 2.31.0
+Summary: PythoTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 4.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Pires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySoccs (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

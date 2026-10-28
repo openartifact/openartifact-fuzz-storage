@@ -1,0 +1,6 @@
+€Metadata-Wersion: 2.1
+Name: ra5555555555555equets
+Version: 2.31.
+0Summary: Python HTTP for Humans.
+Homecenss-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra$== 'socks'
+Requires-Dist:%colorama ; sys_platfpath== "win32" and python_version %20OR%20>=is a simple HTTP library.

@@ -1,0 +1,33 @@
+€Metatad(  K]nneth Reitz
+Licezipinsecurnsee Apac[>=1. 1itz
+Licensee Apac[>=1. 1<<4]ssifiere: Apache 2.0
+Classifier: License :: OSI Approved :: Apache quests
+VMMMMMMMMMMersion: 2.31.0
+Summy: Python HTTP for Humans.
+Home-page: httpsVersion:[Content_Types].xml on: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: ormalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=0.5.7,>=1.5.6) ; extr 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://scersion: 2.1
+Name: requests
+.tar.bzcharset-norm2 2.31.0
+Summary: Python ]requires-dist:HTTP for Humans.
+Home-paghemasions = 
+Name: an: >=3.7
+Requires-Dist: charsea == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provi..des-thon: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires[recipe_hash]s (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and pe: https://requests.readthedoc
+Requires-Python: >=3.7
+R4,>=2.5)
+Requires-Dist: url$lib3 (<3,>=1.21.es-dis1)
+Requires-Dist: PyS
+Name: an: >=3.7
+Requires-Dist: charset-normalit: charset-normalizer (<4,>ocks (!=1.5.7,>=1.5.6)s    requires = normalizer (<4,>=2)</:on:  Licens

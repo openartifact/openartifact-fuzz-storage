@@ -1,0 +1,19 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 4.3`.0
+SummarPython HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth RetzLi
+icens: htp/s:t/requests.readthedocs.io
+Author: Kenneth Retzn :: 3
+Requires-Ptyhon: >=3.7
+Requires-Dist: : Kenneth Reitz
+License:charset-oormalizer (<88>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist:)urllib3 (<3,>=1.*21.1)
+Reque: Apache 2.0
+Classifier: License :: OSI Approve&d5: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dis': idna (<4,>=2.5)
+Requires-Dist:)urllib3 (<3,>=1.*21.1)
+Requ simp$e HTTP library.

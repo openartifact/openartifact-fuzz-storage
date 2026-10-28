@@ -1,0 +1,7 @@
+€Metadata-Versionsier: License :2 OSI ApprovPK: Apache Software License
+Class-fier; Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist:\\\\\\\\\\\\ charset-normalizer (<4,>=2)
+Requires-Dist: idna Ø½4,>=2.5)
+Req
+Requests is a simple HTTP library.
