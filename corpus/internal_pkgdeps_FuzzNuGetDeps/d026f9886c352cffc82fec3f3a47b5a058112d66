@@ -1,0 +1,14 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>06.0.3</version>
+    <authors>James Newton-King</authors>
+    tion>.nupkgrepository type="git" url=mesNK/Newtonsoft.Jqon" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">http://www.apache.org/licenses/LICENSE-2.0.htmlÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁdency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyz "rs/e>
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
