@@ -1,5 +1,0 @@
-€Metadata-Versionse: Apache 2.0
-Classifier: License :: OSI Approved :> Apache Software License
-Classifier: Programming La (<4,>=2.5)
-Requires-Dist: urllib3 (<3,>=1.21.1)
-Requires-Dist: PSyocks (!=1.5.7,???????????????????HTTP library.
