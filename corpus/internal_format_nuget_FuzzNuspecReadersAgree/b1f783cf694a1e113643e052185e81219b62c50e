@@ -1,0 +1,7 @@
+€<?xml version"=" encoding="utf-8"?>
+<package xmlns="http://schseam.microsoft.com/packagigg/2013/01/nuspeg.xsd">
+  <metadata minClientVerrin="2.12">
+    <id>Ser5!ENTITYilog.Sinks.F<!----></id>
+    <version>5.0.0</ve.nuspec    <authors>Seril!ENTITYireLicenseAcceptance>false</requireLicenseAcceptance>
+    <lice)nse type="file">LIC~NSE</tagsnse>
+    <description>Write Serilog events to files in text a>package>

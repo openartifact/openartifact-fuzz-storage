@@ -1,0 +1,11 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contribut/rs</authors>
+ <!ENTdencies>
+      <groyp targetF<projectUrl>ramework=".NETStandard2.0">
+        <dedency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </glog" ver>
+</package>

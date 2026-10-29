@@ -1,0 +1,21 @@
+€<?xml version="1.0" </metadata>tf-8"?>
+<package xmlns6"http://schemas.microsofminClA/packaging/2013/01(nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <i)cceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serription>
+    <dependencies>
+      <group targetFramework=".http://schemas.microskaging/2012/06/nuspec.xsdsion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</veceptance>[false</requireLicenseAnet8.0nce>ance>false</requireLicenseA(1.0,)cceptance>
+    <license type="file">LICENSE</licenseminCl <description>Write Serription>
+    <dependencies>
+      <group targetFramework=".http://schemas.microsoft.com/packaging/2012/06/nuspec.xsdsion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</vep targetFramework=NET.St"andard1.0">
+        <dependency id="Serilog" version="2.10.pp targetFramework=NET.St"andard1.0">
+        <dependency id="Serilog" version="2.10.pendency id="Serilog" version="[2.10.0, ~.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
