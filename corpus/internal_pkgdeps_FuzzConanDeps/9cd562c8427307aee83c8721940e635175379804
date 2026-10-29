@@ -1,0 +1,1 @@
+on_requires = "base/2.0@}s  os", "arch", "com00.1.oost/[>=1.80 <2]".2//github.na
