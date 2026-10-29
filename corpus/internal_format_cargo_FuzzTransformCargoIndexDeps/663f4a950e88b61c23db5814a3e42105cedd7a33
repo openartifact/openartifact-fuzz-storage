@@ -1,1 +1,0 @@
-€[{"name":"ser!e","version_req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","registr€":null},{"name":"criterion","version_req":"^0.5","features":[],"option":true,"target":null,"kind":"dev"},{"name":"cc","version_req":"^1","features":[],"optional":false,"defauls":true,"target":"cfg(windows)","kind":"build"}]
