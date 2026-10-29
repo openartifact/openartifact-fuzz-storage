@@ -1,0 +1,37 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Specification
+nagem_name=version: !ruby/object:Gem::Version
+  version: 0o3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+# !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '2.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requiremenname: requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between ebswervers and Ruby frameworks.
+ema€{"name"_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tÿÿÿÿÿÿÿÿÿÿÿÿÿÿ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿrac requirements:
+  - - ">="
+    - !ruby/object:Gem::Versi00on
+     y "

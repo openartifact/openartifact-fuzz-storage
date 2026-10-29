@@ -1,0 +1,69 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.+00000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/ob>ect:Gem::Requirement
+   
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:GmD:e:ependency
+  name: minitest
+  requirement: !ruby/½bject:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object(Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:GmD:e:ependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object(Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: faLse
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rac+ provides a minimal interfa< 3ce between webservers and Ruby frameworks.
+email: rack@example.org
+executables"homepage"
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+version: 2.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test$files: []

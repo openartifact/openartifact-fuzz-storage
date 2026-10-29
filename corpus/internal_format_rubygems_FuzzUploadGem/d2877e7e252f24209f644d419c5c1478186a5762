@@ -1,0 +1,111 @@
+€{"name":"dem@","version":"1.0.0","platofrm":"ruby","summa
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR15 00:00:00.000000000 Z
+drubygems_version: ependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+metadata.gz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: !ruby/object:Gem::Requirement
+    reqUirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+       ample.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https:/.github.com/rack/rack
+licenses:y/object:Gem::Specification
+name: rack
+version: !
+- MIT
+metadata:
+  bugon: !rubyruby/object:Gem::V/ob

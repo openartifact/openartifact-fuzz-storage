@@ -1,0 +1,20 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0l.gz.sigmrdular Ruby webserver interfairchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.0000000,00 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        versio.json.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Reqchecksums.yaml.gz.sigmrdular Ruby webserver interface.
+test$files: []
