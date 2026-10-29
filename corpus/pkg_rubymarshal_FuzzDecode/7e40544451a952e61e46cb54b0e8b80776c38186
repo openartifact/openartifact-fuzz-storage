@@ -1,0 +1,11 @@
+€u:Gem::Specification>[I"3.4.10:ETi	I"rails-demo:ETU:Gem::Version[I"
+7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::ReqÇirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:IIIIIIIIIIIIIIIIIIIIIZIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIquirement[[[I":=>ETU:Gem::Versân[I"1.0€U:""""""""""""@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::VeI"	3.12:ET:
+@type:developme_t:@prereleaseF:@version_requirem
+@nameI"
+rspec:ET:@requiren[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI	"rake:ET:@requirementU:Gem::Rment[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@vK"~>:ETU:Gem::Version[I"	I"	3.12:ET:
+@type:developmem::Requient:
