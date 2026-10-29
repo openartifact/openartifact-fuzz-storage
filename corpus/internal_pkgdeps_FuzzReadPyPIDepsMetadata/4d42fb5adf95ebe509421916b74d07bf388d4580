@@ -1,0 +1,17 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-pache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Pyt//////////n :: 2
+Requires-Pythln: >=3.7
+Requires-Dist: charset-normali-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (&<3,>=1.21.1)
+Requires-Dist: PySockszer (<4,>=2)
+Requires-Dist: id    name = 5)
+Requires-Dist: urllib3 (<3,ythz
+License ALicense :: OSI Approved :: Apache Software License
+Classifierame: License-Expression: 31.0
+Summary: Python HTpache 2.0
+ClassiTP forfi 

@@ -1,0 +1,23 @@
+€Metadata-Version: 2.1
+Name: requests
+Verpython >=3.8,<3.12.0a0sion: 2.31.0
+Summary: Python HTTP foMetadata-Version: 2.1
+Name: requests
+Verpython >=3.8,<3.12.0a0sion: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpsVersion: ts.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache quests
+Verqion: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpr.gzs:/Ñ“equests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License ::ge :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: ct: charset-normalizer (<4,>=2)
+Requires-Dist: idna (===<4,>=2.5)
+Requires-Dist: urllib3 atform == "win32" and python_version >urllib3 (<3,>=1.2Dist: colorama ; sys_platform == "win32" and python_vst: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>library.

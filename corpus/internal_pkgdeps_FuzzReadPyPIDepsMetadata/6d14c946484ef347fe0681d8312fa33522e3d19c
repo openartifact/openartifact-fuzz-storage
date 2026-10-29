@@ -1,0 +1,4 @@
+€MetOSI Approved :> Apache Software Li:ense
+Classifier: Programming La (<4,>=11111111111111112.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PSyockres-Dist.7,???????????????????HTTP library.
