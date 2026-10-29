@@ -1,0 +1,6 @@
+€€%2fVersionindex.y: v1
+entries: {}
+generated: "24:05Z"
+entries:-
+  redis:
+  - apiV.test/repos/mirror/charts   version: 18.0.nuspec.0

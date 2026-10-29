@@ -1,0 +1,10 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: -0b.0
+    keywords: [web, http]
+    maintainers:
+ €€apiVersion: v1
+generated: "2024-   - {name: dev, email: dev@example.org}
+ other.01-0xm2

@@ -1,0 +1,8 @@
+€€%2fVersionindex.y: v1
+entries: {}
+generated: "24:05Z"
+entries:-
+  redis:
+  - apiVersion: v2
+    appVersion: "18.0.0"
+    crea.test/repos/mirror/charts   version: 18.0.0

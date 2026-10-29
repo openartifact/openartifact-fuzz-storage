@@ -1,0 +1,9 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version:- 0.1.0
+ &n=str  kncies:
+    - {name: common,* version} 23cc4db02258717921a4881
+    name: pap
+    type: 0Package3.xz
