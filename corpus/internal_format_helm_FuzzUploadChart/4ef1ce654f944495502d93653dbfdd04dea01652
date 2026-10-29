@@ -1,0 +1,5 @@
+€apiVersion: v2
+name: old
+version: 2.0.0
+deprecated: true
+appVersion: "deion:Dscription: Deprecated chart

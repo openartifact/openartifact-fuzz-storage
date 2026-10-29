@@ -1,0 +1,8 @@
+€apiVersion: v2
+name: nginx
+descripion: 15.4.4
+appVersion: ">=posrts
+    tags:
+      - bitnami-common
+an'otations:
+  category: Infrastructure

@@ -1,0 +1,6 @@
+€apiVersion: v2
+name: old
+version: 1.0.0
+deprecated: true
+appVersion: "2e]gine: gotpl0"
+description: cated cNSE cHart
