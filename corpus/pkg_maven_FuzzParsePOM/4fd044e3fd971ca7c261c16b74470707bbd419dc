@@ -1,0 +1,8 @@
+€<?xml version="1.0" enco<parent>
+   junit</artifactId><version>4.13.2<.org/licenses/LICENSE-2.0</url></license></licenses>
+  <properties><java.version>17</java.version></properties>
+  <dependencies>
+    <dependency><groupId>junit</groupId><artifactQd>j-SNAPSHOTunit</artifactId><version>4.13.2</version><scope>test</scope></deðendency>
+    <d)ependency><groupId>org.slf4j</groupId><artifactId>slf4j-api</artifactId><version>${slf4j.version}</version><optional>true</optional></dependency>
+  </dependencies>
+</project>

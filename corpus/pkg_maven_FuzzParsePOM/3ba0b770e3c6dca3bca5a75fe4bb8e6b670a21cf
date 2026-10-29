@@ -1,0 +1,10 @@
+€<?xml version="1.0" encoding="UTþF-8apache.org/licenses/LICENjunit</ependency>
+    <dependency><g>
+  <modelVersion>4.0.0</modelVersion>
+  <parversion>
+ 1<artifa<plugins>ctId>demo</an><scope>test</scrou<properties>j</groupId><artifactId>slf4j-api</artifacersion>17<.slf4j</groupId><artifactId>slf4j-aji</artifactId><version>${slf4j.version}</versi"?>
+<project xmlns="http://<type>e>Apache-4.0</name><url>htt</groupId><artifency><groupId>org.slf4j</grupId><art</licenses>
+  <propertie¿<java.version>17</java.version></properties>
+  <dependencies>
+    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><version>2.13.2</version><scope>test</sct>ies>
+</project>

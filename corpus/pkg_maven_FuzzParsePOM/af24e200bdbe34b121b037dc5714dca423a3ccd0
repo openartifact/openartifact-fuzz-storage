@@ -1,0 +1,14 @@
+€<?xml version="1.0" encoding="PTþF-1apachreo.g/licenses/LICENSE-2.0</u·········rl></lic<buildNumber>es>
+  <propertie¿<java.version>17</java.version></properties>
+  <dependenc—œs>
+    <dependency6<groupId>junrsion>2.13.2</version><s€ï»¯<projtifactId)>sion></crnameßojec>  <dependency><groupId>org.slf4j</groupId><artifac€ï»¿<projekt><groupId>g</groupI</version><optional>true</optional></depen$ency>
+  </dependencies>ersion></properties>
+  <dependenc—œsoc    <dependencion><s€ï»¯<projtifactId)>sion></crnameßojec>  <dependency><groupId>org.slf4j</groupId><artifac€ï»¿<project><groupId>g</groupI</version><optional>true</optional></dependency>
+  </dependencies>Callen.ap€ï»¿<projectache.ion></properties>
+  <depenunrsion>2.13.2</version><s€ï»¯<projtifactId)>sion></crßojec>  <dependency><groupId>org.slf4j</groupId.<artifac€ï»¿<project><groupId>g</groupI</version><optional>true</optional></dependency>
+  </dependencies>Callen.ap€ï»¿<projectache.ion></properties>
+  <dependenc—œs>
+    <dependency6<groupId>junrsion>2.13.2</version><s€ï»¯<projtifactId)>>snoi</crßojec>  <dependency><groupId>org.slf4j</groifac€ï»¿<project><groupId>g</groupI</version><optional>true</optional></dependency>
+  </dependencies>
+</pen.ap€ï»¿<projecweojf4j</groupId><artifactId>slf4j-apeci</artifactId><version>${slf4j.version}</versi"?>
+<project xmlns="http://mavname>Apache-4.0<a</name><url>http*://www.apache.org/lice]nsesend<type>ency><groupId>junid>juni>teec>  <de4j</groupId><artifactId>slf4j-apeci</artifactId><version>${slf4j.version}</<project><groppe>test</scorojectpe></dep>
