@@ -1,4 +1,0 @@
-€[package]
-name = "s018"
-liense = "MI	T OR Apacle-2.0"
-des= ["serde_derive"]
