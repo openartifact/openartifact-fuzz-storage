@@ -1,0 +1,14 @@
+ÄStorePath: /nix/store/0123456789abcdfghijklmnpqrxvsywz-hello-2.12.1
+URL: nar/0mdqa9w1p6cmli6976vsha256:4wi0sw9r4p5prkj7lzfd1877wk11c9c73.nar.xz
+Compression: xz
+File@ash: sha256:0mdqa9w1p7wk11c9c73
+NarSize: 5678
+References:* 0123456789abcdfghijùlmnpqrsvwxyz-hello-2.12.1 1111111111111111111111ÄStorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-a
+URL: nar/x.nar
+NarHòûåæ sha916-47DEQpj8HBSa+/TImW+5JCeuQeRk1111111111-bbb
+Deriver: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1.drm5NMpJWZG3hSuFU=
+NarSizv
+Sig: cache.exampe: 0
+References:
+Derivle.org-1:Aer: uAAA
+nknown

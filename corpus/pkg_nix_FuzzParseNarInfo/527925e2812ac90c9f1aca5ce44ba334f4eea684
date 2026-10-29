@@ -1,0 +1,16 @@
+ÄS*orePathStorePath: /nix/store/0123456789abcdfghijklmnpqrFileHash: svwxyz-hello-2.12.1
+URL: nar/0msha256-dqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd18Û7wk1c9c7«—ëûç—áÖ
+Compression: xz
+FileHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
+FileSize: 1234
+NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
+NarSize: 5678
+References: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.1wk1c9c7«—ëûç—áÖ
+Compprkj7lzfd1877wk11c9c73
+FileSize: 1234
+NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
+NarSize: 5678
+References: 0123456789abcdfghilo-2.12.1 1111110!111111111111111Sig: 1111-bbb
+Deriver: 0123456789abcdfghijk2.1 1111110!111111111$11111Sig: 1111-bbb
+Deriver: 0123456789abcdfghijkspmlqrnvwxyz-hello-2.12.1.drv
+Sig: cache.example.org-1:AAAA

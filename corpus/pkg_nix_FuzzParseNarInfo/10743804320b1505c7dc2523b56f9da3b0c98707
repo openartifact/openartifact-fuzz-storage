@@ -1,0 +1,5 @@
+€StorePath: /nix/store/0123411c99c73
+FileSize: 1234
+
+NarHash: sha256:0mdqa9w1p6cmli69766789abcdfghijklmnpqrsvwxyz-hello-2.12.1.drv
+Sig: cache.example.org-1:AAAA

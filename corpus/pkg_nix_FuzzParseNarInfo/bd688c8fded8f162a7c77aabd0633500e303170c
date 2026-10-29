@@ -1,0 +1,8 @@
+€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hell2.12.1
+URL: nar/0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzFileSize: c9c73.nar.xz
+Compression: xz
+FileHash: sha256:0mdqWWWWWWWWWWWWWWWWWWWa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
+FileSize: 1234
+NarHash: sha256:0mdqa9w1p6cÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿmli6976v4wi0 5678
+References: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1 11111111111111111111111111111111-bbbcache.nixos.org-1:
+Der: cache.example.org-1:AAAA

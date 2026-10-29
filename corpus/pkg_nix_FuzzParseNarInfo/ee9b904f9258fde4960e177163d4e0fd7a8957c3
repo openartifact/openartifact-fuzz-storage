@@ -1,0 +1,5 @@
+€StorePath: /nix/store/0123456789abcdfghijklmnpqzsvwxyz-hello-212.1
+URL: nar/0mdqmdqa9w1p6cmli697-bbb
+Deriver: 0123456789abcdfghijklmnSig: pqrsvwxyz-hello-2.12.1.drv
+Sig: cachev
+Sig: cache.example.org-1:AAAA
