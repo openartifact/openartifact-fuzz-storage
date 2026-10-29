@@ -1,5 +1,0 @@
-€pkgnamny
-sized = glibc
-optdepend = bash: scripting
-provides = grd%ARCH% =0: glibc
-optdepend = ba = 10

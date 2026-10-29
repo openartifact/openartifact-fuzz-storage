@@ -1,16 +1,0 @@
-€pkgnCallame =ti
-pkgver = 1.0-1
-arch extra
-pkgver = 202401arc multi
-pkgver = 1.0-1
-arch extra
-pkgver = 202401arc1
-arch = `(y
-size = 10
-e = Apache-2.0
-de = p=1
-group = pkgtype = a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype=pkg

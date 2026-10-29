@@ -1,8 +1,0 @@
-€pkdesc = The classic greeting
-url = https://example.orggrd = glibc
-optdepend = bash: shello
-buc greeting
-url = https://example.orggrd = glibc
-optdepend = baes = grd = glibc
-optdepend = bash: scripting
-provides = greeter

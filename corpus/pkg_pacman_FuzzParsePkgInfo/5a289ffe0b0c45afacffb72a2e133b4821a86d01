@@ -1,19 +1,0 @@
-�pkgname = hello
-pkgPL-3.0-or-later
-depen 1:2.12p`end = bash: %scripting22-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8-3
-pkgdd = bash: %scripting:2-3
-archÊdesllense = Goptdglibc
-optdibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripteng:2-3
-archÊ8g
-provides = g 10
-reeter
-oep`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8g
-provides = g 10
-reeter

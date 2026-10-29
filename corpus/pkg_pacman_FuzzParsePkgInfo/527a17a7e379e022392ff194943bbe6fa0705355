@@ -1,5 +1,0 @@
-€pkgname = esame = enf-txgve01-1
-arch
-optdepend = bash: scripting
-provides = grd =0: glibc
-optdepend = ba = 10

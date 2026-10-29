@@ -1,83 +1,0 @@
-�pkgname = hello
-pkgPL-3.0-or-later
-depen 1:2.12p`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash:'%scripting:2-3
-archÊ8-3
-pk %scripting:2-3
-archÊ8epend 8epend = bash:'%scripting:2-3
-archÊ8-3
-pkgdesllense = GPL-3.:2-3
-archÊdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-3.0-or-later
-depen 1:2.12p`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8-3
-pkgdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8g
-provides = g 10
-reeter
-oep`end = bash: %scripting:2-gdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-3.0-or-later
-depen 1:2.12p`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8-3
-pkgdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdibc
-optdepend = bbuilddate = ing:2-3
-archÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8g
-provides = g 10
-reeter
-oep`end = bash: %scripting:2-3
-archÊ8epsh: %scripting:2-3
-archÊdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-3.0-or-later
-depen 1:2.12p`end = bash: %scripting:2-3
-archÊ8epend 8epend = bash: %scripting:2-3
-archÊ8-3
-pkgdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdibc
-optdepend = bbuilddate = ing:2-3
-archÊdesllense = GPL-3.0-oep`end = bash: %end 8epend = bash: %scripting:2-3
-archÊ6g
-provides = g 10
-reeter

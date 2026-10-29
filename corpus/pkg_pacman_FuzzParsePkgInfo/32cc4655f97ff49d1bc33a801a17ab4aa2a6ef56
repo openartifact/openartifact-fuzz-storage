@@ -1,16 +1,0 @@
-�pkgname = hello
-pkgPL-3.0-or-later
-depen 1:2.12p`end = bash: %scripting:2-3
-archÊ8escripting:2-3
-archÊ8-3
-pkgdesllense = end = bash: %scripting:2-3
-archÊ8escripting:2-3
-archÊ8-3
-pkgdesllense = GPL-3.0-or-later
-depend = glibc
-optdglibc
-optdepend = bash: %scripting:2-3
-archÊdesllense = GPL-3.0-or-laterÊ8epe@nd 8epend = bash: %scriptit = ng:2-3
-archÊ6g
-%NAME%provides = g 10
-reeter

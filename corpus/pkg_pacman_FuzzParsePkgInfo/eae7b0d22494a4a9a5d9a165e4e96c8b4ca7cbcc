@@ -1,5 +1,0 @@
-€pkgname = esame = epkgbase = -2
-arch E any
-sized = glibc
-optdepend = bash: sprovidebc
-optdepend = ba = 10

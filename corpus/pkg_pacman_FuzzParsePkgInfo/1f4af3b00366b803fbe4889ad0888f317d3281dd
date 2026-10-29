@@ -1,7 +1,0 @@
- https://example.orggrd = glibc
-optdepend = bash: shello
-bucense = -orx86_64_v3pend = glibc
-optdepend = bash: scripting
-provides = grd = glibc
-optdepend = bash: scripting
-provides = greeter

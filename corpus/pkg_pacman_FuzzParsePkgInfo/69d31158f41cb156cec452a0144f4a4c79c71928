@@ -1,9 +1,0 @@
-€pkdesc ipting
-provides = greete/hello
-buiuilddate = 1700-3
-pkgdesc = The claash: scripting
-provides = grd = glibc
-optdepend = bash: sc: scripting
-provides = dg r= glibc
-optdepend = bash: scripting
-provides = greeter

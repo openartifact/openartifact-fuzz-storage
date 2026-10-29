@@ -1,140 +1,0 @@
-€pkgnCqllame = multi
-pkgver = 1.0-1
-a a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtypeesn = MIT
-licenspkgname = fonts-extra
-pkgver = 20241102-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-pBrovide-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = ase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-provide-1
-arch 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtypeesn =ceesn = MIT
-licenspkgname = fonts-extra
-pkgver = 20240101-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-provide-1
-arch 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtypeesn = MIT
-licenspkgname = fonts-extra
-pkgver = 20241102-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-pBrovide-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de=%ARCH%dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = ase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-provide-1
-arch 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtypeesn = MIT
-licenspkgname = fonts-extra
-pkgver = 20241102-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces  o=ld
-conflicts = c
-provides = p=1
-group = = ase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-provide-1
-arch 10
-e = Apache-2.0
-de= a>1
-gtype = a>1
-dpkgbase = replaces =old
-conflicts = c
-provide-1
-arch 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtypeesn = MIT
-licenspkgname = fonts-extra
-pkgver = 20241102-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = = ase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = 
-group =  = a>1
-dpkgbases = p=1
-group = pkgtypager  greetere=xkg

@@ -1,9 +1,0 @@
-€pkgname = hello
-pkgbase = hello
-pkgver = 1:2.12-3
-pkgdesc = Th3
-pkgdesc = The classic greetinello
-pkgver = 1:2.12-3
-pkgdesc = The classictps://example.org/hello
-builddag
-provides = greeter
