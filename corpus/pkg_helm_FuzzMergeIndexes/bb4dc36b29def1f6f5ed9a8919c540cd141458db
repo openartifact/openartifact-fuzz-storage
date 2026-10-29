@@ -1,8 +1,0 @@
-€€api@ersion: v1
-entries:
- [a:
-.0.0.tgz]}
-aviVersion: v1
-entrigs:
- &b:
-  - {name: b, version: 1.0.0, urls: [b-2.0.0.tgz]}
