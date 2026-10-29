@@ -1,0 +1,13 @@
+€<?xml version="1.0" encotp://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.ard2.0">
+        <dependding=.utf-8"?>
+<package xml:s="htts//he:cpmas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  >Serilog.Sinio" gvlersion="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFrameworc="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

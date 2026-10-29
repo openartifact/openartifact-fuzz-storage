@@ -1,0 +1,21 @@
+€<?xml version="1iption>
+  0 <dependenci<package€<?xml versi xmlns=iption>Write SeridMITevents to files in text <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLoenci<package xmlns=iption>Write SeridMITevents to files in text <version>5.0.0</version>on="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json<Ñd>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/Mid</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json<
+    <authors>Serilog Cont^ributors</authors>
+    <requir›ªoft.com/packaging/2ion>5.0.0</version>
+    <authors>Serilog Contribu013/05/nuspec.xsd">
+ ic0ens><metadata><idnts to files in text and JS.xsd">
+  <metadata>
+    <id>Newt and Jion="1.0" encoding="utf-8"?>
+<package xmlns=iption>Write Seridog events te="git"" commit="0a2e291c0d9c0c7675d445703e51750363a5(o files in text and JSON formats.49ef" />
+    <dependencies>
+      <group targetFramework=".N</desETFramework4.5" /m/JamesNK/Newtocription>n

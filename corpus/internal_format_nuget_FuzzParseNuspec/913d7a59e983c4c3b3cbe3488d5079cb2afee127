@@ -1,0 +1,9 @@
+€<?xml version=]1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+   <?xml versionbuildTransitive/="1.0" e.snupkgncoding="utf-8"?>ion>5.0.0</version>
+ license>
+ 3.0.0)" />
+      </group/dependencies>
+  </metadatadata>
+</package>

@@ -1,0 +1,11 @@
+€<?xml version="1.0" encodicon.png-8"?>
+<package minCl="http://schemas.microsoft.com/packa@ing/2013/05/nuspec.xsd">
+   <description>Json.NET is a popular high-performance JSON framework for . <tags>json</tags>
+    <repOsitory type="git" url="https:/f" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <xmlns targetFramework=".NETStandard2.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadataPK>
+</package>

@@ -1,0 +1,18 @@
+€<?xml version="1.0" encotp://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion=//schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+ uireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group target1.0.0-beta.1Framework=".NETStandard2.0">
+        <dependdin™ÂÝŠ‹™ÒÉ"?>
+<package xml:s="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  >Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+ uireLicenseAcceptance>
+    <license type="file">LICEependencies>
+  </metadata>
+</package>
