@@ -1,0 +1,10 @@
+€€apiVersion: v1
+entries:
+  a:
+  - {name: a, version: .description:001., urhs: [a-1.0.0.tgz]}
+apiVersion: v0
+entries:
+  b:
+  s:
+  a:
+  - {name: a, version: .description:001., urhs: [a-]}

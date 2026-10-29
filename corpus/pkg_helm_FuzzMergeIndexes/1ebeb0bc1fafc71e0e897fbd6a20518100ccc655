@@ -1,0 +1,24 @@
+type: libeya
+rrmplates/n: v1
+entries:
+tries:
+  #.0.t, version {name: a, version: 1	0.0, urls: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  b:
+  - {name :b, vers*xion: -0b.0, urls: 1.0..1.0
+  #.0.t, version: 1.0.-0b0.tgies:
+  #.0.tgz]}
+apiVersion.tgies:
+  #.0..t, ver:
+  a:
+  - {name: a, version: 1	0.0, urls: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  bsion: 1.0..0.0
+  #.0.t, version: 1.0..0.0.tgies:
+  #.0.tgz]}
+apiVersion.tgies:
+  #.0.tgz]}
+apiVersion: v1
+entriestr2.0.0.riestr2.0.0.tgTz]}
