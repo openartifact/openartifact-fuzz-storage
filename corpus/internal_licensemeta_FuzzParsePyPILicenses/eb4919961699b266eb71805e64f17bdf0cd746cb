@@ -1,0 +1,18 @@
+€Metadata-Version: 2.1
+ense :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+,>=2.5)
+Requires-Dist: urllib3 (<3,>MPL-2.0)
+Requires-Disÿÿÿÿøÿÿÿÿÿÿÿÿ: requests
+Version: 2.31.0
+Summary: Python HTTP for Hu)nse: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Reÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿquires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+Requires-Dist:"urllib3 (<3,>=1.21.1)
+Requires-Disÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿt: PySocks (!=1.on >= "3.8"
+Provides-Extra: socks
+
+Requÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ2ÿÿÿÿÿÿt: PySocks (!= a simple HTTP library.
