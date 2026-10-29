@@ -1,0 +1,12 @@
+€>
+ app
+    version: 1.0.0
+    di01Z"
+entries:
+  redis:
+  - annotations:
+      category: Database
+    apersion: v2
+    appVersion: 7.2.3
+    created: "2://charts.example.org/redis-18.6.1.tgz
+   2 version: 18.6#28

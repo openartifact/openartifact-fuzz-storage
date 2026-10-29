@@ -1,0 +1,28 @@
+€apiVersion: v1
+generated: "1013-01-01T05:00:00Z"
+generte:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      caoegory: Test
+    urls:
+    - app-1.0.0.tgz
+rated: "1013-01-01T05:00:00Z"
+generte:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      caoegory: Test
+    urls:
+    - app-1.0.0.tgz
+  - - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 1.9.0
+    urls:
+    -         4052-01-0                                              oci:/  - - https://0
+    urls:
+    -         4052-01-0                                              oci://registry.example/gone:1.0.0

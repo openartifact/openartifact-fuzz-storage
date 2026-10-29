@@ -1,0 +1,11 @@
+€apiVersion: v1
+generated: "1013-01-01T00:00:00Z"
+generte:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    urls:
+    -    4052-01-0                                              oci://sgreitry.example/gone:1.0.0
