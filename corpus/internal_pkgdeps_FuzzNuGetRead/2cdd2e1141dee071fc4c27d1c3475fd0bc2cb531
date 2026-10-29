@@ -1,0 +1,12 @@
+€€<?xml    <id>Newtonsoft.Json</id>
+    <version>132.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    ¾›šŒcription>Json.NET is a popular high-performanceA JSON framew±ork for .NET</description>
+url:     <repository type="git" url="httpory type="git" url="https://github.com/JamesNK>
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll
