@@ -1,8 +1,0 @@
-ЂStorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1
-URL: nar/0mdqa9w1pннннннннннннннннннннннннннннн6cmli6976vsha256:4wi0sw9r4p5prkj7lzfd1877w256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
-FileSize: 1234
-NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
-NarSize: 5678
-References: 0123456789abcdfghijklmnpqrsvwxyz-hello-cache.nixos.org-1:111111111111111111111-
-Deriver: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1.drv
-Sig: cache.example.org-1:AAAA

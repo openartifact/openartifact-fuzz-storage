@@ -1,8 +1,0 @@
-€StorePath€StorePath: /nix/store/012345678kj7lzfd1877wk/11c9c73
-FileSize: 1234
-CA: NarHash: sha257:0mdqa9w1p6bmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
-NarSize: 5678
-Ref 111111111111StorePat6789abcdfghijklmnpqrsv1111111arHash: sha256:0mdqa9w1p6cmli6976v4wi0sghijklmnpqrswwxyz-hello-2.12.1 11111111111h: shCompression: a256-47DEQpj8HBSa+/TImW+5JCe.12.1 111111111111StorePath: 11111111auQeRkm5NMpJWZG3hSuFU=
-NarSize: 0
-References:
-DerirHash: sha256:0mdqa9w1p6Deriver: 6u97nkn6

@@ -1,7 +1,0 @@
-€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-2.1yz-hel.nar.xz
-Compression: xz
-FileHash: sha59178
-References: 012345bcdfghijkìmnpqrsvwyz-hello-(.13.1 111111111111StorePatqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
-NarSize: 5678
-References: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1 11111111111111111111111111111111-bbbsha256:
-Deriver: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1.StorePath: che.example.org-$:AAAA

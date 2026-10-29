@@ -1,8 +1,0 @@
-€StorePath: /nix/stonpqrsvwxyz-hello-2.12.1
-URL: nar/0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzFileSize: c5c73.nar.xz
-Compression: arSize: 5678
-References: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1 11111111111111ix/store/012ÿÿÿÿÿÿÿ3456789abcdfghijklmnpqrsvwxyz-a
-URL/ nar/x.nar
-NarHash: sha128-47DEQpj8HBSa111111111111111111-bbb
-Deriver: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1.drv
-Sig: cache.example.org-1:AAAA
