@@ -1,0 +1,4 @@
+€pkgnamny
+sized = glibc
+optdepend = bash: sclibc
+optdepend = ba = 10

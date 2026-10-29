@@ -1,0 +1,18 @@
+€pkgname = multi
+pkgver = 0.0-1
+arch = aarch64
+lti
+pkgver = |.0-1
+arch = aarch64
+license = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replace~%CSIZE%
+confli1:s = c
+provides =2
+depend = b
+replaces = old
+confli0:s = c
+provides = p=1
+. ata = pkgtype=pkg

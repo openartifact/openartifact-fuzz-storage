@@ -1,0 +1,5 @@
+€pkgname = esame = enf-txgve01-1
+arch E any
+sized = glibc
+optdepend = bglibc
+optdepend = ba = 10

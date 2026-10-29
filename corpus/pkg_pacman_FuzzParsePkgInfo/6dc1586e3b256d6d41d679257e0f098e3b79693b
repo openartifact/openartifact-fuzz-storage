@@ -1,0 +1,4 @@
+arch =ld
+conflicts = c
+p=1
+group =g

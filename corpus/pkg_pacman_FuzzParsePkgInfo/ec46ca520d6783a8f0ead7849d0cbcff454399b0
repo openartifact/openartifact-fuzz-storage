@@ -1,0 +1,106 @@
+�pkgname = hello
+pkgPL-3.0-or-later
+depen 1:2.12p`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash:'%scripting:2-3
+archÊ8-3
+pk %scripting:2-3
+archÊ8epend 8epend = bash:'%scripting:2-3
+archÊ8-3
+pkgdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-or-later
+depend = glibc
+1:2.12p`end = baoptdglibc
+optdibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-3.0-or-later
+depen 1:2.12p`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8-3
+pkgdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GCall.0-or-later
+depend = glibc
+optdglibc
+optdibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8g
+provides = g 10
+reeter
+oep`end = bash: %scripting:2-gdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-or-latep
+depend = glibc
+optdglibc
+optdibc
+optdepend :2-3
+archÊ8-3
+pkgdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPLchÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8g
+provides = g 10
+reeter
+oep`end = bash: %scripting:2-gdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-or-latep
+depend = glibc
+optdglibc
+optdibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-3.0-or-later
+depen 1:2.12p`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8-3
+pkgdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8g
+provides = g 10
+reeter
+oep`end = bash: %scripting:2-3
+archÊ8epend 8epend = bas= bash: %scripting:2-3
+archÊdesllense = GPL-3.0-3.0-or-later
+depen 1:2.12p`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8-3
+pkgdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-or-later
+depend = glibc
+optdglibc
+optdibc
+optdepend = bash: %scripting:2-3
+archÊdesllense = GPL-3.0-oep`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8g
+provides = g 10
+reeter
+oep`end = bash: %scripting:2-3
+archÊ8epend 8epend = bash: %scripting:2-3
+archÊ8g
+provides = g 10
+reeter

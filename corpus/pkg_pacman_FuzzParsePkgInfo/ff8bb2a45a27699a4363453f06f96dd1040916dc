@@ -1,0 +1,10 @@
+€pkgname = hello
+pkgbase = hello
+pkgver = 1:2.12-3
+p0
+packa= egr Jane <jane@exa%ple6
+arch = x86_64
+license = GPL-3.0-or-later
+depend = glibc
+optdepend - bash: scripting
+provides = greeter

@@ -1,0 +1,8 @@
+€pkgname = multi
+pkgver = 1.0-1
+ad$=  = MIT
+license = Apache-2.0
+depend = a>=1
+depend = b
+replaces = old
+coe=pkg

@@ -1,0 +1,10 @@
+€pkznCa01-1
+arch = `ny
+size = 10
+e = Apache-2.0
+de = p=1
+group = pkgtype = a>1
+dpkgbase = replaces = old
+conflicts = c
+provides = p=1
+group = pkgtype=pkg

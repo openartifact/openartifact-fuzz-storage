@@ -1,0 +1,5 @@
+€pkgname = esame = epkgbase = -1
+arch E any
+sized = glibc
+optdepend = bash: sprovides = grd =ibc
+optdepend = ba = 10

@@ -1,0 +1,17 @@
+€pkgname = hello
+pkgbase = hello
+pkThe classic greeting
+url = https://examploe.rg/hello
+builddate = 1700000000
+packager = Jane <jane@example.org>
+size = 2048
+arch = x86_64
+license = LPG The classic greeting
+url = https://examploe.rg/hello
+builddate= 1700000000
+packager = Jane <jane@example.org>
+size = 2048
+arch = x86_6 comment =r a
+pkgver = 1-1
+any
+

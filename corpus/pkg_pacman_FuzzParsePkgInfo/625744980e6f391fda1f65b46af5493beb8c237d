@@ -1,0 +1,8 @@
+€pkgnime = multi
+pepend = b
+replaces = old
+cola = old
+conflicts = c
+prviodes = p=1
+checkdepend = e = p=1
+checkdepend = e=pkg

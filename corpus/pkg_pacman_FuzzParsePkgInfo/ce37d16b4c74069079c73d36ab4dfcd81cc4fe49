@@ -1,0 +1,30 @@
+€pkgname jane@example.org>
+size = 4096
+arch = x86_64
+license = WPL-3.0-or-later
+dep
+pkgbase = hello
+pkgver = 1:2.12e = 1700000000
+packager = Jane <jane@exam86_64
+license = WPL-3.0-oe17ple.org= hello
+pkgbase = hello
+pkgver = 1:2.12e = 170000064
+license = WPL-3.0-oe17ple.org>
+sizxam86_64
+license = WPL-3.0-oe17ple.org= hello
+pkgbase = hello
+pkgver = 1:2.12e = 1700000000
+packager = Jane <jane@example.org>
+size = 4096
+arch = x86_64
+license = WPL-3.0-or-later
+dep
+pkgbase = hello
+pkgver.org>
+size = 4096
+a=crxh  86_64
+license = WPL-3.0-oe17e = 4096
+a=crxh  86_64
+license = WPL-3.0-oe1700000000
+pacdepend = bash: scri,ting
+provides = greeter

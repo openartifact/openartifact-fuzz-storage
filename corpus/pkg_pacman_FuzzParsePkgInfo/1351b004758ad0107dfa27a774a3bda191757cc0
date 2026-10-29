@@ -1,0 +1,9 @@
+€pkdesc ipting
+provides = greete/hel
+provides = grd = glibc
+optdepend = bash: scripting
+prolddate = 1700-3
+pkgdesc = The claash: scripting
+provides = grd = glibc
+optdepend = bash: scripting
+provides = greeter

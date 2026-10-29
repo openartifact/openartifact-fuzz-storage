@@ -1,0 +1,12 @@
+€pkgnCallame = multi
+pkgver = 1.0-1
+arch extra
+pkgverarch = `ny
+size = 10
+e = Apache-2.0
+d`e = p=1
+group = pkgtype = a>1
+dpkgbase = replaces = old
+conflicts = c
+provides = p=1
+group = pkgtype=pkg

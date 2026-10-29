@@ -1,0 +1,9 @@
+€pkgname = multi
+pkgver = 1pache-2.0
+depe = Apache-2.0
+depend = a>=1
+depend = b
+replacedepe = Apache-2.0
+depend = a>=1
+depend = b
+replaces = = pkgtype=pkg
