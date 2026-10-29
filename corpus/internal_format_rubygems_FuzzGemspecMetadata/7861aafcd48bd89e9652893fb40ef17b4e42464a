@@ -1,0 +1,26 @@
+€--- !ruby/uire:
+bindir: bin
+cert_cha    requirements:
+in: []
+date: 2024-0
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/racks/eusis
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirement        version: s:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+sps: []
