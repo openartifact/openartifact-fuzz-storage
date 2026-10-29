@@ -1,9 +1,0 @@
-€apiVersion: v1
-generated: "2026-01-01T00:00:00Z"
-entries:
-  app:
-  - on: 0
-0:
-    #0 #00   urls:
-    - gz
-    - ://registry.exam*le/gone21.0.0
