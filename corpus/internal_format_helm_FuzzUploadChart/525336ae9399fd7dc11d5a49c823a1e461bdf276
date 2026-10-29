@@ -1,8 +1,0 @@
-€apiVersion: v2
-name: nginx
-descripion: 15.4.4
-appVersion: ">=pository: oci://registry-1.docker.io/bitnamicharts
-    tags:
-      - bitnami-common
-an'otations:
-  category: Infrastructure
