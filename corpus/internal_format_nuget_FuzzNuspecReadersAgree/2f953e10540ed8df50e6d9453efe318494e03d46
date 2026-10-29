@@ -1,7 +1,0 @@
-€<?xmlw version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
-  <metadata minClientV.NUSPECersion="2.12">
-    <id>Serilog.Sinks.File</id>
-    <version>5.0.0</vep targetFramedencies>
-  </metadata>
-</package>

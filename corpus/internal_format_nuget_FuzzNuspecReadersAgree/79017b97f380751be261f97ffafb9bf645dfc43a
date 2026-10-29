@@ -1,7 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmhemas.microsoft.com/packaging/2013/01/nuspec.xsd">
-  <metadata minClientVersioncies>!
-      <group ta.:10.0" exclude="Build,Analyzers" />
-      </group>
-"net5.0">
-        <dependency id="Serilog" versione>
