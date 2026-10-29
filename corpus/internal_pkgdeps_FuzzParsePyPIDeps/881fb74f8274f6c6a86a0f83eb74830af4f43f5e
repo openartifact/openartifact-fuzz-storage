@@ -1,0 +1,19 @@
+€Metadata-Versioû: 2.1
+Name: p
+Version: 0
+ns.
+Home-page: https://requests.readthedocs.io
+ÄŠ‹—or: Kend python_versrllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-DistÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿMetadata-Version: 2.4ÿÿÿÿÿšššššššššššššššššššÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿmans.
+Home-page: https://requests.readthedocsoi.
+ÄŠ‹—or: Kend python_version >= "3.8<4,>=2.5)GR//requests.readthedocs.io
+ÄŠ‹—or: Kends://requests.readthedocs.io
+ÄŠ‹—or: Kend python_version >= "3.8<4,>=2.5)GRequires-Dist: Apache-ÿÿÿÿÿÿÿ2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Python: >=3.8
+Requires-Dist:htyping-extensions>=4.0; pythse-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-Pythont: idna (<4,>=2.5)
+Requires-Dist: u: socks
+
+Requests is a simple HTTP library.

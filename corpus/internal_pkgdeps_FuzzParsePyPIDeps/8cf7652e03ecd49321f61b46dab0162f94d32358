@@ -1,0 +1,38 @@
+åovid€Metadata-Version: 2.1
+Naee: mquests
+Version: 2031.ÐõS.4
+Name: tomli
+Version:€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+Licensÿÿÿÿÿÿÿÿÿÿÿÿÿÿe-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-P·ython: >=3.8
+Requires-Dist: typing-exten€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIsion: 2.4
+Name: tomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Reqÿÿÿÿÿÿÿÿuires-P·ython: >=3.8
+Requires-Dist: typing-extensisions>=4.0; ptomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Reqÿÿython_version < "3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test"
+Provides-Extra: test
+ense: Apache 2.0
+Classifier:es-Extr License :: OSI Approved :a: Apache Software License
+Classifier: Poogramming Language :: Py-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.7ons>=4.0; ptomli
+Version: 2.0.1
+License-Expression: MIT OR Apache-2.0
+License-File: qÿÿÿÿÿÿÿÿuires-P·ython: >=3.8
+Requires-Dist: typing-extensisions>=4.0; ptomli
+Version: 2.0.

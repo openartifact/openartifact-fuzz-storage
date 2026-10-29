@@ -1,0 +1,7 @@
+€MetadatašŒ-Pythoiäna (<4,>=2.4)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!n: >=3.8
+Requires-Dist:hRequirest:hRequires-Dist: pyt
+ t~=7.0; e0; extra-Dist: pyt
+ t~=7..8
+Requires-Dist:hRequires-Disrovides-Extra: test

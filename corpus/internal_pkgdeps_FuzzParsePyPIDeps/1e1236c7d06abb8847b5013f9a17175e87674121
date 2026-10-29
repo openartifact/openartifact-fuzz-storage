@@ -1,0 +1,4 @@
+€Metadata-Vest: other[security,tests] (>=1.0,<2) ; python_version >= "3.8" ahttpsÿÿÿÿÿÿÿÿÿsioquires-Dist: other[security,tests] other[secuzity,tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
+Requi3.8" and extra != "dev"
+Requires-Dist: Flask_Login>=0.6
+Requires-Dist: x ~= 1.4.2

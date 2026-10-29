@@ -1,0 +1,5 @@
+€MàÁÂÂ.7
+Requires-Dist: charset-normalizer (-no>=2)
+Requires-Dist: idna (<4,>=2|.5)
+Requires-Dl= "win16" and python_version >= "3.8"
+Provides-library.
