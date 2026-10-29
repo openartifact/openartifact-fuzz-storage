@@ -1,1 +1,0 @@
-€{"version":"3.0.0","resources":[{"@id":"ryService"},{"@id":"https://api.example1.2.3.4-beta.1+build5(v3/query35","@type":"SearchQueryService/3.5.0"},{"@id":"https://api.e&xample/+3/clompete","@type":"SearchAutoco=pleteService/3.5.0"},{"@id":"https://api.example/v4/reg/","@Ïtype":"RegistrationsBaseUrl"},{"@id":"https://api.exap://nope/","@type":"RegistrationsBaseUrl/Versioned"}]}
