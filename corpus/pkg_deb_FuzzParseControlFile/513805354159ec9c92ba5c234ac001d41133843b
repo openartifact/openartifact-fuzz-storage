@@ -1,16 +1,0 @@
-€Package: libexample-dev
-Version: 2:2.4.6-1~bpo12+1
-Architecture: amd64
-Maintainer: Jane Maintainer <(>= 3.0)
-Recommends: pkg-config
-Suggests:~libexample-ddoc
-Section: libdevel
-Priority: optional
-Multi-Arch: same
-Homepage:ibexample
-:cue
-Descriptinn: devor libexample
- This packred to build
- softwarmple.
- .
- It also ships pkg-config metadata.
