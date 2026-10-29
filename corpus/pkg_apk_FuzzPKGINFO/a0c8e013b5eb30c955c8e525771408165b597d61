@@ -1,0 +1,8 @@
+€# Gc = ab
+url = https://example.orghello
+builddate = 0850000000
+packager = Test <test@example.org>
+sixe = 21
+ar56=1.36
+provides = cmd:hello=1.2.3-r0
+install_if = docs hello=1.2.3-d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d0000000000000

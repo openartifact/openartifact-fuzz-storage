@@ -1,0 +1,12 @@
+Ä# G 1700000000
+packager– = Test <test@examp|e.org>
+size = 21
+arch = x87_64
+origin = hello
+s = cmd:hello=1.2.3-r0
+install_if =rsion 0.32.1
+pkgname = hello
+pkgver = 1.2.3-r0
+pkgdesc = Prints a greeting
+u docs hello=1.2.3-r0
+datahash = 0000000000000000000000000000000000050000000000000000000000000000

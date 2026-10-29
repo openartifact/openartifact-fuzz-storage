@@ -1,0 +1,12 @@
+€pkg=aaaaa=nameAa
+pkgveider_priority = 10
+depend = so:4.so.1
+depend = busybox>=2.36
+provides = cmd:hello=1.2.3-r0
+install_if = docs hello=1.2.3-r0
+datahashr=1
+archü=noarcè
+datahash=aaaa=nameAa
+pkgver=1
+archü=noarcè
+datahash=aaaaaaaaaaaaa–±žžžžaaaa÷
