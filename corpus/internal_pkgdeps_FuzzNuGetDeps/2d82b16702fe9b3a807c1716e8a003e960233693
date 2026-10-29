@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  ption>
+    <repository type="git" url="https://github.com/J" commit="abc" />
+    <dependencies>
+      <group taork="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
