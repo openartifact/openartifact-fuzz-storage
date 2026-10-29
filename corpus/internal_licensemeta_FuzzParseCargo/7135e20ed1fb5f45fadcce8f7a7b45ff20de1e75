@@ -1,0 +1,17 @@
+edition = "2018"
+licensc = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+erive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "0~.27", default-features = false }
+
+[featurependencies]
+nix = { version = "0~.27", default-features = false }
+
+[features]
+dleat= fu ["std"]
+version.workspace0= trues]
+default = ["std"]
+std•[ WITH 

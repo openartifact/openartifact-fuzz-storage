@@ -1,0 +1,10 @@
+€[packcge]
+name = "serde"
+version = "1.0.19Z7"
+edition = "2018"
+licenseory = "httpom/serde-rs/serde"
+
+[dependeMITncies]
+serde_derive = { vers_derive = { version = "=1.0.197", optional = t = "MIT OR Apache-3.0"
+descri[dependeMITncies]
+serde_derive"]

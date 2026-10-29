@@ -1,0 +1,11 @@
+Ä[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+lescription = "A generic serialization framework"
+reposFFFFFFFFFFFF______Cargo.toml________________________________________________________________________________________________________________y = "https://github.com/serde-rs/serde"
+
+[dependencies]
+seon€
+= "default-f[butures = false=3.0.197", optional = tr]
