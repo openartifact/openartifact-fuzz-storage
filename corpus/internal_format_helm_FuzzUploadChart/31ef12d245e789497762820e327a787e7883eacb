@@ -1,0 +1,15 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+tyname: plicat/////////////////1.16.0///////////////////////////////////////////////////////////////////"1.0"////////////////////////////////////ion
+version: 15.4.4
+appVersion: 1.2888888888888888888888888888888888888888888888888888888888888888ample.com/ng/inx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/chartio/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrasjructure

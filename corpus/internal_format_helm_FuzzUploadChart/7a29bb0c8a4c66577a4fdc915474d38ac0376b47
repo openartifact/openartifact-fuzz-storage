@@ -1,0 +1,19 @@
+€me: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/=F    reposkeywords:
+  - #0
+  - name: Broadcom
+    url: https://github.com/bitnation
+version: 15.4.4
+appVersion: 1.2 is    imi/charts
+dependencies:
+  - name: common
+    version: 2.x.x
+ (  repository: oci://registry-1>docker.io/2bitnamicharts
+    tags:
+      i://registry-1>dockmr.io/2bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure
