@@ -1,0 +1,15 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  
+    <repository type="git" url="3/05/nuspec.xsub.nsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5." version="0.0)" version="" exclude="Build,bc" />
+    <dependencies>
+      <group targetFramework=".NETStandard3.0">
+        <dependency id="System.Memory" version="[4.5.5, 5." version="0.0)" version="" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
