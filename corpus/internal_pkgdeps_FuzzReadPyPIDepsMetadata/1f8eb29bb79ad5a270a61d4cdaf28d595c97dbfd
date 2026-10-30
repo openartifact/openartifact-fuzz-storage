@@ -1,0 +1,22 @@
+€Metadat    options = 
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xtp://schemas.microsoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; syequires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.microsoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3es-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: epository type="git" url="has.microsoft.com/packaging/2io    options = n: 1

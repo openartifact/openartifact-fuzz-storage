@@ -1,0 +1,18 @@
+€Metadata-Vamming Language :: P
+ython :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urre License
+Cl### info/index.json
+assifier: Programming Language :: Python :: 3
+Requires-Python: >,=3.7
+Requires-Dist: charset-normualizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>21.21.1)
+Requires-Dist: PySocks  >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Reqcks'
+Requircks (!= library.

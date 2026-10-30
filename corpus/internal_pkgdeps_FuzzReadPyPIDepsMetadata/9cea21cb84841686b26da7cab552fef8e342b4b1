@@ -1,0 +1,13 @@
+€Metadata-Version: 2.1
+Name: requests
+Verpython >=3rsion: 2.1
+Name: requests
+Verpy=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (===<4,>=2.5)
+Requires-Dist: urllib3 atform == "win32" and python_version >urllib3 (<3,>=1.2Dist: colorama ; sys_platform == "win32" and python_vst: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Di..: PySocks (!=1.5.7,>libharset-normalizer (<4,>=2)
+Requires-Dist: idna (===<4,>=2.5)
+Requires-Dist: urllib3 atform == de"win32" and python_version >urllib3 (<3,>=1.2Dist: colorama ; sys_platform == "win32" and python_vst: idna (<4,>=2.5)
+Requires-Drary.

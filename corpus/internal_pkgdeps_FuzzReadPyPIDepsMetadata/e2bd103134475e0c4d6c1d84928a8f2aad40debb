@@ -1,0 +1,57 @@
+€Metad	3a-Version: 2.1
+Name: requests
+Verpython >=3.8,<3.12.0a0sion: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: httpsVersion: ts*readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache quests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programmi[>=1.1 <4]ng Language :: Python :: 3
+REquires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform =,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and pe: https://requests.readthedoc
+Requirus-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Require`s-Dist: idna (<4,>=2.5)
+Requires-Dist: ormalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.2Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extras-Dist: charset-normalizer (<4,<projectUrl>s-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and pe: https://requests.readthedoc
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: ormalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extr 'sopython_abi 3.11.* *_cp311ama ; sys_platform xmlns="http://scersioself.test_requires(ts
+.tar.bzcharset-norm2 2.31.0
+Summary: Python ]requires-dist:HTTP for Humans.
+Home-paghemasions = 
+Name: an: >=3.7
+Requires-Dist: charsea == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests Software License
+Classifier: Programming Language :: Python : 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requion >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

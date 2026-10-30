@@ -1,0 +1,8 @@
+€Mcenseself.requires(lassifier: License :: OSI etadata-Version: 2.1
+Name: request`s
+Version: 2.31.0
+Summary:assifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: +idna (<4,>=1.5)
+Requires-Dist: urllib1 (library.
