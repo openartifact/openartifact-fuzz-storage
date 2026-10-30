@@ -1,0 +1,12 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<packageà‡’“‘ŒÂçhttp://schemas.microsoft.com/packaging/165/000/nuspec.xsd">
+  <metadata>
+    <id>Newp+ntonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>ype="expression"ÿýIT</license>
+    <:icenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</pscription>Json.NET is<dependesec>
+ni.Memory" version="[4.5.5, 5.0.0)[Content_Types].xmlalyzers" />
+      </gradata>
+</packagå>
+liÿÿÿÿb/net6.0/a.dll
