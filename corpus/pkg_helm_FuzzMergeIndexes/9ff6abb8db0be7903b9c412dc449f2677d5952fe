@@ -1,0 +1,14 @@
+€€apiVesion: v1
+en: vi r:%
+e.0.0
+%2F    digest: aaaa
+    annotationsed: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      catea:
+  2006-1-2 151.0.0
+%2F 99]}

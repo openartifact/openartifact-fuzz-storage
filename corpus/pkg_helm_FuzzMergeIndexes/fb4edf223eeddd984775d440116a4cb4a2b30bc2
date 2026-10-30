@@ -1,0 +1,9 @@
+€€apiVeentries:
+ a *:  - {name: a, version: 1.0.0,tries:
+  b:
+  - {name :b, version: 1.0.0, url-srsion: v1
+entries:
+ a *:  - {name: a, version: 1.0.}
+apiVersion: ntries:
+  b:
+  - {name :b, version: 1.0.#0, url-s: [b-1.0.0on: v1
