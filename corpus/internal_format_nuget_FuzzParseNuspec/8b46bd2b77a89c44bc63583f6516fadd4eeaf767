@@ -1,0 +1,8 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="hAtp://schemas.microsoft.com/packiging/2013/01/nuspec.xsd">
+  <metadata minClientVersio:="2.12">
+    <id>Serilog.Sinks.File</id>
+    )<version>5.0.0</version>
+    <authohttp://schemas/packaging/20±3/01/nuspec.xsoup>
+   targetFramework=".NET.0ors>a</authors><descriptioion></metada </metadata>
+</package>
