@@ -81,10 +81,10 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/composer/expand.go:40.4,40.16 1 8
 /github/workspace/build-out/src/openartifact/pkg/composer/expand.go:43.3,43.37 1 5
 /github/workspace/build-out/src/openartifact/pkg/composer/expand.go:46.2,46.12 1 3
-/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:52.2,53.1 4 360
-/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:54.2,56.1 4 360
-/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:57.2,57.41 4 360
-/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:58.3,59.1 1 354
+/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:52.2,53.1 4 408
+/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:54.2,56.1 4 408
+/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:57.2,57.41 4 408
+/github/workspace/build-out/src/openartifact/pkg/composer/expand.go:58.3,59.1 1 402
 /github/workspace/build-out/src/openartifact/pkg/composer/expand.go:61.2,61.36 1 6
 /github/workspace/build-out/src/openartifact/pkg/composer/expand.go:62.3,62.44 1 3
 /github/workspace/build-out/src/openartifact/pkg/composer/expand.go:63.4,64.1 1 3
@@ -174,8 +174,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:64.2,64.43 1 1
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:72.2,76.1 5 1
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:77.2,78.1 5 1
-/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:85.2,86.16 2 360
-/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:87.3,88.1 1 354
+/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:85.2,86.16 2 408
+/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:87.3,88.1 1 402
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:90.2,92.1 3 6
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:93.2,93.28 3 6
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:94.3,94.65 1 10
@@ -201,8 +201,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:161.4,162.12 2 0
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:165.3,167.1 4 0
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:168.3,169.23 4 0
-/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:177.2,178.16 2 358
-/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:179.3,180.1 1 356
+/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:177.2,178.16 2 406
+/github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:179.3,180.1 1 404
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:182.2,183.1 2 2
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:184.2,184.67 2 2
 /github/workspace/build-out/src/openartifact/pkg/composer/upstream.go:189.2,189.62 1 0
