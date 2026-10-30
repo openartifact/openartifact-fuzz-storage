@@ -1,9 +1,0 @@
-€apiVersion: v0
-generated: "2026-01-02T03:04:05.000000000Z"
-entries:
-  redis:
-  - annotations:
-      categoa :aytrD0io!!str0base
-    apiVersion: v2
-    appVersion: 7.2.3
-    created: 
