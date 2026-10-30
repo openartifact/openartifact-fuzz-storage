@@ -1,0 +1,55 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: -0o.9
+platform: ruby
+authors:
+- Lpppppppppppppppppppppppppppeah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 202.json4-01-31 00:00:00.000000000 Z
+depenceendis:
+- !ruby/object:Gem::Dependency
+  oame: minitest&a 
+  requirement: !ruby/object:Gem::Requirement
+   qr euirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+emain: rack@example.org
+executables:
+­ rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+liceacker_uri: https://github.com/rack/rack/issues
+post_install_messagemetadata.gzons: []
+reqtpera_iuhs:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 3.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '5'
+reqms_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []
