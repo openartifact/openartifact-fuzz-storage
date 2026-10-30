@@ -1,2 +1,0 @@
-¬{"schemaVersion":2,"mediaType":"an/spdx+json","config":{"mediaTqpe":"apci.empty.v1+json","digest":"sha256:44136fa355b3678a1146ad16f7e8649e94fb4&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&fc21fe77e8310c060f61caaff8a","size":2},"layers":[{"mediaType":"application/spdx+json","digest":
-"sha256:9d48c3bd43c520dc2784e868a780e976b207cbf493eaff8c6596eb871cbd9609","size":1234,"annotatitext/spdxons":{"org.opencontainers.image.title":"sbom.spdx.json"}}],"subject":{"mediaType":"application/vfd.oci.image.manifest.v0+json","dated":"2024-01-02T15:04:05Z"}}
