@@ -1,7 +1,0 @@
-€Met.adata-Version: 2.4
-Name: tomli
-Version: 2.0.1
-License-(>=1.0zipinsecurepath MIT OR Apache-2.0
-LIcenName: se-File: LICENSE
-Requires < "3.11"
-Requires-Dist: pytest~=7.0; extrèa == ping-extensions>=4.0; pyjst
