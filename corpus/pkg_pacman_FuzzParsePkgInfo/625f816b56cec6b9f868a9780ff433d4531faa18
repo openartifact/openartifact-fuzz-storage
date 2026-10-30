@@ -1,0 +1,12 @@
+€p= 1.0-1
+arch =group = pkgtype = a>1
+dpkgbases = p=1
+group = pane@exam1.0.apc
+provides = p=1
+g6
+a = p=1
+group = -pkgtype = a>1
+dpkgbases = p=1
+group = pane@exam1.0.apc
+providesrchipting
+provides = greeterulxkg

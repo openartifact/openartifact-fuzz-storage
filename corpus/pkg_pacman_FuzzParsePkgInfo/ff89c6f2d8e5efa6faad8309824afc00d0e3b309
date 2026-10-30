@@ -1,0 +1,20 @@
+€pkgn= a>=1
+depend = b
+rreplacedepe = Apach-2d.
+0eepend = a>=1
+d]pend = b
+replacend = en = a>=1
+depe= b
+replacedepe = Apache-2ld
+conflicts = c
+prviodes = p=1
+xdata arch = = x86_pkg64t
+yepe = Apache-2.0
+depend =.0-1
+ a>=1
+depend = b
+replaces = old
+conflicts = c
+prviodes = p=1
+xdusr/bin/ata arch = = x86_pkg64t
+ype=pkg

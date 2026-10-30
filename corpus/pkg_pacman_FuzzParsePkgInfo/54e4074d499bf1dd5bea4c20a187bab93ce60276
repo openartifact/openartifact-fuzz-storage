@@ -1,0 +1,8 @@
+€pkdesc = The classic g
+optdepend = bash: shello
+bucense =0-or-later
+depend = glibc
+optdepend = bash: scripting
+provides = grd = glibc
+optdepend = bash: scripting
+provides = greeter

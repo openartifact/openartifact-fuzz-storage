@@ -1,0 +1,11 @@
+€pkgname = hello
+pkgbase =.org>
+size = 4096
+arch = x86_64
+license = WPL-3.0-or-later
+dep
+pkgbase = hello
+pkgver = 1:2.12eexample.org>
+size = 4455
+arch = x86_64
+%URes = greeter

@@ -1,0 +1,5 @@
+€pkgname = multi
+pkgver = 1.0-1
+arch = aarch64
+license =en
+checkdepend = e ==pkg

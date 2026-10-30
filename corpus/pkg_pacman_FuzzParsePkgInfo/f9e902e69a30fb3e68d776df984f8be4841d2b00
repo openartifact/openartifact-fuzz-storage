@@ -1,0 +1,3 @@
+€= p=1
+checkdepend = e = p=2
+checkdepend = e=pkg

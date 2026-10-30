@@ -1,0 +1,11 @@
+€pkgname = hello
+pkgbase = hello
+pkgver = 1:2.12-3
+pkgdesc == hello
+pkgver = 1:2.12-3
+pkgdesc = The classic greetlo
+pkgver = 1:2.12-3
+pkgdesc = The clissic  The classic greetlo
+pkgver = 1:2.12-3
+pkgdesc = The clissic gree0ing
+provides = = greeter

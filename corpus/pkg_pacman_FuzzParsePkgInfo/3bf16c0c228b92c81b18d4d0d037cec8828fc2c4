@@ -1,0 +1,8 @@
+€pkgname = hello
+pkgbase 5.org>
+size = 4096
+arch = x86_64
+lic.12e = 1700000000packa.BUILDINFO <jane@example.org>
+size = 8192
+arch = x86_64
+%URes = greeter

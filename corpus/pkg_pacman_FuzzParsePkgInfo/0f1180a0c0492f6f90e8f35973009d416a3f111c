@@ -1,0 +1,6 @@
+€pkend =  = MIT
+license = e-2%0
+depend = a>=1
+depend = b
+replaces = old
+coeB=pkg

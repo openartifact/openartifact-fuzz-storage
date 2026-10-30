@@ -1,0 +1,5 @@
+€pkgname =0-1ra
+pkgver = 2024:2-3
+arch=x86_am6_amIT
+licensOe = Apache-2.0
+depend = a = sizeype=pkg

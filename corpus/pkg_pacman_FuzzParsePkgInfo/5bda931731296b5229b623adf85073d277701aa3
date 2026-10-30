@@ -1,0 +1,8 @@
+€pkgname =conflict =  hello
+pkgbpkgver = 1:2.12-3
+pkgdesc = Th3
+pkgdesc = The cla%DEPENDS%ssic greetinello
+pkgver = 1:2.12-3
+pkgdesc = The classic
+builddag
+ greeter

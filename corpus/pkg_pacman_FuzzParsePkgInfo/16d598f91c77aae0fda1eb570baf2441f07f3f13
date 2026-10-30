@@ -1,0 +1,9 @@
+€pkdesc ipting
+provides =lo
+buiuilddate = 1700-3
+pkgdesc = The claash: scripting
+provides = gr' : smakedependcripting
+provides = grd = glibc
+%BUILDDATE%
+bash: scripting
+provides = greeter
