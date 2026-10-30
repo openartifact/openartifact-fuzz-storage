@@ -1,0 +1,171 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requiremtttttttttttttttttttttttttttttttttttttttttttt
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -.Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0ttttttttttttttttttttttttttttttttttttttttttttent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::RequiNeukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-uby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -.Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0ttttttttttttttttttttttttttttttttttttttttttttent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requir31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::RequiNeukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+quirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+ruby: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirementS: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

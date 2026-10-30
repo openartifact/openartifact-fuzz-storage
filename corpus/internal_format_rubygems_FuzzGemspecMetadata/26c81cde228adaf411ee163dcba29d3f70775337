@@ -1,0 +1,17 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 2.0.9
+pVlatform: ruby
+ors:
+-  !rubents:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '< 0s://github.com/rack/rack
+licenses:
+- MIT
+metadataversion: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

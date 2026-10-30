@@ -1,0 +1,8 @@
+"  []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  -+ - ">="
+    - !ruby3.0ject:G.com/rathub.com/rack/rack/issues
+post_install

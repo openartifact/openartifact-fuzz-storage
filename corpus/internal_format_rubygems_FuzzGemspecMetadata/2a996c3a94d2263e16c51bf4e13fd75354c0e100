@@ -1,0 +1,9 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !rubry: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+ ere false

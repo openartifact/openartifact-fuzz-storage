@@ -1,0 +1,9 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !rubML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+{ name: racc
+ erelease: false

@@ -1,0 +1,12 @@
+€--- !ruby/object:Ge
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version:../ 1.rser
+licenses:
+- MIT
+dednepencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  requyrement: !ruby/object:Gem::Requirem
+e nt   requireependencies:
+- !ruby/object:false

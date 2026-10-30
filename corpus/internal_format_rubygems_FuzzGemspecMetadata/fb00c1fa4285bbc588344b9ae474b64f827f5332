@@ -1,0 +1,19 @@
+€--- !ruby/object:Gem::Specification
+name: rack   veminimal interface between webservers and Rubah Neukirchen
+autirement: !ruby/object:Gem::Rueqirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        veminimal interface between webservers and Ruby frameworks.
+email: .y frameworks.
+email: .3.0
+required_rubygems_version: #ruby/object:Gem::Requirteem
+n  requirement        version: s:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versioquick/Marshal.4.8/s: []
+rubygems_version!!float: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: [)

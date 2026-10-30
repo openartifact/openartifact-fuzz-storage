@@ -1,0 +1,83 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version:Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neuki
+cert_chain: []
+date: 2024-01-31
+email: 
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neuki
+cert_chain: []
+date: 2024-01-31
+email: rack@example.org
+executables:
+- rackup
+extensionc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https:'/github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem:.betairement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      ver:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version:Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neuki
+cert_chain: []
+date: 2024-01-31
+email: 
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neuki
+cert_chain: []
+date: 2024-01-31
+email: rack@example.org
+executables:
+- rackup
+extensionc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https:'/github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem:.betairement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 1.4.0
+required_rubycems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 'testsion: 1.4.0
+required_rubycems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 'test_files: []
