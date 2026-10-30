@@ -1,4 +1,0 @@
-€pkgnamny
-sized = glibc
-optdepend = bash: scc
-optdepend = ba = 10

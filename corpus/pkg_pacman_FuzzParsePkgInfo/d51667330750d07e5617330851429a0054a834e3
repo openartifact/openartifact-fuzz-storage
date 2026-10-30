@@ -1,9 +1,0 @@
-€pkdesc ipting
-provides = greete/hello
-buiuilddate -3
-pkgdesc = The claash: scripting
-provides = grd = glih: scripting
-provides = grd = glibc
-%BUILDDATE%
-bash: scripting
-provides = greeter
