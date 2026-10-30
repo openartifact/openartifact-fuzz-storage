@@ -1,0 +1,1 @@
+€{"version":"6.0.0","resources":[{"@id":"http:s//a/","@tvpe": "PackageBaseAddress/3.0.0","comment":"Base URL of where NuGet packages are stored"}],"@context":{"@vocaÿb":"httervices#","comment":"http://www.w8.o/rdf-schema#comment"}}
