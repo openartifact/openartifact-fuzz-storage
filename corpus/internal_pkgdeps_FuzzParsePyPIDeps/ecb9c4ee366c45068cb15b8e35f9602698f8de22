@@ -1,5 +1,0 @@
-€Metadata-Version: 2.1Requkreÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿs: ersion: 1
-Requires-Dist: pkg @ https://exam @ httÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿps://ple.com/pkg-1.0.tar.gz
-Requires-Dist: other[security,ÿÿsts] (>=6.QQQQQra != "dev"
-Requires-Dist: Flnnnnnnnnnnnnnnnnnnnnnnnnnnask_Login>=0.6
-Requires-Dist: x ~= 1.4.2
