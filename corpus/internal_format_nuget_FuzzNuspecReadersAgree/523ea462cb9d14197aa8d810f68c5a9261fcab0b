@@ -1,0 +1,10 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemaspec.xsd">
+  <metadata minCbientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+  Url>..group>
+      <group targetFramework="net5.0">
+        <de:pendency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </depe/metadata>
+</package>

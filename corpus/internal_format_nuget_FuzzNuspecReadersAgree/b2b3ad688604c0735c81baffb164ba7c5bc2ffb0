@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utcommit="f-8"?>
+<package xmlns="http://schemaspec.xsd">
+  <metadata minClientVersion=cceptance>false</requireLicenseAcceptance>
+    etadata>de="Build,Analyzers"ion="2.10.0" exclude="Build,Analyzers" />&      </..group>
+      <group targetFramework="net5.0">
+        <de:pendency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </depe/metadata>
+</package>

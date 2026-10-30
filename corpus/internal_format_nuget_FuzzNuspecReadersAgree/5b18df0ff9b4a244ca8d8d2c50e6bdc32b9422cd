@@ -1,0 +1,8 @@
+€<?xml vers</dependencies>ing="utf-8"?>
+<package xmlns="http://schemors</authors>
+    <requireLi9censeAcceptance>false</requireLi[1.0.0, )censeAcceptance>
+    <xmlnslicense type="fil1.0.0+meta<cense>
+    <description>Write Seririlog.Sinks<references>   <version>5.0.0       <dependency id="Serilog" version="[4.10.0, 3.0.0)" />
+      </groies>
+  </metadata>
+</package>

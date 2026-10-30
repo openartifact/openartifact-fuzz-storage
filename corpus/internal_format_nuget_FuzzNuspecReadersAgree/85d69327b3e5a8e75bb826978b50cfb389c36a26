@@ -1,0 +1,14 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.m
+  <metadata minClientVerrion="2.12">
+  <version><!ENTITYilog.Sinks.File</id>
+    <version>5.0SON formats.</description>
+  q  <dependencies>
+      =log" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</pa>
+        <dependency id="erilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>>

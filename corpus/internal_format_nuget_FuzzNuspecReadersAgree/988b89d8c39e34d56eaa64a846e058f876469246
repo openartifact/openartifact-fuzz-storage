@@ -1,0 +1,9 @@
+€<?xml versioning="utf-8"?>
+<package xmlns="http://schemas.microsoft.comxsd">
+  <metadata minClientVersion="2.12">
+  tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireL>false</requireL>
+  </metadata>
+</package>
