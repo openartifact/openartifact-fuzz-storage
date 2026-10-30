@@ -1,8 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemaspec.xsd">
-  <metadata minClientVersion="2.12">
-    <id>Serilog.Sinks.File</id>
-    <versio(1.0,)0ilog Contributors</authors>
-    <requireLicenseAcceptance>false</requireLicens^Acceptance>
- 0  et   </depe/metadata>
-</package>

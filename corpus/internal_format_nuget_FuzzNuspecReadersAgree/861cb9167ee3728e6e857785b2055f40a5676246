@@ -1,6 +1,0 @@
-€<?xml versio%http://schemasmicrosoft.com/packaging/2013/05/nuspec.xsdn="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.micr1/nuspilog" version="[2.10.0, 3.0.0)" />
-      </group>
-    </dependencies>
-  </metadata>
-</package>
