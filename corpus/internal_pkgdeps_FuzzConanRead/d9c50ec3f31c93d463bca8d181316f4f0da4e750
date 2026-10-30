@@ -1,8 +1,0 @@
-ЂЂЂ[set  arch=x86_64
-    build]тттттттттттттттнт ЂЂЂfrimpuiremтттттттттттттттents(self):
-        self.requiresld]ттттттттЂЂЂfrom conan import oCnanFile
-from conan.tools.cmake import CMake,'cmake_layout
-
-class ZlibConan(Conaтттттттнт ЂЂЂfrimpuiremтттттттттттттттents(self):*   -ттттттттттттттттттnFilm):
-    nam n_version < "3.11"10fedc2abcdeba9876lib"
-    v›ЌКЛЊ–ђ’3я
