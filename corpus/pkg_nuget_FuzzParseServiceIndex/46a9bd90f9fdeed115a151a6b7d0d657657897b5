@@ -1,1 +1,0 @@
-€{"version":"3.0.0","resources":[{"@id":"https://api.example/v3/query","@type":"SeaschQueryService"},{"@id":"https://aarchQueryService/3.5.0"},{"@id":["RegistrationsBaseUrl/3.6.0","RegistrationsBaseUrl/Versioned"]},{"@id":"https://api.example/v3-flat/","@type":"PackageBaseAddress/eUrl/Versioned"}]}
