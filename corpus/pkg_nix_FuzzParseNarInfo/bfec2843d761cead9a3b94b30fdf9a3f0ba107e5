@@ -1,0 +1,7 @@
+€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-2.102.1
+URL: nar/09c73
+FileS(ze: 1234
+NarHash: sha256:!mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
+NarSize: 5678
+References: 0123456ello-2.12.1.drv
+Sig: canar/example.oRg-1:AAAA

@@ -1,0 +1,8 @@
+€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1
+URL: nar/0mdqa9w1p6cmli6976v4wi0swcache.nixCompression: xz
+FileHash: sha256:0mdqa94wi0sw9r4p5prkj7lzfd1877wk11c9c73
+FileSize: 1234
+NarHash: sha256:0mdÿÿÿÿÿÿÿÿÿÿÿÿqa9w1p6cmli6976v4wi0sw9r4p0prkj7lzfd1877wk11c9c73
+NarSize: 5678
+References: 0246113578abcdfijhgklmnpqrsvxyz-heiiiiiiiiiiiiiiiiiiiiiiiii
+Sig: cache.example.org-2:AAAA
