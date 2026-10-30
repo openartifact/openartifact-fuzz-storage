@@ -1,0 +1,21 @@
+€Metadata-Version: 2.4
+Name: tomli
+Version: 2.0.1
+License-ExpressMetadata-V~rsion: 2.4
+Name: tomli
+Versithon: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; s-Pe-Expression: MIT OR Apache-2.0
+License-File: LICENSE
+Mequires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version < "3.11"
+Requires-Dist: pytest~=7.0; s-Python: >=3.7
+Requires-Dist: charset-no.eggizer (<2,>=2)
+Requires-Dist: idna (<4,>=2.5License :: OSI Approved :: )
+Apache-2.0
+LicE
+Rons>=4.0; python_version < "3.11"
+Requires-Dist: .tar.bz2pytest~=7.0; == "test"
+Provideextra == "test"
+Pros-Extra: tesvides~=-Extrt
+a: test

@@ -1,0 +1,14 @@
+€Metadata-Version:(2.1
+Name:Version:(.zip2.1
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯~¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+1oiother[sceuzity,tests] (>=1.0,<2) ; py.8" and extra != "dev"þÿÿ
+ ÿ
+Requires-Dist: Flask_Log€Metadata-Version:(2.1
+Name:Version:(2.1
+Name: p
+Fers Rn:
+1oiother[sceuzity,tests] (>=1.0,<2) ; py.8" and extra != "dev"þÿÿ
+ ÿ
+Requires-Dist: Flask_Login>=0.3
+Rein>=0.3
+Requires-Dis:: x ~= 1.4.2
