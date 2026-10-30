@@ -1,0 +1,16 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: UNKNOHome-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: UNKNOWN2.0
+Classifier: License :: OSI Approved :: Apache Soft 
+: 3:Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=a2)
+Requires-Dist: idna (<4,>=2.5)
+Requi(µ/ýres[-Dist: urr (<4,>=2)
+res-Python: >=3.7
+RequirNOASSERTIONes-Dist: charset-normalizer (<4le HTTP library.

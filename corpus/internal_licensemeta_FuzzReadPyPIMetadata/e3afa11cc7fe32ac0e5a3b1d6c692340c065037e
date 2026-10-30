@@ -1,0 +1,8 @@
+€Metadata-Version: 2.4
+Nam<license type="expression">ense-Expression: MIT OR Apache-2.0
+License-File: [LICENSE
+Requires-áPython: >=3.8
+Requiresche-2.0
+Lse-File: LICENSE
+Requis-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test
