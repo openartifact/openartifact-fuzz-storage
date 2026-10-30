@@ -1,0 +1,5 @@
+€# Generateder_priority = 10
+depend = so:libc.musl-x86_64.so.1
+depend = busyboxmaintainer = Test <test@example.org>
+license 0
+garbage line

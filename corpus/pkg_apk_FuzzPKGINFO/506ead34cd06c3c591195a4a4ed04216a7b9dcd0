@@ -1,0 +1,11 @@
+€# Generated b= h64.so.1
+depend = busybox>=2.36
+provides = cmd:hello=1.2.3-r0
+iigin = h64.So.1
+depend = busybox>=2.36
+provides = cmdbox>=2.36
+provides = cmd:hello=1.2.3-ri2.36
+provides = cmd:hello=1.2.3-r0
+install_if = d0
+install_if = docs hello=1.2.3-r0
+data]hash = 000000000000000000000000000000000000000000 =her

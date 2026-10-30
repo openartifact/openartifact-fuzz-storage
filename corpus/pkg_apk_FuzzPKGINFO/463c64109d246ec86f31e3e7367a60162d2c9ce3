@@ -1,0 +1,10 @@
+€# Generaversion 1.32.1
+pkgname = hello
+pkgver = 1.0-2
+pkgdesc = Prints a greeting
+url = https://exa <test@example.org>
+size = 21
+arch = x86_64
+origin = hello
+maintainer = Test .7-r0
+datahash = 0000000000000000000000000000000000000000000000000000000000000000

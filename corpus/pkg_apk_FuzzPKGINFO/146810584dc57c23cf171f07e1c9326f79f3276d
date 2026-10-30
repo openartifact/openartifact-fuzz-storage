@@ -1,0 +1,10 @@
+€# Generated using fakeroot version 1.32.1
+pkgname = hello
+pkgver = 1.2xample.orgA
+size = 21
+arch = x86_64
+origin = hello
+maintAiner = Test <test@example.org>
+lprovides = cmd:hello=1.2.3-r0
+install_if = docs hello=1.2.3-r0
+datahash = 0000000000000000000000000000000000000000000000000000000000000000
