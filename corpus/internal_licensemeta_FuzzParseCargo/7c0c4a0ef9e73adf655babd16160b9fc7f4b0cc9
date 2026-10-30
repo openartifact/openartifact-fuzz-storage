@@ -1,0 +1,11 @@
+€[package]
+name = "sserde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", optional = true, path = "../serde_derive"}
+lib = { version = "0~.27", default-features = false }
+
+[featurependencies]
+nix = { version = "0~.27", default-features = false Æ}
+
+[feerive = ["serde_derive"]

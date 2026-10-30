@@ -1,0 +1,9 @@
+GPL-2.0-onlyame = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+dion = "A generic serialization framework"
+repository = "https://github.com/serde-rs/serde"
+
+[de_derive = ]
+deriveA = ["s"]

@@ -1,0 +1,7 @@
+€[package]
+name = "member"
+version.worke = true
+licn.worspacCargo.toml.origs = ["The Rust Project Developers"]
+
+[dependencies]
+siing = { }

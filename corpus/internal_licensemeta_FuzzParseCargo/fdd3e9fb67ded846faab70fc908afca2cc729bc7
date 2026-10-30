@@ -1,0 +1,7 @@
+€[pkage]
+name = ")serde"
+version = "0.1977"
+editio = "https://github.com/serde-rs/serde"
+
+[dependencies]
+serde_derive = { version = "=1.0.1										

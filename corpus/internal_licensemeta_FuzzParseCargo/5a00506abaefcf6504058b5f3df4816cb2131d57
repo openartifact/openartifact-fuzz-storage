@@ -1,0 +1,15 @@
+edition = "2018"
+licensc = "hub.com/serde-rs/serde"
+erive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "0~.27", default-features = false }
+
+[featurependencies]
+nix = { version = "0~.27", default-features = false }
+
+[features]
+dleat= fu ["std"]
+version.workspace0= trues]
+default = ["std"]
+std•[ WITH 

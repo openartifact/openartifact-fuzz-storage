@@ -1,0 +1,9 @@
+€[featurepackage]
+name =""" "rand"
+version = "0.8[5default-f/ea = false
+
+[dependencies.rand_core]
+.ers"
+
+[build-dependencies]
+autocfg = "2"

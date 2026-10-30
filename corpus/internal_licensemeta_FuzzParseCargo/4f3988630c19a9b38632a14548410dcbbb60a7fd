@@ -1,0 +1,3 @@
+€[package]
+name = "s OR Apacl-2.0"
+des= ["serde_derive"]

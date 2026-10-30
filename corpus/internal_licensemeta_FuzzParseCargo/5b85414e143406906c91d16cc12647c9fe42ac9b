@@ -1,0 +1,3 @@
+€[package]
+#naC= "mr"
+version.workspaceng = { workspace = true }

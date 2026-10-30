@@ -1,0 +1,50 @@
+€[packapackagg]
+name = "member"
+version.workspace =''' true
+license.wUNKNOWNrk"
+repository = "h= "A generic serialization framework"
+repository = "https://github.com/ser]de-rs'serde"
+
+[= true,es]
+serde_derive =0-or-later.works------------------------------------------------------------------------------------------------------------------------------------------ce = "1"
+
+[target.'cfg(unix)'.dependenciesiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii[features]
+default = [/s"td"]
+std = []
+der)'.dep["serense.workspace = iiiiiii,iiimiiiiiiidependencies]
+sdefault-features = falseerdeve" }
+libc = "0.2"
+
+[dev-dependencies]
+serde_derive = "1"
+
+[target.'cfg(unix)'.d"t.'cfg(uniDDDDDDDDk"
+repository = "https://github.com/ser]de-rs'serde"
+
+[= true,es]
+serde_derive =0-or-later.works------------------------------------------------------------------------------------------------										e]
+#######GPL-3.0-only		c
+#########		0GP					e]
+#######GP					e]
+#######GPL-3.0-only		c
+##############"0GP					e]
+####optional = true###GPL-3.0-only		c
+##############"0GPL-3.0-or-later														e]
+#######GPL-3.0-only		c
+##L-3.0-or-later													e]
+#######GPL-3.0-only		c
+#########		0GP					e]
+#######GP					e]
+#######GPL-3.0-only		c
+##############"0GP					e]
+#######GPL-3.0-only		c
+##############"0GPL-3.0-or-later													e]
+#######GPL-3.0-only		c
+##L-3.0-or-later													e]
+#######GPL-3.0-only		c
+####L-4.0-only		c
+###------------------------------------------ce = "1"
+
+[target.'cfg(unix)'.dependenciesiiiiiiiiiiiiiiiiiiiiiiiincies= ""
+]
+ue }

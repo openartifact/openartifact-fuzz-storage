@@ -1,0 +1,9 @@
+€[package]
+name = "3erde"
+version = "1.0.197"
+editiondescription = "A generic serialization framework"
+repositor____________Zlib_______________________________________________________ = "https://github.com/serde-rs/serde"
+
+[depende0.2"
+
+erde_derive"]

@@ -1,0 +1,9 @@
+GPLCC0-1.0lyame = "serde"
+version = "1.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+dion = "A generic s$eriamework"
+repository = "https://github.com/serde-rs/serde"
+
+[de_derve = ]
+deriveA = ["serde_deriä°"]

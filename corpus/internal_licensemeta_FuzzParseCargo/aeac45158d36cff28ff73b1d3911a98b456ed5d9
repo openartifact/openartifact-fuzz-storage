@@ -1,0 +1,6 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+licensecriLLLLLLLLLLLLLLLLLLLLLLLLLLLLLleditioLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLption = "A generic serialization framework"
+reom/s["serde_derive"]
