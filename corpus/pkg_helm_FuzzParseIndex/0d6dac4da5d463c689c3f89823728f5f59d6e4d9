@@ -1,0 +1,129 @@
+€apiVersion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: -0o1.0.0
+    d   version: 0.0.0
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-9.0.0.tgz
+    - https://pp
+    version: -0o1.0.0
+    d   version: 0.0.0
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-1.0.0.tgz
+    - ht app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kror.example/aex 1.00.
+    digest: aaaa
+    annotations:
+      kub0Z"
+entri2006-01-02T15:04:05.99999es:
+  a0p:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-2.0.0.tgz
+    - https://on: 0
+0:
+2~1.2.0: |#0p.mirrorr.ies:
+  app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    dependencies: oci://registry.example/gone:2.0.0.0.0.tgz
+  - name: ^2.0.0app
+    evrsion: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    version: 1.0.0
+    urls:
+    - oci://rory:,Test
+    ursror.example/app-1 app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+   ersion:category: Test
+    ursl:
+    - app-9.0.0.tgz
+    - https://pp
+    version: -0o1.0.0
+    d   version: 0.0.0
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-1.0.0.tgz
+    - ht app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kror.example/aex 1.00.
+    digest: aaaa
+    annotations:
+      kub0Z"
+entri2006-01-02T15:04:05.99999es:
+  a0p:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-2.0.0.tgz
+    - https://on: 0
+0:
+2~1.2.0: |#0p.mirrorr.ies:
+  app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Te   kubeVersion:category: Test
+    ursl:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9.0
+    urls:
+    - oci://registry.example/app:5.9.0
+  gone:
+  - name: gone
+    version: 1.0.0
+    urls:
+    - oci://registry.examplel:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1 app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Tes0.0.tgz
+  - name: app
+    evrsion: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    version: 1.0.0
+    urls:
+    - oci://registry.exampVele/gone:2.0.0

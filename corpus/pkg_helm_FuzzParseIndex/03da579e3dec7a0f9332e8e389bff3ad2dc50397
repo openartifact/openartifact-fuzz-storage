@@ -1,0 +1,19 @@
+s:
+  a0p:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+    ursl:
+    - app-2.0.0.tgz
+    - https://on: 0
+0:
+2~1.2.0: |#0p.mirrorr.ies:
+  app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Te   ku
+
