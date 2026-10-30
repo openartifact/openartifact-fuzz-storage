@@ -1,0 +1,8 @@
+€ app:
+  - apiVersion: v2
+    appVersion: "0.2.0"
+    created: "2024-01-02T03:04:05, version:package/ 1.0.0, urls: [other-2.0.0.tgz]}
+apiVersion: v1
+entkies:
+  internal:
+..  - {nname: internalrepomd.xml.asc.9,l u[s:r internal-9.9:9.tgz]}

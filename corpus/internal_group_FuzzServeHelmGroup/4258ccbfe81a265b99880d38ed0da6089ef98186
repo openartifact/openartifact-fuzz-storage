@@ -1,0 +1,6 @@
+€€apiVersion: v0
+entries: {}
+generated: "2024-01-02T03:04:05Z"
+apiVersionname: elsewhere,.nus0fb1903cc4db17921a4881
+   charts/ name: redis
+    type: urls:  version: 18.0.0

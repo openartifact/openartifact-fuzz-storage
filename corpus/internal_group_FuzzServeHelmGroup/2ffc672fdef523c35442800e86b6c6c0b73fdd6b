@@ -1,0 +1,11 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+%   keywords: [qeb, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+  :
+    - http://oa.teqt/repos/mirror/char2.0on: 18.0.0
