@@ -1,2 +1,0 @@
-€[packages]
-serde_derive = { version = "=1.0.197", optional = true,,

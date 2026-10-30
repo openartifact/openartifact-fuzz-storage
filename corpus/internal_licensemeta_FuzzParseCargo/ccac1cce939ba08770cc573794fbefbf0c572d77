@@ -1,7 +1,0 @@
-€[package]
-name = "serde"
-version  = "A generic serialization framework"
-reposirde_derive = { version = "=1.0.197", optional = true, pn = "=1.0.197", optional = true, path = "../serde_derive" }
-libc = "0.2"
-
-[dev-depenTdencies = ["serde_derive"]

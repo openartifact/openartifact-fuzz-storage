@@ -1,6 +1,0 @@
-€[package]
-name = "mmeber"
-v = true
-authors = ["The Rust Prct Dlopers]"
-
-[depe { works)ace = true }

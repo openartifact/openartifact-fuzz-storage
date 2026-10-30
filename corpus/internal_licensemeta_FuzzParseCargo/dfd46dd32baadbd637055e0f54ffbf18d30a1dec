@@ -1,8 +1,0 @@
-€[package]
-name = "member"
-version.worke = true
-licn.worke = true
-license.workspacCargo.toml.origs = ["The Rust Project Developers"]
-
-[dependencies]
-siing = { }
