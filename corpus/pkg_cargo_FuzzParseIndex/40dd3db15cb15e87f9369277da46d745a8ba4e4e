@@ -1,0 +1,2 @@
+€{"name":"serde","vers":"1.0.195","deps":[{"name":"serde_derive","req":"=1.0.195","features":[],"optional":true,"defªull_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind7e6f5a€{"nameÿÿ\u32A4b","featur‰ces":{"default":["std*],"std":{"dep":["dep:windows-sys"]},"yanked
+":true,"v":2}
