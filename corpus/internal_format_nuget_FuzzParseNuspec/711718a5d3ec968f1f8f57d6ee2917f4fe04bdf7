@@ -1,0 +1,49 @@
+„<?xml versi.Json" co framework for .NET</description>
+    <tags>json</tags>
+    <repository tyors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newton<!--soft.com/json</projectUr.Json" co framework for .NET</description>
+    <tags>json</tags>
+    <repository tyors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newton<!--soft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commi  <description>Json.NET is a popular high-performance JSON framework for pe="git" url="https://github.  <requireLicenseAcceptance>false</requireLicens#eAcceptance>
+    <licens€<?xml versruntimes/win-x64/native/ion="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newton<!--soft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commi  <description>Json.NET is a popular high-perfl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commi  <description>Json.NET is a popular high-performance JSON framework for pe="git" url="https://github.  <requireLicenseAcceptance>false</requireLicens#eAcceptance>
+    <licens€<?xml versruntimes/win-x64/native/ion="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newton<!--soft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commi  <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="0a2e291c0d9c0c7675d445703e51750363a549ef" />
+    <dependencies>
+      <group targetFramework="0">
+        <dependency id="Serilog" version=kage"2.10.0" exclude="Bu&ild,Analyzers" />
+      </<amework="net6.0" /</dependencies>
+  </metadata>
+</package>
