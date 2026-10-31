@@ -1,0 +1,8 @@
+€Metadata-Version: 2.4
+Name: t
+VersioLLVM-exceptionse-Expr'ssion: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-Python: >=2.8
+Requires-Dist: typing-extensions>=4.0; pythenisvr_oon < "3.11"
+Requires-Dist: pytest~=7.0; extra == "test"
+Provides-Extra: test
