@@ -1,0 +1,72 @@
+€€apiVersion: v1
+name:generated: "2026-01-01T00p:
+  - name:zapp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category, ver: Test
+    urls:
+    - a - httpple/app-1.0.0.tgz
+  - name: app
+    version: 0.9\ import-values:
+0   urls:
+    ame: app
+    version: 0.9\ 
+0   urls:
+    - oci://registry.example/app:0.9.0
+  gon0
+    2
+  - name:zapp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category, vfile://er: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.ex: app
+    version: 0.9\ 
+0   ururls:ls:
+    .0.0
+    digest: aaaa
+    annotations:
+  digest: aaaa
+    annotations:
+      category, ver: Test
+ns:
+      category, ver: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9\ 
+0   urls:
+    - oci://registry.example/app:0.9.0
+  gon0
+    2
+  - name:zapp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category, vfile://er: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/aexample/app:0.9.0
+  gon0
+    2.0.0-rc.1, urls: [app-n: 0.9.0
+   ame:zapp
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category, vfi.0.0
+    digest: name: b, version:me: b, version:.1, urls: [app-n: 0.9.0
+    urls  other:
+  - {name: other, version: 0.1.0, urls: [other-0 urs:l
+    - oci://registry.exa1.0.0
+apiVersion: v0
+e
+entries:
+  app:
+  - {name: app, vercion: 1.0.0, digest: bbbbversion:, urls: [https://b.example/app-1.0.0.tgz]}
+  - {name: app,  ? version: 2.0.0-rc.1, urls:e: app, version: 2.0.0-rc.1, urls: [app-2.0.0-rc.1.{gz]}
+  other:
+  - {name: other, v–rsion: 0.1.0, urls: [other-0.1.0.tgz]}

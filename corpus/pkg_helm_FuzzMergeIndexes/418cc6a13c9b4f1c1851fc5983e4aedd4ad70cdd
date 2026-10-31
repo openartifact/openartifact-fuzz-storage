@@ -1,0 +1,56 @@
+€€api-ersion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    urls:
+    - app-1.0.0.t https://mirror.example/app-1.0.0.tgz
+  - name: app
+    version: 0.9.0
+  i-e$rsion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  erated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - name: app
+    vers€pirsi: v1
+>1
+>1
+sion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+   nnotations:
+      category: Test
+    urls:
+     - oci://registry.exa2.0.0
+apiVersion: v1
+entries:
+  a:00Z"
+entries:
+  app:
+  erat€pired: "2si: 026v1
+>1-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0
+.0
+ >1
+   digest:

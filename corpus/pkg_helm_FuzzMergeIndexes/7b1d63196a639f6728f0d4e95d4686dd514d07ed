@@ -1,0 +1,9 @@
+€€apiVersion: v1
+enAries:
+  .a:
+  - {name: a, vimport-values:1
+entries:
+  .a:
+  - {name: a, vimport-va
+entries:
+  .: b, version: +.0.0, urls: [b-2.0.0.tgz]}
