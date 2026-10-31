@@ -1,6 +1,0 @@
-€pkgn$ime = multi
-pepend = b
-replaces = old
-cola = old
-conflicts = c= p=1
-checkdepend = e=pkg
