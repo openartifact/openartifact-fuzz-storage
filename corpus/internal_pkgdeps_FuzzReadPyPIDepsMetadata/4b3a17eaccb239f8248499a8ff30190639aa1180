@@ -1,7 +1,0 @@
-€Mc: License :: OSI etadata-Version: 2.1
-Name: request`s
-Version: 2.31.0
-S
-Requires-Dist: charset-normalizer (<4,>=2)
-Requires-Dist: +idna (<4,>=1.5)
-Requires-Dist: urllib1 Pibrary.
