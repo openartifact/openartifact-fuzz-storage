@@ -1,0 +1,40 @@
+€Metadata-Version: 2.1
+Name: requ<package>ests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Rta-Vereitz
+License: Apache 2.0
+Classifier:eLci nse ::SIpAp O roved :: Apache Software License
+Classifier: Programming Language :: Python :: 8
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: Pyst: urllib3 (<3,> 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer ..4,>=2)
+Requires-Dinfo/index.jres-Dist: charset-normalizer (<4,>=2)er (<4,>=2)
+Requires-Dist:# idLicense-File: na <>,=4(2.5)
+Requi.21.1)
+Requires-DistPy for Humans.
+Hom-epagee: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+REquires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform =,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and pe: https://requests.readthedoc
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: ormalizer rs(<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Re

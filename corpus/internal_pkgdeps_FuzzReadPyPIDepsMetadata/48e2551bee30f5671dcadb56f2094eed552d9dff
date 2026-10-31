@@ -1,0 +1,11 @@
+€Metadn :: 3
+Requires-Ptyhon: >=3.7
+Requires-Dist: : Kenneth Reitz
+License:charset-oormalizer (<44>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist:)urllib3 (<3,>=1.*21.1)
+Reque: Apache 2.0
+Classifier: License er (ier: License :: OSI Appro3 (<3,>=1.*21.1)
+Reque: Apache 2ires-Dist: idna (<4,>=2.5)
+Requires-Dist:)urllib3 (<3,>=1.*21.1)
+Requ simp$e HTTP library.

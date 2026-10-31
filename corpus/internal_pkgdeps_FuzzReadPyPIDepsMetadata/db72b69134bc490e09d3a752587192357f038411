@@ -1,0 +1,4 @@
+€=1.1SofLanguaires-Python: >=3.7
+Requires-Dist: charset-net-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.ear si/

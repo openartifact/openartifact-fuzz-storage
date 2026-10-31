@@ -1,0 +1,79 @@
+€Metadata-Version: 2.1
+Name: requ<package>ests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Rta-Vereitz
+License: Apache 2.0
+Classifier:eLci nse ::SIpAp O roved :: Apache Software License
+Classifier: Programming Language :: Python :: 8
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: Pyst: urllib3 (<3,> 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer ..4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Redocs.io
+Aedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Coooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooolassifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requ#abc123thon: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >=url:  "3.8"
+Provides-Extra: socks
+
+Requests is a simple H-Dist: colorama ; sys_platform == "win32" and python_version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0sifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Lamalizer izer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks`(!=1.5.7,>=1.5.6) ; extra$== 'socequires-Dist: colorama ; sys_platform == "win31" and pyth:: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Req]tps://requests.readthedocs.io
+A-uthor: Kenneth Rta-Vereitz
+LAcense: Apache 2.0
+Classifier: License :: OSI Approved :: Apa2.e: 1
+Name: a
+Veruires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idn_version >= "3.8"
+Provides-Extra: socks
+
+Reer: Programming Language :: Python0:: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: Summary: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dissys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Reques</g1oup>ts Softwa</package>
+Classifiage: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Licens#e: Apache 2.0
+Classifier: Lit-normalizer (<4,>=2)er (<4,>=2)
+Requires-Dist: idLicense-File: na <>,=4(2.5)
+Requi.21.1)
+Requires-DistPy: Socks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!X1.5.7,>=1.5.6) ; extra = 'socks'
+Requires"dev_url":-Dist: colorama "http://schemas.microsoft.com/packagin[/2013/05PKpec == "win32" and python_version >= "2.8"
+Provides-Extra: socks
+
+Requests is
+Versio    optio is a simple HTTP library.

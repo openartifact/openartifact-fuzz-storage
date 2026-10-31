@@ -1,0 +1,9 @@
+�Mcense: Apache 2.0
+Classifier: License :: OS 3
+Requires-Python: >=3.7󭚎uires-Dist: cython: >=3.7󭚎uires-Dist: charset-normalizer (<4,>=2)
+Requires-Dis.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_(python_version  >="3.8"
+Pzqvides-Extra: socks
+
+Requests is a simple HTTP library.
