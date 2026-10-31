@@ -1,7 +1,0 @@
-€o:Gem::Dependency:@@nameI"	raTkeI"	ruby:ET[o:Gem::Dependency
-:
-@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
-@type:runtime:@prereleaseF:@version_rriueqementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
-:
-@nameI"
-rspec:ET:@requiremeU:Gem::Version[I"	3.12:ETI"ETI"janå@examp:prere[easeF
