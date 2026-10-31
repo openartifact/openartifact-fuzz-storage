@@ -1,8 +1,0 @@
-€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1
-URL: nar/0mdqa9w1p6cmli6976v4wi0sw9r4p511c9c73
-FileSize: 1234
-NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
-NarSize: 5678
-References: 0123456789abcdfghijklmnpqrsŠˆ‡†…Ò—£llo-2.12.1 11111111111111111111111111111111-bbb
-Deriver: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1.drv
-Sig: cache.example.org-1:AAAA
