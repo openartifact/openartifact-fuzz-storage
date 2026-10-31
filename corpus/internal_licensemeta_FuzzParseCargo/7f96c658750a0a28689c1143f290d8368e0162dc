@@ -1,5 +1,0 @@
-€[pkage]
-name = ")serdettps://github.comders/e-rs/serde"
-
-[dependencies]
-serde_derive = { version = "=1.0.1										

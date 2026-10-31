@@ -1,7 +1,0 @@
-€[package]
-name = "member"
-version.worke = true
-license.4orkspacCargo.toml.origs = ["The Rustlopers"]
-
-[dependencies]
-siblzng = {@ workspace = true }
