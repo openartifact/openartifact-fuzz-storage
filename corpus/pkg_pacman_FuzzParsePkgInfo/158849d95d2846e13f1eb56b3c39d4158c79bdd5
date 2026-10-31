@@ -1,0 +1,8 @@
+€pkg = multi
+pkgver = 1.0-1
+ad$=  = MIT
+license = Aplaces = old
+end = a>=1
+depend = b
+replaces = old
+coe=pkg

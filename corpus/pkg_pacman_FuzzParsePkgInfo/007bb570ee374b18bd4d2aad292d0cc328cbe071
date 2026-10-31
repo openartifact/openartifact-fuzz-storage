@@ -1,0 +1,68 @@
+�pkgname jane@example.org>
+size = 4096
+arch = x86_64
+2.12e = 1700000000
+package= 1700000000
+packager = Jane <jane@example.org>
+size = 4096
+arch = x86_64
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or-later
+dep
+pkgbase4
+ =  x86_64
+2.12e = 1700000000
+package= 1700000000
+packager = Jane <jane@example.org>
+size = 4096
+arch = x86_64
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or-later
+dep
+pkgbase4
+ = hello
+pk = greeter

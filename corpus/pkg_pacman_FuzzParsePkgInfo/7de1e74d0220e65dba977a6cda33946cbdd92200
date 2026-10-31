@@ -1,0 +1,44 @@
+€pkdesc = Th = The clas glibc
+optdepend le.orggrd = gli!c
+optdepend = bashreplac GPL-2.0-or-later
+depend =gli%LICENSE%bc
+optdepend = bash: scri= bash: scripting
+provides = greeBer
+i%LICENSE%bc
+optdepend = bash: sc = gli`c
+optdepend le.orggrd = glibc
+optdepend = bashreplaces = cense =optdepend le.orggrd = glibc
+opnd = bash: shello
+bucense = GPL-3.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scripting
+provides = grd = glibc
+optdepend le.orggrd = gli!c
+optdepend = bashreplac GPL-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scri= bash: scripting
+provides = greeter
+i%LICENSE%bc
+optdepend = bash: scripting
+provides = g GPL-2.0-or-later
+depend =gli%LICENSE%bc
+optdepend = s:ahbrs ci= bash: scripting
+provides = greeBer
+i%LICENSE%bc
+optdepend = bash: sc = glibense =optdepend le.orggrd = gpackager = libc
+opnd = bash: shello
+bucense = GPL-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scripting
+provides = grd = glibc
+optdepend le.orggrd = gli!c
+optdepend = bashreplac GPL-2.0-or-later
+depend = gl: sc-2.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bripting
+provides = grd = glic
+optdepend = bash: sc = glibc
+optdepend le.orggrd = glibc
+optdepend = depend = gli%LICENSE%bc
+optdepend = bash: scri= bash: scripting
+provides = greeter
