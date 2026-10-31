@@ -1,0 +1,6 @@
+€[package]
+name = "member"
+version.worke = true
+license.workspacCargo.toml.origs = ["The Rut Developers"]
+
+[dependencieCargo.toml = {@ workspace = t

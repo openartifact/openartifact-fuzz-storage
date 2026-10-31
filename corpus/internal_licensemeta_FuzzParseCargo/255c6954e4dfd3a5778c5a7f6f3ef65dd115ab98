@@ -1,0 +1,9 @@
+€[featurepackage]
+name =""" "rand"
+verlse
+
+[dependencies.rand_core]
+.ers"
+
+[build-dependencies]
+autocfg = "2"

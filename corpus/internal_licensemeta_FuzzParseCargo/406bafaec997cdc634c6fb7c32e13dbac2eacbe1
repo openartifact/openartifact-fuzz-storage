@@ -1,0 +1,4 @@
+€[package]
+name = "member"
+version.wace = true
+license.woib = { GPL-3.0-oGPL-3.0-or-laterkspersion = 0 }
