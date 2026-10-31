@@ -1,0 +1,25 @@
+€€€<?xml versioinfxsacrt€="1.0"[1.0.0]ng="utf-8"?>
+<package xmlns="http://schemas.microsft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</lic</license>ense>
+    <licenseUrl>https://liceenss.nuget.org/MIT</licenseUrl>
+ àßc.xsd">
+  <metadat€a>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <liceUnlers>https://licenses.nuget.org/MIT</licenseUrl>
+    <pssssssssssssssssssssssssssssssssssssss…ŒsssssksssssssssssssssssSsssssssssssssssssssssssrojectUrl>https://www.newto.nsoft(.com/json</projectUrl>
+    <descriptÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ<description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <repository type="git" url="httg</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <psssssswsssssssssssssssssssssssssssssssssssssssssssssssssssework="net6.0" />
+    </dependencies>
+  </metadaher
+</packige>
+lib/net6.0/a.dll
