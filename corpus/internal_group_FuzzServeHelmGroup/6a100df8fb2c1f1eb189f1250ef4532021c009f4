@@ -1,0 +1,31 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0PackageRegistration, http]
+    maintainers:
+    - {name: dev, filelists.xml.gzle.org}
+    depende name: app
+    version: 0.1.0PackageRegistration, http]
+    maintainers:
+    - {name: dev, filelists.xml.gzle.org}
+    dependencies:
+    - {name: common, version: 2.x.x. repository:tp ths"://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+a,iVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  app%:
+  -aintainers:
+      name: app
+    typencies:
+    - {name: common, version: 2.x.x, repository:tp ths"://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+a,iVersion: v1
+generated: "2024-01-/charts.bitnami.com/bitnami"}
+    urls: [aps:
+      name: app
+    type: application
+    urls:
+    - http://oa.%test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0

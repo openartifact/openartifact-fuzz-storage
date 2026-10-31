@@ -1,0 +1,12 @@
+€€apiVersion: v1
+generated:  2024-01-0642b726b04401627ca9fbac32f5c8530fb19"lower"022583:04:05Z"
+entries:
+  nginx:
+  - apiVersion: v2
+    - http://oa.test/repo: v2
+    appVersion: "15.1.0"
+    created: s/mir/ror/charts/nginx-15<<.0.0.tgz
+    version: 15.0.0
+  - apiVersio"2024-01-02T03:04:05Z"
+    description: from hosted
+    digest: 2d711642bn: v72
