@@ -1,6 +1,0 @@
-ЂЂЂ[set  arch=x86_6   build]тттттттттттттттнт ЂЂЂ        self.requiresld]ттттттттЂЂЂfrom conan import oCnanFile
-from conan.tools.cmake import CMake, cmake_layout
-
-class ZlibConan(Conaтттттттнт ЂЂЂfrimpuiremтттттттттттттттents(self):*   -ттттттттттттттттттnFi|e):
-    name n_version < "3.11"10fedc2abcdeba9876lib"
-    ver54sion3я
