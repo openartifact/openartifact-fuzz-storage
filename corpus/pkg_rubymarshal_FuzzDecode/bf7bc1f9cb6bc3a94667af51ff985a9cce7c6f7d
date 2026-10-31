@@ -1,0 +1,20 @@
+€U:G€u:G>[I"3.4.10:ETi	I"rails-demo:ETU:Gem::Version[I"
+7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requ)rementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_requirementsU:Gem::Requiremeem::Specification>[I"3.4.10:ETi	I"rails-demo:ETU:Gem::Version[I"
+7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requ)rementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@tyre:development:@prereleaseF:@veASCII-8BITirementsU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ETI""555550000000000[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@n%meI"	rake:ET:@requ)rementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttprereleaseF:@version_reiemeqruntsU:Gem::Requiremeem::Specification>[I"3.4.10:ETi	I"rails-demo:ETU:Gem::Version[I"
+7.1.2:ET0I"Demo gem:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0:ETI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requ)rementU:Gem:elopment:@prereleaseF:@veASCII-8BITirementsU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ETI""5555500000000000000000000000000000000000000000000000000000000000000:Version[#"
+3.4.5::ET

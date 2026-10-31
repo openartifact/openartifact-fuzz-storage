@@ -1,0 +1,11 @@
+€U:RegexpGe::ETI"	ruby:ET[o:Gem::Depen@nameI"
+rspec:rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereleaseF:@version_requirementsU:Gem::Requirement[[[I"T>=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@„†š:development:@pGem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@type:d:ET[I"	Jane:ETI"Joe:ETI"Vl+,i
