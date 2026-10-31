@@ -1,0 +1,32 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_ch'ain: []
+date: 2024-01-31 00:00:00.0)0000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !r<<y/object:Gem::Reqursion_requnterface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+l.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_r!ruby/obÏject:Gem::Requirement
+ r Ruby webserver interface.
+test_fiqeirement":"~>àÃ.2, >= 2les: []

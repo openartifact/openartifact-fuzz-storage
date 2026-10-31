@@ -1,0 +1,18 @@
+€--- !ruby/object:Gem::Spe)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))cification
+name: rack
+ver0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depende.cies:
+- !ruby/o____________________________bject:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requiremenwebserver interface.
+test_files: []

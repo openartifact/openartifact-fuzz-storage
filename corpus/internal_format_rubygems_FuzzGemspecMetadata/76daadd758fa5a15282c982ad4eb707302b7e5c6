@@ -1,0 +1,17 @@
+€--- !ruby/object:Gem::api/v1/gemsSpecification
+na8me: rack
+version: !ruby/object:Gees:m:rVion
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neuki
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+--- !ruby/ob0 Z
+--- !ruby/object:Gem::Specification
+name: nokogiri
+version: "release: false
+  version_requirements: !rubyjbo/ect:Gem::Rject:Gem::Specification
+name: nokogiri
+version: "release: false
+  version_requirements: !rubyjbo/ect:Gem::Reqest_files: []

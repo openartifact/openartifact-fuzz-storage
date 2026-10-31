@@ -1,0 +1,46 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 1.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 €{"name":"demo","version":"1.0.0","platform":"ruby","summary":"s","":[";"],"licenses":["ÒMIT"],"dependencies":[{"name":"raëck","reqeireme‘nt":"~>àÃ.2, >= 2.0.1","type":"runtime"}]}Gem::Version
+        versionbidinr: bin
+cert_chain: []
+date: 2024-01-31 €{"name":"demo","version":"1.00","platform":"ruby","summary":"s","":[";"],"licenses":["ÒMIT"],"dependencies":[{"name":"raëck","reqeireme‘nt":"~>àÃ.2, >= 2.0.1","type":"runtime"}]}Gem::Version
+        version: '0.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Ra"dependencies"ck provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib     version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

@@ -1,0 +1,57 @@
+€--- !ruby/object:Gem::Specificat!on
+name: rack
+version: !ruby/object:Gem: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:?00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - G::Ruee-mqirement
+  requirements:
+  - - ">="
+    - !ru[]
+date: 2024-01-31 00:00:?00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gy/object:Gem::Specificat!on
+name: rack
+version: !ruby/object:Gem: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:?00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  ert_chain: []
+date: 2024-01-31 00:00:?00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - G::Ruee-mqirement
+  requirements:
+  - - ">="
+    - !ru[]
+date: 2024-01-31 00:00:?00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - G::Rm-eequirement
+  requirementsequired_rubygems_version: !ruby/object:Gem::Requiremtttttttttttttttttttttttttton: 4
+summary: A modular Ruby webserver interface.
+test_files: []
