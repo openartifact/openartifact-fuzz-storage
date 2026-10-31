@@ -1,0 +1,32 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((Version
+  versi024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '= 0.0.0type: :development
+  prerelease: fals 
+e revsion_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem: []
+require_paths:
+- lib
+required_ruby_version: !ruby/objtec:Gem::Requirement
+  requirements€nexebalse:
+- ame: a
+versio:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 3 requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      ver :dn:evel 0.opmen0
+t
+  prerelease: false
+  versio
