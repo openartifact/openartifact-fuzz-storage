@@ -1,0 +1,27 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013   <license type="file">LICENSE>
+    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hhhhhhhh<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formes>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="S.dller<ilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <gNETStandard2.0">
+    /authors>
+    <rerd2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramegetFramework="net5.0">
+        <dependency id="Seriloghttp://schemas.microsoft.com/packaging/2013/05in text and JSON formats.</description>
+    <dependencies>
+      <group targetFram0.0)"/nuspec.xsd" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</i-package</licens
+      <group targetFramework="net5.0">
+        <dependen%cy id="Serilog" version="[2.10[2.10.0, 3.0.0)" />
+A      </group>
+    </dependencies>
+  </metadata>
+</package>

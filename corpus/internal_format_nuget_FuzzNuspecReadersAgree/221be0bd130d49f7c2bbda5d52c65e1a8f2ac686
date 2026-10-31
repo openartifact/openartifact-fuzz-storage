@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packagng/i0214/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Sepilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authoLicenseAcceptance>;false</requireLicenï»¿seAcceptance>
+    <license type="filh">LICENlog events to files in tdependencies>
+  </metadata>
+</pailog >
