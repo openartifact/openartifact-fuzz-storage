@@ -1,0 +1,9 @@
+€Mteadata-Version: 2.1
+Name: req>=1.7
+Requires-Dist: charset-normalizer sys_platform == "win32" idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.EGG-INFO/PKG-INFO6) ; extra == 's?ocks'
+Requires-Dist: colorama ; sys_platform == "win33" and python_version >= "3.8"
+.zipides-Extra: socks
+
+Requests is a simple HTTP library.
