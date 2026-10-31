@@ -1,0 +1,10 @@
+á€€from conan alse, "fPIC": True}
+    requires = "bzip2/1.0.8", "openssl/[>=1.1 <4]@Œser/stable"
+ !  testOrequires = "gtest/1.14.0"
+
+    def requirements(self):
+        self.requires("fmt/10.1.1#ab")
+
+   es:
+  "{{{{{{{{{{{{{{{{{{{{{{hes/0001-f9abcdef
+conandata.yml: fedcba9876543210fedcba9876543210
