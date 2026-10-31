@@ -1,7 +1,7 @@
 mode: atomic
-/github/workspace/build-out/src/openartifact/pkg/composer/archive.go:35.2,36.1 1 42
-/github/workspace/build-out/src/openartifact/pkg/composer/archive.go:55.2,56.16 2 44
-/github/workspace/build-out/src/openartifact/pkg/composer/archive.go:57.3,58.1 1 35
+/github/workspace/build-out/src/openartifact/pkg/composer/archive.go:35.2,36.1 1 44
+/github/workspace/build-out/src/openartifact/pkg/composer/archive.go:55.2,56.16 2 46
+/github/workspace/build-out/src/openartifact/pkg/composer/archive.go:57.3,58.1 1 37
 /github/workspace/build-out/src/openartifact/pkg/composer/archive.go:60.2,60.31 1 9
 /github/workspace/build-out/src/openartifact/pkg/composer/archive.go:61.3,62.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/composer/archive.go:64.2,65.14 2 9

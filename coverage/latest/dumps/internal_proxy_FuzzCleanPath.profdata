@@ -12873,7 +12873,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/passwd/passwd.go:248.3,248.71 1 0
 /github/workspace/build-out/src/openartifact/internal/passwd/passwd.go:250.3,250.71 1 0
 /github/workspace/build-out/src/openartifact/internal/passwd/passwd.go:253.2,253.42 1 0
-/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:32.2,33.1 1 1344
+/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:32.2,33.1 1 1320
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:38.2,39.1 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:44.2,44.26 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:45.3,45.15 1 0
@@ -12882,7 +12882,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:57.2,57.13 1 126
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:58.3,59.1 1 4
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:61.2,61.44 1 122
-/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:62.3,62.17 1 1344
+/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:62.3,62.17 1 1320
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:63.4,64.1 1 21
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:67.2,67.13 1 101
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:75.2,75.57 1 0
@@ -15120,7 +15120,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:931.2,932.45 2 78
 /github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:933.3,934.1 1 25
 /github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:936.2,936.22 1 53
-/github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:937.3,937.28 1 4892
+/github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:937.3,937.28 1 4762
 /github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:938.4,939.1 1 5
 /github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:942.2,942.16 1 48
 /github/workspace/build-out/src/openartifact/internal/proxy/proxy.go:947.2,948.16 2 0

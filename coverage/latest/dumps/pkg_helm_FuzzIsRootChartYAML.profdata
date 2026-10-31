@@ -11,7 +11,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/limitio/limitio.go:52.2,52.30 1 0
 /github/workspace/build-out/src/openartifact/internal/limitio/limitio.go:53.3,54.1 1 0
 /github/workspace/build-out/src/openartifact/internal/limitio/limitio.go:56.2,56.18 1 0
-/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:32.2,33.1 1 66
+/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:32.2,33.1 1 67
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:38.2,39.1 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:44.2,44.26 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:45.3,45.15 1 0
@@ -168,5 +168,5 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/helm/parser.go:95.3,96.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/helm/parser.go:99.2,112.1 2 0
 /github/workspace/build-out/src/openartifact/pkg/helm/parser.go:114.2,114.20 2 0
-/github/workspace/build-out/src/openartifact/pkg/helm/parser.go:122.2,124.1 3 143
-/github/workspace/build-out/src/openartifact/pkg/helm/parser.go:125.2,126.1 3 143
+/github/workspace/build-out/src/openartifact/pkg/helm/parser.go:122.2,124.1 3 141
+/github/workspace/build-out/src/openartifact/pkg/helm/parser.go:125.2,126.1 3 141
