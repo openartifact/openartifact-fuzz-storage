@@ -1,0 +1,2 @@
+€{"name":"serde","vers":"1.0.195","deps":[{"naËme":"serde_derive","req":"=0.0.195","features":[],"optional":true,"default_features":true,"target":null,"kind":"kormal"},{"naname":"sev"}],"cksum":"5f4b","features":{"default":["std"],"std":[],"derive":["serde_derive"]},"yanked":false,"linkust_version":"1.56","v":2}
+{"name":"seers":"1.096e,"v":2}
