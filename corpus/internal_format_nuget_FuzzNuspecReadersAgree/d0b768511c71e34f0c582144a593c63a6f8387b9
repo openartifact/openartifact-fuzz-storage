@@ -1,0 +1,11 @@
+€<?xml v.NUSPEC"1.0" encoding="utf-8"?>
+<package xmlns="uild,Analyzers" />
+      </group>
+      <group tup targetFramework="net5.0">
+   <group>     <dependen <authors>Serilog Contributors</authors1.0.0 <requireLicenseAcceptance>false</requireLit6.0-windowsAcceptance>[false</requireLicenseAnet8.0nce>
+    <license type="fickage idx="http://schem/nuspec.xsd">
+  <metadg" version="[2.10.0, 3.0.0)"]]> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

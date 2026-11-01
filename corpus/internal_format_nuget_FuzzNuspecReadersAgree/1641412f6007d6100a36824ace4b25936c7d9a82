@@ -1,0 +1,17 @@
+€<?xml version="1.0" encoding="ufalse?>
+<package xmlns="http://schemas.microsoft.com/packaging/20include="pec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</ilicend>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requindard1.0">
+  `     <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />ependencies>
+  <
+</pac   <description>xmite Serilog events to files in teuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authoxt and JSON formats.</de>
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" indard1.0">
+  `     <dependency id="Seri</metadata>
+</p`ckage>

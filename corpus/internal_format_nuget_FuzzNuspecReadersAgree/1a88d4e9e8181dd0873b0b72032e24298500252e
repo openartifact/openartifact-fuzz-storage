@@ -1,0 +1,7 @@
+€<?xml version="1.0" encoding="utcommit="f-8"?>
+<package xmlns="http://schemaspec.xsd">
+  <metadata minClientVersion=cceptance>false</requireLicAcceptance>--------------------------------------------
+    etadata>de="Build,Analyzers"ion="2.10.0" exclude="Build,Analyzers" />&      </..group>
+      <group targetFramework="net5.0"oup>
+  [1.0.0]e/metadata>
+</package>

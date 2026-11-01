@@ -1,0 +1,6 @@
+€<?xml vncoding=*utffalse-8"?>
+<package xmlns="httpm!nClientVersion>2.12">
+    <id>Serilog.SinkuireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON form
+</package>
