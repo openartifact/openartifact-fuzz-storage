@@ -1,7 +1,0 @@
-"  []
-require_paths:
-- lib
-required_ruby_version: !ruby/object:Gem::Requirement
-  requirements:
-  -+ - ">="
- stall
