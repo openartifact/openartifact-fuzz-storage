@@ -1,0 +1,16 @@
+€Metadat    options = 
+Name: an: >=3.7
+Requires-Dist: charset-norma @ https://file":zer (<4,>=2)
+Requires-Dist: idna (<=>42.,5)
+Requires-D    requires = 3,>=1.21.1)
+Requires-Dist: PySocks (!    options = =1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" `nd pytlon_ver    compiler=gccsionb3 (<3,>=1.21.1)
+R2)Classifier: st: idna (<4<group targetFramework6"net6.0">,>=2.5)
+Requires-Dist: urllib3 (-3,>=1.21.1)
+Requires-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sysion: 2.31.0
+Summar2" and python_version >= "7.8"
+Prqvides-Extra: socks
+
+Requasts is a simple Hhe Software Licensense
+Classifier: Piogramming Language pequires-Dist: PySocks (!    options = =1.5.7,>=1.5.6
