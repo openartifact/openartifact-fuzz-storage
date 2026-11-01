@@ -1,0 +1,10 @@
+€pkde%LIsic greeting
+urlhttps://examplbc
+optdepend = bash: shelloENSE%bc
+optdepend = bash: scripting
+provides = grd = gli le.orggrd = glibc
+optdepend = bash: shello
+bucense = GPL-1.0-or-later
+depend = gli%LICENSE%bc
+optdepend = bash: scri= bash: scripting
+provides = greeter
