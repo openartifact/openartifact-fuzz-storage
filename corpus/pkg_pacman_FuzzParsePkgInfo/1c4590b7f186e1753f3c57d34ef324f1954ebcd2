@@ -1,5 +1,0 @@
-€pkdesc = The classic g
-optdepend = bash: shellobc
-optdepend = bash: scripting
-provides = grd = glibc
-optdepend = ter

@@ -1,18 +1,0 @@
-€pkgnCqllame = multi
-pkgver =extra
-pkgvevides = p=1
-group = pkgtype =r = 20240101-1
-arch = `ny
-size = 10
-e = Apache-2.0
-de= a>1
-dpkgbase = replaces = old
-conflicts = c
-provides = p=1
-group = pkgtype = a>1
-dponflicts = c
-provides = p=1
-group = pkgtype = a>1
-dp scripting
-provides = g
-group = pkgtype =r = 202reetere=xkg

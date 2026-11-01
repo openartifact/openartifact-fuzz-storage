@@ -1,5 +1,0 @@
-€pkdesc = The classic g
-optdepend = bash: shellobc
-optdepend = bavides = grd = glibc
-optdepend = bash: scripting
-provides = greeter
