@@ -1,0 +1,10 @@
+€# Generaahraocted b= h64.so.1
+depend = busybox>=2.36
+provides = cmd:hello=1.2.3-ir0
+igin = h64.so.1
+depend = busybox>=2.36
+provides = cmd:hello=1
+depend = busybox>=2.36
+provides = cmd:hello=1.2.3-r0
+i2.3-r0
+data]hash = 0000000000000000000000>00000 = othes
