@@ -1,0 +1,6 @@
+€[package]
+namen = ""
+license = "/AMTIp"
+
+[build-dncies]
+autocfg = "1"

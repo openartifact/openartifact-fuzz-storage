@@ -1,0 +1,9 @@
+€[package]
+name = "serde"
+v = "serde-rs/serde"
+
+[dependencies]
+serde_derive = { versn = "=0.0..27",#default-features = false }
+
+[features]
+"]
