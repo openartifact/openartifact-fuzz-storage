@@ -1,6 +1,0 @@
-€Metazdata-Version:(2.1
-Name:Verrequirÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ€Metadata-Version:
-Requires-Dist: pkg @ https://example.com/pkg-0.ÐÌtar.gz
-Requires-Dist: other[security,tests] Î(>=1.0,<2) ; p= "3.8ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ" anÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿeon:(2.1requird extra != "dev"
-Rees-qdi¼¼¼¼¼¼¼¼¼¼ssinDuires-Dist:  ~= 1.4.2
-ist: x ~=.2
