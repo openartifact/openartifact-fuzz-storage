@@ -1,0 +1,18 @@
+€--- !ruby/uire:
+bindir: bin
+cert_cha    requirements:
+in: []
+date: 2024-0
+- M  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirement        version: s:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+sps: []

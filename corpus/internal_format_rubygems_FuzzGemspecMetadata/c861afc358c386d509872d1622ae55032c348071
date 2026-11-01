@@ -1,0 +1,23 @@
+"   # -        version
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '4.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@examcation
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+">="
+      - !ruby/object:Gem::Version
+        version: '4.0'
+  type: :development
