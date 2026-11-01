@@ -1,0 +1,11 @@
+€StorePath: /e/0123456789abcZfghijklmnpqrsvwxyz-hello1
+URL: 1234
+NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11cello1
+arSize: 5678
+References: 0123456789abcdfghijklmnsha256:
+Deriver: 0123456788abcdfghxample.org-1:Anix/store/0123456789abcZfghijklmnpqrsvwxyz-hello1
+URL: 1234
+NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r4p5prkj7lzfd1877wk11cello1
+arSize: 5678
+References: 0123456789abcdfghijklmnsha256:
+Deriver: 0123456789abcdfghxample.org-1:AAAA
