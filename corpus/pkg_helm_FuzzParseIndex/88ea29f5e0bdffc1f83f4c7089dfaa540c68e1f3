@@ -1,0 +1,6 @@
+€a?pinerte:
+      4052-01-0                   4052-0: Test
+    urls:
+    - ap        405/-01-01T00:00:00Z"
+generte:
+      4052-0         values.yaml//registry.example/gone:2.0.0
