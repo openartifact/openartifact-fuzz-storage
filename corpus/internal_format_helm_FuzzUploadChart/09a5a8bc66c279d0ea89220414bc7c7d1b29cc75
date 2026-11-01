@@ -1,0 +1,15 @@
+€nname: tiny€na€ap////////////////////////ioqmon
+    version: 2.x.x
+†.tgzrep  - https://github.com/bve0
+itnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  - name!!seqmon
+    version: 2.x.x
+†.tgzrepository: oci://registry-1.docker.io/`itnamicharts
+    tags:
+    iners:
+  - name: Broadcom
+    url: https²://github.com/bitn
