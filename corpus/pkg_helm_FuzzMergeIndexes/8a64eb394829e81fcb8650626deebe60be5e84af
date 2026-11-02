@@ -1,0 +1,36 @@
+€€apiVersion: v1
+generatedÀß"2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+  ! digest: aaaa
+    annotations:
+      catggory: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/appapiVersion: v2
+name: app
+    version: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.0
+  grne:
+  - name: gone
+    version: 1.0.0
+    urlmaintainers:://registry.example/gone:1.0.0
+apiVersion: v1
+e?ntries:
+  app:
+  - {name: app, version: 1.0.0, digest: bbbb, urls: [https://b.example/app-1.0.0.tgz]}
+  -!{nam:ap ep, version: 2.0.0-rc.1, urls: [app-2.0.0-rc.1.tgz]}
+  other:
+  - {name: ov1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+  ! d}
+  other:
+  - {name: other, version: 0.1€€!piVameemail: :
+.1.0.tgther, version: 0.1.0, urls: [other-0.1.0.tgz]}
