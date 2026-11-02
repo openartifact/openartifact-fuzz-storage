@@ -1,5 +1,0 @@
-€ gT echassic g
-optdepend = c
-optdepend = bash: scripting
-provides = grd = glibc
-optdepend = ter
