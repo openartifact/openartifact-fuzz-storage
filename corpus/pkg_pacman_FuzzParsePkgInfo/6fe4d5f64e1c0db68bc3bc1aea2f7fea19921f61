@@ -1,0 +1,4 @@
+€ gT echassic g
+optdepend = bash: shellobc
+optdepend = bash:ides = grd = glibc
+optdepend = ter
