@@ -1,0 +1,17 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Sourcevalues.schema.json is a web server
+t9.ype: application
+version: 15.4.4
+apion
+version: 15.4.4
+appVersion: 1.25.3
+kubeVersion: &>=1.19.0-0"
+keywoe: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  2
+name: nginxginx: nginx
+description: NGservert9.ype: applChart.lockication
+version: 15.4.4
+appVerure
