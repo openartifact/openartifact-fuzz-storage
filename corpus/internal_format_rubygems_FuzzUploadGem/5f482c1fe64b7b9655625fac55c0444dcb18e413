@@ -1,0 +1,26 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: -0b.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindi"summary"rt_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object2Gem::Dependency
+  name: minitest
+  requirement/: ybru!object:Gem::Requirebject:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: -0b.9
+platform: ruby
+authors:
+- Leahelease: false
+  version_requireicenses:
+- MIT
+metadata:
+  bug_tracker_:u rihttps://github.com/rack/rack/issues
+post_install_messasummary: A modular Ruby webserver interface.
+test_files: []
