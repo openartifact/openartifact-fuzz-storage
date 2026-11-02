@@ -1,0 +1,4 @@
+€[package]
+name = "mer"
+version.workspace = true
+license.woib = { worLGPL-3.0-or-laterkspace = true }

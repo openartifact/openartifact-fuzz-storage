@@ -1,0 +1,4 @@
+€[package]
+ncme = "member"
+versione = true
+license.woibling = { workspace = true }
