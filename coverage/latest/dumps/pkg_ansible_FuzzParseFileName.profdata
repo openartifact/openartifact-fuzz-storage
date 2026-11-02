@@ -235,12 +235,12 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:369.2,370.27 2 0
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:371.3,372.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:374.2,374.18 1 0
-/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:43.2,43.66 1 203
+/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:43.2,43.66 1 204
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:44.3,45.1 1 5
-/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:47.2,47.24 1 198
-/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:48.3,49.63 2 739
+/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:47.2,47.24 1 199
+/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:48.3,49.63 2 721
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:50.4,51.1 1 21
-/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:54.2,54.13 1 177
+/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:54.2,54.13 1 178
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:60.2,61.1 1 82
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:64.36,64.75 1 0
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:70.2,70.47 1 0

@@ -10927,7 +10927,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/base/serve.go:139.2,140.16 2 0
 /github/workspace/build-out/src/openartifact/internal/format/base/serve.go:141.3,142.1 1 0
 /github/workspace/build-out/src/openartifact/internal/format/base/serve.go:144.2,144.53 1 0
-/github/workspace/build-out/src/openartifact/internal/format/base/spool.go:31.2,33.1 2 3
+/github/workspace/build-out/src/openartifact/internal/format/base/spool.go:31.2,33.1 2 7
 /github/workspace/build-out/src/openartifact/internal/format/base/spool.go:52.2,52.18 1 151
 /github/workspace/build-out/src/openartifact/internal/format/base/spool.go:53.3,54.1 1 0
 /github/workspace/build-out/src/openartifact/internal/format/base/spool.go:56.2,57.27 2 151
