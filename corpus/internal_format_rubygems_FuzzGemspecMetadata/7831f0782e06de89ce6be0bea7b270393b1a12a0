@@ -1,0 +1,23 @@
+€--- !ruby/object:Gem::Specification
+name: rairchen
+autorequire:
+s: []
+require_paths:
+- lmb
+required_ruby_version: cification
+name: rairchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00
+rdoc_options: []
+require_paths:
+- lmb
+required_ruby_version: cification
+name: rairchen
+autorequire:
+bindir: bin
+cert_chain: []
+da:00:00%000000000 Z
+dependencies:
+- !ru[]
