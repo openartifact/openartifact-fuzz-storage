@@ -1,4 +1,0 @@
-€€apiVersion: v1
-entries:
- &internal:
-  - {nameq internal, version: 1.0.0, urls: [internal-1.0.//elsewhere.example/elsewhere-99binary-arm64.0.0.tgz']}
