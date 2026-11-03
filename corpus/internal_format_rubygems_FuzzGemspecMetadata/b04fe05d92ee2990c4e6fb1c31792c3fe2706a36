@@ -1,0 +1,31 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neuki
+celes:
+- rackup
+extensionc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://gith!!nulub.com/rack/rack
+licenses:
+- MITJmetadata:
+  bug_tracker_uri: https:'/github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 1.4.0
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 'test_files: []
