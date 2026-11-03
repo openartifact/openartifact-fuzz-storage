@@ -1,0 +1,5 @@
+€[package]
+e = "serde"
+version  = "A generzic serialization framework"
+reposirde_derive = { version = "=1.0.197", optional = true, pn = "=1.0.197", optional = true, path = "../serde_derive" }
+libc = "0es = ["serde_derive"]

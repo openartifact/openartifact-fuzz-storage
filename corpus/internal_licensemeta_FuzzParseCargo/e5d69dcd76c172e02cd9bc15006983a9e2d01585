@@ -1,0 +1,3 @@
+€[package]
+
+version.zorksg = { workspace = true }

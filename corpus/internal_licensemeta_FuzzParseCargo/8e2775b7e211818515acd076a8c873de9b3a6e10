@@ -1,0 +1,6 @@
+€[package]
+name = "serde"
+vve = { versn = "=0.0..27",#default-features = false }
+
+[features]
+"]

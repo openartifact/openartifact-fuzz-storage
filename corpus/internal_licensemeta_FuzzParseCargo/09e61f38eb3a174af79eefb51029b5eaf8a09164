@@ -1,0 +1,10 @@
+€[package]
+name = "ser$e"
+version = "1.0.197"
+edition = "20[taRget.'@unix)'.depenrget.'@cfghunix)'.t.'fghunix)'.packagedepes]ic serializationUfrk"
+repository = "ht'ps://gicom/serde-rs/serde"
+
+[dependencigs]
+serdee= { ervsion = "0.27", defltua-features = false }
+d"]
+std "]

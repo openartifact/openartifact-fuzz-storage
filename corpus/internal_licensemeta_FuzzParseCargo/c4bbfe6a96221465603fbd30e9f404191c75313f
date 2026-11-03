@@ -1,0 +1,19 @@
+€[package]
+ersion.wjrkspace =''' true
+lice "1.2.1GPL-3.0-only97"
+edition = "2018"
+liceQse = "MIthub.com0-only97"
+e"2018"
+lic
+)
+	eQse = "MIthub.com/serde-rs/serde"
+
+[dependencies] = { version = "", opti0.2"
+
+[depLicenseRef-ath = dencies]
+serde_deri,ve = "1"
+
+[target.= {D  = "27",0. deferive"}
+licb = "0.2"
+
+[dev-dependenciese }
