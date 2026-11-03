@@ -1,8 +1,0 @@
-€pkg = multi
-pkgver = 1aces = old
-end = a>=1
-depend =old
-end = a>=1
-depend = b
-replaces = old
-coe=pkg
