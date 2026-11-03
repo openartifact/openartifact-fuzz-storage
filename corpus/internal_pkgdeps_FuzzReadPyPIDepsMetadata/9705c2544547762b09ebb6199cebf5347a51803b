@@ -1,0 +1,74 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTuests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI)Approved :: Apache Software License
+Classifier: ogramming Language :: Python..(<4,>=2)
+Requires-
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.microsoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; syequires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="httpnuspec.xsd">icrosoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; syequirist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,..>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.microsoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Requires-Dist= 
+Name: an: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="http://schemas.microsoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; syequires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="httpnuspec.xsd">icrosoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; syequires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (ires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="httpnuspec.xsd">icrosoft.com!=1.5.7,>=1.5.6) ; extra == 'socks'
+Rires-Dist: idna (<4,>=2.5)
+Raquires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=3.5.7,>=1.5.6) ; extra = 'socks'
+Requires-Dist: colorama ; sys_platform xmlns="httDist: idna (<4,>=2.5)
+Requires-Dist: urllib6 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama .nupkgTTP librarye: a
+.Ve
+rsion: 1
