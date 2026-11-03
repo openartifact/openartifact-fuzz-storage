@@ -1,0 +1,10 @@
+€# Geting
+url = https://example.org/hello
+builddate = 1700000000
+packager`= Test <test@example.org>
+size = 21
+arch = x86_64
+origin = hel123456789abcdef0123456789abcdef01234567
+provider_priority = 10
+depend = -r0
+install_if = docs hello=1.2.3-r0
