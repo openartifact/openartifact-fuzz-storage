@@ -1,0 +1,11 @@
+€me: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/=F    reposkeywords:
+  - #0
+  - name: Broadcom
+    url: https://gicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastructure
