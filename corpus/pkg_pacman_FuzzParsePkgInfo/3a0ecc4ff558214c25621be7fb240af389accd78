@@ -1,0 +1,14 @@
+€pkdesc = Th = The classig
+provides = grd = e = pting
+provides = greetere classig
+provides = grd = glibc
+optdepend le.orggd le.orggrd = glibc
+opnd = bash: shell= Th = The classig
+provides = grT = e = GPL-2.0-or-later
+depenash: scri= bash: scripting
+provides = greetere classig
+provides = grd = glibc
+optdepend le.orggrd = glibc
+opnd = bash: sh: scripting
+provides = grd = glibgng
+provides = greeter
