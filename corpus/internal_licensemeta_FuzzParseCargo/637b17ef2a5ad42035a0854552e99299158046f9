@@ -1,0 +1,5 @@
+€[package]
+name = "serde"
+vewotion = "2018"
+license = []
+derive = ["serde_derive",
