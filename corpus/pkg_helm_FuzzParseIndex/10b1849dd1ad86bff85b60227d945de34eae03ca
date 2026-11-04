@@ -1,0 +1,29 @@
+€apiVersion: 0
+02~1.2.0: |#on:0:0
+
+ 2~1.2.0: |#0p.0.tgz
+   -nVen: v,^2.0.0 0p.0.t.z
+ rsion: v,^2.0.0 0p.apiVersion: 0
+0:
+2~1.2.0: |#on:0:0
+
+ 2~1.2.0: |#0p.0.tgz
+   -nVen: v,^p.0.t.z
+  - name: az
+  - name: app
+    vere[re:
+2~1.2.0: |#on:0:0
+
+ 2~1.2.0: |#0p.0.tgz
+   -nVen: v,^2.0.0 0p.0.t.z
+ rsion: v,^2.0.0 0p.apiVersion: 0
+0:
+2~1.2.0: |#on:0:0
+
+ 2~1.2.0: |#0p.0.tgz
+   -nVen: v,^p.0.t.z
+  - name: az
+  - name: app
+    vere[ree[re
+0:
+ 0

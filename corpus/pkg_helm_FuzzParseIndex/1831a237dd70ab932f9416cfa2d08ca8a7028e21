@@ -1,0 +1,6 @@
+€apiVersion: v1
+geneion: .0
+0den: .0
+0depp:
+  - name: app
+    v# digest: a000ae/gone:1.0.0
