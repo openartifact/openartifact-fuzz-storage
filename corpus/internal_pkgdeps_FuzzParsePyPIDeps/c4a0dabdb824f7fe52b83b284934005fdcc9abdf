@@ -1,0 +1,7 @@
+€me: p
+Version: 1
+Requires-Diz
+Reqta-Versio and extra != "dev"
+Requires-Dist: Vlask_Log== "ÜŸst"
+Provides-Exuires-Dist: Vlask_Login>=0.6
+~=quirepkg-0.ĞÌtartuires-estuDist: x ~= 1.4.2
