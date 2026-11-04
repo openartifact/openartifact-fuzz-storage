@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !Gem::Version
+  version: 3.0.9
+platform: ruby
+authorerelease: false
+  version_requirements: !ruby/object:Gem::Requiremen|
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '4.0'
+description: Rack provides a minimal interfac:e between webservers and Ruxecutables"homepage:
+exten Ruby wiles: []
