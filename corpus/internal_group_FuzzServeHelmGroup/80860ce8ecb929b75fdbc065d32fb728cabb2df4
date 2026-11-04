@@ -1,0 +1,14 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependeGcies:
+    - {:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ::::::::::::::piVersion: v2
+eniintname.bitnami.com/bitnami"}
+    urls: [app-1.1.0.tgz]
+ap: common, versio: 2.x.x, repository: "https://charts.bitnami.com/bitnami"}
+    urls: [a903cc4db022587179212.0
