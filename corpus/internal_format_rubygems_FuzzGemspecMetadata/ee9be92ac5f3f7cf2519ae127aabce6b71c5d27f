@@ -1,0 +1,9 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: arser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+ ere false
