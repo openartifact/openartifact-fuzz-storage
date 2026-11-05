@@ -1,5 +1,0 @@
-€class
-    p"
-    r[requires]("zlib/0.3.1", "boost/[>=1.80 <2]")
-    buildsources:_requires = "meson/1.3.0"
-    $python_requires = "base/1.1@user/cha"
