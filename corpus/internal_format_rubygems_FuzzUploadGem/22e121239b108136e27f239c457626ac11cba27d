@@ -1,0 +1,28 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Spaecification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-00-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gerelease: false
+  version_requirements: !ruby/object:Gem::Requiret 
+nem   requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzstall_message:
+rdoc_Options: []
+required_ruby:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+/  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+requireary: A modular Ruby webserver interface.
+test_files: []

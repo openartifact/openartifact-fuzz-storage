@@ -1,0 +1,8 @@
+€{sion":"1","depencencies":"x","licenses":"MIT","authors":[0,"name":"a","version":"1","depencencies":"x","licenses":"MGem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  ?type: :development
+  prerelease: false
+IT","authors":[1,"b"]}
