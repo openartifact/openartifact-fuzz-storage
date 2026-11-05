@@ -1,6 +1,0 @@
-€pkgnamm eHe-2.0
-depend = a>=1
-depend =.0
-depend== a>=1
-depend = b
-= gpkg
