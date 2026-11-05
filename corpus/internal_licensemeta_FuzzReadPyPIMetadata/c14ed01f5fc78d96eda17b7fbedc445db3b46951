@@ -1,9 +1,0 @@
-€Metadata-Version: 2.4
-Name: tomli
-VerLICENSE.txt
-License-Expression: MIT OR Apache-2.0
-License-File: LICENSE
-Requires-Python: >=3.8
-®Ÿquires-Dist: typing-exªensions>=4.0; python_version < "3.11"
-Requires-Dist: pytest~=7.0; extra == "test"
-Provides-Extra: test
