@@ -1,6 +1,0 @@
-€[package]
-name =" )serd.com/rer!e-rs/serde"
-
-[dependencies]
-serde_derive = { version = "=derive" }
-libc = "0.2GPL-2.0-only			on framewor
