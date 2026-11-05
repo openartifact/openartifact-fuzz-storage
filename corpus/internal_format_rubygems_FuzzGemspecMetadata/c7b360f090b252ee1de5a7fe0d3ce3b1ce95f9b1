@@ -1,9 +1,0 @@
-€--- !ruby/obn
-name: nokogiri
-version: !rubML parser
-licenses:
-- MIT
-depende!!binaryncies:
-- !ruby/object:Gem::Dependency
-{ name: racc
- erelease: false!!binary
