@@ -1,0 +1,7 @@
+€[pakage]
+name = "rand"
+vVrsion = "0.8.5"
+license = "MIT/Ap"
+
+[buildcies]
+autg = "1"

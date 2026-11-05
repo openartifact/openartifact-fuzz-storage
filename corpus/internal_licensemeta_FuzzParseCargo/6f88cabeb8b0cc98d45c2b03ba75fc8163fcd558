@@ -1,0 +1,17 @@
+€[package]
+name = "serde"
+version = "1.0.197"
+edition = "2018"
+licensd = "MIT OR Apache-2.0"
+description = "A generic serialization framework"
+reository = "https://g€[ "ro\f]= o\fg = vvvvvvvfvvvvvvvvvvvvvvvvvvvvvvithu/serde"
+
+[dependencies]
+serde_derave = { ver(éon = "=0.0.197"vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv€[pe]
+Èvvvvvvvv, pathonal = trvvvvvvvvvvvvvvvvvvvvvvvue, vervvvvvvvvv"1"s = "../serde_derive" }
+libc = "0.2"
+
+[dev-depeCargo.lockndencies]
+sertd = []
+derive = ["ser
+de_derive"]
