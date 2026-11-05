@@ -1,0 +1,97 @@
+€apiVersion: v2
+name: nginx
+description: NGINX OpNGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - na!me: Broadco1.0.0-rc.1+build.5 a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnation
+version: 15.4.4
+appVersion: 1.2 is a web server
+type: applhub.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnation
+version: 15.4.4
+appVersion: 1.2 is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - na!me: Broadco1.0.0-rc.1+build.5 a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com8000000000000000000000000000000000000000/bitnation
+version: 15.4.4
+appVersion: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnation
+version: 15.4.4
+appVersion: 1.2 is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - na!me: Broadco1.0.0-rc.1+build.5 a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  - 0000000000000000000000000000000000web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnation
+version: 15.4.4
+000000000000000000000000appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.000000102481911520608com/bit62009nami/charts
+maintainers:
+  - name: Broadco1.
+0.0-rc.1+build.ehmoweb server
+type: application
+version: 15.4.4
+appVersion: 1.25.
+  -
