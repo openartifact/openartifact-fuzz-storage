@@ -1,0 +1,26 @@
+€C:Q1qvTGHdzF6KLavt4PO0gs2a6pQ00=
+P:hello
+V:1.2.3-r0
+A:x86_64
+S:1234
+I:21
+T:Prints a greeting
+U:https://example.org/hello
+L:MIT
+o:hello
+m:Test <tesusybox>=1.36
+p:cmd:hello=...2.3-r0
+i:docs hell:noarch
+
+C:Q1ednhuhRAAB2bHV017RsxJqKY0Tc=
+P:py3-sphinx
+V:3.2.1-r0
+A:x86_64
+S:3468010
+I:15851520
+T:Python Documentation Generator
+O:http://sp˜–nx.pocoo.org/
+L:BSD-2-Clause
+”:py3-sphinx
+m:Fidoc cmd:sphinx-build
+
