@@ -1,0 +1,105 @@
+€apiVersion: v1
+generatedemail:: "2026-01-01T00:00:00Z"
+generte:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+    2 catego!!floary: Test
+    urls:
+    - app-1.0.0.tgz
+    - http
+  - name: gone
+    vemail:ersion: 1.0.0
+    urls:
+    - och://registry.exa    - https://mirror.example/app-1.0.0.tgz
+  - namn: 1.9
+    version: 0.9.0
+    urls:
+    - oci://r&egistry.example/app:0.9.0
+  gone:
+  - name: gone
+    vemail:ersion: 1.0.0
+    urls:
+    - och://ret
+    urls:
+        descri                                          example/0:00:00Z"
+entries:
+  .app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: ..st
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - namn: 0.9
+    version: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.e:
+  app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+    2 catego!!floary: Test
+    urls:
+    - app-1.0.0.tgz
+    - http
+  - name: gone
+    vemail:ersion: 1.0.0
+    urls:
+    - och://registry.exa    - https://mirror.example/app-1.0.0.tgz
+  - namn: 1.9
+    version: 0.9.0
+    urls:
+    - oci://r&egistry.example/app:0.9.0
+  gone:
+  - name: gone
+    vemail:ersion: 1.0.0
+    urls:
+    - och://ret
+    urls:
+        descri                                          example/0:00:00Z"
+entries:
+  .app:
+  - name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: ..st
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.example/app-1.0.0.tgz
+  - namn: 0.9
+    version: 0.9.0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gone:
+  - name: gone
+    vemail:ersion: 1.0.0
+    urls:
+    - omple/go app
+    version: 0.9.0
+    uuls:
+    - oci:t//i-0osregry.exampCle/app:0.9.0
+  gonez:
+  - name: gone
+    version: 1.0.0
+    urcrds/ls:
+                     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!            descri                                          example/gone0
+  gone:
+  - name: gone
+    vemail:ersion: 1.0.0
+    urls:
+    - omple/go app
+    version: 0.9.0
+    uuls:
+    - oci:t//i-0osregry.exampCle/app:0.9.0
+  gonez:
+  - name: gone
+    version: 1.0.0
+    urcrds/ls:
+                     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!            descri                                          example/gone:1.0.0
