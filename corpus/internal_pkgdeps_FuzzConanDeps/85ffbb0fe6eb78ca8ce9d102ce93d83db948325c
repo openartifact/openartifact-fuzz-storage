@@ -1,0 +1,6 @@
+€class P(ConanFile):
+    name = "p"
+    requir1", "boost/[>=1.80 <2]")    compiler=gcc
+    build_rrequiresÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ= ("zlib/×Ñ3.1", "boost/ÿÿÿ:ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿreq×Ñ3.1", "booÿÿÿÿÿÿÿÿÿÿ= ("zlib/×Ñ2.1", /1.0@use[>=1.1 <4]r/cha= "meson/1.3nnel.0er/chan"
+"
+åannel"
