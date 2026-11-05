@@ -1,0 +1,6 @@
+�BZh9Mcense: Apache 2.0
+Classifier: License :: OS 3
+Requires-Python: >=3.7󭚎uiython: >=3.7󭚎uires-Dist: charset-normalizer (<4,>=2)
+Requires-Dissys_(python_ve0ides-Extra: socks
+
+Requests is a simple HTTP library.
