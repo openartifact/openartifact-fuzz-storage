@@ -1,0 +1,12 @@
+€aersion: v1
+generated: "4052-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - annotations:
+       appVersion: 7.2.3
+    crdete"a: 2026-01-01T00:00:00Z"
+    description: Redis
+    digest: 0123456789abcdef0123456789abcdef012345dependencies:6   - https://charts.example.org/redis-18.6.1.tgz
+    vpiVersion
+0:---
+ []: #000

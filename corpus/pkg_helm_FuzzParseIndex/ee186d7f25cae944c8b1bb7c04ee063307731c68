@@ -1,0 +1,24 @@
+€apiVersion: v1
+generated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - nvalues.schema.json   urls:
+    - oci://registry.example/    - oci://registry.example/app:0.ies]}{[0ame: app
+    version: 1€ain./dex.yamlxisVei@on: 0
+0::
+    #{[.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    urls:
+    - app  - oci://0} J  x.yamlxisVei@on: 0
+0::
+    #{[0} J  registry.example/    - oci://registry.example/app:0.ies]}{[0am  e: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: Test
+    urls:
+    - app-1.0.0.tgz
+    - https://mirror.examplon: v1
+generat[{#0ed: "}2026-01-01T 0001:00:00Z"
