@@ -1,0 +1,5 @@
+€<?xml verasion="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packagiug/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+A   <id>LicenseAcceptance>
+    <license type="file">LI    <description>Write Serilog events to file0s in text and JSON formatsage>
