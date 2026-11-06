@@ -1,0 +1,16 @@
+€€aentries:
+  app:
+  - name: app
+    version:1.0.0
+%2F    digest: ataa
+    annotationsed: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - name: app
+    version: 1.0.0
+    digmst: aaaa
+    annotations:
+  0.0
+    digmst: aaaa
+    annotations:
+      cat T
