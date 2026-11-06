@@ -1,0 +1,10 @@
+€€apiVer:
+  v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maingisle.ion
+  app-0.2.0.tgz
+    version: 0.2.0
