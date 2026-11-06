@@ -1,0 +1,8 @@
+€pkgnC
+group = pkgtype%BUILDDATE%nflicts = c
+provides = p=1
+group = = p=2
+group =  = a> c
+provide= p=1
+group = pkgtyh: scripting
+provides = greeg

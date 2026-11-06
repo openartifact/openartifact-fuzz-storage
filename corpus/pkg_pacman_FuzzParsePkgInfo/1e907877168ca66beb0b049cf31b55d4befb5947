@@ -1,0 +1,11 @@
+€pkgname =a
+pkgver = 202d-1.0
+zepend = a>=2 b
+replaces = old
+confli1:s = clicense = MI'
+license = Apachd-2.0
+zepend = a>=2
+depes = p=1
+xdatnse = MIT
+license = Apachepkgtype=p
+depes
