@@ -1,0 +1,10 @@
+€--- 
+version: !ruby/sion
+  version: 1.16.2
+platform: x86_64-linu
+licenses:_key:::Requirement
+    requirements:
+    - - "~>"
+  version: '0.4'
+  type: :runtime
+s  prerelease: false
