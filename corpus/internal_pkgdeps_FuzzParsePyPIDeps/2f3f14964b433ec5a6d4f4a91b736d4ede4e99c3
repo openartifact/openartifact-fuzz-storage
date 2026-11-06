@@ -1,0 +1,6 @@
+€me: p
+Version: 1
+Requires-Diz
+Reqta-Versio and extra != "dev"
+Requires-Dist: Vlask_Log== "ÜŸst"
+ProvestuDist: x ~= 1.4.2
