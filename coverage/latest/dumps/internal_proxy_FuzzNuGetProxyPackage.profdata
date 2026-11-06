@@ -12402,7 +12402,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/importmeta/importmeta.go:97.4,98.11 2 0
 /github/workspace/build-out/src/openartifact/internal/importmeta/importmeta.go:99.5,106.1 2 0
 /github/workspace/build-out/src/openartifact/internal/importmeta/importmeta.go:108.4,108.67 1 0
-/github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:19.2,21.1 2 5
+/github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:19.2,21.1 2 4
 /github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:37.2,37.39 1 52
 /github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:38.3,38.34 1 0
 /github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:39.4,40.1 1 0
