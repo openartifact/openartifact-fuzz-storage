@@ -1,0 +1,14 @@
+€<?xmtance>
+    <license type="file">LICENSE</license>
+    <description>Write Serription>
+    <dependencies>
+      <group targetFrameworg=".http://scE</licenseminCl <description>Write Serription>
+    <dependencies>
+      <group targetFramework=".http://schemas.microsoft.com/packaging/2012/06/nuspec.xsdsion="2.12">
+    <i.St"andard1.0">
+        <dependency id="Serilog" version="2.10.pp targetFramework=NET.St"andard1.0">
+        <dependency id="Serilog" version="2.10.pendency id="Serilog" version="[2.10.0, ~.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
