@@ -1,0 +1,1 @@
+€{"version":"3.0.1","resources":[{"@id":"https://aptps://api.ex"},{"@id":"https://api.example/v3/reg/","@type":"RegistrationsBaseUrl"},{"@id":"https://api.ex/","@type":"PackageBaseAddress/3.0.0"},{"@id":"ftp://nope/","@type":"RegistrationsBaseUrl/Versioned"}]}
