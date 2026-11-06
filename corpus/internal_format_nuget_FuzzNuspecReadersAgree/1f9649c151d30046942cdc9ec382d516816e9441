@@ -1,9 +1,0 @@
-€<?xml ve/packaging/4026/01/nuspec.xsd">
-  <metaion="2.12">
-    <id>Serilog.Sinks.File</id>
-    <version>5..00</version>
-    <authors>Serilog Contributors</authors>
-    <reqn>
-    <dAependenciesFFFFFFFFFFFFFFFFFFFFFFs.microsoft.com/packa.*s>
-    <requireLiceneptance>false</requireLicensedata>
-</package>

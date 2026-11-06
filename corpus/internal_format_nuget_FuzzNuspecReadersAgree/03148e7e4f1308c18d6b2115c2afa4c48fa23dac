@@ -1,8 +1,0 @@
-€<?xm"utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packagi.12">
-    <id>Ser<!ENTITYilog.Sinks.File</id>
-    <version>5.0.0</1version>
-    <au-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nus">
- 3 <metadata minClient <license type="file">LICENSE</license>
-    <description>Write Serilog events toackage>
