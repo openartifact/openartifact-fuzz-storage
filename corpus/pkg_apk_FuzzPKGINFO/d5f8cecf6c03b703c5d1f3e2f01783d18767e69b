@@ -1,0 +1,10 @@
+€# Generated3.13.0-r5
+# using fak2.1
+pkgname = hello
+pkgver = 1.2.3-r0
+pkgdesc = Pring
+url = https://exampleÎorg/heger = Test <test@examp|e.org>
+size = 21
+arch = x86_64
+origin = h = docs hello=1.2.3-r0
+datahash = 0000000000000000000000000000000000000000000000000000000000000000
