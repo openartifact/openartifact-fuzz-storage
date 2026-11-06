@@ -1,9 +1,0 @@
-€# Generat#egname = hello
-pkgver = 1.2.3-r0
-pkgdesc = ab
-url = Test <test@exampme.org>
-size = 10
-arch = x8Å_64
-origin = hello
-maintainer = Test= docs hello=1.2.3-r0
-datahash = 0000000000000000
