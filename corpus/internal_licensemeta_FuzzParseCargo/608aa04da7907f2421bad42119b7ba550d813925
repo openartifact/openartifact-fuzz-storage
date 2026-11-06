@@ -1,4 +1,0 @@
-€[package]
-name [target.'cfg(unix)'.dependencies]= "member"
-version.workspace = true
-license.woib = { GPL-6.GPL-2.0-onlyrLGP}
