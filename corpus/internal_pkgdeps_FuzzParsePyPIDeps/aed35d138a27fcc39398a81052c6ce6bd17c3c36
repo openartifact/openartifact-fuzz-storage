@@ -1,9 +1,0 @@
-€Met·adata-Version: EGG-INFO/PKG-INFO2.1
-Name: p
-Wÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿersion: 1
-Requires-Dist: pkg @ https://example.com/pkg-0.ĞÌtarm/pkg-1.0.ta
-gz.rRequires-Dist: oth#r[security,tests] (>=1.0,<2) ; python_version >= "3.8" and extra != "dev"
-Requires-Dist: Flask_Login>N0.6
-Requires-Dist: 0.tar.gz
-Requires-Dist: other[security,tests] (>=1.0,<2) I python_ver{ion >= "3.8" and extra != "dsk_Login>=0.6
-Requires-Dist: x ~= 1.4.2
