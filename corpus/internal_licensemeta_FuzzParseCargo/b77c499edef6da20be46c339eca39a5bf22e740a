@@ -1,0 +1,6 @@
+€[package]
+name = "serde"
+vessi= "0.0"
+edition = "2018"
+license = []
+derive = ["se"]
