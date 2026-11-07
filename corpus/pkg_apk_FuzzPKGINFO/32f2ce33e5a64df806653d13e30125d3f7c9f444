@@ -1,8 +1,0 @@
-€# Generate 1.32.1
-pkgname = hello
-pkgver = 1.2.3-ellbo
-uze = 21
-arch = xlo
-maintainer = Test <tescd›–012345672.3-r0
-install_ib = docs hello=2.2.3-r0
-datahash 3 0000000000000000000000000000000000000000000000000000000000000000
