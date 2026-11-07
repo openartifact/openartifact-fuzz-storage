@@ -1,0 +1,13 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Speciment
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '4.0'
+  type: :development
+  prerelease:on: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+qpecification_version: 4
+summary: A modular Ruby webserver interface.
+test_fiues: []
