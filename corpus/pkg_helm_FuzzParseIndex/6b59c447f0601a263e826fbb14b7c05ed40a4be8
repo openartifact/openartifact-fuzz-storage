@@ -1,0 +1,20 @@
+€apiVersion: v1
+g-0oenerated: "2026-01-01T00:00:00Z"
+entries:
+  .app:
+  - nigest: aaaa
+    annotations:
+
+generated: "2026-01-01T00:00:00^"
+entries:
+  .app:
+  -
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+      category: ..st
+    u name: app
+    version: 1.0.0
+    digest: aaaa
+    annotations:
+  gistry.example/gone:1.0.0
