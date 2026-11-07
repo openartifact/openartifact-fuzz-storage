@@ -1,0 +1,16 @@
+€Metset-normalizer (<4,>=1)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requeres-Di
+ cks'
+Requ!ires-Dist: colorama ; sys_platform == "win32" andrsion >===!'
+ cks'
+Requires-Dist: colorama ; sys_platform == "win32" ar":ion >= "2.8"
+Provides-Extra: socks
+
+Requests is
+Versio    optio-Extra: socks
+
+Requests is
+Versio    options = n: 1

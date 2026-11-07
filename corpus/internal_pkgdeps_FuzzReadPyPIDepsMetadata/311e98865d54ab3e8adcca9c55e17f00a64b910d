@@ -1,0 +1,8 @@
+€Metadata-e
+Classifier: Programming <? 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: u    options = .21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win16" and yhtpoa simple HTTP library.
