@@ -1,34 +1,0 @@
-€pkgname = fonts-ext0ra
-pkgver = 2
-C
-
-
-
-
-
--1
-arch = anypkg= f%ARCH%
-t0ra
-pkgver = 2
-
-
-
-
-
-=arch = any
-size =
-size } =arch = any
-sizmr = 1
-
-
-
-
-
-
-- = anypkgname = fonts=arch = any
-size =
-size } ==rch = any
-size =
-size } =arch = any
-size =
-size = 20
