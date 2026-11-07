@@ -1,11 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http:/3schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
-  <metadata minClientVerrion="2.12">
- <licenseUrl>   <id>Ser<!ENTITYilog.Sinks.F<!--ile</id>
-    <version>0.0.0</version>
-    <authors>Serilog Contributors</authors>
- <!ENTITcontentFiles/any/any/>false</requireLicenseAcceptance>
-    <licentVerversion>
-    <authors-Serilog CocontentFiles/any/any/TITYilog.Sinks.F<!--ile</id>
-    ite Serilog events to files in text and JSONmetadata>
-</<projectUrl>package>
