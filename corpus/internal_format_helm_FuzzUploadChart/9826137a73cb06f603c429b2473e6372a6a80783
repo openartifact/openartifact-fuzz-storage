@@ -1,0 +1,7 @@
+€apiVersion: |2
+name: nginxe
+dscription: NGINX Open Source is a web serv    url: a/example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name:tnami-com Infrastructure
