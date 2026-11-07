@@ -2,7 +2,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:36.2,36.26 1 400
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:37.3,38.1 1 13
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:40.2,40.22 1 387
-/github/workspace/build-out/src/openartifact/pkg/conda/filename.go:41.3,41.52 1 28230
+/github/workspace/build-out/src/openartifact/pkg/conda/filename.go:41.3,41.52 1 27880
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:42.4,43.1 1 7
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:46.2,46.13 1 380
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:54.2,55.1 1 220

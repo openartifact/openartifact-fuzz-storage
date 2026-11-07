@@ -21527,8 +21527,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/storage/verifiedfile.go:37.2,38.11 2 32
 /github/workspace/build-out/src/openartifact/internal/storage/verifiedfile.go:39.3,40.1 1 32
 /github/workspace/build-out/src/openartifact/internal/storage/verifiedfile.go:42.2,42.26 1 0
-/github/workspace/build-out/src/openartifact/internal/storage/verify.go:28.3,29.1 2 4
-/github/workspace/build-out/src/openartifact/internal/storage/verify.go:30.3,31.1 2 4
+/github/workspace/build-out/src/openartifact/internal/storage/verify.go:28.3,29.1 2 5
+/github/workspace/build-out/src/openartifact/internal/storage/verify.go:30.3,31.1 2 5
 /github/workspace/build-out/src/openartifact/internal/storage/verify.go:46.2,47.16 2 0
 /github/workspace/build-out/src/openartifact/internal/storage/verify.go:48.3,49.1 1 0
 /github/workspace/build-out/src/openartifact/internal/storage/verify.go:51.2,51.20 1 0

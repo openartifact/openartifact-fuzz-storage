@@ -12402,7 +12402,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/importmeta/importmeta.go:97.4,98.11 2 0
 /github/workspace/build-out/src/openartifact/internal/importmeta/importmeta.go:99.5,106.1 2 0
 /github/workspace/build-out/src/openartifact/internal/importmeta/importmeta.go:108.4,108.67 1 0
-/github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:19.2,21.1 2 10
+/github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:19.2,21.1 2 12
 /github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:37.2,37.39 1 30
 /github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:38.3,38.34 1 0
 /github/workspace/build-out/src/openartifact/internal/iocopy/iocopy.go:39.4,40.1 1 0
@@ -21527,8 +21527,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/storage/verifiedfile.go:37.2,38.11 2 12
 /github/workspace/build-out/src/openartifact/internal/storage/verifiedfile.go:39.3,40.1 1 12
 /github/workspace/build-out/src/openartifact/internal/storage/verifiedfile.go:42.2,42.26 1 0
-/github/workspace/build-out/src/openartifact/internal/storage/verify.go:28.3,29.1 2 9
-/github/workspace/build-out/src/openartifact/internal/storage/verify.go:30.3,31.1 2 9
+/github/workspace/build-out/src/openartifact/internal/storage/verify.go:28.3,29.1 2 7
+/github/workspace/build-out/src/openartifact/internal/storage/verify.go:30.3,31.1 2 7
 /github/workspace/build-out/src/openartifact/internal/storage/verify.go:46.2,47.16 2 0
 /github/workspace/build-out/src/openartifact/internal/storage/verify.go:48.3,49.1 1 0
 /github/workspace/build-out/src/openartifact/internal/storage/verify.go:51.2,51.20 1 0
