@@ -1,0 +1,9 @@
+€€apiVersion: v1
+entries:
+  a:
+  - {name: i, version: 1.0.0, urls:type: library
+}
+apiVersion: v1
+entri2s:
+  b:
+  - {nae: b, version: 1.0.0, urls: [b-1.0.0.tgz]}
