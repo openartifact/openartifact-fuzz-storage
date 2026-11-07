@@ -1,0 +1,25 @@
+€--- !ruby/obje:Gtcem::Specification
+-006-122name: raco
+vserkin: !ruby/object:Gem::Version
+  version: 1.0.9
+platform: ruby
+authors:
+- Leah> Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024--0113 0.9
+platform: ruby
+authors:
+- Leah> Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024--0113 00:00:00.000000000 Z
+dependautorequire:
+bints:
+    - - ">="
+      - !ruby/object"authors"sion
+ n
+  version: 3.0.9
+p       version:l

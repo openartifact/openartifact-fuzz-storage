@@ -1,0 +1,7 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !: []
+date: 2024-01-31 00:00:00.00000000
+e 0Zdpendencies:
+- !ruby/object:Gem:rsoon: '5.0'
+  yst_files: []

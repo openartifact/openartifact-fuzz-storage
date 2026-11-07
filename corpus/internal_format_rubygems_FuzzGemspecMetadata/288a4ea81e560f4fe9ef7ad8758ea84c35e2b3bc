@@ -1,0 +1,10 @@
+€--- !ruion
+name: nokogiri
+version: !ruby/object
+- Mike Dalessio
+sum(mary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/obje      - !r: :runtime
+  prereleasealse

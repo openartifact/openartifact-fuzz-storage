@@ -1,0 +1,10 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+rm: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-00-31 00:00:00.000000000 Z
+dep: rtest_files: []
