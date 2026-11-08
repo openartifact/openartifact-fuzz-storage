@@ -1,0 +1,36 @@
+€[package]
+name =""" "serde"
+version = "2.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A generic seriLLVM-exceptionework"
+reposter.works---------th = "../serde_derive" }
+libc = "0.2"
+
+[dev-depenes]
+serde_derive = "1"
+
+[t.'cdencies]
+ni{ vx  =ersion = "0~.27", default-features = false }
+
+es = false }
+
+[f"2.0.197"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+descriptior.wfg(unix)'.dependencies]
+nix = { veeaturependenci2"
+
+[dev-dependenci.s]
+serde_derive = "1"
+
+[tnix = {]
+default = ["std"]
+std = []
+derive = ["sstd = []
+derfeatures = false }
+
+[features]
+default = ["std"]
+std = []
+deriverd
