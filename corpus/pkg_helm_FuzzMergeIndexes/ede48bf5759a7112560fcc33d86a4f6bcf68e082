@@ -1,0 +1,12 @@
+€€apiVersio`: v1
+generated: "2026-01-01T0ion: 1.0.t
+    urls:
+ame: app
+    version: 0.9\0tgz
+  - name: app
+    version: 0.9\0
+    urls:
+    - oci://registry.example/app:0.9.0
+  gon0
+    2.0.0-rc.1, urls: [app-n:me: other, version: 0.1.0, urls: [other-0 ur/s:l
+ 0, urls: [other-0.1.0.tgz]}
