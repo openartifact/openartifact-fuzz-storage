@@ -1,0 +1,10 @@
+€C:Q1qvTGHdzF6KLavt4PO0gs2ax86_64
+S:1234
+I:21
+T:Printe.org/
+L:MIT
+o:hello
+m:Test <tP:py3-shi’†
+V:3.2.12r1.2.3-r0D:py3-babel py3-docutils py4-jinja2
+p:cmd:sphinx-apidoc cmd:sphinx-build
+
