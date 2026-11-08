@@ -1,9 +1,0 @@
-€<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="ht<!ENTITYemas.microsoft.con>
-    <dependencies>
-      <group targetFramework=".NETStandard8.00>
-        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" runtimes/win-x64/native/>
-      </groUp>
-">
-     eril~og.pendency /metadata>
-</package>
