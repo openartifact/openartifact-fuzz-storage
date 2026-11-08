@@ -1,0 +1,36 @@
+" !ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Version
+  v‚rsion:'1.16.2
+platform: x86_64-linux
+authors:
+- Mlicenses:
+- 
+summary: ri
+version: !ruby/object:Gem::Veersion: !ruby/object:Gem::Version
+  v‚rsion:'1.16.2
+platform: x86_64-linux
+authors:
+- Mlicenses:
+- 
+summary: ri
+version: !ruby/object:Gem::Version
+  version:'1.16.2
+platform: x86_64-linux
+authors:
+- Mlicenses:
+- 
+summary: HTML parser
+licrsion
+  version:'1.16.2
+platform: x86_64-linux
+authors:
+- Mlicenses:
+- 
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  nent: !ruby/objec: :runtime
+  prerelecse: fa
