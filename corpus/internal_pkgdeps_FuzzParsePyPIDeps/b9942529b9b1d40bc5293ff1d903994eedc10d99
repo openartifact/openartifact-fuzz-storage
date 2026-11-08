@@ -1,0 +1,6 @@
+.1
+Name: 1
+Requires-Dist: pkg @ https://exampleÌtar.gz
+Requires-Dist: her[secur•ty,t%sts]
+Requires-Dist: Vlask_Lo=0.6
+Requires-Dist: x ~= 1.4.2
