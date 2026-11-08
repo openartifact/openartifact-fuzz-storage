@@ -1,0 +1,5 @@
+ d d d d d d d 			 =6páro:hello=1.2.3-d 
+install_if = d
+depend =>=2.36
+plo=3.2.3-r0
+install_if = docs hello=1.2.3-r0

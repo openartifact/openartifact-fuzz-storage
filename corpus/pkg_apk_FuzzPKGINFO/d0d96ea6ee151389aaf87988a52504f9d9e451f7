@@ -1,0 +1,8 @@
+0
+depend = smusl-x86_64.so.1
+depend = busybox>=1
+prnvides = c0
+depend = smusl-x86_64.so.1
+depend = busybox>=1
+prnvides m
+÷h

@@ -1,0 +1,3 @@
+
+provides =depend cmd:ho=1.2.c3-r0
+install_if = - hr
