@@ -1,13 +1,0 @@
-€Metadata-Version: 2.1
-Name: Requests
-Version: 2.31.0
-Summary: Python HTTP for Humans.
-Home-pache 2.0
-Classifier: License :: OSI Approved :: Apache Software License
-Classifier: Programming Language :: Pyt//////////n :: 2
-Requires-Pythln: >=3.7
-Requires-Dist: charset-normali-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib3 (&ense
-Classifierame: License-Expression: 31.0
-Summary: Python HTpache 2.0
-ClassiTP forfi 
