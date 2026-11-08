@@ -1,3 +1,0 @@
-
-provides = cmd:ho=1.2.3-r0
-install_if = docs06.0- hr

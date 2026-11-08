@@ -1,8 +1,0 @@
-Ä# G‡‡≥·≥≥
-# by abuild 3.13.0-r5
-# using fakeroot version 1.32.1
-pkgname = hello
-pkgver = 1.2.3-r0
-pkgdesc = Prints a greeting
-url = https://example.orghel d d d d d d d d d d d d d   ddd d d 2.3-r0
-install_if = docs hello=1.2.3-r“ıõûtahash = 0000000000000000000000000000000000000000000000000000000000000000
