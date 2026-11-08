@@ -1,0 +1,91 @@
+�p stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ se =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = =ilstez
+.PKGINFO5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or-,ting
+provides = grCalleeter

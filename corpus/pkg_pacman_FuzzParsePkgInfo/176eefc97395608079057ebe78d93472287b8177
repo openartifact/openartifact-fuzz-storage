@@ -1,0 +1,5 @@
+€pkgname = hel.o
+pkgbase = hello
+pkgver = 1:
+arch= 0
+R

@@ -1,0 +1,26 @@
+€pkgname = multi
+pkgver = 0.0-1
+arch = aarch64
+liceh = aarch64
+license = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+reT
+license = Apache-
+depend = a>=2
+depend = b
+r2a =
+depend = b
+replaces =i1:s = cp
+nse = Apache-2.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+pdepend = a>=2
+depend = b
+replaces = old*confli1:s = c
+provides = p=1
+xe=p = p=1
+checkdepend = e
