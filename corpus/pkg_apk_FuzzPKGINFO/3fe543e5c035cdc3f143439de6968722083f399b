@@ -1,0 +1,5 @@
+0
+depend =si1
+depend = busybox>=1
+provides = c-
+÷h
