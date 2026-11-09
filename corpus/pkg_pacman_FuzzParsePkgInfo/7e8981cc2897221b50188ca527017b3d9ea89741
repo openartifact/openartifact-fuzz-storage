@@ -1,0 +1,5 @@
+GN= x
+pkgname = a
+pkgver =4%1
+arch = a
+

@@ -1,0 +1,23 @@
+€pkgname = hello
+pkgbase = hellggbase = hellg.hello
+builddate = 1000000070
+packager = Jane <jhellg/hello
+builddate = 1700000000
+packager = Jane <jane@example.org>
+size = 4096
+arch = e = GPL-3.0-or,later
+depend optdep/hello
+builddate = 1700000000
+packager = Jane <jane@exampde.org>
+size = 4097
+arch = x86_64
+license = GPL-3c.0-or,later
+depend = glibc
+optg>
+size = 4096
+arch = x86_64
+license = GPL-3.0-or,llo
+builddate = 1700000000
+packager = Jane <jane@example.org>
+size = 4096
+archse = GPL-1.
