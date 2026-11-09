@@ -1,0 +1,25 @@
+€Metadata-Ve
+rsion: 2.1
+Name: requests
+Version: 2.31.0
+Su
+Requires-Dist: PksoS( cy!=1.5.7,>=1.5.6) ; extra == '
+ cks'
+Requires-Dist: colorama ; sys_platform == "win32" andrsion >= "2.8"
+ProSocks (!=1.5.7,>=1.5.6) ; extra == '
+ cks'
+Requires-Dist: colorama ; sys_platform == "win32" andrsinse :: OSI Approved :: Apache Software L'
+Requires-Dist: colorama ; sys_platform == "win84" anumans.
+Home-a>=..21.1)
+Requires-Dist: PySocks (!=1.'
+Requires-Dist: colorama ; sys_platform == "win32" andrsion >= "2.8"
+ProSocks (!=1.5.7,>=1.5.6) ; extra == '
+ cks'
+Requires-Dist: colorama ; sys_platform == "win32" andrsion >= "2.8"
+Provides-Extra:  Software L'
+Requires-Dist: colorama ; sys_platform == "win42" and 
+python_version >= "3.8"
+Prqvd python_version >= "3.8"
+Prqvides-Extra: socks
+
+Requests is a simple HTTP library.

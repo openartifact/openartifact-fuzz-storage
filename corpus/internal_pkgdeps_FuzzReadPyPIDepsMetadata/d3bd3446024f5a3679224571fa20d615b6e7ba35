@@ -1,0 +1,47 @@
+�Metadata-Version:thon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License on: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6)Y; extra == 'socks'
+Requircks (!=1.5.7,>=1.5.6) ; extra == 'socks'P
+Requires-Dist: coloirlazer
+ (<4,>=2)
+Requires-Dist: idna (<4,>[1.0.0]equires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7Լ=1.5.6) ; e :: Apache Software License
+Classifier: Programming Lan'uage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<xtra == 'socks'
+Requir(es-Dist: colorama ; sys_platform ==Apache Software License
+Class[recipe_hash]ifier: Programming Language :quires-D"subdir":ist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7Լ=1.5.6) ; e :: Apache Software License
+Classifier: Programming Lan'uage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<xtra == 'socks'
+Requires-Dist: colorama ; sys_platform ==Apache Software License
+Class[recipe_hash"constrains":[on: 2.4anguage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-norm3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requircks (!=1.5.7,>=1.5.6) ; extra == 'socks'P
+Requires-Dist: coloirlazer
+ (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7Լ=1.5.6) ; e :: Apache Software License
+Classifier: Programming Lan'uage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<xtra == 'socks'
+Requir(es-Dist: colorama ; sys_platform ==Apache Soft: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: chalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Re
