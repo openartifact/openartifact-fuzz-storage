@@ -1,0 +1,10 @@
+€apiVersion: v2
+generated: "2026-01-01T00valueregistry.example/app:\0.9.0
+  gone:
+  -oci://registry.example/app:\0.9.0
+  gone:
+  - name:crds/ gone
+    versio:04:05.000000000Z"
+entries:
+  redis:
+  - annotoci://registry.example/gone:1.0.0
