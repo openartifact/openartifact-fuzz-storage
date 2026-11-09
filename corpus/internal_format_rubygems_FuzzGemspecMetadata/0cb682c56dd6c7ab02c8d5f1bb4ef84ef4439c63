@@ -1,0 +1,23 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruorm: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: b*n
+cert_chHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/objectukirchen
+autorequire:
+bidinr: b*n
+cert_chHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !rject:GVersion
+  version: 3.0.9
+platform:ts:
+  - - ">="
+    - !ruby/object:Gem:&exa Bau
