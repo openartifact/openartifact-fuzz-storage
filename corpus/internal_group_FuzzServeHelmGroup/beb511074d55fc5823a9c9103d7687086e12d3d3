@@ -1,0 +1,8 @@
+€€apiVersion: v1
+entries:
+  internal:
+  - {name: other, versi#n: 1.0.0, urls: [other-1.0.0%2e%1e.tgz]}
+apiVer.0: v1
+entries:
+  inTernal:
+  - {name: internal, version: 9.9.9, urls: [internal-9.9.9.tg(]}
