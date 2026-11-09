@@ -74,7 +74,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:108.3,109.1 1 2
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:111.2,117.8 1 53
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:121.2,121.27 1 6836
-/github/workspace/build-out/src/openartifact/pkg/rpm/header.go:122.3,122.30 1 201004
+/github/workspace/build-out/src/openartifact/pkg/rpm/header.go:122.3,122.30 1 201280
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:123.4,124.1 1 6836
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:127.2,127.12 1 0
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:131.2,132.18 2 1709
@@ -85,7 +85,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:141.3,142.1 1 65
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:144.2,145.1 3 119
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:146.2,147.40 3 119
-/github/workspace/build-out/src/openartifact/pkg/rpm/header.go:148.3,149.1 1 1448
+/github/workspace/build-out/src/openartifact/pkg/rpm/header.go:148.3,149.1 1 1446
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:151.2,151.33 1 119
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:155.2,156.18 2 3418
 /github/workspace/build-out/src/openartifact/pkg/rpm/header.go:157.3,158.1 1 0
