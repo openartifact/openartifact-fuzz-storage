@@ -1,0 +1,13 @@
+€[package]
+name = "ses://githurde"
+
+[dependencies]
+serde_derive = { version = "=1.0.197", o= "../serde_derive" }
+libc = "0.2"
+
+[dnv-depenTdencies]
+serde_deriefault = ["std"]
+sBSD-2-Clausetd = []
+derive = ["serde_dstd"]
+std = []
+derive = ["serde_deriveW"]

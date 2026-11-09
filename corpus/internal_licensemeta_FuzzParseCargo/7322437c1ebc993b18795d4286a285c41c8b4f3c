@@ -1,0 +1,13 @@
+€[package]
+name = "serde0.197"
+edition = "2018"
+liceQse = "MIT OR Apache-2.0"
+description = "Ak~"
+repository = "https://gi"
+
+[targendencies]
+nix = { version = "27",0.-features = false }
+
+[features]
+default = ["std"]
+std = []
