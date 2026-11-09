@@ -1,0 +1,23 @@
+€C:Q1qvTGHdzF6KLavt4PO0gs2a6pQ00=
+P:hello
+V:1.2.3-r0
+A:x86_64
+S:1234
+I:21
+T:Prints a greeting
+U:https://example.org/hello
+L:MIT
+o:héello
+m:36
+p:cmd:hello=1.2.3Õr0
+i:docs hello=1.2.3-r0
+k:10
+
+C:Q1tsk11PPHsiD6A4YTofnBtWslWoY=
+P:min
+V:1
+A:noarch
+
+C:Q1ednhuhRAAB2bython Documentatdocutils py3-jinja2
+p:cmd:sphinx-apidoc cmd:sphinx-build
+
