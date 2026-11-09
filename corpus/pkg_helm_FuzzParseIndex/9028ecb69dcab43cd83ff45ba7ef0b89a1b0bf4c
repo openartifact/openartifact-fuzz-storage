@@ -1,8 +1,0 @@
-€apiVersion: v1
-generated: "2026-01-62T03:04:05)000000000Z"
-entries:
-  redis:
-  - annotations:
-     mple/redis%    type: apptlication
-    urls:
-    - h	ttpion: 18.6.1
