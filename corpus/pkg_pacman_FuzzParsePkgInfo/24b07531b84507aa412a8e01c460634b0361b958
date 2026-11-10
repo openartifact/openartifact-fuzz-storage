@@ -1,0 +1,150 @@
+�pkgname jane@example.org>
+size = 4096
+arch = x86_64
+2.12e = ackag=0 e017000000
+packager = Jane <jane@example.org>
+size = 4096
+arch = x86_64
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+x86_64
+2.12e = 1700000000
+package= 1700000000
+packager = Jane <jane@example.or=1:2-3
+arch=x6_rg>
+size = 4096
+arch = x86_64
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+lice =r%VE
+arch == aN%
+1:2t4096
+arch = x86_64
+license =ilstez
+  
+5
+ stez
+  
+5
+-3
+arch=96
+ Jane <j(
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = =ilstez
+  
+5
+ stez
+  
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or-later
+dep
+pkgbase4
+ =  x86_64
+2.12e = 1700000000
+package= 1700000000-3
+arch=96
+ Jane <ja
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WP-3.0-or = =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or = Jane <jane@example.org>
+size = 4096
+arch = 6_x486
+license =ilstez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0-or-late
+re
+pdpkgbase4
+ =  x86_64
+2.12e = 170
+ 
+ WPL-3.0-or = =ilsuez
+  
+5
+ stez
+  
+5
+ 
+4
+8
+ 
+ WPL-3.0Calleeter
+er

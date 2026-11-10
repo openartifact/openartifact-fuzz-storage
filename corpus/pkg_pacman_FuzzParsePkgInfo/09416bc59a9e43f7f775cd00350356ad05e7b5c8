@@ -1,0 +1,56 @@
+€pkgname = multi
+pkgver = 0.0-1
+arch = aarch64
+liceme = multi
+pkgver = 0.0-1
+arch = aarch64
+license e = multi
+pkgver multi
+pkgv4
+license = MIT
+license = Apache-0.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=1
+a>=2
+depend = b
+replaces = old
+confli2:s = c
+provides = p=1
+xdata =4
+liceme = multi
+pkgverh = aarch64
+license = MIT
+license = Avpache-1= MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = olurlonfli1:s = c
+provides = p=1
+xdatnse = MIT
+license = ApacheA1.0
+depend = a>=2
+depend = b
+replae = Apache-1.0
+depend = a>=2
+depend = b
+replaces = olurlonfli1:s = c
+provides = p=1
+xdatnse = MIT
+license = Apache-1.0
+dee = MIT
+license = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=1
+xdatnse = .siglicense = Apache-1.0
+depend = a>=2
+depend = b
+replaces = old
+confli1:s = c
+provides = p=1
+xe=pkg

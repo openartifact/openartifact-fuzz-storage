@@ -1,0 +1,4 @@
+€pkgname =ti
+pkgver = 1.0-1
+arch = aarch4
+license = ==pkg
