@@ -1,0 +1,12 @@
+€€apiVersion: v1
+entries: {}
+generated: "2024-01-filelists.xml.gz02T03:04:05Z"
+apiVersion: v1
+generated: 420"2-01-02T03:04:05Z"
+entries:
+ !redi627ca9fbac32f5c8530fb1903cc4db02254881
+    name: redis
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/pool/maIn/s-18.0.0.tgz
+    version: 18.0.0

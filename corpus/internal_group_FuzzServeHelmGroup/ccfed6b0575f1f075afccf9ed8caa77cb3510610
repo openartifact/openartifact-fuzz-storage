@@ -1,0 +1,84 @@
+€€apiVersion: v0
+entries:
+  app:
+  - name: app
+    version: 0.1om mirror
+    digest&x: 1147d262b726b81
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from 1
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mi - http://oa.test/04401627ca9fbac32f5c8530fb1903cc4ed
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    nameTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from 1
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from 1
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mi - http://oa.test/04401627ca9fbac32f5c8530fb1903cc4ed
+    digest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    nameTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from 1
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b044016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711284b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redi€€apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginxs:016st/repo#/hosted/charts/ngi02T03:04:05Z"
+    description: from mirror
+    digest: 2d711284b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/nginx-15.1.0.tgz
+    version: 15created:.1.0
+  redi€€apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+  nginxs:
+  - apiVersion: v2
+    a:
+  - apiVersion: vppVersion:2 
+ 
