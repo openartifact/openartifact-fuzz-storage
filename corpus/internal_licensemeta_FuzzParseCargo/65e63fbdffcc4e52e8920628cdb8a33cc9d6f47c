@@ -1,4 +1,0 @@
-€[package]
-newotion = "2018"
-license = []
-derive = ["serde_derive",
