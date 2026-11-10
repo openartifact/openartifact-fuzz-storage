@@ -1,0 +1,9 @@
+€--- !ruion
+name: nokogiri
+version: !ruby/object
+- Mike DaleL parser
+licenses:
+- MIT
+dependencies:
+- !ruby/obje      - !r: :runtime
+  prereleasealse

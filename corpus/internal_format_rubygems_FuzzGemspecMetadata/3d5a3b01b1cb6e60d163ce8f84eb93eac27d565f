@@ -1,0 +1,6 @@
+€--- !ruion
+name: nokogiri
+version: !ruby/object
+es:
+- !ruby/obje      - !r: :runtime
+  prereleasealse
