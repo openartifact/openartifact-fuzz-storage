@@ -1,0 +1,24 @@
+ÄÄapiVersion: v1
+e?ntries:
+  a:
+  - {name :a, version: .000, .uo1rhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+ Œù:
+  - {name: b, version: -0o.0, u.rzs: [b-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  a:
+  - {name :a, ion: -0o.0, u.rzs: [b-1.0.0.tgz]}
+apiVersion: v1
+entries:
+  a:
+  - {name :a, version: .00, .uo1rhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+ Œù:
+  - {name: b, version: -0o.0, u.rzs: [b-2.0.0.tgz]version: .00, .uo1rhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+ Œù:
+  - {name: b, version: -0o.0, u.rzs: [b-2.0.0.tgz]}
