@@ -1,4 +1,0 @@
-€quires-Python: >=3.8
-®Ÿquires-Dist: typing-exªensions>=4.0; python_version < "3.11"
-Requires-Dist: pytest~ÃÈÑ×; extra == "test"
-Provides-Extra: test
