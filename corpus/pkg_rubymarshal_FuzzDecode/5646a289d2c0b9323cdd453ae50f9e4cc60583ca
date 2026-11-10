@@ -1,0 +1,35 @@
+€o:Gem::Dependency:@@nameI"	raTkeI"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"2.0:ET:
+@type:runtime:@prereleaseF:@version_rriueqementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+0:ETU:Gem::Requirement[[[I">=:ETU:I"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1aseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Depende:cy
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~ETU:Gem::Version[I"2.0:ET:
+@type:runtime:@prereleaseF:@version_rriueqementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+0:ETU:Gem::Requirement[[[I">=:ETU:I"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1aseF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	3.12:ET:
+@type:development:@prereleaseF:@version_requirementsU:Gem::ReqreleaseF:@version_requirementsU:Gem::Requirement[[[I">=:ET[I"2.0:ET:
+@type:runtime:@prereleaseF:@version_rriueqementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"0.0:ETo:Gem::Dependency
+:
+@nameI"
+0:ETU:Gem::Requirement[[[I">=:ETU:I"	ruby:ET[o:Gem::Dependency
+:
+@nameI"	rake:ET:@requirementU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ET:
+@type:runtime:@prereÿÿÿ[eF:@version_requirementsU:Gem::Requirement[[[I">=:ETU:Gem::Version[I"1.0:ETo:Gem::DependenCy
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~>:ETU:Gem::Version[I"	U:"aVersion[I"1.6:e:EToGm::Dependency
+:
+@nameI"
+rspec:ET:@requirementU:Gem::Requirement[[[I"~tsU:Gem::Re[[I">=:ETU:Gem::Versio
