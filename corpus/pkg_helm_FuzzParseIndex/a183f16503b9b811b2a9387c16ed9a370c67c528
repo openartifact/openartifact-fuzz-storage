@@ -1,0 +1,11 @@
+€>
+ app
+    versi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+  app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:category: Test
+   egor t:Dayabase
+    apersion: 8.6#28
