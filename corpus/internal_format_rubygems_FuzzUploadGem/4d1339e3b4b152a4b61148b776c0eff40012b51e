@@ -1,0 +1,22 @@
+€--- !ruby/gz
+''''''linkp''''''
+
+
+
+
+
+
+
+
+ddddnt: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requ3
+signing_key:
+specification_version: 4
+summary: A modular ~uby webserver interface.
+test_files: []

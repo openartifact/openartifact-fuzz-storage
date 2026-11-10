@@ -1,0 +1,21 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirc@hen
+autorequire:
+b: bin
+--- !ruby/object:Gem::Specification
+0:00.000000001 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem-::Requirement
+  e  rquirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  typlinkpe: :development
+  prereletest_files: []
