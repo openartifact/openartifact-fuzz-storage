@@ -1,0 +1,1 @@
+�[{"name":"serde","version_req":"^1.0","features":["derive"],"optionaatures":true,"target":null,"kind":"normal","registry":null},{"name":"criterion","@amiona锟絨":"^0.5","fepaturarget":null,"kind":"dev"},{"name":"cc","ve种种种种种种种种种种种种种种种种种种种种种种种种种种种种种rsion_req":"^LICENSE1","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"build"}]
