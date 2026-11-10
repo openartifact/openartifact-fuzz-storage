@@ -1,0 +1,11 @@
+€.tar.gz
+R>://example.com/pkg-xtra != "dev"
+Requires-Dist: Flask_Login.eggMetadata-Version:6
+Log== "tŸst"
+Provides-Exuires-Dist: Vlask_Login>=0.6
+~=quir
+Requires-Dist: Vlask_Log== "ÜŸst"
+Pr6
+~=quir
+Requires-Dist: Vlask_Log== "ÜŸst"
+Prov: x ~= 1.4.2
