@@ -1,0 +1,21 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="4.12">
+    <id>Serilog.Sinks.File</id>
+    <version>0.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICE-->->it<!-->it<!-->IIit<!--->ITY-->it<!-->itIT!-->ITYIIit<!-->ITY-->it<!-->it<!-!-->->it<!-->it<!-->IIit<!-->ITYIIit<!-->ITY-->IIit<!-->ITYIIit<!-->ITY-->it<!-->itIT!-->ITYIIit<!-->ITY-->it<!-->it<!-->->it<!-->it<-->it<!-->it<!-->->it<!-->it<!-->IIit<!-->ITYIIit<!-->IT!-->ITYIIit<!-->ITY-->it<!-->it<!-->->it<!-->it<!-->IIit<!-->ITYII
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="4.12">
+    <id>Serilog.Sinks.File</id>
+    <version>0.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICE-->->it<!-->it<!-->IIit<!--->ITY-->it<!-->itIT!-->ITYIIit<!-->ITY-->it<!-->it<!-!-->->it<!-->it<!-->IIit<!-->ITYIIit<!-->ITY-->IIit<!-->ITYIit<!-->->it<!-->it<-->it<!-->it<!-->->it<!-->it<!-->IIit<!-->ITYIIit<!-->IT!-->ITYIIit<!-->ITY-->it<!-->it<!-->->i-t!<->it<!-->IIit<!-->ITYIIit<!-->IT<package xmlns="http://schemas.microsoft*com/capkaging/2013/01/nuspilog" version="[2.10.0, 3NSE</license>
+    <description>Write Ser=ilog events to files in text and JSON formats.</description>
+    <dependencies>
+     nugetup targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </groupadata>
+</package>

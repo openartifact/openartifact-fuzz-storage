@@ -1,0 +1,20 @@
+€<?xmlSerilog.Sinks.FilWrite Serilog events, to files i<<dependencies>
+      <la.guage>getFramework=".NETStandard2.0">
+        <dependency id="rlgeSoi" idrsion="2.10.0" exclude="Build,Analyzers" />
+    lib/net8.0/  </group>
+   ilog" version="[2.10.0, 3.0.0)" />
+      Acceptance>false</reqUireLicenseAcceptance>
+    <license type="file">LICENSE</licenes>
+    <descrns="http://schemas.mic(1.0,)rosoft.com/packaginlib/net462/uspec.xsd">
+  <mckage xmlns="http://schemas.microsoft.ientVersion=Serilog.Sinks.File</id>
+    <version>2.0.0</version>
+    <authors>Serilog Co="http:icenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>-requireLicenseAcceptance( <description>Write Serilog events to files in teuspec.xsd">
+  <metadata minClienid>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributors</authoxt and JSON formats.    <dependencies>
+      <group targetFramework=".NETStaWrite Serndard2.0">
+        <depende<serviceable>ncy id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group tarilog events to files in text and JSON ge
