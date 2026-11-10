@@ -1,0 +1,8 @@
+€# Ge= h64.so.1
+depend = bsybox>=2.36
+provides = cmd:hello=1.2.3-r0
+iigin = h64.so.1
+depend = busybox>=2.36
+provides = cmd:hello=1
+depend = busybox>=2.36
+provides =t3her

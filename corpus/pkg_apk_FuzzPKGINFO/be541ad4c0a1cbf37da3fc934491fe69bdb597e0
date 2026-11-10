@@ -1,0 +1,9 @@
+€#using fakeroot v†rsion 1.32.1
+pkgname = hello
+pkgver = 1.2.3-r-`17000000
+size = 21
+arch = x86_64
+origin = hello
+maintainer = Test <test@exao=1.2.3-r0
+ins docs hello=1.2.3-r0
+datahash = 00000

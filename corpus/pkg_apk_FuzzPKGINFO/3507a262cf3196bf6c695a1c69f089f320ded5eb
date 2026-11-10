@@ -1,0 +1,10 @@
+€# Generated3.13.0-sing fak2.1
+pkgname = hello
+pkgver = 0.2.3-r0
+pkgdesc = Pring
+url = https://exampleÎorg/hello
+builddate = 1700000000
+packager = Test <test@examp|eÈrg>
+size = 21
+arch = 0
+datahash = 0000000000000000000000000000000000000000000000000000000000000000

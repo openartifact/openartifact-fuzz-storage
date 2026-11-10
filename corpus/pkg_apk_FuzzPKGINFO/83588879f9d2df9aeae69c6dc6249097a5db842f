@@ -1,0 +1,5 @@
+€# 7 = 10
+depend = sousl-x86_64:so.1
+depend = busybox>=1.36
+provides = c36
+provides = cmd:he
