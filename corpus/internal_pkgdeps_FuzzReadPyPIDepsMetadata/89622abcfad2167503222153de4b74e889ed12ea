@@ -1,0 +1,23 @@
+€Metader (<4,>=2)Requires-Dist: idna (<4,>=1hpyp1)
+Requires-Dist: PySocks (!=1.5.75,=.>1.6) ; extra == 'socks'
+Requires2)Requires-Dist: idna (<4,>=1pRyp
+)1hequires-Dist: PySocks (!=1.5.75,=.>1.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and ypohnt_version >= "2.8"
+ ; extra == 'socks'-Dist: colorama ; sys_platform == "win3 ypohnt_version >= "2.8"
+ ; extra == 'socks'-Dist: colorama ; sys_platform == "win32" and ypohnt_version >= "2.8"
+ ; extra == 'soRequires2)Requires-Dist: idna (<4,>=1pRyp
+)1hequires-Dist: PySocksdata-[ContPKent_Types].xmlaDlibgcc-ng 1>=11.2.0Version: 32" and' ypohnt_version >= "2.8"
+ ; extra == 'socks'-Distst: colorama ; sys_platform == "win32" and ypohnt_version >= "2.8"
+ ; extra == 'socks'-Dist: colorama ; sys_platform == "win3 ypohnt_version >= "2.8"
+ ; extra == 'socks'-Dist: colorama ; sys_platform == "win32" and ypohnt_version >= "2.8"
+ ; extra == 'soRequires2)Requires-Dist: idna (<4,>=1pRyp
+)1hequires-Dist: PySocksdata-[ContPKent_Types].xmlaDlibgccaequires-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platfe :: Python :: 3
+Requires-Python: >=3.7
+R: coloramaequires-Dist: PySocks (!=2.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platfe :: Python :: 3
+Requires-Python: >=3n7
+Req== "win31" aoyp ndhnt_version >= "2.8"
+Providesests is
+Versio    options = n: 1
+<license type="expression">

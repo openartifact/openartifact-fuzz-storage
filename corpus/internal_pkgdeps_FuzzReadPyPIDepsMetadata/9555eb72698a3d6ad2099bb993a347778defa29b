@@ -1,0 +1,56 @@
+€MxtBZh9ra for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Rta-Vereitz
+License: Apache 2.0
+Classifier:eLci nse ::SIpAp O roved :: Apache Software License
+Classifier: Programming Language :: Python :: 8
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: Pyst: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Reques</group>ts Software License
+Classifiage: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved  HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache<id> 2.0Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programiing Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer ..4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win31" and pyth:: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Req]tps://requests.readthedocs.io
+A-uthor: Kenneth Rta-Vereitz
+LAcense: Apache 2.0
+Classifier: License :: OSI Approved :: Apa2.e: 1
+Name: a
+Veruires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist:self.requires(s_platform == "win32" and pythoncks_version >= "3.8"
+Provides-Extra: socks
+
+Requests Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7Ô¼=1.5.6) ; extra == 'socks== "win32" and python_version >= "2.8"
+Provides-Extra: socks
+
+Requests is
+Versio    optio i== 
+: 

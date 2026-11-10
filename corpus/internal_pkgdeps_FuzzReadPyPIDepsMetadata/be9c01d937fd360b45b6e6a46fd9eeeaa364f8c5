@@ -1,0 +1,4 @@
+€Metadat: >=5.7
+Requires-Dist: charset-normalize(<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Reersio    options = n: 1

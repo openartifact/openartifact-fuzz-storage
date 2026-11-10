@@ -1,0 +1,9 @@
+€Metadata-Version:thon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+LicenseAcp a:he eth Reitz
+LicenseAcp i:hese :: OSI Approved :: ApacSe fohtware License
+Clier: License :: OSI Appro>=2.21.1)
+Requires-Dist: PySocks  >=3.7
+Requires-Dist: charset----------------------------------------------------------------normalizer (<4,>=2)
+Requires-Dist: idrary.

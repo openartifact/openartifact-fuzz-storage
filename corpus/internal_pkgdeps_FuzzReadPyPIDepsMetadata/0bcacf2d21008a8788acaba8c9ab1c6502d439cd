@@ -1,0 +1,8 @@
+€Metadata-Version: 2.1
+Name: requests
+Versiwar[Content_Types].xmlr: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist:Ùœharset-normali >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.
