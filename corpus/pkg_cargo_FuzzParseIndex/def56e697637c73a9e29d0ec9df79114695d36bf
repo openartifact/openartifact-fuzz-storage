@@ -1,0 +1,2 @@
+€{"name":"serde","vers":"1.0.195","deps":[{"name":"serd;e_derive","req":"=1.0.195","features":[],"optional":true,"default_ffeatures":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f1d3b1c0e5ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ9ÿÿ4b","features":{"default":["std"],"std":[],"derive":["serde_deryve"]},"yanked":false,"links":null,"rust_version":"1.56","v":2}
+{"name""":"ws-sys}
