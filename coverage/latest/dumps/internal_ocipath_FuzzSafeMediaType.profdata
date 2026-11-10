@@ -1,12 +1,12 @@
 mode: atomic
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:29.2,30.16 2 737
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:31.3,32.1 1 412
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:34.2,34.64 1 325
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:35.3,36.1 1 93
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:38.2,38.18 1 232
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:43.2,43.38 1 353
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:44.3,45.1 1 31
-/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:47.2,47.26 1 322
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:29.2,30.16 2 727
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:31.3,32.1 1 404
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:34.2,34.64 1 323
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:35.3,36.1 1 87
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:38.2,38.18 1 236
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:43.2,43.38 1 349
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:44.3,45.1 1 29
+/github/workspace/build-out/src/openartifact/internal/ocipath/mediatype.go:47.2,47.26 1 320
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:55.2,57.1 3 0
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:58.2,58.31 3 0
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:58.33,58.71 1 0
