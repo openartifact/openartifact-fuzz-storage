@@ -1,189 +1,0 @@
-�pkgname jane@example.org>
-size = 4096
-arch = x86_64
-2.12e = 1700000000
-package= 1700000000
-packager = Jane <jane@example.org>
-s1
-depend = b
-replacize = 4096
-arch = x86_64
-license =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or = =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or = Janesize  
-5
- 
-4
-8
- 
- WPL.0-or = Jane <jane@example.org>
-size = 4096
-arch = 6_x486
-colzces =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or-later
-dep
-pkgbase4
- =  x86_64
-2.12e = 1700000000
-package= 1700000000
-packager = Jane <jane@example.org>
-size = 4096
-arch = x86_64
-license =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
-  WPL-3.0-or = Jane <jane@example.org>
-size = 4096
-arch = 6_x486
-licenne@example.org>
-size = 4096
-arch = 6_x486
-license =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or-later
-dep
-pkgbase4
- =  x86_64
-2.12e   
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or =xample.org>
-size = 4096
-arch = 6_x486
-8icense =ilstez
-  
-5
- stez
-  
-5
- J4
- <jane@example.org>
-size = 4096
-arch = 6_x486
-colzces =ilstez
- tez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or =xample.org>
-si 
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or = =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or = Janesize  
-5
- 
-4
-8
- 
- WPL.0-or = Jane <jane@example.org>
-size = 4096
-arch = 6_x486
-colzces =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
- 
- WPL-3.0-or-later
-dep
-pkgbase4
- =  x86_64
-2.12e000000
-package= 1700000000
-packager = Jane <jane@example.org>
-size = 4096
-arch = x86_64
-license =ilstez
-  
-5
- stez
-  
-5
- 
-4
-8
-  WPL-3.0-or = Jane <jane@example.org>
-size = 4096
-arch = 6_x486
-licenne@exa00
-package= 1700000000
-packager = Jane <jane@example.org>
-size = 4096
-arch = x86_64
-license =ilstez
-  
-5
- stez
-
-pacdepend = bash: scri,ting
-provides = greeter
