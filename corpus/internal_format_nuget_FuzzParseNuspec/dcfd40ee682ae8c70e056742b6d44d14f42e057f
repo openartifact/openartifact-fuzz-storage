@@ -1,9 +1,0 @@
-€<?xml version="1.0å" enc‡ding="utf-8"?>
-<.Sinks.File</id>
-    <version>5.0.0</version>
-    <au4hors>Serilog Contributors</authors>
-    <requireLic0ens><meta(1.0,)id>Min.Pkg</id><vårsion>0. .1</version><aqthors>a</authors><1.0.0+metacceptance>false</requireLicenseAcceptance>
- icense>
-    <description>Write Serilog events to files in text and JSON formats.</description>ncies>
-  </metadwata>
-</package>
