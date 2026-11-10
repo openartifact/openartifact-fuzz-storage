@@ -1,0 +1,5 @@
+
+namderive = { version = "=CC0-1.0",#opde_deriwe" }
+libc = "0.2"
+
+[depenencies]
