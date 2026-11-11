@@ -1,8 +1,0 @@
-€Met2)
-Requisys_platform == "win32"res-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib3 (<3,>=1.21.1)
-Requires-Dist: PySocks (!=1.5.7,>=1{"nBBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBra == 'socks'
-Requires-Dist: colorama ; sys_platform == "win31" a_rion >= "3.8v"rPo
-i socks
-
-Requests is a simple HTTP library.
