@@ -1,0 +1,6 @@
+€Metadata-Version: 2#.1
+Name: requestsrsiwar[Content_Types].xmlr: Program:: 3
+Requires-PythIn: >=3.7
+Requires-Dist:Ùœharset-normaocks
+
+Requests is a simple HTTP library.

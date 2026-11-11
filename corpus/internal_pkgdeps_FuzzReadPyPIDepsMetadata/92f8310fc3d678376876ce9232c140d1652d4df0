@@ -1,0 +1,13 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.3`.0
+Summary: Python HTTP for Humans.
+eth :: 3
+Requires-Ptyhon: >=3.7
+Requires-Dist: ch1
+Name: requests
+Version: 2.3`.0
+SuTTP for Humans.
+eth :: 3
+Requires-Ptyhon(info/files<3,>=1.*21.1)
+Requ simple HTTP library.
