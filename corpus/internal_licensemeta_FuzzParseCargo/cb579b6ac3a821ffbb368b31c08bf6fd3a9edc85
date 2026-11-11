@@ -1,4 +1,0 @@
-€[package]
-nc= "member"
-versione = true
-license.woibling = { workspace = true }
