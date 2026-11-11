@@ -1,35 +1,36 @@
---- FAIL: FuzzParseIndex (0.14s)
+--- FAIL: FuzzParseIndex (0.12s)
     fuzz_test.go:405: "testdata/fuzz/FuzzParseIndex/002ca5f027acbc6ce5a784770b55fa26.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/00588735567b6c890de9d839fad7eb92.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/009296d475e6b665a2864c3ddd13e71d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/00a21e71a3de639505c531094aee9535.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/00c6410f83b108d12d2208004e0169c5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/00d25aa8c1e6393c823074975b48ffeb.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0122f870ff55fcc8a28a8b4f7a129620.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/01656fd1f7492a0f1d791ac0a2a861f7.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0192a0dad5f25df907c838cc208c2c92.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/01f68f27619ad5099967dec3a24972e6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/020b31eee047e5f212a033c4893e56ea.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/023c7b7dcf45bc1d7b4aa375e3519854.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/02430466848d3548e7b8400d05e6e531.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/024826daacd1423f17bcc00b47d2f197.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0268819d423b2eb55521ea722c5b7c4a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/029b5f28e88e04a5d5a893dad6082ba4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/02ab6506bcf1c12812e3353656eff3ee.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/02ccc93af85853cdd7ff3900035ad830.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/03268831b7bb04f8dd01f8543e5cd255.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0359836807fec586fa02a13247711818.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/037ecbe9e23fc8c0bfe2df389e9caead.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/03d6e2fd27f6d7c23cafd2c128f446c9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/03fb83491a7b3b5cff46befe1ec6975b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/04700653dfa648542a4e0949b916ad12.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/04ae628f0818146c44085eeaa5069f82.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0565b6fab4818edc4f8e5ab1063b9740.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/053bfbaf948abb3e5fcb4c1f2f8368e0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0569f18c639261edd904b90df8245c15.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/05944f96ec633fb8e6c984296f03e10d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0602089e29f91ff1e46bdc8bab2df17e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/066617ac582623d54e530b8ed5096f07.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0668d4aa483335028dfdfb1a09fd917e.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/068683403ad8936d1893ba5a5759e111.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/06b5ad8f49eeb252d2d69c757373f8be.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/073929e83838420045e044c1547f3caf.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/07685d61aca0ae8d107c6311132e1460.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/076a5e0e1c7e2f62b3c2008e70b16f8e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0779a2c13b321aa97bdca5de74097c91.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/07bb27dcbefb705a3b42bb0dac7fe5b3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/07ed28de790c1e0a73695b92db3c0556.go": wrong number of values in corpus entry: 1, want 2
@@ -50,22 +51,24 @@
         "testdata/fuzz/FuzzParseIndex/09edb0d036150aa715adcd598632203c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/09fc6311f4a1fbf3eb8ae1b1585a95d0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0a39583d8d89daa835835201c56d1503.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0a6480ddc79fd5ba10b43f6e40d07bf3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0a6661b738c66419267a5a6ef85e9e20.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0a7461baf24514149eecf7e571ed0816.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0a77ec7dc70f014a52aad80e1bbbebb3.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0a7e3213df07090e3ada5e92f3980d09.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0a935d966c86213abee2db22f66289b6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0aa035466cdc51dc594c231362bff80c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0aa769ac085dd9446a46a856fb96dd49.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0abc65a67d3a62042a732277b2ddef62.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0ae46c0c43173416834b7668ed5bf56f.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0aee7775c7706e6090c26a1dcebb7a5e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0b107ec7bd726f4f3f1c64fe2d68a302.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0b3d3ce1cc9be471c732cc5d430613e7.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0b4b1a24bd80a245e9751ae8c6464933.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0b6a5132efad5f444a629c66330db7be.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0b8fc64b823bd3062a7ccc7f98126fd0.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0b9d13efd2a0319b4222bf4febec130a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0bbe3e34eb278a1c08e5515a4e80dc9f.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0c1e6de7ae71314cee67c093af078078.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0befcf410ef9d2c7494fcf0a3a704ac9.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0c160cc5c0f666eab5784e136798592b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0c7d6595dea632d9cde4b3e03accc11d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0c8347e69108a373633a1fb17c3861c8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0ca0ef09c605a1209b0500f241199991.go": wrong number of values in corpus entry: 1, want 2
@@ -75,12 +78,11 @@
         "testdata/fuzz/FuzzParseIndex/0da41cc9d28313dd86b2e8bff105e685.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0dc283b07d2ecaf4bd4471a8cd3236e1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0e29975da65930a9089e1d39f11ce51f.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0e8144e225fd023529a43b8edd43984e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0e84fae96e653ba7271dacb21b612d2a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0ea54bf558a6574d0c7de837a3c3dc4a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/0f38a738ca2d4e9278cb88e07773de51.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0f56e0b83e747bb65d1fd56103b28b3f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0f6b64ad667ce6876c0598d326c6273d.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/0f9199bdd8e8f292d7cbba3677e5f231.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0fbab176c0c05619459397ca6d466a73.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/0fe0368bc16a9e66601569ba0acc2791.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1014ef3c12e7379071437adef85b9e8b.go": wrong number of values in corpus entry: 1, want 2
@@ -88,7 +90,6 @@
         "testdata/fuzz/FuzzParseIndex/104ea081c63b90e9bd1f5d89da1f7aa9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/105e169181b599ba80702341d3ceb22a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1073fa2bf091ccd77ff5dc456c51de42.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/10b06dd99a998027b88e9e9f29a3cc4c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/10bbf49b159e857fa5f5a9a87d6323cc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/10c67deab2110324c07ffb84a6ee16be.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/10f35b95f8fbf8d9ec6ef7fb2d4828f1.go": wrong number of values in corpus entry: 1, want 2
@@ -96,10 +97,7 @@
         "testdata/fuzz/FuzzParseIndex/112fef6e6c4603d6ad9c374ee321ef98.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/11bf62d8e141fd7ddcdbf7ceb2b85156.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/11d5e24e046eacdce2e9ef7f9bd9a05c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/122e2bdc65f764ce2ee5f4c920a1cd9d.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/12521bba8282e58e1803be2ce5358153.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/126c8a187dfb0b8408e3db4874781898.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/1297564c252ed877fa1490f3a83c3212.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/13035540e60b57d3e3f48d015224770c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1304cdee209b22a7aaf4e9ce53f6ac67.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1329065674a6e25a28626d002b5299ec.go": wrong number of values in corpus entry: 1, want 2
@@ -129,23 +127,26 @@
         "testdata/fuzz/FuzzParseIndex/17fb779d20ac2847bb8047cace01bafe.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/18190d13b532f39ced5bd1579949bbe0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/182bb039b58333cc7c806ffb8e4f5ccc.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/1868df4c24b26f54976377d60ddbb69c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/187bed522fc22be48bd8f0d814a58b67.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/189240a9e500f2096b7c70d4af36e2c8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/18a31201cc14234ba4d3eef9d1f6840d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/18ac7bedfec338378093f05496a5103c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/18b8f2d2336d571bf3d4493fabaf06c6.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/192941c2467ea2bdd28a7fdf71b7d5d4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/194d32d756c88fe4df5f7db4af59f102.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/197b02a2191e4f324b4b574fb88a25ec.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/198f9b8bb3d409605975bdddb23d78d3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/199fb1291bdf36ca41b2b24305e1fe81.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/19f737f4c7b5a14c5f29c91bae9c2176.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1a614a44341755eb72438e1dc02d2153.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/1a66c9f8a2541b2c8ffcbaa289ad8d4d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1ad054f2da70d7b6645e53af9a6db9dd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1b1fe60a5e65fb7e5b08944c033f3cb7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1b39e497ebf4d3017cc99373d0febcca.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1b66c2ce33051398ad73015b99d8897b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1b76292bd16c9c4d49ba7f03220b3241.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/1b8645c2a9258697704c09e5331e9e85.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1baaea7b385b183ab60d4001475a2a01.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/1bd80e2ae708b204734305d9204b6f00.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1c268d39bf22e98e1503ab42f133ed7a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1d3edd1e97115db3b0a54eb9bbe4cd61.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1d79253aba65ab4ea7025534192c424f.go": wrong number of values in corpus entry: 1, want 2
@@ -159,6 +160,7 @@
         "testdata/fuzz/FuzzParseIndex/1e49509ab86ff53b98cde8f073689fcf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1ed9f0688d478881ab71b7a4f9a5b635.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1eea992f2195f5316f95386a36e86597.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/1efac33bcda66f5fd07496d64b21e66f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1f1cdfded0967ecaed805288cb215a9f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1f2339961f5e759302e46390819d0765.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/1f2ad739835b0de25914d4cd831cf8d6.go": wrong number of values in corpus entry: 1, want 2
@@ -184,29 +186,35 @@
         "testdata/fuzz/FuzzParseIndex/233b8192b2564d88fe306a68fb2d48de.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/23700807b574549b1eed25f36670ae4c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/237cbfc854a7127e21666d48da85c54b.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/23a0d55a1b383ff75b299c5a3465957a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2433fc3526daf7afb3f3db92c83c28f1.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/24364cf9a8e17651551851eee8a287a1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/245258a9e459f3f2e6914fbce9eed1e2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/245cd1e4cf477df6a390d57d4c8c4db9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/24607fca1285bdaff0bb24130b0a714a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/24b3862b32c3068b60be8c4c4961b8ea.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/24bc81289feeb56e5b811179b0685779.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/24d7e7e58d5d63ca6f3413274c65e8ec.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/24e6022a0abe5bd0b2a350176e6f95fd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2534ca5e90601cbc75a85ac61525b8a7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2544c7d565f508a60a08929c8ba1533e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/255d8ec061d63ac10639ec294bda7e22.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2576dd1b4efe11d4e2578ff725361755.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/259e496356eb9d272ffd0027dcf07e0a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/25ba42df7d329fbb3cffe107877b637b.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/2616fc1b22a62c25e76ab8145c625ff6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/262099d0e038a699593ac35bdf555a94.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/26438ea028a0a61be0cb8abac3d43c74.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2662d822be8167caa98ffe357ffe5da2.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/26c7e1a41f4ad0403327d96565af65cd.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/26a02e245802aec78201c8fc5da6509d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/26ebaae071f2f206171a8de4544a7dfe.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/26ef791fb74926a31c3f1fe8c5b16828.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/26f0c6d5357389dba6b4093d21b30944.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/272dc5e4cc0c3d2c32329f003c8fc8b4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/274b98a102e3a6fe8a4a404fc08e8194.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/276a5251427f2c30042fc3afc0d0ac0d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2788bd8e6a7b6fb5c9b8e80da35ad6c4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/278aa8c69b595d3f36f01055b1a71429.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/279e4558baacccdaebfb50d8288f4459.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/27c3426c807e55d607fc18e4d4b43ac6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/27c90cee51d9430396e704da63ded278.go": wrong number of values in corpus entry: 1, want 2
@@ -217,8 +225,8 @@
         "testdata/fuzz/FuzzParseIndex/286b8ad65cb679d4dd2f80d110483040.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/289d666b21a7786fa259be0a0bc3f032.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/28c26c05d6d21fc2244b7f230af378d9.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/28ce401c39fd756990721691f0290311.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/28ec023a2baf70e114d623ab1212d185.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/28fa2318309b7d8110e7f3e219133051.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/292ee37c9226bad1d03a2cc726f80cfc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/29868e391d68d626a17fd384f52fe7e7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/29b18d727e6f4ae4c5de9834ace9bd56.go": wrong number of values in corpus entry: 1, want 2
@@ -231,20 +239,23 @@
         "testdata/fuzz/FuzzParseIndex/2b474999fa897a5c6d64625fa53dba1c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2bd8f8463849129053cc484432a93489.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2c56b1b852386dff4f4b6b79b53c68c5.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/2c59e58ca3441392956536e0fe56832f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2c8056612841c3b23ff212069497f89e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2cb0fad31937fbd8d73adcf41044707a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/2ce99d9614434734ec1fc6c8b1be5385.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/2d1990b23f25356072b8ffa94ed6269e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2d1ecb9a05a067af38ca0004144ac050.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2d46fac2e8f234ab350eec41847cd6d1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2d560cb91ce536743830c54be4e31a86.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/2d72f02d28fbffdccdb0209b716eaea8.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/2d8e12890e002737dd395f9052df639e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2d9e7a6b6155db03b9796a7dc846cb24.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2dd21213ab0f4dfda4971d24ce91673c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2dda289889749acd1f60eb6f188d693e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2defec64ec1cd6dc7fbb6d8ead8ab02c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2df7abf143010b65471c02653977489a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2dfa3844e58c63e2a1b55861111a6bcf.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/2e041f463244ab1f3d2db59b1eae947a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2e1237771271ddf93e324a701b68b72e.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/2e363a11108b15206e7a83117a707d44.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2e7299d22b3585ed291badd30d547c5e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2ed047f08fa2c8c612a5540788831f24.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/2f3e77ee1a9885e5920d9e183d74a98e.go": wrong number of values in corpus entry: 1, want 2
@@ -264,17 +275,15 @@
         "testdata/fuzz/FuzzParseIndex/30fe484a8968ed5a520b34207ef6e522.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3138a61f991bcd881e3b584076567dc7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/314dc558a0c0c1c8c8fc72511207a200.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/314f17d629981dcc05ceb86ad51339e1.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/316cf01ed88909bafe58e9364bb84930.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/317820afaaa0457d768c3b1cb3a4c075.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/31c636c0e0c01243f65388148b299453.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3204d68d041f4cef29a18b183378039b.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/323292c1d230cdb30ca67fa2604f6036.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/32860bd4af48c91b29be708190fcea07.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3288d02f67a8c5c59b6f0a7e78676bb0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/32b2af0d93688d20100ee22485b24fa8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/32bfdbb8737525a176f7e8e5a54b767c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/32eb37e19c2ccb7ef9ec49974e68bdce.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/32fb3f9f079cdd879564ec7ff6bf0149.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/32c1b641dfaf1a3626f7f7afd5e1fe83.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/334a0509c58deb164af1f35debca6918.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/335d434e45110116de11bfa84c72cf1b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3388998bfade7f47c46b8b9efc318c57.go": wrong number of values in corpus entry: 1, want 2
@@ -291,7 +300,6 @@
         "testdata/fuzz/FuzzParseIndex/35dcbdb046e4b12729f087ec05d9295f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/361cae5609f15cdfac24479b2b792c1c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/363343e27605522fcd30c70dd896a4a2.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/365239037c27e250dbeb0690a6a4e01d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/367d77d8688e19cd2c63fad472a1e1c3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/36e2fb2475c224d00d101770010b5d88.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/370210eb21af0d8c580990fd78af3fdc.go": wrong number of values in corpus entry: 1, want 2
@@ -300,7 +308,6 @@
         "testdata/fuzz/FuzzParseIndex/37329ce9b68fabed806328795a80d503.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/37919e58357d9408c565e65b9dedc0ac.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/37bc4f810922edc14972966a86fb80e6.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/37bf2dc201975fda78c14f49f8d48cdf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/37ed95fd52bf0b5b05ecebd1c8b8a70b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/383d08722a8c8b14ba7168cb13b89d23.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/38a537f4d478a01794afdd106e4da8ec.go": wrong number of values in corpus entry: 1, want 2
@@ -325,6 +332,7 @@
         "testdata/fuzz/FuzzParseIndex/3bb6d649f4f0ebd30d23738b3dc654df.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3bee6d2dfd215c7d173ae644efa779a9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3c0c176ffbab22545db2d53609ba6a48.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/3c533963b7dfb9ea8030bbc7d1aa1ae7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3c7241e5695b4fd68d12776d11a2d126.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3cb7abf83d6d81846f63d68ff33efbbb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3d1fdf8ffc2e7f756a39d391373e58b8.go": wrong number of values in corpus entry: 1, want 2
@@ -332,48 +340,41 @@
         "testdata/fuzz/FuzzParseIndex/3d682549fc134c26eae9beafb6a7560a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3d8e9cdc0300243cb7ecaa80e1362f5a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3da2f3f6da178a7042d6c6dfd08ba085.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/3da96fbcc8cf353b61ca317d25251dce.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/3dab0e6f10d6ab2da6f735f0a402bd74.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3db86f2de887d8db04075847e56337b6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3e3c9904a47a2c5c9b4fd355ffe47ef1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3e47d16684f37c8e50acff1e3c3ab2dc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3e8568fae7e231904f139c1676110b65.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3e8a00e1029bcecbf31f295d6e907cd9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3ebd902783e9e126f4d573ea363102af.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/3ec1e6f037c5b812d9c6a02ab1ac2512.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/3ec7df2778e678d47bcf5077ea4118de.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/3effc5bda5b9c259bcbb6e06b9f4186d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3f0b7ae5279d3de45ba8e32e8a24ee54.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3f4bcd472d20cc9dfc7a0459f25a1a05.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3f67f10ad7e67c87de5c5c5bd995d175.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/3fe331939ab7689c6eeca757489c1748.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/3ff007d524bce4e479d9ebe51e10b89a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/40234b324330b5111b4a0a2efa0e6c40.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/402612639a526f77059eb89eed68834d.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4085864ef27693df246aa106f2f91969.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/40a107d4c0bb6e1d7e54d4d48dfe3404.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/40a7e32dc499d95ea785cce26621f5a1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/40aeaacd86cddaf660e1f30493312341.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/41044eb77be923885d4ad8eb9838f905.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4141315ef96fc39673bf6d0088a4e957.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/419bc74b32c7fbac02019c093b1aad19.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/422e73806ace693f7f7e939aed36af16.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/423f19f5d5219dca61b80129e5966f76.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/425da24861d20bf454be547ded16703b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4261ba28516c67c3714dd1b28845f4bd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/428d89e65e36ff151f08fac5528cb131.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/42bbc32acf36ad3d8cd51934b1376616.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/43024e779fe319ef678cebfb5fab1c6a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/437638f1aa4cdba2cf7e13241da77f22.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/43825d0e9ee3420f992f8201b5b3caa7.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/43bbc7f94fd11ea48f76db5dd364c7f0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/43ed88d639951200a5ce9446b780a2ec.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/442d808c1bf4665b9bc65c38d17619e8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4432b011ef34a2d2a7ba86a80473f386.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4436765903f15179194dfd2025c45d25.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/444f210fed697f2ad342953089b52952.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4456523ddb3249d8f9dcf96e518abaa0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/44a74e2b0e940107510537ea067b21c9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/44e6b191e7394083db2febee037d1fa2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/451836d1bbafe6a94599c5c806747364.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/453ac967a66cdcbba08d50c9f0971ab8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/45f7705e706129ccde5bca9133c4424c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/460cf66b74a6c2374b1814dab6ef1d38.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/465b42ef1ab826f36a7f8a19f739bf71.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/466e72768e86ceef4e202d361ffdcfb4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/46746ea90c434fd90dafd6431538eff6.go": wrong number of values in corpus entry: 1, want 2
@@ -382,7 +383,6 @@
         "testdata/fuzz/FuzzParseIndex/46de3331beb259045c92f298bf6505fc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/46e3eac5ef33f6d3e700a26a0880412e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/46e7f00bc49f2a2a7b97f791dfb697ba.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/46e9da3e57c37feccacb7dff5121ea06.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/471b791df1865dadafdb8a7491695c6e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4763ac91b6d95813ffd41792fb43f2f5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/476f783b92e9c5c0ab5b2147953bc117.go": wrong number of values in corpus entry: 1, want 2
@@ -392,37 +392,35 @@
         "testdata/fuzz/FuzzParseIndex/4856306a1cf526bde0daa3a8ca6a3b20.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/486561a76c264538cfd99d222a709cc7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/48d5f278178617ad96c418de6d99d30b.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/491f6b13355937bab2a41d2b3803252d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4968e9fdceaf5787265d11db6996b017.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/49a3133addb743d24685a31201965e2c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/49ceae3631c6b7599a723dd60d8d33c0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4a1119881db1993cc1fdfa43c561baed.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4a3f77d8220e4ac7fb456c016b993ece.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4a7500a01958f8cd38e5744063ec4321.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/4a7ccdd616d7bbbc0152428279bb34e5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4ac334a5d5f58b918a0ac454044e14dc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4ac9f9698d9ed56a1a86b2e647d708c9.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4b1d45d3490a40caed1fff6f790df3ea.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4b7b812e573aede8ef041a5e98a7c26e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4b8468be4132e753e4f26d6370aef725.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4b9aff425d80d9b5e93035a4bff828b1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4bd0126768a192cbfefde7a0e22f69d7.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/4c438a293da86c67651b27c214bad11e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4c4c95df46298d58f1f6e9311a135306.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4c71e2d0152eb7035f2c1ccda53cc50f.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4c984c1fb67b71d677f010173c016056.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4caafa0d1b9f27250fedcae50d0a6534.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4cba47f2f719ebb05f55ce246fe4767b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4cee7b2a6e12eac56b8275551a43a3f0.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4cfebf85923c9f07127ff8ce4c86a85c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4d287fb7caa905acdd192f85d010c774.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4d30fefb9d08b10524fdd3580d568b0b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4d8bd45976facfdd9a4bc9c3a8974c3c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4db45e8b89bc0711e233e3286c78d1f8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4dd1587ec74a33c73793b97773ba0b3e.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/4df8b5baee1d04b5d2ebca823fdf851f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4e37805e44cec5a24b36c7f7f44d3fa3.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/4ed1b603915ce7a9c15b952f815015d3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4ef0ea44422ddfabc6d343bc2378032d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4f40a1cc8b46bd7101b288f659d9174e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4f4163d3c86b5ea79f2d2fce7f1bf36e.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/4f508d27f01c1db48cd853791a8477ba.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4f62b12d1d32f68b4cbeefc9d2d7d58d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4f85ff77801bbd18ed133c49dea24d9f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/4f99d3ab84b2724d052f2ef965ee55fd.go": wrong number of values in corpus entry: 1, want 2
@@ -434,7 +432,6 @@
         "testdata/fuzz/FuzzParseIndex/5053a23fa9f0e29056bfa625dd9f839a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/505b2a23825e1b3c7a9f4026258a125f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/50624380bfc75079aba7f7c61a9a7696.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/50780f326e77fcab7631f521eb8926ec.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/507cbe31036f180085d11da0dc1236b4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/508fbfa79ed0c5668edb08685b4ee496.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5096b6b13c79bfe801a3d237b087fece.go": wrong number of values in corpus entry: 1, want 2
@@ -454,22 +451,25 @@
         "testdata/fuzz/FuzzParseIndex/544c7c2a82e8e642c7280425b8774461.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/54c1587d1d28386d09f8246b888d7e6f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/54d0f4c33f2785af737ce95d8c255e27.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/54d4b7baf85715943d6d7f4e6a996f98.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/54f1391f8803f2aacf70b2492f570b0e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/55242226ae7d677118315d6c666fe079.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5554d362135cb0e15f5311c9925912a5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/557c9b273783307def6e22b84e6acf69.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5581fd65b8ceff8ca5a02bfa8cd81400.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/55cce72bd60143f6011efcb1e68da091.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/55eae9002fa70b118e26c0fad1827dcc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/55f64fb2f70e52f4d23347518909d9b0.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/56042ef4f6c4edd282fbb5e0f84eaf68.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5613b5fa13344cd4c9d121ff62e25ce8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5616827acbb40a544e605366d1f537b5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/563698e7bae95bf1875343d44b51207f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/563bd1f2b89960141fe60095dc5bef8d.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/567252ce25127b7f9bbdd1fcaa98695a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/56bef9ccc666a4da1ec4a5b096ea30eb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/56fdcee56ce7c7048c9181a4a591fb36.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/56ffe8a7c9f1dffe7ebfc2d95d45a19b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5715d17a24b559f007fa6b6631cc6c7b.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/5726eb785f9f0fcf595d64334a08e1a0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/57bab23e18f6cb2ff31f6c958601af69.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/57ec00fe7c1e3b4a79699c4b80585b66.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/57f1e4eb5bb1e4cdb6756bd3790d35e5.go": wrong number of values in corpus entry: 1, want 2
@@ -480,6 +480,7 @@
         "testdata/fuzz/FuzzParseIndex/58df921f08f8569814f59c6a3ba5c1e0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5915864c75f6de0bcf68e526d2bc46c8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/591b78767ce04d77e00101e1ce1f6995.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5920dce2b1c474f137d8ff558f839fcc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/59278e8caa2fe9db4468474cdcf6cf2e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/595366ef832e5e95aad1aa5df4121dea.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/59bc6bdbd8d6cef0c74f2c7862a84012.go": wrong number of values in corpus entry: 1, want 2
@@ -487,8 +488,6 @@
         "testdata/fuzz/FuzzParseIndex/59ea3789114ea8eac49aa8d60bc77fc9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/59f4e231e641d1ed3a08c477129252a4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/59fed27a8c231053fe17ad55365dbb61.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/5a19935f7a30a765b6e97d88ec171678.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/5a27357a0cbfa6a98ae9b6a53bc9e1a8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5a40be1ab4de926893478a0460a8ca08.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5a51c86b79ac7916d954acd7541dbbda.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5ad1e927d7d5424a0117a0126d3ce543.go": wrong number of values in corpus entry: 1, want 2
@@ -498,19 +497,25 @@
         "testdata/fuzz/FuzzParseIndex/5c3bc376952aa975237e9c3a84313036.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5c42f31f39b878174c4ef136b741b26f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5c666e4b861bd8bb9c3ccc988738be45.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5c75b430cff324364d96ede466339327.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5c8ce82b3bd5baa0246ff15150f260bf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5c8e8d16d9faad21bb0a8cc7a9ffe0e9.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5cc13911507daab87e80116f4af9210d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5ce4dd4bb866fbbdf94d524301cfeb89.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5d18beb67f491443f220019af0c6d10e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5d8dcc06fbde3829e37e79f200a671cf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5d8e5d13d840a9436dd55fcaf919d351.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5d98674050086a27edaedeca029e6ffc.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5dab7027f19893d1d2dfead05e185d7d.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5ddb7e9db373c022be166ef14296a0b4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5df8098b53f9c198035a0cab2297711a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5e0b0c011e9dc64a607c1e5e79705fd2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5e27b872c0a87849a6040a7126fa1c2a.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5e895f599146ff09c02e24344fc0b865.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5e9a42f8210c6f96e009f9ea58c131c2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5e9ac67f39882cb0cb4853b2a20e05fd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5f23649da29df24ce6073e1d083e6219.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/5f373e7b075693d717bdedd6dd3b3717.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5f3d4ee482ed70553b2d4086d8c6c4db.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5f411a0214d635ddd9518227f81e5c57.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/5fc4ba3796ba9c38dd648ee662c18ab0.go": wrong number of values in corpus entry: 1, want 2
@@ -531,16 +536,16 @@
         "testdata/fuzz/FuzzParseIndex/611f8cab24e286bd2a80ef06e8bf22ad.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/61247019a7958e13e05597bcfe052f06.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/613c7840cfe6c82148c983d89ec7f1ee.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/6187d25cdf64d0e9053a040873ac39e6.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/6182039ac572f7fe1dc0d73349bbdba7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/618f8c268529378d8a79b4048be858bc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/61b5fd8c25bb9fb26a177065d32c3422.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/61b8bf6d2a05065c1054d451609f75eb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6218a073c084cf41594b1bb502b4f2da.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/625534411d65d2bd1113b72878261fa1.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/62bd28f5d644fc079eee1f4ccec7dbfa.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/62de354bc0b4943c8a86b55c9a97a204.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/630f6c98e61970cc7d3051f53e1d241a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/63171d238763f7f6d0db3a4b87a59d49.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/639f8600cdf3505a23e1f54459068057.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/63de8aa8f13b496ddaeb856d735193b1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/63e1039357811d744f3df86a6a0926bf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/63efba9f87ea25ce99b5c04e89757f5c.go": wrong number of values in corpus entry: 1, want 2
@@ -548,9 +553,11 @@
         "testdata/fuzz/FuzzParseIndex/6435222e6e2fbe49f4d5427fc178be20.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/643d6cccfe9d32cae3c8ad9a5d54052c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/64a8e8c254b6d0e4ee12b9587ae4c65a.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/65087d84564f1ebc17c5c9030dfe20f2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6597e8820c54f5c77877b126dd2eba02.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/65a90e945afd75dd54d50af9eb37d00f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/65da457690feb9902aa7b8bb3105f582.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/65fd69fc760fb024074503c8a7b27a00.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/660039e4a74c2129d369b6db3e492875.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/661172d9935721f092bf3f5949e63e43.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/661c406295907f02308ae8f7fa7be8ad.go": wrong number of values in corpus entry: 1, want 2
@@ -567,9 +574,9 @@
         "testdata/fuzz/FuzzParseIndex/681716aa2d8b69019eb5c9e1e41a81b1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/683b6fa759bf554b97614288948071d3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6840171eae971c8152b324012b304015.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/685a52f2125eed85c1c9bd279e2ca3e7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6870c3ee1d0c6fd09a4c7fcbdb3ff799.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/688967df5054540fba7007b0cfea0fa8.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/68a26b47e91492c9b0ce8020227281a8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/68a680aec4970c3dd00f87a85f15d565.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/68afc803b93f6fdf48823dbba5a03875.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/68d6716e33ea6ae082db7eb6ca8b17eb.go": wrong number of values in corpus entry: 1, want 2
@@ -579,6 +586,7 @@
         "testdata/fuzz/FuzzParseIndex/69bb2d4f0d47722326526e7487410205.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/69d3c7642f44a341804da1fdb29bb299.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6a026b2eef5319fb0287a0581f9099ef.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/6a2058c3b732e5e474354af9c2c15099.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6a5750bbcc9f72f2bdca72a9a42a6fdb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6a658c06ebdc45d2a25e87906ed77e2b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6af8b324c0aef88cb5c5523629e01a6d.go": wrong number of values in corpus entry: 1, want 2
@@ -595,19 +603,18 @@
         "testdata/fuzz/FuzzParseIndex/6d06bfe2bf49e81470c58b517aae0368.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6d1340bea98044ac2ac61a6f7f2b0989.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6d96e0bce4f59a56e97a3b88addfd15c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/6db884bb92aa8ba6c600d3238897f0b0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6db9d6737487a1212f439717e7810ae7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6e023b4b12e55eb2d388dd0fe431d6ae.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6e0472cc23b9a954176956996303b162.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/6e05afef966c29d797a5930c73712847.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/6e6fa553fa7d8fbe7e818a18aae514a0.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/6e915a39a07d772e5db3ccc16ef46f0b.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/6e8e918cfcc85673d1c7232a9435aa68.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6e992f939678ae3ea170a7dd6d3cfaaa.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/6e99afc85c4bdc4fb03872bec54cb7eb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6ea1b92d9681daa36a85f6253c67ee4a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6ead7cd6c081d049dde1f99ab6feedfc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6f3d286e127548aaee9cb87ee8457154.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6f829cf15ba0d042de7dedc978774374.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/6fb3219887100b27d96672f46271af33.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/6fd19a7c11991dbe2e8a5399a9d257e9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/703dfc57f9c5a644a2607abaf3afbe05.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7046b9afd519db6bb3c70f4a913f0635.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7047a29f32499174e66e5d8e2b9dc698.go": wrong number of values in corpus entry: 1, want 2
@@ -619,12 +626,12 @@
         "testdata/fuzz/FuzzParseIndex/7149ca52b9eaaf4e9ab9fb33eab78f90.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/716d06031673902ddd74876f8f06d4eb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7188b23bf228c5e0c20a793572d8b3f9.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/71920e900c9b4e04283d3fa80000bc08.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/71a38f38f1283548416a1f5a930a1c6e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/71beb00ca419f0f573457bffdb24085b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/721d342ff59842ed8da68111f879a4d1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/722b179e54dfa7d8e63680a6f81980e6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/724b58e8a4642cff886492cbd7ffb8bc.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/724dcb26c4ec4e5a541809ed296eb35d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/725547b48be091f5b46dfbc4ddbac10a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/72baa95d5f40a785c87c481f6d10a7d0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/72bfd937d94e824248ff35b7ffa49727.go": wrong number of values in corpus entry: 1, want 2
@@ -638,6 +645,7 @@
         "testdata/fuzz/FuzzParseIndex/74499e59b0f0cc4ecaf4beb32fbf4450.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/74b1453627aa86b7e48158bc28cd10d3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/74d46e14963f91a828ff86e6b5adb4d4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/74eae2dca4aefc83d1c0c883fdf9a50b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/74f769b79d1af8851c0a94904c628587.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/75025c0c9f2fd04213154c0af692037b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7513659a697fc18e3e2e6fba71635675.go": wrong number of values in corpus entry: 1, want 2
@@ -653,6 +661,8 @@
         "testdata/fuzz/FuzzParseIndex/76ba7d8ddfc57efff5c9167a21dc470f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/772619dad427d08b0ddfb3080a1165b5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/77269d62307b1bea0fd40989a9046889.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/777f282206333deb0df6197e7167bd4a.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/777fb41d6188336feaca372bb0432475.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/779b473562e7d19b417e388931f7ce42.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/77a0fd2c6c6a67398b5b42dfc7238a82.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/77e0e800cb8eb4f350541d720e3a4c24.go": wrong number of values in corpus entry: 1, want 2
@@ -665,12 +675,12 @@
         "testdata/fuzz/FuzzParseIndex/786f4cbaebefcdaf38be35a6e043fe5b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/78a7234faef82c4dd90d28f446c1b756.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/78e08e9f489667e5f4e62296590b3d05.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/78fef1f0dd4464d9106d6e224596751a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/79065a9e448a2fe4ef726c3b1af8f345.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/790a6d06347e5e1ea2e94036004c5339.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/79210aad7001cdc1df9bd5faed5f34f9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/798a6fed391e82ef7bdb6621a776fc70.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/79aacd1bfc5723713b953a73994dc7f3.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/7a06915288f2f849761174899578f0ea.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7a072b8f076b8e2ec7bfa55719012606.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7a53ab7b3f2d2f1c6480bc382a576c5a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7a65dada43be0aeb9bc12086b34d0f6c.go": wrong number of values in corpus entry: 1, want 2
@@ -682,34 +692,36 @@
         "testdata/fuzz/FuzzParseIndex/7b5ea1c98224013098fa5499ebdd5d6d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7b9143e1e2cbc3fb2468bd95432c49b8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7ba0da22e719950e11842b07942c4580.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7bc78ee348555220cc028f463640baac.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7bca8c60d5acf199261660c596bfc75e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7bd6026208b56de1deda3fc31a76c3cb.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7be5f4044d07274dd3ddc1487d929593.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7beb4a51939b35dd3cc88a7e03ae9a1a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7bf7bc6b427ffdfdaa502feffd143fa2.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7bf88c8e03dff031909ba3b82ab5cd23.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7c16ed1208e3987cc38cb47637efa982.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/7cc59939003df5fc49840067ce899c40.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7cd4328467675ead3fc41b0484d549d4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7d53b7c05846344c12a9b24f840e2ae3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7d6d726881b06952b1e681214bdb6826.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7d98493a30d9125f11f5b51a8d730022.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7d9f6d5acc37231b6faca8b87ee49b07.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/7dd654fe6787a31034d2235fc1e32e19.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/7e19fcb75fc0beb42be5189a321d2ae5.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7db690b8b42d538737a2337352dbb846.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7e4b89090ef2b64739fbdcba1767bc6d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7e5d467960129c7c92520b44cf9dcbc2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7e7fdfcf7fd83a578dab80f5f03384f0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7e81e222fcefbac7a9c53186b3d89f55.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/7ef73e668b402e6cc955f94cf6f70335.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7f3c70025828cf96130a6708673c51fe.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7f5e2789d883f036d76cbe4ce508830d.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7f6f777a59e9242541c868ad05e18bcd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7fa6f41eb2a003ee7b10a726fb2ea8d1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7fce995f5015f75d5b6b9db82c26ff45.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/7fd1c08a31781254a0358cbda7676814.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/7ff8bff333e0a85ea2cfb763657be7d6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/803fbe820a147107bcc40a086b865e7a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/807f2c172780ee47764beae72710d442.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8081f0697f09ee10587eb91bd3617191.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/808651e1494ff93f21d88493b1b63de1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/808e413cd686f8b178834941445cda72.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/80a5fee61153a4892d4c5651bc340ca3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/80e331240ba91e4e31a75cfdb9ec2e49.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/80fe30c1dcec5b553b0f4f7ecdbf67b1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/811d0531508da867538a36f9a5f8f0e4.go": wrong number of values in corpus entry: 1, want 2
@@ -718,7 +730,6 @@
         "testdata/fuzz/FuzzParseIndex/81bcf9c14138d1d8e3d9e4446bb5d541.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/81e095b5ff273277227b3bcb134d9223.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/82263ee15dcb9667736f78ac8ad40d0c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/82a04f4767ae781d978729740a5e2ede.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/82c14281e9f33a13a8e8a189a4fcf858.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/82d45794aa13c5b612f5f66b34628c21.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/83187090877c65f6e528628714ff6a12.go": wrong number of values in corpus entry: 1, want 2
@@ -735,20 +746,22 @@
         "testdata/fuzz/FuzzParseIndex/846ce1db1e0edcd74a80d92120aefa0a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/847618d9ab567e529d6ae0ab0c96d877.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/849ed4b654cbdc6042083698390eb606.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/84c48d88365ae9eb04dcc81545bf7f6e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/851b9a62850771f8f5c4978368361a4f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/856bb3eb3a0cee45f3b5e6ace91e9cf8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/85f2f08c2bad5b014bf09a21c66de1e2.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/85f83c18d43fabeabc84c34a1fae1640.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/866307082474f3aca3893433f2a69f13.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/866fc637838459aacb55f1b808737e86.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/86d90b5a9c027f4c512105580672f5fd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/86daa756c4ac8075919e7a13c08915da.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/87593a8ca0d0a5d3d4bacdb7622ecc9c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/87791ba7fd3e8320886929e8fca73bdb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/87d618460fa83b4a9c9b6ca1a317db84.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/87df81453ccccfb43d053b1c87ebbec5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8848fe5b7210ac5e2ec35ef42079b868.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/88e4a170c49093f508382bca4c34d5f4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/890bc916ba16907855d72e1bba33463e.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/89aae72ac3d087bb60e80dc29d5ff162.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/89b1250b77ca22c5fc0605822d2d92ee.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/89d83f9f9b10f5828d1a646c87aa5120.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/89db83564853ddbdb59b001a062e5da9.go": wrong number of values in corpus entry: 1, want 2
@@ -765,28 +778,28 @@
         "testdata/fuzz/FuzzParseIndex/8b158934200884ccab835e3366c9f5d2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8b29e78e85e2c2b418406d11cdf5d923.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8b4b34c50480719ee98c815a32f689e4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/8b5d8b10d5cd04a85415eba499e46574.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8b5e2d60ea20e4655a7e15ebba4ad9af.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/8b74684b46384ad0cf8f8418839b531a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8b92f656ce1bb5d4f3311110e78958d9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8baadcac0128e2ba147fff7fb3faf120.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/8bb6ee7faa26bbe61fcd40d4bdcd392e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8bc2517497abdae24b6947f8334fc4a5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8bc686e780b7e09a7345390775fb2ff2.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/8bd507e65c31a64c5b847620458dcc2e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8bd5437170232f38c9876bdf211557a5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8bd6f913d43e531adca5480330fe15af.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/8c109abc401f7c95f1eabe5ed30adce4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8ca7a2cb8b7a6e290f62b250659b9b43.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8cbf0fc509099a3e9caa9e03e9be3fa4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/8ccc903d2e0ab78512a95a3363517d47.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8cd187c28b3260c92d0f5137ac3cea43.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8d22fd1cb4d30613326da14efe95d1b0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8d31ed5130cb93a06a1c89f09cbb65d6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8d5653d3c22d03f8cef45c73dff4f91c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/8d9397b63cd2840b974343a4332fc87e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8d949dfa87a78cc69885be3a93800aa3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8d995a7a80a57493ebcd6ea844798705.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8dd784f30e578d0b75429032b9cfa9d0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8dfd207661464c82a1da63cfa311da75.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8e0c990863702b560fcb6da84cae91c4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/8e179432c1349cf2dde746b8531b2497.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8e37ee2e7d055c59506b55547702842d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8eba2572b409466cbfc6560c0a945267.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/8f536728da5a5051f0feb7cce6edc80a.go": wrong number of values in corpus entry: 1, want 2
@@ -799,12 +812,15 @@
         "testdata/fuzz/FuzzParseIndex/903d8a1c81a35477cb16f6eb2ccbc620.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/90418fcb2e6f85a6d99745a94846322d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9073e9d33cf9ea09542b67b3bc0c4dd5.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/909b596ebcfbd8df92e960a84328d7f4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/91204d454672a3da220d3c636ab8d32d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/91b7cfa2a7ea98379a05c0679ceb9359.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/922d6d0e99d74d4d5c95d697b5ed8e37.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/924b36da5eca888ed34fb6ea5b69755e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/927b8d08712a7862a1c1223519c2b7b4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/92d501867f9881c426df7668c96a0129.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/931ac922221d23a16c3210ea9274e1f5.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9327d90c068d87d93245c1b47b1619a5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9340cd1c77cc3821171549413c6780ae.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/93b99762766a6cca6a5bb5832222d03f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/93bca765c869ae0836bd03fafec046cf.go": wrong number of values in corpus entry: 1, want 2
@@ -814,13 +830,13 @@
         "testdata/fuzz/FuzzParseIndex/943008b9f7b729e610cce5bc4de17814.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/947c76bdca8e7a23be2d0d57fd2a4e13.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/94828b73ebb04c564a226d958bfb638c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/94c7b90453701ec53457222b0e214ae1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/94d3a5e48b9a3aabce88e4409c68a52d.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/9524fc299e19b0a2548d7f07caa88cc8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9565c64a94a47f69df702b6b172138b3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/956c1323d8825309136db1d76242f661.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/958595aaa18cb870cfd86df304a82d0f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/95b7cda2f29f07a233fbd023926e74b2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/95bf21a4d37de758786079f1106972f6.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/95cfe8e43e8936e006adfb2923b070d0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/95f433ca2f0aa47ba50e83cf5eb1da5f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/95fbb1d66189a0b9ef7db798bcfb1593.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9609410b11929e6a9f567efebb64bd1c.go": wrong number of values in corpus entry: 1, want 2
@@ -828,7 +844,6 @@
         "testdata/fuzz/FuzzParseIndex/961f909adb7f87daaa2b3579ea99d1c0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/96727ffecf52bf9c1e7f12f67eda0694.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/968bf1e81c400e33ed10d19ddd8406c4.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/96dbb25aa6d4f059efcead4d651d4207.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/970ba357b1c01a1012639817a5b8b585.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9721bd20dc4fc43a4b98fc043c916cb5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/97327d99c17156a0e27fb2000edc6bc0.go": wrong number of values in corpus entry: 1, want 2
@@ -836,8 +851,9 @@
         "testdata/fuzz/FuzzParseIndex/97e4a2003e72abaa60f374b903a053dd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/97fa1751b7c53ee446ad8493387ef252.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/980f6d0b5998db34bda3e7a14a5fb2e6.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/982ffb7070f063814793c505a6d5c0dc.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9870901bf7f285f71940fe2b4d6bd790.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/98bbbae6a7a1789568ae5dfe6897ae50.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/98c0e5ebba7d9e3b9ec37d5991d58726.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/992258535d189b215142635d153531a0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9924fb869c6b635c55e87fc75b9d4fd0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/99e69d412cc838cb772ce3f63892dcb9.go": wrong number of values in corpus entry: 1, want 2
@@ -849,12 +865,12 @@
         "testdata/fuzz/FuzzParseIndex/9ab9a214633d0c3a6561840353c85fca.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9ae342df307841177ecd877454201412.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9b052d95dd4ebe8697fd9d28374fbf08.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9b233a7b86d0395e2204810c5d300a7d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9b66b0d9b735026c1c198551ce535cc7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9b69aabae96b3c1653455b664b0e48ac.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9b8869991895c5795218682ac3a978de.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/9b9db32c36f3ff3326a04dc2159dd1e7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9bb330094f0c8d4a0e275a1336500d90.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/9bfad4650101c0880a5d95e0a06c7f77.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9bca7e83df486f1fa937b077506cff45.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9c03fb1a6e0a0cac57a325e813c0b842.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9c1ae38f20604f9c0f953d713583def9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9c650c3c84c7bcbaefdd3d5153cf3484.go": wrong number of values in corpus entry: 1, want 2
@@ -862,14 +878,18 @@
         "testdata/fuzz/FuzzParseIndex/9c75e47607d30b6c69bb0411d8f500df.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9ca32212820dc528117f4f99094a87bb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9ca6ba2a6431c76996fcc4c39054faf0.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9cac6ccb5ef2ee13185e8816a7ec9e31.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9cdbb840a76b801a37cacd2b1ec0e7fe.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9cec27db26d9ce5ad76c30363afe9747.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9d013c445e05542c5beae05c84d4e448.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9d3559b89cdccb9e8f6fd3e664a543e2.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/9d6a4beecbca43169600e2f164d95e64.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9d939456ba377ca672c14fbd9da13245.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9dcd231ade01684478ecbadf00a04340.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9dd9bda5cd84226451aa0323d9e00e22.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9e3b0e9f8ef52e31f19e45580a127601.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9e6030fe73a7ad2c0df7a9702b6616da.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9e7753920bbf756e92900a85bdbbed2f.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/9e7ab7c72dd6190e42a763976d5c609a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9ed4a50f4629275a296fb8eadfb4baf9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9ed8a69ac2bef904453a28898a464776.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/9f1c5bfba7108d4424957aaaa8c71eec.go": wrong number of values in corpus entry: 1, want 2
@@ -895,7 +915,6 @@
         "testdata/fuzz/FuzzParseIndex/a25c472e25be6270889dc4964fa55ee1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a274a3da405da3e88a98e2893e5468bd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a2ca6c79fa7bae4adc24ce03402e6dc3.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/a2e30fda454369621bd18af51ca09e85.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a2f2a8cb32fb64e539e29268af24cca1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a300e41516c6c95cf9362c6a6318cc00.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a33e0e38c8e7636a890d4dd68e3f7ddc.go": wrong number of values in corpus entry: 1, want 2
@@ -908,19 +927,21 @@
         "testdata/fuzz/FuzzParseIndex/a49f9d27e63ad8a3e323bb961187cb60.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a4b52b06795a499b1797d75c77cd8a5e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a4f82210e964c3b8b5d53db69d975a8e.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/a53557d5cf4016e93dc05d9224fa4ee7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a59e5fc09a1adbb575a48d36e43e3eef.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a5ba479776906690c2865f621b727f98.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a607f28c62c1d820d0073fea4c4ea8e2.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/a608c0f6345c91f37ff7c01b3826877a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a61383945393d7eedf6d0f4748f76a34.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a6410731caf6aa84e67141cef6ad55f1.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/a64cbb8d03b2b99595807463731c3077.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a65a8931a8b0b587089d4efa40e23e1d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a65e040e5a8af43c313b530ccfcd2f41.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a6743808a826d20a8535a9a04ce5e2e2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a679c1cda32b3df5abe84cd5703fd464.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/a68c393f29d5b57b682012ba3247c55c.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/a6abe7c357e8e193e78f58657f9012e8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a6bd2b9c93dd3b54c73144f2e84108ef.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a6c4c3c2e45943e759557988c9c7010f.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/a6cdd46357e7e7ccb0f91fc763d39d9d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a6d9500d14d770837feb458be23a4673.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a6df2c6a570e4aff65d5e1c79f1fb289.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a71c3b566c59a8fb8fed570b1f7841ae.go": wrong number of values in corpus entry: 1, want 2
@@ -930,21 +951,17 @@
         "testdata/fuzz/FuzzParseIndex/a7a08aae3f5cbe21ec37e9a7847966c9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a815c9f2948cb6e919999856aba9294f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a840df6c97c4820513d4f2796d63c2dc.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/a848392f36dbfa552ddfc747947018cd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a86b6eb4b64fafa246485b2147029526.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a88cf6f8ff8bd52252bf63ff76e8915f.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/a8e3b6b377c61d1686885e05828fb15e.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/a93d928d4cb2ea1c47945c8b479248b9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a981dc69cf18d997aba2a2684c2757ad.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/a9b205646a9086c40e8b6863aa2d8eb8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/a9b3be6ed4eddbb5007674b1d56b9380.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/aa4d9f5b5f05f2028f0e15aad84577fd.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/aaa06ab0129052e3ecbfa37302c5f16b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/aab4749c172b09eb5fe83b70b446fb86.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/aacc8dffef76d349063a5a3882915458.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ab1070c6e0cd66d828c0d9c8bd4a69db.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ab116da5251944d17dc318eedcf5576f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ab223a885ae675b025c87f4d4014a745.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/ab33b7ffd059edab4fa915db56fc3586.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ab4f0eaaf8b94a193fe3280f76bebaa2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ab5c6fc06e65bfa033db6b30e5dff9cc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ab5f6bc2c5d7e71b3cbef74024768bf5.go": wrong number of values in corpus entry: 1, want 2
@@ -956,6 +973,7 @@
         "testdata/fuzz/FuzzParseIndex/acae587b61bf28a0f01f9fa5c593280f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ad03105ff594308ac22810151c76bd67.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ad1b5911c82c579765a8e8fc5f8e7b5e.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ad43ddd2380c0f55003ade4b7fa96f6d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/adad2f3c8278b31109d607101f63b0af.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/adbc449ceaa57300b6b168420f60ef01.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/add2f7e152e29474b1d8a55209e10bef.go": wrong number of values in corpus entry: 1, want 2
@@ -966,6 +984,7 @@
         "testdata/fuzz/FuzzParseIndex/aea09404ab964c932bdd1c061d112526.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/aeaa5f93ce6c2cb0387eefc5d68b7a6b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/aec1006308eb5b6cb6c70ffd3418df78.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/af4930aca5369815433514cab8b3a84a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/af558196d1410409ef866773449eb102.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/afd9183125503c701c91448961ebc5d7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/aff6878141b7dde8d97dd331c052a109.go": wrong number of values in corpus entry: 1, want 2
@@ -976,35 +995,35 @@
         "testdata/fuzz/FuzzParseIndex/b08c2f8397cce4f3ce3a723d847bf92f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b119e006703c6e353d5524f58462c6b7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b11b2e9dfaba423954a1e6e336774b20.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/b13b0f3c706e41d0f28279226578c799.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b13b4aef935604ea3d99cf378785cb5a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/b1451606230bd9706c4e21405db7763b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b1462485274bc3f87502dadfca5a7169.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b1883bcef3634dfb80a106f9d487443b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b1c0f196fa0095fe43992b576f79cf04.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b1c304c6416c3d0b289bc40b23d3d1cd.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/b2de25392100428e7afdcd40229811db.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b2ffd2e0bce066c2a6e4cd0c1878794d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b335fa9f6a56c885ae315ab991bd4e83.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b353a5d20e0644838a674b4c654fb338.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b3847d91a75b5c36eddcc02a5eb26700.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b3b1d717738fc421dfd2ed66e239a83c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b3cb5471aaeec6b36d287d42ac833614.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/b3d96fe818525fb8a6b4056b37b914f6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b419a1aba54c9f206f86f75f0a0dfa87.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b4384cf64edbe87b3d36a3b1a8e0af57.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b453df35b769493ce421390aacbcfb19.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b4816b250a5ab8e467cb35fe2497b948.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b493fbb5523193e8f33074be65520d79.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/b4c7943d170e80ec64e902a39548ff7a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b4e26c215e596a5758a3580d256f2fa1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b5032376049af0c4e0f8b2ec7b3b773b.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/b5040ea767f93a51065b47f22fe52535.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b54669a55218a7821e6e98915b1d7fd5.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/b57a451e4a493d086c1aad0e12de3727.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/b5bf5f0e1f5632123d563a433de05523.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b5f9a4daeca03b342f27f75d53dca65e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b61ad9448b73774154d337f2c551f9bb.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/b64867fb41ace656b7b077c1db45fd4b.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/b66585214762454b9dfc9e9b04e64f25.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b6a4f914e8e7a78dc951a6950bea1a64.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/b6af9b4aedc53db3ea2ef5437317bf84.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b6d5f5d88af2345f24c8495c1225fe77.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/b6d61a37b2956bdff201e3a9d58290d0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b6edfd268020e3f91ce8f142422b3536.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b71be8f03b425fab0ce22d86920a30bd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b780d36e7a2a37a6b40d3e6b1f6819da.go": wrong number of values in corpus entry: 1, want 2
@@ -1021,6 +1040,7 @@
         "testdata/fuzz/FuzzParseIndex/b952a9613aaf7af0dc876619e6fb9db0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/b9fbdeadf4890bd551c6657a0f7b85a3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ba053ef79812fd0622d4aad11f7e57e4.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ba4f1fc8fb2997bcf3b4e4bee7db5a21.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ba617df6d2e2379e810c9913d1bf3f8c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ba7274bbc099b21a4cd6c1796ad97e60.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ba77963a02b03e616af701914c37362a.go": wrong number of values in corpus entry: 1, want 2
@@ -1044,17 +1064,20 @@
         "testdata/fuzz/FuzzParseIndex/bc92d2c3586a79589a8fc860e2bb9b69.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bcf2b43343402a95602e46a80df7f26b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bd0244555f66730789f6da6d8aac9304.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/bd03d07c9c28c04a75abdeaf280dfa69.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bd517211f1377e35c06e418d9e5bed0e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bd59521891f5692b9d218307ff8512d7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bda40e7134f3e53da60036af7c75100f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bde76ac8b3d069e2398f4e7ec9ab32c7.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/be150a8f8bd7dc506e6ac8e125ceb0e6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/be5f6c11970c98ccfda2aed8a686c221.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/be5fc4049622f7c9e96c974727fdf961.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/beb00e9cf13ee98e2732da570a94d34a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/becbe2b0bc2c00d89ccb4189956b9d30.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bed53fa84b2e82f693eba0ee66539b7d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bef4d0bf2e2d8d37b37ed1d12d401a07.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/bf78a8b33519ab8868c8988c78544dc0.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/bfacea4250ec62256eba9f2273d10e92.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/bfea41820ee1ed136f349f27c25144d4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c0323a75c75c576056dd2ac81289cddb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c0ba175141add732abd3f292863ef72a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c0c501efe7220a23f94e9ce5d5e16e7b.go": wrong number of values in corpus entry: 1, want 2
@@ -1065,33 +1088,37 @@
         "testdata/fuzz/FuzzParseIndex/c0f41252bd625d2b587ba8a0c720e4aa.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c10a205d46f72d249c82407ee8caf404.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c12437cd15e3e9e85d04c61dd9c988e0.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c1a63ff41e65855da22e5a22b6c4120a.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c1d1f82461a4fe6b3536e93d1db6a78a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c1d9615b1667bf8a82e488d0e00aad30.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c21fe6e55b4ad21f19d4eeee1972ea2e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c26c2312f02cebae2752f456963b8f1c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c26ffd84cb78994dd7a6b3e091cc0ef6.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c2e8ae2651e6c00a65fa001142209ae0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c2eb7675ae622ee3bd9b02d9f77f4369.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c373133d349e8a2ef77a05ae430195a0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c3a2e214b65bebcf7c3c325868c8ff87.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c3db2858ac1241de6bea843ac68a4850.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c3f86969b327b6c082837c5fa7330720.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c467b6aadfe4c22cc6bfb36098e29ac4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c47e27932d373c12569bd32eeacbc794.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/c484deb6b5dcf0b97d39efd85d472356.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c491ade1b684d2f645424c1e1e90c3f3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c49bf52854c99775d69d105b596a478b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c49d7ad8915e6dce466d66e75f840c71.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/c4dd97258ba784750a2d2371ac212261.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c4d351327a3d7943aaef95e86fcd47c9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c4e089d0c60bf11ed6f0b041172e9ef9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c52007d70d2e57abd2030bef71aff16e.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/c590e1413c58db9016e338250e956164.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c59234fcec2d6692396041111875feb3.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c5aea548b33d1a3d982e126044904759.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c5b6cf5f6a513919a47168854807b6b6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c5f9b9c32af0ddfd1e5424b6e6f120e4.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c629e477111b1d325c7c4672fc0a6a0d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c66a499536355777c539a63804e206e2.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c673408dfff0776ee8ba950f38ee1a65.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c67905b8eddc959a2a93f92f1be2c0ec.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c691e7c6110ec9dff6a50303c40ae9c0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c698aa95652d298ea010737842475f66.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c6c2da32484bc426539d6563d733e501.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/c6d8efed451f2c67855420b5128bbd5c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c75ca48762ad91a863d6f99ba48d2f40.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c76de2905a505badaae864c6fc5d52a2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c7775905fc0b84ba8a92fcf21f095438.go": wrong number of values in corpus entry: 1, want 2
@@ -1100,10 +1127,10 @@
         "testdata/fuzz/FuzzParseIndex/c83dd1d1d554bc9bb1b4b875f88d4c7f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c894bc6e6b31884882386f8715042796.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c8a7a2df5b6dd9c6ef668f926c15d3bb.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/c8b71d0a69e6d8c62271ec44fe456c3b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c8c29dbeb5a4244d0d7b85ab9d9121f6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c9232d3be9f8d4535a5fec067c85f499.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c93092a45fcaaf0108a88204c8a6cced.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/c95e7f601bae16b4c85e0eacb799ae49.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c97bb220d4de2ab7869f7a5d6f68171a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c97fa07d2ff8cfd1bec11e15552e1db3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/c9e64f2e8822a4dad7db3ae99d948bbf.go": wrong number of values in corpus entry: 1, want 2
@@ -1113,11 +1140,9 @@
         "testdata/fuzz/FuzzParseIndex/cad478121e0f0140c9694e3e1a7bfda9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/caeda3d01343948d9a9a864d2825ae8e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cb158a7761e206272c5c925cf85f5ffb.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/cb9431f6072015b61b430950b5beaca8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cb95a7827f0947d5b01098d9bf7fe036.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cba7e959c262c30639891af1d9376ac7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cbd341e828b043ea51f2aee896e17fe1.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/cbefadd564e6395e25b9af1fce6c4a0a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cc206f64cb6b9fcf64c563abc42a2f35.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cc25eb7a827676bc2e7bbf21b1a3de8d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cc3d413fac77b7cd7f8ae89172b3e0cd.go": wrong number of values in corpus entry: 1, want 2
@@ -1125,7 +1150,6 @@
         "testdata/fuzz/FuzzParseIndex/cc9a2c7685c297878f2a1d7d9cd01715.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ccaf59dd7e7462138b92a0b41e1748bf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cce4e7708f17dc4d74958eb3bf8b997d.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/ccf6585fbdd52056fa6e0b02679354e1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cd0050992e17fc1a36be9676804f6934.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cd107e70c4aa3425085cae692a874fc5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cd28176a129f9081ec99d7b2efba9c47.go": wrong number of values in corpus entry: 1, want 2
@@ -1133,12 +1157,12 @@
         "testdata/fuzz/FuzzParseIndex/cd514fa2ef6f5fc54a4d546a46dc3d81.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cd8c0827aff57b529626acd00cd3d075.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cdd067cba7bacc54a8e1c2f281350461.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ce00c3edd63ff8c928a54583fb4e6061.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ce5d5ef8110461aca04e048451c1c9e6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ce9de1b7236eb8dab7d4b591564991f9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ceeaed19d697439117be8f5447aa9cd6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ceed5f6c9aeaabfff439b124587ecf0b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cf0c08655f3795672eb01dbc0c829a95.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/cf1a7e408b77ad4b9eb3eb8d6507071c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cf3a3c7b1ba3ca231d3b735518df6bdb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cf3e1f80da580789375f7ad87f78011e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/cf5906a00ba851b99c79bf6f7ac3d37a.go": wrong number of values in corpus entry: 1, want 2
@@ -1146,6 +1170,7 @@
         "testdata/fuzz/FuzzParseIndex/d01b2b71a8decf08b3ea111f54194913.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d02b9d5d072f56399e3c4641059af951.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d02b9ece45efe72e7d9a95d302f4fa35.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d056be10e47d76fd1fba33f45a0cf5cf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d07578e446ec2a20aa5db1aa51288a5f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d077b6730bc24909a86ea707ef4d8672.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d123a4986b2ec53ae7085bc8ee373ae0.go": wrong number of values in corpus entry: 1, want 2
@@ -1153,37 +1178,39 @@
         "testdata/fuzz/FuzzParseIndex/d169765e8280d843f59cda1f61ddf4f1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d1951b23a849a10f2c880288d10d3621.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d19bf53df5d64debc30ad494095619ca.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d1a440c78053b4aa4a58413a5a28235a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d1a6b023f990f439185cd2df74cd1d93.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d1ad2dd4df35eea6e195f25ce268a347.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d1bab90de56b39eb9b962520b83491d3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d1e552523bc1fbdd0f4f9ffcb1a5d734.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d1e8c531fa83cfafcf40b8d2f2157983.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d254a8763d46549bc6b7f5695fbe24db.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d2896161be1261f933f78a4fdf66048d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d2c62cd1a33c2f83dd4a72d5926868d5.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d2dc5fb4886c0ba7660c00c98189e332.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d2e63033ae4df4554d035fef4c1896d9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d2f04dd522377b332e93d47f9631c6a2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d2f7cdfbafe08062ba672775779363f4.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d314908ff7ee24fc132fba719d886251.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d317c5757f1810198a0cfc3eb4fb98e6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d325fa67022015650af09635043e67ef.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d33541eec9ec83ad536e6e320ffd9cbe.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d3607acc89cde05395650650d844a1ad.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d36f3ac35a5315593a050987f7025a36.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d39068f901e75d894345a8142aff002e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d3953488a66cc67d9c2a2dd026549ad5.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d42ab504d45911d87c71c09464943223.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d43697ca42db4ae46b42c903aaab9086.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d4442ef809935e11713711caf04472af.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d464076aae532b608fdcd52eecac073f.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d4817225d855ad93842cc6e4598e16f5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d48e21895486fbdadb99cd9ecaba65c2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d4a7fedab1dcbbe8266b63ff88a53f71.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d4ae215d0ec7cd8f325b37c8c4e1cc40.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d4bf88854702ba71af137524fd664de8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d5088dd316e351f2a6f6d2edf217604d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d567c552349411ed357e9c1a8f80e674.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d58709061eae13470c9e0bb351b6e87e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d5a4a079760ac91b48b8e64b4626ec90.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d5e3d2094d5ec3267571f33e3f4a4483.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d5f68546152dc550141ffa69bc154083.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d5f74fca06f34f61c88a1a04cab9e7ce.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d60335d67c58350fc355476bcdcd3b4a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d61cce2f0c7bd0fae14b6fea4cbb51a5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d6344f78696906fc42711a95869cf2a6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d6b374fd390f79a7d7a47de133aa176b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d6d906c1e6eedfe897175499c0505b3d.go": wrong number of values in corpus entry: 1, want 2
@@ -1193,7 +1220,6 @@
         "testdata/fuzz/FuzzParseIndex/d709a6bef666f6ac763d8d56c1aed0a6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d70bcc865c343390b992257da92fe02c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d71e4d4ec1d9229d080480ca5c310c0c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d735676289a55415e0a99d8832980193.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d73f2af3661077b8654c97632bb5a44a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d7793c9cc2c608f30431fa9bebafa918.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d7d296028dfdcb682e4bc98a3e70844a.go": wrong number of values in corpus entry: 1, want 2
@@ -1203,10 +1229,10 @@
         "testdata/fuzz/FuzzParseIndex/d7fdae6cb570589e51e2f6bc80603ddd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d8e610d38c6ffeaa90d88bfced345302.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d918b3893abdbe5340d459b0e698cd03.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/d9a2579daf36d9836b2664121c991977.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d9a4d9744830db68d5a6af7143bbd022.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d9b57e4109bd1bac8c8189cdd9d8c39c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/d9b71f994975a850ae85d76d6e139713.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/d9ec5bdd799969485b0314a506724ee7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/da07816f8f0c0a1f1476f1583c350fa6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/da0bf55094f008f9a5262aedca85af4c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/da29d87cfd4ce40ccb09464da936cc26.go": wrong number of values in corpus entry: 1, want 2
@@ -1221,7 +1247,6 @@
         "testdata/fuzz/FuzzParseIndex/db62df51798351e60a380214181a90c9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dbe287df2c26aa6aa01b121792e287c6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dc10d87f5cf925bcc293f665cae32ca5.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/dc319a6a08b751de3fe4b686bf79ac7f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dcf071fdda385122900712df08193a99.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dcf76573d9844b3834a2fcd64efa0cbd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dcfbd063ca85e13a79d9d0e857340d9b.go": wrong number of values in corpus entry: 1, want 2
@@ -1232,10 +1257,8 @@
         "testdata/fuzz/FuzzParseIndex/dd828d30926c3f18aca8c2d3ef8c358d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dd9bd0214a36a0699b31891137e67bcb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ddb1369501578a1ff78891742ecde012.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/ddb76f995408fc0b0891dce07c8cbc0f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/de156771e2f1a81d64b8c00575e6988a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/de203933ef94caae6ab3c6c67b0ad28a.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/de48dc27f1213a0066b52d2e07a76105.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/de4e85ce3ec527decb632defd693b5cd.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/dee7cf1250f57b4a041c701b036df843.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/def5ce43b96fa1ab72c1c158a6d6537d.go": wrong number of values in corpus entry: 1, want 2
@@ -1257,12 +1280,10 @@
         "testdata/fuzz/FuzzParseIndex/e154beeb5905b5d4c9d51f98ccb9c272.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e18a6032fcfb5dae4ec3ff4660b16409.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e1f0e1061edf39f98ac42fbcd40d4d29.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e2056a1b4650a59df34110c762855e15.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e22596d911b9065b7e7105bddeb76435.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e23a5e26ef9bd716e4b19e6d2dcb2061.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/e24473f1152e330e58b98e6146a8863d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e2a0d6f95fe9f27e5f93440317608c42.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e2b226b3075a1c026d2d8df7bbd6672b.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e2b728d887714723deca9ad6d90f7610.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e2f5b3138fcba4c635f1f39474dc13eb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e2f628f2ae347b44e9fbd1bbea7851ff.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e3240233c0bf9c1f57ac16edc0651107.go": wrong number of values in corpus entry: 1, want 2
@@ -1270,10 +1291,10 @@
         "testdata/fuzz/FuzzParseIndex/e339b855e930e7f8b98e3bfdfcba88a8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e366b54dca3669c055117ddbc74ec0a2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e37667013a5a47f66123e4f3ec3c2223.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e37fc2f522dd7b5c11ae4d2ce0be5cc6.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e3812e0068df8636dc2ef362121ccbeb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e3d949cfbce78eb517b427ab0c55c2b5.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e43df3e5b29d7a89b8038b6350d2434f.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/e439f062db45dffd56ca95c3ada26ecc.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/e47761ee7256bc4e1226bbc94eb63eee.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e49ce37d1ee6799c2645cc48dfa8cf66.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e4d2c50ff91ae5230a2c7aa6143df93a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e4f3c91ae1ee987767f2c198390de1a1.go": wrong number of values in corpus entry: 1, want 2
@@ -1287,9 +1308,9 @@
         "testdata/fuzz/FuzzParseIndex/e5e6142fb53dbe70f0f5a48be4a25898.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e5f610430498e2a29578c2de3e06ccea.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e5f9f6697867bd09030c5a22f8f26a19.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e6aa2ba0803fb2b3ca3f6143e0cc5a50.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e6b7888146f7e5a15ce060f9e789bd4c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e72604c4ff2a25f5a911e59e9021195a.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/e7685a682f542ad1c05f313651237fbf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e778f99e0ec4f4635bb999ffe574ef59.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e78d41546516e915e3c65f228f962f0c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e79509af591fd7e9e95b455230989631.go": wrong number of values in corpus entry: 1, want 2
@@ -1298,8 +1319,8 @@
         "testdata/fuzz/FuzzParseIndex/e7b8614908d25824dcb4225b452c9475.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e7cd7d5ecf60de78813d20483d7929cf.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e7d8b2c06c91511e0425938b5e6654a7.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e7de80acfb3f1fa0a5fdb7f0318b965c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e7e4aecdad7ca07439d26fb9bc3c3e56.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/e7ea911efc9bb2ff9e269c1814525ffa.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e8053910c3f4b6530f93efc0363d5a6c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e8101d95d61f5274826de2647c595029.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e8134465aa1ad077b413a13a3720ccb2.go": wrong number of values in corpus entry: 1, want 2
@@ -1308,10 +1329,9 @@
         "testdata/fuzz/FuzzParseIndex/e8d636072deb0632a860d1954a80a99c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e9587614a0b2fd9f43c7b51cd38a7e12.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/e9c27390de454f1e3d700a1e6ac68183.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/e9e92e4b28a9659d268387adb48ff7cc.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ea5071403e1cfae6448a11e67ab8d1e9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ea7bbd23132a95f2c17f9649aa5dba48.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/eaa1556b683962339dc1ff91c1758b13.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/eab1c5dd9072000092f0258e90ec16b5.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/eacfa18f84f2477990c8196d873d560f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ead91a9b36a4b398935b5b3c6a263f48.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/eae2947b7366cca16ea970bcc693bd79.go": wrong number of values in corpus entry: 1, want 2
@@ -1327,20 +1347,20 @@
         "testdata/fuzz/FuzzParseIndex/ece2abd02f9926bff7232117b7457583.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ece438e643ac23f6babe254839b6039e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ece72a3ffe6653f248f6c32af85c8ee9.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ed383910fa24df9c0aa14caece2cb40c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ed8e1be323cc9cb62d8a1c8aebbab2f6.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ed9fbe84664f7728eecc46a63c3e63e8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/edc23d27b2b3e3f06a28d56c1f563068.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/edd83fd07a0bd310172673800b1bde88.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/edfb981b83a8876ae3aa2a82695f7c24.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ee147efec4fbc6681531742bbd7d0eef.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ee186b241decee40a5af6ea41c2f442b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ee732d8756d5e0fa6a63d1f2ab46ec2f.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/ee780194ba5b72ebb965d4a7ce2f82dc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/eec3d07d1a2ccf01efefca5cd148440a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/eef586c6b29def4442fcbdf194d76d14.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ef05e241b6f8ce594159162548eee218.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ef2b3297f422f63bff54be82f312a819.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ef354c617672896565f3eb36ae54960b.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/ef8e898eca6b045711e6d6176c3d2571.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ef9fdb36f595fbe4d971b2bba04b703a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/efc15e2c90c216f0f4c6ee4513e00e06.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f00d62c1e9386147dee5122e562d2f25.go": wrong number of values in corpus entry: 1, want 2
@@ -1348,6 +1368,7 @@
         "testdata/fuzz/FuzzParseIndex/f07eb6ab7c36fbe709ef9494f2f7d207.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f0a637e0b4fd8b2330eb7f942c4504d9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f0c8f78c5e229a66923be88e54c49d97.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/f0ebd4fa7c506b2988cf6a7608fc954e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f0f043edf48d4de56a575ef120d04c5e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f0fbaef31b3e07b34e32471f6054bdfa.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f1092ef6db89fbf87dc699da01f9d299.go": wrong number of values in corpus entry: 1, want 2
@@ -1364,6 +1385,7 @@
         "testdata/fuzz/FuzzParseIndex/f31f7164fadf4744bf71669f90d49899.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f3400efd272c1f1eed34122a6bb0250e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f390b1d4a160f4a65a335e2d0c5cce09.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/f39f70bd7e0782ab944062ad22f9a90b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f3b31fa12a7f487d1c1e9781da6bc9b9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f3b4616ba9f7e7b0464d0e24cc8d895b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f3efd8c9f5284c6cab5f6e2e522dc068.go": wrong number of values in corpus entry: 1, want 2
@@ -1373,6 +1395,7 @@
         "testdata/fuzz/FuzzParseIndex/f4ad5ed8444f9d507d4aa506a12f6905.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f4e62819f3f03acb1488bbd3e285bce2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f50eb8b1e4629a9716211168e0e35c84.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/f50f70d1e9805584ac9812bb5b43dbb7.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f5519e2536954ff5279b2c72a16df5f9.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f5563447d999540700801371ce6dbd87.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f556f3c767d4698b97729300dfa138f5.go": wrong number of values in corpus entry: 1, want 2
@@ -1382,11 +1405,10 @@
         "testdata/fuzz/FuzzParseIndex/f62b4950369020e1af970888b01d4d2f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f69499d7c6c9155c1559c681088680d3.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f6b457ef8030031425e91c263582f363.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/f72ec0f5f6052052f9e87ba1eae491d8.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/f6f146ade30f008297bb16beb9b2f712.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f733334012227aaf5a93b547f1e6f4eb.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f73f190aec0ffcd26a7a848fde18e31c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f7501996801f74a77195f0ad0f0d2d9e.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/f75626146c21a0b4c21f3103c8c1ce84.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f77bd68e816d6d08fbb27afbbc0e3fbc.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f7871853c9d8939ee1cbbce6d7de5ffa.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/f7a3de1320eb0c3691049ce6b1969d95.go": wrong number of values in corpus entry: 1, want 2
@@ -1405,23 +1427,25 @@
         "testdata/fuzz/FuzzParseIndex/fa4cf4ecd5af21d87979de0b2558db40.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fa822979ff0bb74a53951e1002c74a5a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fa98e97ade084c24ec34c866249c75c1.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/fac7f51ee9389a32a3ad4663bca74f8e.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/facbd2234f4e0599d7e1e94505da2713.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fae36f078e48dfe0e889f325a8a4fad0.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fb01467e707f3ff0dcc855dd0cf06948.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fb06b9edc5a96fbce250827a8bad81d7.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/fb290daf2321c8cd7e97f8da69a78ca8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fb812173d3a66893af99ea8ff8d8bd2d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fba0365b938d236c286a64ca22e4abef.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fbd1cd0f9709b049500f0267bd4e61f0.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/fbe2c8180a17c4226c72591531d73719.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fbfa667762a8259423ca15dd61963e06.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fc0420310ebae1c6f975ed2285b26e0c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fc0ed1a286fbdfffb428394ac6624883.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fc3703871a9f1424bdf56c42719c9060.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fc389df11c53c2bc5b1c211ee6a30786.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fc3bf96ce5d3c48509d50ead142d8988.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/fc9d4c489994ae64d32bf0de52bf800b.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/fc6586743e80a6314e4c60a9ad504c06.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fcad3bff4cf175297aa2bfe42afac310.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fcef596e98ada65eb4573fffb648a58c.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/fd1f448dc7b6319820ec72070d1de10a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fd298d569e357d9f04aefa7378316907.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fd29fb050ae8641ddd6fd644f08beae8.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fd38f9d2a1efd1a53c88fb447b8b3dde.go": wrong number of values in corpus entry: 1, want 2
@@ -1430,15 +1454,14 @@
         "testdata/fuzz/FuzzParseIndex/fdb4367b0942670dd7bfe44513e9673d.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fdc5b005e438c3a61fe996d8820fa9d2.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fde241896e50991bf0155ba983932626.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/fdf2f57b5dcf35a33116c7126b51df7b.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fe12bb8e2af8a187a894c385bba8466c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/fe273c56805053d09d8586089ac31e27.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fe4b4d5dd6d8ee0c96a5440df3c81b9f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fe8dd7c7dd0e9637aaf474789893668a.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/feb418d262222970dc461bd6ba88a25c.go": wrong number of values in corpus entry: 1, want 2
-        "testdata/fuzz/FuzzParseIndex/fecc44469123a1ab1c9d34eb7cf9f241.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/fed5f0a6977e759bc59af5e064e252d1.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/feddbe95adb95604983af5e303465e70.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/fef579dff9b0f7580120bf1b7297d9fc.go": wrong number of values in corpus entry: 1, want 2
+        "testdata/fuzz/FuzzParseIndex/ff010ad418bb580b991aa4173d00ac69.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ff1d59d1f4fea3e4894c7c8cda42524c.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ff8ded65a166328bb9eb7f1e89dcde9f.go": wrong number of values in corpus entry: 1, want 2
         "testdata/fuzz/FuzzParseIndex/ff9ce406e26c22ca48b33b1a87869d91.go": wrong number of values in corpus entry: 1, want 2
