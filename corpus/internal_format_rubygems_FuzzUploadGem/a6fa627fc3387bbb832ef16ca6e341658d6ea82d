@@ -1,0 +1,33 @@
+─--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neu"name":"demo","version":"1.0.0","platform":"ruby","summary":"s","authors":["a"!ruby/range":["MIT"],"dependencies":[{"name":"rack","requirementkirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '6on: !ruby/objecvt:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukircоооооооооооооооооооооооооhen
+autorequireA:
+bindir: bin
+cert_chain: []
+deat :2024-01-31 00:00:00.000000000 Z
+dependencie
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

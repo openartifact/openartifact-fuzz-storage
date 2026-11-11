@@ -1,0 +1,24 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+a[uthors:
+- Leah Neukirchen
+autorequire:
+bmndir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.0ace between webservers and Ruby framework#s.
+email: rack@example.org
+executables"homepage:
+extensions:nameuirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      v
+reqauthors:
+- uirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test$files: []
