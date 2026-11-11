@@ -1,0 +1,9 @@
+€MetadataÓ©š"3.11"
+Requires-Dist: pyt
+ t~=7.0; -Dist: pyt
+ t~=7tra o"esnins>=4.0; python_version < "3.11"
+Requires-Dist: pyt
+ t~=7.0; extra == "test""0.11"
+Requires-Dist: pyt
+ t~=7.0; -Dist: pyt
+ t~=7.0; extra =ides-Extra: test

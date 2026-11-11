@@ -1,0 +1,11 @@
+€Metadata-Version:(2.her[sceuzity,tests] (>=1.0,<2) ; pn:
+1oiother[sceuzity,tests] (>=1.0,<2) ; py.8" and extra != "dev"şÿÿ
+ ÿ
+Requires-Dist: Flask_Log€Metadata-Version:(2.1
+Name:VR ame: p
+Fers Rn:
+1oiother[sceuzity,tests] (>=2.0,<2) ; py.8" and extra != "dev"şÿÿ
+ ÿ
+Requires-Dist: Flask_Login>=0.3
+Rein>=0.3
+Requires-Dist: 1.4.2
