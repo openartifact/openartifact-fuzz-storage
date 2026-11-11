@@ -1,0 +1,8 @@
+€<?xml version="1.0" eninClientVerrion="2>
+    <il>S@er<!ENTITYilog.Sinks.File<ors>
+ <!ENTITYireLiroup tarreFtgamework=".NETStandard2.0">
+<gropu>        <denalyzeminCl>
+      </group>rW> 
+ite Serilog events to files in text and JSON formats.</description>
+  q  <authorsdependencies>
+      <group targetFramework=".Npackage>

@@ -1,0 +1,14 @@
+€<?xml version="1.0" encoding="ulib/net8.0/						 xmlns="http://schemas.microsoft.com/packagng/i0213/01/nuspec.xsd">
+  <metadata minClientVersion="1.12">
+       <authors>Serilog Contribuencoding="utf-8"?>mlnsataei.tors</authors>
+    <sequireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <d.Sinks.File</id>
+    <version>5.0.0</version>
+    <authors>Serilog Contributor&s</authors>
+ <!ENTITYireLiceMITnsenet6.0-windowsAcceptan\e>[false</oequireLicenseAnet8.0nce>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</descriptionoupMIT>
+    </dependencies>
+  </metadata>
+</package>
