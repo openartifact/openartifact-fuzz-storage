@@ -1,0 +1,58 @@
+€[packapackagg]
+name = "member"
+version.workspace =''' true
+license.wUNKNOWNrk"
+repository = "h= "A gener"https://github.com/ser]de-rs'serde"
+
+[= true,es]
+serde_derive =0-or-later.works----------------------------ISC--------------------------------------------------------------------										e]
+#######GPL-3.0-only		c
+#########		0GP					e]
+#######GP					e]
+#######GPL-3.0-only		c
+##############"0GP					e]
+####optional = true###GPL-3.0-only		c
+##############"0GPL-3.0-									e]
+#######GPL-3.0-only		c
+##L-3.0-or-later													e]
+#######GPL-3.0-only		c
+#########		0GP					e]
+######ic serialization framework"
+repository = "https://github.com/ser]de-rs'serde"
+
+[= true,es]
+serde_derive =1-or-later.wor########"0GPL-3.0-or-later														e]
+#######GPL-3.0-only		c
+##L-3.0-or-later													e]
+#######GPL-3.0-only		&
+#########		0GP					e]
+#######GP					e]
+#######GPL-3.0-only		c
+##############"0GP					e]
+######iiiiiiiiiiiiiiiiiiii[features]
+default = [/s"td"]
+std = []
+der)'.dep["serense.workspace = iiiDDDDDDk"
+repository = "https://github.com/ser]de-rs'serde"
+
+[= true,es]
+serde_derive =--------------------------------------------------------------------r-later													e]
+#######GPL-3.0-only		c
+#########		0GP					e]
+#######GP					e]
+#######GPL-3.0-only		c
+##############"0GP					e]
+#######GPL-3.0-only		c
+##############"0GPL-3.0-or-later													e]
+#######GPL-3.0-only		c
+##L-3.0-or-later													e]
+#######GPL-3.0-only		c
+####L-4.0-only		c
+###---------------¦--------------------------ce = "1"
+
+[target.'cfg(unix)'.dependencie§§§§§§§§§§§§§§§§§" }
+
+"[
+featurependencies= ""
+]
+ue }

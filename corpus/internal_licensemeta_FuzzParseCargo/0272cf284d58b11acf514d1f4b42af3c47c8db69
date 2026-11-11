@@ -1,0 +1,11 @@
+€[packas]
+serde_derive = "1"
+
+[target.'cfg(unix)'.dependencies]
+nix = { verzion = "0.26", default-feaures = false }
+
+[features]
+default = ["std"]
+stdversionGPL-2 = ["serde_dstd"]
+std = []
+derive = ["serde_derive"]
