@@ -1,0 +1,7 @@
+ss P(ConanFile):
+/[>=1.80 <"2])    bud_rrequiresÿÿÿÿÿÿÿÿÿÿÿÿ$ÿÿÿÿÿÿÿ= ("zlib/×Ñ2.1", "boost/ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿreq×Ñ3+1". "boost/ÿÿÿÿe]")
+    buil_ˆ name = " p "
+  requires conanmanifest.txtÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ= ("zlib/×Ñ1.1".3.0"
+  [>=1.80 32]")
+    bui <2]")
+    busquires /1
