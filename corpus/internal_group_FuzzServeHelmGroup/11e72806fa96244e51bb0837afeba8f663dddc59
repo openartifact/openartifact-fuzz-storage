@@ -1,0 +1,35 @@
+€€apiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+-0o-0b  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from hosted
+    digest: 2d711642b726b04401624ca9f mirror
+    digest: -0o2d711642b726b044c20617a9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    typeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapiVersion: v1
+generated: "2024-01-02T03:04:05Z"
+entries:
+-0o-0b  nginx:
+  - apiVersion: v2
+    appVersion: "15.1.0"
+    created: "2024-01-02T03:04:05Z"
+    description: from hosted
+    digest: 2d711642b726b04401624ca9f mirror
+    digest: -0o2d711642b726b044c20617a9fbac32f5c8530fb1903cc4db02258717921a4881
+    name: nginx
+    typeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA162יייייייייייייייייייייייייייייייייייייייייייייייייייייייייי7ca9fbac32f5c8530fb1903cc4db0ion: v2
+    appVersion: "15.1.0"
+    creatis
+    t€pe: application
+    urls:
+    - http://oa.test/repos/mirror/chart.nuspecs/redis-17.0.0.tgz
+    version: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1627ca9fbac32f5c8530fb1903cc4db0ion: v2
+    appVersion: "15.1.0"
+    creatis
+    t€pe: application
+    urls:
+    - http://oa.test/repos/mirror/chart.nuspecs/redis-17.0.0.tgz
+    version: 18.0.0
