@@ -1,0 +1,15 @@
+€--- !rmmmmmmmmmmmmmm3333mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmuby/object:Gem::Specification
+name: rack
+version: !ruby/om::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+ != 1.1 ">="
+      - tag:yamltA modular Ruby webserver interfea.c
+test_files: []

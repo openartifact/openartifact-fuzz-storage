@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Reqursion_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby"version"em::Version
+        ver !ru@y/object:Gem::SpAAAAAAular Ruby websrver interface.
+test_files: []

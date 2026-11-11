@@ -1,0 +1,36 @@
+€{"name":"de=o","versiong
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage:utables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https:/tform: ruby
+authors:
+- Leah Neukirchedependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requLLLLLLLLLLLLL\LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLdata.tar.gz- !ruby/object:Gem:5Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@nxalple.org
+executables:
+- rackup
+extensions: []
+extrct:Gem::Requ
+files:
+- lib/rack.rb
+homepage:utables:
+- rackup
+ext- lib/rack.rb
+homepage: Requirement
+  requiremion: '5.0'
+  type{"nay
