@@ -1,0 +1,52 @@
+€apiVersion: v2
+name: nginx
+description: NGINi3 a web server
+type: application
+versAion: 15.4.4
+appVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.comb
+home: https://bitnami.com
+icon: https:server
+type: application
+versAion: 15.4.4
+appVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+keywords:
+  - nginx
+  - http
+  - web//example.com/nginx.svg
+sources:
+  - httappVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.comb
+home: https://bitnami.com
+icon: https:server
+type: application
+versAion: 15.4.4
+appVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+keywords:
+  - nginx
+  - http
+  - web//example.com/nginx.s
+description: NGINi3 a web server
+type: application
+versAion: 15.4.4
+appVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+keywords:
+  - ncojb
+home: https://botnami.com
+icon: https:server
+type: application
+versAion: 15.4.4
+appVersion: -astructure
