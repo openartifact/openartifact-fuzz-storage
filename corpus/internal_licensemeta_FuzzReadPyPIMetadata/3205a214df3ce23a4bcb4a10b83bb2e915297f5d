@@ -1,0 +1,10 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-paWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWgethon: >=arset-normalizer (<4,>=26) ; extra == 'socks'
+RDist: pytest~=7.0; extENSE
+R_platform == "win32" and python_version >= "3.8"
+Provides-Exsocks
+
+Requests isra&simple HTTP library.

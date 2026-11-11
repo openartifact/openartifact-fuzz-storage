@@ -1,0 +1,9 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-paWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWgethon: >=3.7
+Requires-Dist: charset-normalizer  OR (<4,>=26) ; extra == 'socks'
+Requires-DisBs-Exsocks
+
+Requests is a simple HTTP library.

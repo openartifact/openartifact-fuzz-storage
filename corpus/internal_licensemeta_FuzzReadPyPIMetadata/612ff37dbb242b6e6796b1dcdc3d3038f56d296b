@@ -1,0 +1,4 @@
+€Metapath = Expression: MIT OR Apache-2.0
+License-File: cksVersion: 2-extensions>=4.0versionLse-File: LICENSE
+Requis-Dist:<?xml version="1.0" encoding="utf-8"?> pytest~=7.0; extra == "test"
+Provides-Extra: test
