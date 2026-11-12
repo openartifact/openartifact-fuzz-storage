@@ -1,0 +1,14 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: 0"
+    created: "03:04:05Z"
+    description: from mirror
+    digest: 2d711642b726b04401627ca9fbac31
+    name: app
+    type: application
+    urls:
+    - http://oa.test/repos/mirror/charts/app-0.2.0.tgz
+    version: 0.2.0
