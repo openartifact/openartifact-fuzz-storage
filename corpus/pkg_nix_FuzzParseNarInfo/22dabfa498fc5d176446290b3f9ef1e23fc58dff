@@ -1,0 +1,8 @@
+€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-2.12.1
+URL: nar/0mdqa9w1
+FéleSe: 1234
+NarHash: sha256:0mdqa9w1p6cmli6976v4wi0sw9r45rjpkp7lzfd1877wk11c9c73
+Na01s:
+i111111-bbbsha256:
+Deriver: 0123456789abcdfghijklmnpqrsvwxyz-hello-2drv
+Sig: cache.example.orCA1:AAAA
