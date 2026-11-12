@@ -6,10 +6,10 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/artifactpath/artifactpath.go:52.3,57.1 1 14
 /github/workspace/build-out/src/openartifact/internal/artifactpath/artifactpath.go:60.2,60.26 1 43
 /github/workspace/build-out/src/openartifact/internal/artifactpath/artifactpath.go:66.2,67.1 1 36
-/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:32.2,33.1 1 2209
+/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:32.2,33.1 1 2170
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:38.2,39.1 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:44.2,44.26 1 68
-/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:45.3,45.15 1 2209
+/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:45.3,45.15 1 2170
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:46.4,47.1 1 25
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:50.2,50.13 1 43
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:57.2,57.13 1 0
