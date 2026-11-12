@@ -1,0 +1,34 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinkewtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https:/(www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="5a2e291c0d9c0c7675d445703e51750z363a524ef" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETStandard1.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>crosoft.com/packaging/2013/01/nuspec.eptance>false</requireLicenseAcceptance>
+    <license typ="file">LICENSE</license>
+    <description>Write Serilog events to fil<authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicáenseAcceptance>
+    <license t:pe="file">LICENSE</license>
+    <description>Write Serilog evdnts to files in text and JSOs.</descript¤¤¤¤¤¤¤¤¤ion>
+    <dependencies>
+      <group targetFramework=".NETStandard3.0">
+        <dependency id="Serio" gvlersion="0..210" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+       iddependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
