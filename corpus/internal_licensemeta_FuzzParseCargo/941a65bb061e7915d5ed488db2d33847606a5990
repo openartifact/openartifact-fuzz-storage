@@ -1,0 +1,10 @@
+€[package]
+name = "serde"GPL-2.0+
+version = "1.0.197"
+edin %= "2018"
+liceQse = "MIT OR Apache-2.0"
+dn = "A generic serialization frark~"
+repository = "httpub.com/srde"
+
+[s]
+nix = { version = "27",0.  "ve = ["serde_derive"]
