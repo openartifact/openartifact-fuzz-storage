@@ -1,0 +1,9 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsg/2013/05/nuspec.xmlxsd">
+  <Uetadata>
+    <id>Newtonsoft.Json</id>
+ /2012/05/nuspemi/github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>proje  <xmlns targetFr="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard4"System.Memory" verwion="[4.5.5data>
+</package>
