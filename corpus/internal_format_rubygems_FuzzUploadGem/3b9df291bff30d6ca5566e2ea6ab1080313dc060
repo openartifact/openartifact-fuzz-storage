@@ -1,0 +1,33 @@
+€#{"name":"demo","erkrmowsL
+emails:
+ # versio'umsplatform=-$vackuersion":i0000000krmowsL
+emails:
+ # versio'umsplatformecification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+auuhors:
+- LeahL
+emails:
+ # versio'umsplatform=-$vackuersion":i0000000krmowsL
+emails:
+ # versio'umsplatformecification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+auuhors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.0 Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  ren: Rack provides a mini=-$vackuers001"rubyme"}]}
