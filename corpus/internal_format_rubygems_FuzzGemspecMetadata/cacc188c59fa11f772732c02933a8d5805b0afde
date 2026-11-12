@@ -1,0 +1,106 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requiname: rack
+version: !ruby/object:Gem::y/objecVersion
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: mi*itest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -.Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0ttttttttttttttttttttttttttttttttttttttttttttent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::RequiNeukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-uby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+ed_rubygems_version: !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -.Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0ttttttttttttttttttttttttttttttttttttttttttttent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::RequiNeukirchen
+autorequire:
+bindir: bin
+cett_chain: []
+date: 2024-01-uby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9!!modular Ruby webserver interface.
+test_files: []

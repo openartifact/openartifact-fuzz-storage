@@ -1,0 +1,166 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 1.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00"
+    - - #>:00.000000000 Z
+dependencies:
+- !ruby/object:Gl interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:on: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@exarple.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !Ruby/object:Gem::Version
+       ject:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 1.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00"
+    - - #>:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '0.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.oreah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 8563-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:on: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.00000000ersioame":"
+
+
+
+
+
+
+
+
+
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+
+
+
+
+
+itest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">=ase: false
+  version_requirements: 0!!!ruby/object:Gem::Requirement
+    requirements:
+  nn  - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.oreah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 8563-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/ob: ject:on: Rack provides a minimal interface between webservers an

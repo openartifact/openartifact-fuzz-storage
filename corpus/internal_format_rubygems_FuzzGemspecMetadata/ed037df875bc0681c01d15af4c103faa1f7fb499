@@ -1,0 +1,21 @@
+€--- !ruby/objeuby
+authors:
+- Leah Neukqrch_n
+autorequire:
+b"a 2:
+  #+22
+  # - - +22
+   # "a 2:
+  # - +22
+ -  # - # - 000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: miniteses:
+- ments:
+  - - ">="
+    - irements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+summary: A modular Ruby webserver interface.
+test_files: []

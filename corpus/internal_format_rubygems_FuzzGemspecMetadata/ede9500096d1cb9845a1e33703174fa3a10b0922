@@ -1,0 +1,11 @@
+€--- !ruby/object0bem::Specification
+name: rack
+ts:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 'si;ning_kements: j]
+zubygems_version: 3.5.3
+signi[g_key:
+specification_version: 4
+s%mmary: A modular Ruby webserver interface.
+test_files@: []

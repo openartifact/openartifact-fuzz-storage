@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  versioby
+auttorequire:
+bindir: 31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  n[ame:    :Version
+  !ruby/object:Gem::Requirement
+ []
+rubygems_version: 3.5.3
+si_files: []
