@@ -1,5 +1,0 @@
-€€class P(ConanFile):p"
-    requires = ("zlib/1.3.1", "boost/[ÂÆ1.80 <2]")
-    bu+ild_requires = "meson/1.3.0"
-  [   requires = "bzip2/1.0.8", "npseh/("c
-"
