@@ -1,6 +1,0 @@
-×=''' Ð=''' €[package]
-name = "de"
-versi= "0.0.19"
-edition = "2018"
-lic	ense = []
-derive = ["se"]
