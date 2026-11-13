@@ -1,0 +1,9 @@
+€[packagepackage]
+name = "serMe-2.0"
+dn = "A genseRef-on framework"
+repository = "https://githube-rs/serde"
+
+[dependencies]
+serde_de= "1009"
+license = "MIT OR Apache-2.0"
+description = "]
