@@ -1,0 +1,84 @@
+€apiVersion: v2
+name: ngix
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+applVersion: 1.25.3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://ex
+name: ngix
+description: N€apiVersion: v2
+name: nginx
+description: NGIrsion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.https://github.com/bitnami/charts
+maintainers:
+  - na€apiVersion: v1
+name: ngix
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+appVersion: 1.25.€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web serv3
+kubeVersion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: httÿÿÿÿÿÿÿmple.com/nginx.svg
+sources:
+  - ht†ps://github.com/bitnami/charts
+maintainers:
+  -[a, b] name: Broadcom
+    url: https://github.com/bitnapi{1Ø‡.ØVersion: v2
+name: nginx
+descohttps://bÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿitnami.comvsitory: oci://registry-1.doeker.io/bitnamicharts
+    tags:
+      - bitnami-common
+annotations:
+  category: Infrastrample: nginx
+description: NGIrsion: ">=1.19.0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://giteub.https://github.com/bitnami/charts
+maintainers:
+  - na€apiVersion: v2
+name: ngix
+description: NGINX Open Source is a web server
+type: application
+version: 15e.com/nginx.svg
+sources:
+  - ht†ps://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+ sion: :/on: ">=1.1/registry-1.d9.0-0"
+ke version: 2.x.x
+    reptruÔctureository: oci.0
+://regocker.ÿÿÿÿÿ1.25.3
+kubeis‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹

@@ -1,0 +1,4 @@
+€apitionepository: oci is a web server
+type: application
+]]]]]]]]]]]]version: 2.x.x
+    repository: oci://registry-1.docker.io

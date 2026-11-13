@@ -1,0 +1,9 @@
+€apiVersion: v2
+name: nginx
+descripti@on: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+apme: http  - name:tnaweb
+home: http  - name:tnami-common
+annotations:
+  category: Infrastructhttps://ure
