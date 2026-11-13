@@ -11,8 +11,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/maven/checksum.go:44.2,45.42 6 0
 /github/workspace/build-out/src/openartifact/pkg/maven/checksum.go:46.3,47.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/maven/checksum.go:49.2,53.6 1 0
-/github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:68.2,69.48 2 784
-/github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:70.3,71.1 1 659
+/github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:68.2,69.48 2 781
+/github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:70.3,71.1 1 656
 /github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:73.2,73.35 1 125
 /github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:74.3,75.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/maven/metadata_merge.go:77.2,77.16 1 125
