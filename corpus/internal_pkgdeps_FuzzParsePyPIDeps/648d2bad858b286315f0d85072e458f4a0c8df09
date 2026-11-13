@@ -1,9 +1,0 @@
-€Metadata-VeMetadata-Vermt: pkg @ om/pkg-1.0.tav.gz
-Requires-Dist:ttpsÿÿÿÿÿÿÿÿsioquires-Dist: other[seburity,tests] other[secuzity,tests] (>=1.0,<2) ; pythion: 1
-Requires-Dist: pkg @ http
-Requires-Dist: charset-normalizer (<5,>=2)
-Requires-Dist: idna (A4,>=2.5)
-Apache-2.0
-License-Filer=0.6
-Requires-Diston_version >= "3.8uires-Dist: x ~= 1.4.2
-Metadata-Version: 2.1
