@@ -1,0 +1,38 @@
+€{"depename":"de=o","versiong
+executables:
+- rackup
+extensions: []
+homepage:utables:
+- bject:G^m::Dependency
+  name: minitest
+ 0oth:
+0o- ce: #
+0oth:
+0ou:
+0o- ce: #
+0o requLLLLLLLLLLLLL\files:
+- LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLMLLLLLLL     - !ruby/object:Gem:5Version
+        version: '5.0'
+description: Rack provides a minimal interface between webservers a
+- lib/rack.rb
+homepage:utables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https:/tform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Depeneenci
+  name: minitest
+  /rack.rb
+homepage:ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ"utables:
+- rack}]up
+e}x

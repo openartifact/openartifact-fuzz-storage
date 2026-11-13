@@ -1,0 +1,8 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/o Neukirchen
+autorequire:in: []
+date: 2024-01-31 00:00:80.00000000
+e 0Zdpendencies:
+- !ruby/object:Gem:rsion: '5.0'
+s: []

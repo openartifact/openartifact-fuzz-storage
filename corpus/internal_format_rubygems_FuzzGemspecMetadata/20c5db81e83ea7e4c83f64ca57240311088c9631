@@ -1,0 +1,21 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukbin
+cert_chain: []
+date: 2024-01-31 00:00:00.iremttttttttttttttt2tttttttttttttttttttttttttttt
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2023-01-31 00:80:00.000000000 Z
+depIendencies:
+- !rueworks.
+email: rack@example.org
+executables:
+- racGem::Requirement
+    requiremeest_files: []
