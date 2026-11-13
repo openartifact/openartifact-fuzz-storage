@@ -1,0 +1,9 @@
+€<?xml version= 1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nusÒÒÒ>13. <minClientVerl
+    <description>Json.NET is a popular high<depencies>SON framework for .NET</de%scription>
+    <tags>öson</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="0a2e291c0d9c0c7licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://www.newtonsoft.com/json</projectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NEajsson</tags>
+    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json"targetFramework=".NETFramework4.5"445703e51750363a54 />
+      <group targetFramework=".NETStandardgroup kagtargeetFramework=".		ramewo	r
