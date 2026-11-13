@@ -1,25 +1,0 @@
-ÄMetadata-Version: 2.4
-Name: tomli
-Version: 2.0.1
-License-(>=1.0,<2)Expression: MIT OR Apache-2.0
-License-File: LICENSE
-Requires-Python: >https://aka.ms/deprecateLicenseUrl=3.8
-Requires-Dist: typing-exres-Dist: typing-exteNsio>n.s=40; python_version < "3.1es: LICENquires-Dist: idna (<4,>=2.5)
-Requires-Dist:‚äçìlib3 (<3,>=1.21.1)
-Requittp://www.apache.org/licenses/LICENSE-2.0.3 python_version < "3.11"
-Requires'-Dist: páãöåãÅ¬».0; extra == "test‰ıProvi./des-Extra: test
-ware LicenseClassifier:
-Requires-Dist:idna (<4HTTP://WWW.uires-Dist: urllibMequires-Dist: idna (<4,>=2.5)
-Requires-Dist:‚äçìlib3 (<3,>=1.21.1)
-Requittp://www.apache.org/licenses/LICEe.org/licenses/LICENSE-2.0.3 python_version < "3.11"
-Requires'-Dist: páãöåãÅ¬».0; extra == "test‰ıProvi.t‰ıProvi./des-Extra: test
-ware License
-Classifier:
-Requires-Dist:idna (<4HTTP://WWW.uires-Dist: urllibMequires-Dist: idna (<4,>=2.5)
-Requires-Dist:‚äçìlib3 (<3,>=1.21.1)
-Requittp://www.apache.org/licerovides-Extnses/LICENSE-2.0.3‡èÜãóêëûversion < "3.11"
-Requires'-Dist:,páãöå: PySocks 2ra: .0.1
-License-(>=1.0,<Ê2)Expression: MItesT OR Apat
-che-2.0
-License-res < "3.11"
-Ry.
