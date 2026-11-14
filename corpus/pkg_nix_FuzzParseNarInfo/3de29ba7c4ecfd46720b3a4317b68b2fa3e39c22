@@ -1,6 +1,0 @@
-€StorePath: /nix/store/0123456789abcdfghijklmnpqrsvwxyz-hello-1.12.1
-URL: n6vwk11c9c73
-FileSize: 1234
-NarHash: sha256:0mdqa9w1p6cmli3488v4wi0sw9r4p5prkj7lzfd1877wk11c9c73
-NarSize: 5678
-References: 0123456789abcdfghijklmnpqrsvwxyz-hello-2.1.1 1 cache.example: AA
