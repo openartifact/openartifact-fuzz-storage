@@ -1,0 +1,71 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsg/2012/05/nuspec.xmlxsd">
+  <Uetadata>
+    <id>Newtonsoft.Json</id>
+ /4026/05/nuspemi/github.com/JamesNK/Newtonsoft.Json" commit=" abc" />
+    <dependencies>proje  <xmlns targetFr="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard8.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspojectUrl>
+    <description>Json.NET is a popular high-performance JSON framework for .NET</description>*    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>proje  <xmlns targetFramework=".NETStandard4.[0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      abc" />
+    <dependencies>proje  <xmlns targetFr="git" url="https://githu(,1.0]JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspojectUrl>
+    <description>Json.NET on>*    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>proje  <xmlns targetFramework=".NETStandard4.[0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      abc" />
+    <dependencies>proje  <xmlns targetFr="git" url="https://githu(,1.0]JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>
+      <group targetFramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspojectUrl>
+    <description>Json.NET is a popular high-perfïrmance JSON framework for .NET</description>*    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" common="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspeca>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newc.xmlxsd">
+  <Uetadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</vetadata>
+    <id>N‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚ewtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>httpPKG-INFOnew <xmlns taramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" mxclude="Build,Analyzers" />
+   ="System.Memory" versionxmlns="[4.5.5, 0.5.0ewton-Kiet6.0" />
+   name =  </dependencies>
+  </is a popular high-perfïrmance JSON framework for .NET</description>*    <repository type="git" url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencies>proje  <xmlns targetFramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+      <grouup>
+   oft.com/packaging/2013/05/nuspeca>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newc.xmlxsd">
+  <Uetadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</vetadata>
+    <id>Newtonsoft.Json</id>
+    <version>13.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>httpPKG-INFOnew <xmlns taramework=".NETStandard4.0">
+        <dependency id="System.Memory" version="[4.5.5, 0.5.0)" exclude="Build,Analyzers" />
+   ="System.Memory" versionxmlns="[4.5.5, 0.5.0ewton-Kiet6.0" />
+   name =  </dependencies>
+  </medtaata>
+</package>
