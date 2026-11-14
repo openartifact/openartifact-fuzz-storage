@@ -1,0 +1,7 @@
+€€apiVersion: <<
+generated: "2024-01-02T03:04:05Z"
+ies:
+  nginx:
+  - aPackagesn: v3
+    appTersm hÿÿÿÿÿÿÿÿÿÿÿÿo/redis-18.0.0.tgz
+    versin: 18.0.0
