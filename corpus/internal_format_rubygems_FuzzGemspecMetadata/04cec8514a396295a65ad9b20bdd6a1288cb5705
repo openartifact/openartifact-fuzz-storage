@@ -1,0 +1,14 @@
+€--- !ruby/object:Gem::S0pecification
+name: rack
+version: !ruby/object:Gem::Version
+  version: []
+date: 8362-010!!binary0:00.000000000 Z
+dependject:Gem:_install_message:
+rdoc_options: []
+_ruby_versmon: !ruby/object:Gem::Re&version=
+  requirements:
+  - - ">="
+    - !ruby/obt
+  requirements:
+  - - ">="
+    - !ruby/oes: []

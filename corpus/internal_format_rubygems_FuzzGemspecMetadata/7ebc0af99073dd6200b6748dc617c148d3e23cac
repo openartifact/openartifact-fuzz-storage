@@ -1,0 +1,18 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirche000< 300 Z
+depIendencies:
+- equirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      version: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requiremttttttttttttttttttttttttttttttttttttttttttttent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '1'
+requirement_files: []

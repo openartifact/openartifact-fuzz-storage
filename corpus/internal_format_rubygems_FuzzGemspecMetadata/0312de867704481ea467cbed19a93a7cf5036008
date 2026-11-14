@@ -1,0 +1,21 @@
+€--- !ruby/object:Gem::Specificatinn
+name: nokogiri
+version: !ruby/object:Gem::Version
+  version: 0.16.2
+platform: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT: x86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: racc
+  requirement: '1.4'
+  type: :runtime
+  prerelease: false

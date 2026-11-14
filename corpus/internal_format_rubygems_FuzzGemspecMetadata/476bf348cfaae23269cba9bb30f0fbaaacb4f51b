@@ -1,0 +1,219 @@
+€--- !ruby/object:Gem::Speifcication
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+dat1e: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requ~rement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '4.0enses:
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/rack/issues
+po"  #-    P"="
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #-    P"="
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+st_insors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+dat1e: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requ~rement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !rubg_key:
+specifitest_filession: 4
+summary: A modular Ruby webserver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ interface.
+test_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+files
+
+
+
+
+
+
+
+
+
+
+
+: [="
+]
