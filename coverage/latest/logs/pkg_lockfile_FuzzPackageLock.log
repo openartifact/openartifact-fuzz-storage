@@ -1,0 +1,4 @@
+--- FAIL: FuzzPackageLock (0.00s)
+    fuzz_test.go:74: open testdata/package-lock.json: no such file or directory
+FAIL
+coverage: 0.0% of statements in github.com/openartifact/openartifact/...

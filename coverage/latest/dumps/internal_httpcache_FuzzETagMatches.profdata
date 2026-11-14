@@ -1,0 +1,21 @@
+mode: atomic
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:21.2,21.18 1 414
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:22.3,23.1 1 8
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:25.2,26.1 2 406
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:27.2,27.41 2 406
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:28.3,29.1 2 4330
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:30.3,31.1 2 4330
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:33.2,34.1 2 406
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:35.2,35.29 2 406
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:36.3,36.20 1 53629
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:38.4,38.20 1 1529
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:40.4,40.14 1 4599
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:41.5,41.13 1 553
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:44.4,44.32 1 4046
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:45.5,46.1 1 122
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:48.4,48.17 1 3924
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:52.2,52.32 1 284
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:61.2,61.9 1 0
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:63.3,63.29 1 0
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:65.3,65.28 1 0
+/github/workspace/build-out/src/openartifact/internal/httpcache/httpcache.go:67.3,67.58 1 0

@@ -1,0 +1,4 @@
+--- FAIL: FuzzComposerLock (0.00s)
+    fuzz_test.go:67: open testdata/composer.lock: no such file or directory
+FAIL
+coverage: 0.0% of statements in github.com/openartifact/openartifact/...

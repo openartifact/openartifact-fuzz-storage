@@ -1,9 +1,9 @@
 mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:64.2,64.19 1 76
 /github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:66.3,66.12 1 0
-/github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:68.3,68.47 1 17
+/github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:68.3,68.47 1 21
 /github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:70.3,70.38 1 10
-/github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:72.3,72.49 1 49
+/github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:72.3,72.49 1 45
 /github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:79.2,80.1 2 127
 /github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:81.2,81.64 2 127
 /github/workspace/build-out/src/openartifact/pkg/cargo/remote.go:82.3,83.1 1 10
