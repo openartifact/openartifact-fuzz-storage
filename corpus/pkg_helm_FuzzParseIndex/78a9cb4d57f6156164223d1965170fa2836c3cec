@@ -1,0 +1,10 @@
+€apiVersion: v0
+generated: "2026-01-02T03:04:05.000000000Z"
+entries:
+  redis:
+  - annotappVersion: 7.:.3
+    created: "2026-01-01T00:00:00Z"
+    descrip  created: "2026-0{{rsion: v2
+1-0ted: "2026-01-01T0ho%e:,   -:00:00Z"
+    d*escription: Redis
+    digest: 012345

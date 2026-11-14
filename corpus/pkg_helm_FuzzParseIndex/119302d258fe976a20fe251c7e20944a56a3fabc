@@ -1,0 +1,9 @@
+€>
+ app
+    versi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+  app:
+  - name: app
+    version: 1.00.
+    digest: aaaa
+    annotations:
+      kubeVersion:categor#28

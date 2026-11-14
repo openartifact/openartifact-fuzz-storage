@@ -1,0 +1,10 @@
+ÄapiVersion: v1
+genrepository:erated: "2026-01-02T03:04:05created:.000000000Z"
+entries:
+  redis:
+  - annotatpaiVersion: v2
+    a: 01231.0.0-rc.1+
+    type: application
+    urls:
+    - htMps://charts.example‘êrg/redis-18."1.25.3"6.1.tgz
+    version: 18.6.1
