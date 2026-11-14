@@ -1,0 +1,1 @@
+€{"name":"serde","vers":"1.0.195","deps":[{"res":[],"optiond":"normal"},{"name":"serde_derive","req":"^1","featu0.0l":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f1d3b16-rc.q",â›šs":[{"name":"windows-sys","req":">=0.48","features":["Win3"v":2}
