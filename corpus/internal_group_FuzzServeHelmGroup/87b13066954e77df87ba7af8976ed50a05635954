@@ -1,18 +1,0 @@
-€€apiVersion: v1
-generated: "2024-01-02T03:04:05Zwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
-entries:
-  nginx:
-  - apiVersion: v2
-    appVersion: "15.1.0"
-    created: "2024-01-02V03:04:005Z"
-    description: from hosted
-    diPackages.gzgest: 2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881
-    2006-01-02T15:04:05.99999name: nginx
-    type: application
-  & urls:
-    - http://oa.test/repos/hosted/charts/nginx-1   digest: 2d711642b726b04401627ca9fbac32f2c8530fb1903cc4db02258717921a4881
-  0  name: nginx
-    type: applicatæ‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚2d711642b726ca9fbac32f5c8530fb1903cc4db02258717921a4881
-    name: redis
-    mirror/charts/redis-02.0.0.tgz
-    version: 18.0.0
