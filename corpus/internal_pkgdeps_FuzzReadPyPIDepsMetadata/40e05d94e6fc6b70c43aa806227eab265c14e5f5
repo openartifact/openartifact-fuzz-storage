@@ -1,0 +1,22 @@
+€Metadata-Version:thon HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: KennetEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEh ReiticenseAcp a:he eth Reitz<package>
+LicenseAcp a:he 1.0
+Classifier: License :: OS$ Approved :: Apache Software License
+Clier: License :: OSI Approved :: Apache SofLanguage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urre License
+Cl### info/index.json
+assifier: Programming Lan`guage :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks  >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (! 'socks'
+Requircks (!= library.

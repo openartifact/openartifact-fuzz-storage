@@ -1,0 +1,14 @@
+€Metad	3a-Version: 2.1
+Name: req<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.2Dist: coetad"!að©š–
+ platform == "win32" and python_version >= "1sifier: Licens>=2.5..Requires-Displatform == "win32" and python_version >= "3.8"
+Provides-Extra: 00000000000000000000000000000000000000socks
+
+Requests Software License
+Classifier: Programming Language :: Python : 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requion >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

@@ -1,0 +1,42 @@
+€Metadata-Version: 3.1
+Name: re2.5)
+Requires-Dist: urllib3 (<3,>=1.2def build_requirements(self):1.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dieitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: lizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urlla-Version: 2.1
+Name: re2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dieitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: lizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>ib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Distxtra == 'socks'
+Requires-Dieitz
+License: Apache 2.0
+Classifier: Liadat    optionsPySockse: an: >=3.7
+Requires-Dist: charset-normalizeres-Dist: colorama ; sys_platform xmlns="http://schemas.micr<metadata>packaging/2013/05/nusc.p= e "win3rovides-Extra: scense :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: lizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urlla-Version: 2.1
+Name: re2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dieitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: lizer (<4,>=2)
+Requires-Dist: idna (<1.1)
+Requires-Dist: PySocks (!=1.5.7,>ib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == : colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

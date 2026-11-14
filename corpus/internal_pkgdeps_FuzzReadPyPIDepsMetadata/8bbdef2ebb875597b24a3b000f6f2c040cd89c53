@@ -1,0 +1,11 @@
+€Metadata-Version: 2.1
+NameJ requests
+Verpython >=3rsioist: charset-normalizer (<8,>=2)
+Requires-Dist: idna (===<4,>=2.5)
+Requi"win32" and python_version >url urllib3 (<3,>=1.21.1)
+Requires-Di..: PySocks (!=1.5.7,>nd python_vst: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Di..: PySocks (!=1.5.7,>libharset-normalizer (<4,>=2)
+Requires-Dist: idna (===<3,>=2.5)
+Req-ires-Dist: urllib3%atform == de"win32" and python_version >urllib3 (<3,>=1.ma ; sys_pl<4,>=2.5)
+Requires-Drary.
