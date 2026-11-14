@@ -1,0 +1,10 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.c<repository type="git" url="om/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Ser<!ENTITYilog.Sinks.\File</id>
+    <version>5.0SON formats.</description>
+  q  <dependencies>rilog.Sinks.File</id>
+    <ver>
+        <depom/packagingsion>5.0.0</version>
+    <authors>Seris in text and JSON formats.</descripti/2013/01onutF-8>
+  /nuq  <depens
