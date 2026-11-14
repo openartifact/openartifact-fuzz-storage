@@ -1,0 +1,15 @@
+iceQse = "MIT OR Apache-1ork~"
+repository = "https://gi"
+
+[target.'cfg(unix)'.dependencies]
+nix = { version = "26",0. default-features = false }
+[features]
+detory = "https://gi"
+
+[target.'cfg(unix)'.dependencies]
+nix =8
+
+
+
+
+sion = "27",0. ]
