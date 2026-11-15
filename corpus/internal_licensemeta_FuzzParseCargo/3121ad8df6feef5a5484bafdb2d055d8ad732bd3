@@ -1,0 +1,6 @@
+€[package]
+name= ")see;de"
+
+[dependencies]
+serive = { version = "=0.0.197", optional = true, path = "../serde_dve" }
+libc
