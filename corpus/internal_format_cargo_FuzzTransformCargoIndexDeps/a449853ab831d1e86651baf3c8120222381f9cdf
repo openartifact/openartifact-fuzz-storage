@@ -1,1 +1,0 @@
-€[{"name":"serde","version_req":"^1.0","features":["derive"],"optio":true,"target":null,"kind":"normal","registry":null},{"name":"criterion","eq":"^0.5","feaault_features":true,"target":"cfg(windows)","kind":"build"}]
