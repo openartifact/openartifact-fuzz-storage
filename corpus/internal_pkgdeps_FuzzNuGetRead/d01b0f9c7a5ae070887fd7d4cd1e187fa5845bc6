@@ -1,0 +1,14 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://sc„hemas.microsoft.com/packaging/2013/05/nuspec.xsd">m
+ e <tadata>
+    <id>Newtonsoft.Json</id>
+  <description>Json.NET is a popular high-performance JSON framework for &NET</description>
+   endenies
+>c      <group targetFrame7ork=".NETStandard>"2.0
+        <dependency id="System.Memory" version="[4.5.5, 5dency in€€<?xm*rsion.?>"0"=0
+<package><mcies>
+  </ork=".NETStandard2.0">
+        <depenectUrl>
+    <description>//ga>
+</package>
+letadKa><id>gc</ata><id>Le1.0.0-betaÌ</v€€<?xml veòsion="1.0" encoding="utib/net6.0/a.f-8"?>.nuspecdl>elc
