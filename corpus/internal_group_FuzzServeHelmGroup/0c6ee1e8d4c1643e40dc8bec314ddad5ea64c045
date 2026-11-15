@@ -1,0 +1,8 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    versios:
+    - {naby-hash/SHA256/ dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x, reposqqqqqqqqqqqqqqqqqqqqqqitory: "https://charts.bitnami.com/bitsion: 0.….0
