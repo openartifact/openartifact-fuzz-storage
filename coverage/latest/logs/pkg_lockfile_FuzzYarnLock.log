@@ -1,0 +1,4 @@
+--- FAIL: FuzzYarnLock (0.00s)
+    fuzz_test.go:91: open testdata/yarn.lock: no such file or directory
+FAIL
+coverage: 0.0% of statements in github.com/openartifact/openartifact/...
