@@ -1,0 +1,7 @@
+€--- !ruby/obj!ruby/rangeect:Gem::Speciment
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '4.0'
+  type: :development
+s: []
