@@ -1,0 +1,24 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bidinr: bin
+cert_chain: []
+date: 2024-01-31(00:00:00.000000000 Z
+autorequires:
+- !ruby/object:Gem::Dependenby/object:Gem::Requiremen
+        verhsion: '5.0'
+description: Rack provides a minimal interface between webservers and Ruby frameworks.
+email: rac1.4nk@example.org
+executextensions: []
+ables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/r

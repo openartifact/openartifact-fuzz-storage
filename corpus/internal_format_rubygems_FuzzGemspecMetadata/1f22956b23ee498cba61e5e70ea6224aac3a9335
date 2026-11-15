@@ -1,0 +1,6 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/object:Gem::Versi v
+no ersies:
+- !ruby/object:Gem::Dependency:  name: racc
+ erelease: false
