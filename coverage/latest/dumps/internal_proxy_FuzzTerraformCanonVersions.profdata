@@ -19423,8 +19423,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:673.2,673.17 1 0
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:674.3,675.1 1 0
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:677.2,677.14 1 0
-/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:709.2,710.56 2 834
-/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:711.3,712.1 1 396
+/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:709.2,710.56 2 832
+/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:711.3,712.1 1 394
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:714.2,715.1 2 438
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:716.2,716.32 2 438
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:717.3,717.32 1 849
@@ -19444,8 +19444,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:754.2,754.22 1 58
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:758.2,759.1 2 438
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:760.2,761.1 2 438
-/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:785.2,786.56 2 834
-/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:787.3,788.1 1 406
+/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:785.2,786.56 2 832
+/github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:787.3,788.1 1 404
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:790.2,791.1 2 428
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:792.2,792.33 2 428
 /github/workspace/build-out/src/openartifact/internal/proxy/terraform_parse.go:793.3,793.41 1 200
