@@ -1,4 +1,0 @@
-€[package]
-e = "serde"
-veposirde_derive = { version = "=0.0.197", optional = true, pn = "=1.0.197", optional = true, path = "../$erde_derive" }
-libc = "0es =derive"GPL-2.0+]
