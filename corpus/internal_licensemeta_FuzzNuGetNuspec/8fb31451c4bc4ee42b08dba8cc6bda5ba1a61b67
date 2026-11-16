@@ -1,0 +1,12 @@
+€<?xml version="1.0" encoding= AND 8"?>
+<package xmlns="http://schemas.microsg/2013xmlxsd">
+  <Uetadata>
+/    <id>Newtonsoft.Json</id>
+    <version>26.0.3</version>
+    <authors>James Newton-King</authors>
+    <license type="expression">rl>httpPKG-INFOnew <xmlns targetFramework=".NETStand">
+        <dencies>proje  <xmlns targetFramework=".NETStandard4.0">
+     tdependency id="System.Memory" versionxmlns="[8.5.5, 0.5.0)" exclude=data>
+    <id>Newtonsoft.Jsos>
+  </metadata>
+</package>
