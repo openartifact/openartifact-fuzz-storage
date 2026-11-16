@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+versio: 1.16.2
+platform: x86_64-linux
+authors:
+- Mike Daquirements:
+  -   - "~>"
+      - ! :runubpeatform: x86_64-linux
+authors:"development"rements:
+  -   - "~>"
+      - ! :runtime
+  prereleasetime
+  prerelease: false

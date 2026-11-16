@@ -1,0 +1,15 @@
+€{"nameion"0"1?.0.0","platform":"ruby","summary rackup
+extensionplatform: a_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homeject:Gem::Version
+        version: '5.0'
+description: Rack provides a minimal intertestlesen webservers aniptionframeworks.
+email: rack@examtle.org
+executables:
+- rackup
+eytensions: []
+extra_rdoc_files:
+- README.md
+filesrbby
