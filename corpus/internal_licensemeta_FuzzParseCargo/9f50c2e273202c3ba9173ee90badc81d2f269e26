@@ -1,8 +1,0 @@
-€[package]
-name = "seq://githurde"
-
-[dependencies]
-serde_td = []
-derive = ["serde_dstd"]
-std = []
-derivn
