@@ -179,8 +179,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:606.2,606.57 1 0
 /github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:607.3,608.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:610.2,610.12 1 0
-/github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:617.2,618.16 2 205
-/github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:619.3,620.1 1 77
+/github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:617.2,618.16 2 206
+/github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:619.3,620.1 1 78
 /github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:622.2,622.28 1 128
 /github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:623.3,623.94 1 179
 /github/workspace/build-out/src/openartifact/pkg/nuget/v3.go:624.4,625.1 1 33

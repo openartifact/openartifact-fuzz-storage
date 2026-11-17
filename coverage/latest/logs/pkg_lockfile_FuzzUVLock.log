@@ -1,0 +1,4 @@
+--- FAIL: FuzzUVLock (0.00s)
+    fuzz_test.go:107: open testdata/uv.lock: no such file or directory
+FAIL
+coverage: 1.1% of statements in github.com/openartifact/openartifact/...

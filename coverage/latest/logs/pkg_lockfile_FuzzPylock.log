@@ -1,0 +1,4 @@
+--- FAIL: FuzzPylock (0.00s)
+    fuzz_test.go:136: open testdata/pylock.toml: no such file or directory
+FAIL
+coverage: 1.1% of statements in github.com/openartifact/openartifact/...

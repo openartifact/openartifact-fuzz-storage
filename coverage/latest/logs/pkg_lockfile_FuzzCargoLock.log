@@ -1,0 +1,4 @@
+--- FAIL: FuzzCargoLock (0.00s)
+    fuzz_test.go:115: open testdata/Cargo.lock: no such file or directory
+FAIL
+coverage: 1.1% of statements in github.com/openartifact/openartifact/...

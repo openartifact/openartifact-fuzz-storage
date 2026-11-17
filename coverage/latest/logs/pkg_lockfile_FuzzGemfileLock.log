@@ -1,0 +1,4 @@
+--- FAIL: FuzzGemfileLock (0.00s)
+    fuzz_test.go:122: open testdata/Gemfile.lock: no such file or directory
+FAIL
+coverage: 1.1% of statements in github.com/openartifact/openartifact/...

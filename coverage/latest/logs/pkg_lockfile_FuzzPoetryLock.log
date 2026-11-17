@@ -1,0 +1,4 @@
+--- FAIL: FuzzPoetryLock (0.00s)
+    fuzz_test.go:99: open testdata/poetry.lock: no such file or directory
+FAIL
+coverage: 1.1% of statements in github.com/openartifact/openartifact/...
