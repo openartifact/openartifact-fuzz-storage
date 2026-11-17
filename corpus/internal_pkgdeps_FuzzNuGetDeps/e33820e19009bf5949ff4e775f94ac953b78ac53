@@ -1,0 +1,13 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="htging/2013/05ˆˆˆˆˆôˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json</id>
+    <version>06.0.3</version>
+   ry type="gt" url=mc" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">http://www.apacheÁÁÁÁÁÁÁÁirs/e>
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
