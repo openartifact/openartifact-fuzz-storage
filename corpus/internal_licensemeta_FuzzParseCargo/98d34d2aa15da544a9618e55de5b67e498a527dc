@@ -1,0 +1,3 @@
+€[pendencies]
+serive = { version = "=0.0.197", optional = true, ath = "../serde_dve" }
+libc

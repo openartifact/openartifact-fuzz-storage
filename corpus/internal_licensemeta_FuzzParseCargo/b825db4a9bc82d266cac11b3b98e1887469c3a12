@@ -1,0 +1,8 @@
+€[package]
+name = "seq://githurde"
+
+[dencies]
+serde_td = []
+derive = ["serde_dstd"]
+std = []
+derivn

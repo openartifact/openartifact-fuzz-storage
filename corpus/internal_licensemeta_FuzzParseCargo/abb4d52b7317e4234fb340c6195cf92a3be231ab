@@ -1,0 +1,6 @@
+ti=tt  ge]
+namrive = { version = "=1.0.197", optional = true, path = "../serde_derive"}
+Zlib= { version = "0~.27", default-features = false }
+Æ}
+
+[derive"]
