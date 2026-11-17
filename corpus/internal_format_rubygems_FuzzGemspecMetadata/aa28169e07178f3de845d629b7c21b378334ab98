@@ -1,0 +1,36 @@
+7ÿþrequired_rubyrv_isoeN: ÿ7ÿþrequired_ruby_version: ÿCallÿþrequired_ruby_version:€--- !ruby/object:Gem::Specificatioject:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  prerelease: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+description: Rac# provides a minimal interface between webservers and Ruby frameworks.
+email: rack@example.org
+executables:
+- ra ÿÅtag:yaml.org,2002:F!RRR'RRRRRRRRRRRRRR[RRRRli.acenseRRRRRRRRRRRRR"xÿþrequired_ruby_version: ÿtag:yaml.ckup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/rack
+licenses:
+- MIT
+metadata:
+  bug_tracker_uri: https://github.com/rack/rack/issues
+post_install_message:
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 2.4.0
+reqorg,2002:Fuired_rubygems_version: !ruby/object:Gem::Re
