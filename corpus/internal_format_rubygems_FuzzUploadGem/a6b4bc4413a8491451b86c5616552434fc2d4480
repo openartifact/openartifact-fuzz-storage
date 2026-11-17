@@ -1,0 +1,34 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+a[uthors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cero_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/obles:
+- ruby_version: !ruby/o&bject:G$em::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 8.4.0
+required_rubygems_version: !ruby/object:Gem::Re.......................quirement
+ nameuirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+sumMIT","authomary: A modular Ruby webserver interface.
+test$files: []
