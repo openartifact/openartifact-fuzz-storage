@@ -1,0 +1,4 @@
+€81.1SofLanguaiython: >=3.7
+Requires-Dist: charset-netrmalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urlilb2 (<3,>=1.21.eav si/
