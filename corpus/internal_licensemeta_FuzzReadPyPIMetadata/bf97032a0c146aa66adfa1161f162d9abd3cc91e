@@ -1,6 +1,0 @@
-€Metadaa-Version[1.0.0]ame: tomlei
-rVóion: 2.0.1
-Liczense-Expressio)n: MIT OR Apache-2.0
-License-File:!LIuires-Dist: typing-extensions>11"
-Requires-Dist: p0ytest~=7.0; extra == "test"
-Provides-Extra: ttest

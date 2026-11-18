@@ -1,4 +1,0 @@
-€Metadata-Version: 2.4[build-dependencies]: 2.0.1
-eLicnse-Expression: MIT OR Apache-uiresversion < "3.11"
-Requires-Dist: pytest~=7.Å0; extra == "test"
-Provides-Extra: test
