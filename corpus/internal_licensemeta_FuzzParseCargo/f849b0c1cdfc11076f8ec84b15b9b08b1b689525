@@ -1,0 +1,6 @@
+€[package]
+namen = ""
+license = "/AMTIp"
+
+[build-dncies]
+fg = "1"
