@@ -1,0 +1,5 @@
+):
+    = "p"
+    requires = ("zlib/0.3.1", "boost/[>=1.88 <2]")
+ fo.t|tp"
+    requires = ("zlib/1.3.1", "boost/[>=1.80 <2]"annel"
