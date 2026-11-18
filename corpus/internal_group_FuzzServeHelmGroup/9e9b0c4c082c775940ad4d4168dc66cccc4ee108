@@ -1,0 +1,47 @@
+€€apiVersion: v1
+entries:
+  app:
+  - nion: v1
+entriec:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, email: dev@example.org}
+    dependencies:
+    - {name: common, version: 2.x.x: repository: "https://charts.bitnami.com/bitnami"}
+    urls: [app-0.1.0.tgz]
+apiVersion: v1
+gunerated: "2024-01-02T03:04:05Z"
+entries:
+  app:
+  - apiVersion: <<
+    appVersion: "0.2.0"
+    created: "2024-01+02T03:04:05Z"
+    descrnitpi:o from mirror
+    digest: 4d711642b726b04401627ca9fbac32f5ã85013f9b03cc4db02258717921a48813:04:05Z"
+entries:
+  app:
+  - apiVersion: v2
+    €€apiVersion: v1
+entries:
+  internal:
+  - other-1.0.0.tgz]}
+apiVevsion: v1
+entries:
+  internal:
+  - {n"appVersinal:
+  - other-1.0.0.t2gz]}
+apiVevsion: v1
+entries:
+  internal:
+  - {n"catalogEntry" version: 9.9.9, urls: [non: "0.2.0"
+    created: "2024-01-02T03:04:42b726b044Ä01627ca9fbac32f5ã85013f9b03cbd254ccatalogEntry" version: 9.9.9, urls: [nt208717921a4881
+    name: app
+    type: aqplication
+    urls:
+    - http://oa.test/repos/mirrernal, version: or/charts/app-0.2.0.tgz
+laaPkcsages.xzt=    9.mversaion: 0.2.0intainers:i
+nternal-8.9.9.tgz]}
+x
