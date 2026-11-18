@@ -1,0 +1,9 @@
+€#aamu:sotr-ht: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+       `version: '5.0'
+  type: :development
+  pred
+fi
+  Ô

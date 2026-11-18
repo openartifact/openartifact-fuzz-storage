@@ -1,0 +1,29 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-72 00:00:00.00000000
+
+:
+depe7ndencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requ22222222222222222222222222222222222222222222222222222222222222222222222ks.
+email: ////////////////////////////////////////////rack@example.org
+executables:
+- rackup
+extensions: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/r,"type":"uby","ject:Gem::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::]
