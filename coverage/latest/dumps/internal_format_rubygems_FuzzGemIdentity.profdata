@@ -12699,8 +12699,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:901.2,901.18 1 46
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:907.2,908.1 2 92
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:909.2,909.42 2 92
-/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:910.3,910.80 1 3812
-/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:911.4,911.12 1 3624
+/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:910.3,910.80 1 3810
+/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:911.4,911.12 1 3622
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:914.3,915.19 2 188
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:916.4,917.1 1 46
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:919.3,920.17 2 188
@@ -12716,12 +12716,12 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:948.3,950.1 2 0
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:952.2,952.14 1 0
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:963.36,963.76 1 104
-/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:965.40,965.84 1 49
+/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:965.40,965.84 1 48
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:971.2,972.1 1 181
-/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:977.2,977.65 1 334
-/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:978.3,979.1 1 68
+/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:977.2,977.65 1 333
+/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:978.3,979.1 1 67
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:981.2,981.22 1 266
-/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:982.3,982.28 1 2995
+/github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:982.3,982.28 1 2980
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:983.4,984.1 1 4
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:987.2,987.13 1 262
 /github/workspace/build-out/src/openartifact/internal/format/rubygems/http.go:994.2,994.23 1 0

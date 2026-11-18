@@ -12665,13 +12665,13 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:39.3,40.1 1 5110
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:42.2,42.30 1 13134
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:47.2,47.62 1 209
-/github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:48.3,49.1 1 531
+/github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:48.3,49.1 1 532
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:56.2,57.1 2 209
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:58.2,58.25 2 209
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:59.3,60.41 2 627
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:61.4,62.1 1 145
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:64.3,64.70 1 627
-/github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:65.4,66.1 1 397
+/github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:65.4,66.1 1 396
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:69.2,69.19 1 209
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:70.3,71.1 1 188
 /github/workspace/build-out/src/openartifact/internal/format/gomod/versions.go:73.2,73.18 1 21

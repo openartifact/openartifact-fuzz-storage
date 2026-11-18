@@ -2,7 +2,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:36.2,36.26 1 400
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:37.3,38.1 1 10
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:40.2,40.22 1 390
-/github/workspace/build-out/src/openartifact/pkg/conda/filename.go:41.3,41.52 1 30163
+/github/workspace/build-out/src/openartifact/pkg/conda/filename.go:41.3,41.52 1 29708
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:42.4,43.1 1 7
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:46.2,46.13 1 383
 /github/workspace/build-out/src/openartifact/pkg/conda/filename.go:54.2,55.1 1 220
@@ -171,11 +171,11 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:83.2,83.13 1 0
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:84.3,85.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:87.2,87.37 1 0
-/github/workspace/build-out/src/openartifact/pkg/conda/path.go:95.2,96.1 2 162
-/github/workspace/build-out/src/openartifact/pkg/conda/path.go:97.2,97.28 2 162
+/github/workspace/build-out/src/openartifact/pkg/conda/path.go:95.2,96.1 2 163
+/github/workspace/build-out/src/openartifact/pkg/conda/path.go:97.2,97.28 2 163
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:98.3,99.1 1 4
-/github/workspace/build-out/src/openartifact/pkg/conda/path.go:101.2,103.54 2 158
-/github/workspace/build-out/src/openartifact/pkg/conda/path.go:104.3,105.1 1 30
+/github/workspace/build-out/src/openartifact/pkg/conda/path.go:101.2,103.54 2 159
+/github/workspace/build-out/src/openartifact/pkg/conda/path.go:104.3,105.1 1 31
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:107.2,108.1 2 128
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:109.2,109.54 2 128
 /github/workspace/build-out/src/openartifact/pkg/conda/path.go:110.3,112.1 2 10

@@ -1,0 +1,4 @@
+--- FAIL: FuzzGoSum (0.00s)
+    fuzz_test.go:144: open testdata/go.sum: no such file or directory
+FAIL
+coverage: 1.1% of statements in github.com/openartifact/openartifact/...

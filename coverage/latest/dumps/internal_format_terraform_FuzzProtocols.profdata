@@ -12514,10 +12514,10 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:538.2,539.1 2 20
 /github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:540.2,540.17 2 20
 /github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:546.2,547.9 2 376
-/github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:548.3,549.1 1 163
-/github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:551.2,551.32 1 213
+/github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:548.3,549.1 1 164
+/github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:551.2,551.32 1 212
 /github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:552.3,553.1 1 378
-/github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:555.2,555.39 1 213
+/github/workspace/build-out/src/openartifact/internal/format/terraform/archive.go:555.2,555.39 1 212
 /github/workspace/build-out/src/openartifact/internal/format/terraform/delete.go:25.2,26.17 2 0
 /github/workspace/build-out/src/openartifact/internal/format/terraform/delete.go:27.3,28.1 1 0
 /github/workspace/build-out/src/openartifact/internal/format/terraform/delete.go:30.2,31.9 2 0
