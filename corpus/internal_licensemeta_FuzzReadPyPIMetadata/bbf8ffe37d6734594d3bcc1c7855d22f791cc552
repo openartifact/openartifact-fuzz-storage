@@ -1,0 +1,12 @@
+ÄMetadata-Version: 2.1
+Name: requ0.1
+License-: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Licquires-Dist: uÚllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks PK(!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires[ëûçòet.'cfg(unix)'
+dependencies]-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: sockçı
+Requests is a simple HTTP library.
