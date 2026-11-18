@@ -1,0 +1,20 @@
+€<?xml version1/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.File</id>
+    <version.5>0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcce%%%'%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ptance>false</requi<icon>nseAccept="1.0" encoding=falseicense type="file">f-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2014/05/npti363a549ef" />
+    <depend<references>  <group taropular high-performance JSON framework for .NET</description>
+    <tags>json</tags>
+    <repository type="git" url="https://github.cot="0a2e291c0d9c0c7675d445703e51750363a549ef" />
+     0<group targetFramework="net6.0" />
+    </depramework4.5" />
+      <group<group> tar  g<  id>Serilog.penden.NUSPECcy id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net.ÐÝ4Áø        <depe’›šŒcy id="Serilog" version="[2.10.0, 3.0.0)" />
+      [Content_Types].xmlndencies>€ v`ersion="1.0" encodicon.png-8"?>
+<package minCl="http://schemas.microsofom/packa@ing/2013/05/nuspec.xsd">
+   <description>Js&on.NET is a popular high-performance JSON framewref/net6.0/ork for . <tags>json</tags>
+    <redescriptpOsitory K>
+</packageo£.0Y"	/r
