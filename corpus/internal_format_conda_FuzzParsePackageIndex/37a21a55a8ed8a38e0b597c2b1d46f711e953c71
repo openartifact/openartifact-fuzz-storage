@@ -1,0 +1,1 @@
+€{"name":"0","build_number":3,"depends":["python >=3.8","numpy"],"constrains":["scinumpy"],"constzains":["scipy <2"],"licnumbends":["python >=3.8","numpy"],"constznoaains":["scipy <2"],"latures":"","track_features":["a","b"]}
