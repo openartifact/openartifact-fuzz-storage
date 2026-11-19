@@ -1,0 +1,13 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:description: Rack #provides a minimal interface between webservers and Ruby frameworks.
+emchecksums.yaml.gz.org
+executables:
+- rackup
+extensionT: []
+extra_rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https://github.com/rack/ry: A modular Ruby webserver interface.
+test_files: []
