@@ -1,0 +1,4 @@
+€[package]
+e = "rde"
+veposirde_derive = { version = "=0.0.197", optional = true, pn = "=1.0197", optional = true, path = "../$erde_derive" }
+]
