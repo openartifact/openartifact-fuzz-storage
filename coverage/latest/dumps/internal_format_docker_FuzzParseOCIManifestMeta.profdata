@@ -12908,9 +12908,9 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/format/docker/http.go:1926.2,1926.16 3 0
 /github/workspace/build-out/src/openartifact/internal/format/docker/http.go:1927.3,1929.1 2 0
 /github/workspace/build-out/src/openartifact/internal/format/docker/http.go:1931.2,1931.41 1 0
-/github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:37.2,38.1 3 1562
-/github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:39.2,40.1 3 1562
-/github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:41.2,42.1 3 1562
+/github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:37.2,38.1 3 1560
+/github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:39.2,40.1 3 1560
+/github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:41.2,42.1 3 1560
 /github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:48.2,49.1 1 0
 /github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:54.2,54.45 1 0
 /github/workspace/build-out/src/openartifact/internal/format/docker/manifest_meta.go:55.3,56.1 1 0
