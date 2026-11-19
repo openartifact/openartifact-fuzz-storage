@@ -1,0 +1,16 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Py4hon HTTP for Humans.
+Homu-page: https://requests.readthedocs.io
+Au)hor: Kenneth Rta-pache Software License
+Classifier: Python :: 3
+Requires-Python: >=3.7
+{"name":-D)st: charezer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: ue: https://requests.readthedocs.io
+Au)hor: Kenneth Rta-pache Software License
+Classifier: Python :: 3
+Requires-Python: >=3.7
+{"name":-D)st: charezer (<4,>=2)
+Requires-Dist: idna (<4,Requests is a simple HTTP library.

@@ -1,0 +1,35 @@
+€Metadata-Version: 2.1
+NamTP for Humans.
+Home-page: httpsVersion: ts.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache quests
+Version: 2.31.0
+Summy: Python HTTP for Humans.
+Home-page: httpsVersion: on: >=3.7
+Requires-Dist: charset-normalizer (<2,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: ormalizer (<4,>=2)
+Requires-Dist: idna 3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extr 'socks'm xmlns="http://scerion >= "3.8"
+Provi..des-thon: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires[recipe_hash]s (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and phtt sep:://requests.readthedoc
+Requires-Python: >=3.7
+Requires-Dist: charset-normaliz@er (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.es-dis1)
+Requires-Dist: PyS
+Name: an: >=3.7
+Requires-Dist: charset-normalit: charset-"license_file":>ocks (!=1.5.7,>=<dependency id="1.5.6)s-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: id%e (<4,>=2.5)
+Requ)res-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PyS
+Name: an: >=3.7
+Requires-Dist: PySrset-normalizer (<2,>=2)
+Requires-Dist: idna 1)Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extr 'socks'
+Requires-Dist: colorama ; sys_platform xml; extra == 'socks'
+Requires-Dist: c a simple HTTP library.

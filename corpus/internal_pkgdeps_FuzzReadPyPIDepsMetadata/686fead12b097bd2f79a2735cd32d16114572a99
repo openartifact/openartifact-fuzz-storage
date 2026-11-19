@@ -1,0 +1,44 @@
+�Metadata-Version: 2.1
+Name: requests
+Version: 2.#1.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache quests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :Extra: socks
+
+Requorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Reques</group>[1.0.0]ts Software License
+Classifiage: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+ClaTP for Humans.
+Home-page: https://requests.readthedocs.io
+,uthor: Kenneth Reitz
+License: Apache 2.0
+Classifier: Lic
+
+se :: OSI Approved :: Apach(,1.0]ware License
+Classifier: Programming Language :: Python :: 3
+Require{-Python: >=3.7
+Requires-nse: Apache 2.0
+lassifier: Lic
+
+se :: OSI Approved :: Apache Software License
+Clasrllib3 (|3,>}1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ;.io
+Author: Kenneth Reitz
+License: ython_version >= "3.8"ense: Apache 2.0
+Classifi:2 OSI ApprovPK: Apache Sores-Python: >
+Requires-Dist: idna ؽ4,>=2.er: License :: OS 3
+Requires-Python: >=3.7󭚎uires-Dist: cython: >=3.7󭚎uires-Dist:hea csrt-normalizer (<HTTP library.
