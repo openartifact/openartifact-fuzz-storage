@@ -1,8 +1,0 @@
-€Metadata-Version: 2.1
-Name: requestts.readthedocs.io
-Author: Kenneth :: 3
-Requires-Ptyhon: >=3.7
-Requires-Dist: charset-normalizer (<4,>=2)
-Requires-Dist: idna (<4,>=2.5)
-Requires-Dist: urllib6 (<3,>=1.*21.1)
-Requ simple HTTP library.

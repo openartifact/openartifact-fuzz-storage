@@ -1,9 +1,0 @@
-€Metada<dependency id="ta-Versioned :: Apache Software License
-Classifier: Programming Language :: Pyt//////////n :: 3
-Requires-Python: >=3.7
-Requires-Dist: charset-normali-Dist: idna (<5,>=2.5)
-Requires-Dist: urll/ib3 (<3,>=1.21.1)
-Requires-Dist: PySockszer (<4,>=2)
-Requires-Dist: id    name = 4)
-Requires////////////////////////////////////////////////////////////////////////-Dist: P(!=1.5.7,>=1.5.6) ; extra == 'socks'
-Require @ https://orama ; sys_platform == ".
