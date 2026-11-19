@@ -1,0 +1,15 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !000000000 Z
+dependencies:
+- !ru:by/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem:;Version
+        version: '5.0'?  type: :develnt
+    requirements:
+    - - - ">=works.
+emired_rubygems_version: !ruby/object:Gem::Rruequiremen*t
+  reb
