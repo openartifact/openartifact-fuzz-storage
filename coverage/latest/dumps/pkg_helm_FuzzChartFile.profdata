@@ -148,8 +148,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/helm/index.go:372.3,372.28 1 1931
 /github/workspace/build-out/src/openartifact/pkg/helm/index.go:373.4,374.1 1 4
 /github/workspace/build-out/src/openartifact/pkg/helm/index.go:377.2,377.19 1 130
-/github/workspace/build-out/src/openartifact/pkg/helm/index.go:384.2,385.16 2 461
-/github/workspace/build-out/src/openartifact/pkg/helm/index.go:386.3,387.1 1 243
+/github/workspace/build-out/src/openartifact/pkg/helm/index.go:384.2,385.16 2 455
+/github/workspace/build-out/src/openartifact/pkg/helm/index.go:386.3,387.1 1 237
 /github/workspace/build-out/src/openartifact/pkg/helm/index.go:389.2,389.20 1 218
 /github/workspace/build-out/src/openartifact/pkg/helm/index.go:390.3,391.1 1 158
 /github/workspace/build-out/src/openartifact/pkg/helm/index.go:393.2,393.21 1 60

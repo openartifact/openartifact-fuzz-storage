@@ -26281,9 +26281,9 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:328.3,328.79 1 0
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:329.4,330.1 1 0
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:333.2,333.16 1 0
-/github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:349.2,357.1 2 732
-/github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:359.2,359.85 2 732
-/github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:360.3,361.1 1 608
+/github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:349.2,357.1 2 730
+/github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:359.2,359.85 2 730
+/github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:360.3,361.1 1 606
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:363.2,363.29 1 124
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:364.3,364.31 1 6
 /github/workspace/build-out/src/openartifact/pkg/ansible/galaxy.go:365.4,366.1 1 1

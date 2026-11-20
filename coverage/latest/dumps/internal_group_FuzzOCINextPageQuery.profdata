@@ -14197,10 +14197,10 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:238.3,239.40 2 0
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:242.2,243.1 2 0
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:244.2,244.26 2 0
-/github/workspace/build-out/src/openartifact/internal/group/oci.go:253.2,254.14 2 414
+/github/workspace/build-out/src/openartifact/internal/group/oci.go:253.2,254.14 2 410
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:255.3,256.1 1 102
-/github/workspace/build-out/src/openartifact/internal/group/oci.go:258.2,259.16 2 312
-/github/workspace/build-out/src/openartifact/internal/group/oci.go:260.3,261.1 1 135
+/github/workspace/build-out/src/openartifact/internal/group/oci.go:258.2,259.16 2 308
+/github/workspace/build-out/src/openartifact/internal/group/oci.go:260.3,261.1 1 131
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:263.2,265.1 3 177
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:266.2,266.42 3 177
 /github/workspace/build-out/src/openartifact/internal/group/oci.go:267.3,267.29 1 354

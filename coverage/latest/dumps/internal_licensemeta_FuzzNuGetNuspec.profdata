@@ -13645,7 +13645,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/licensemeta/ivy.go:65.4,65.64 1 0
 /github/workspace/build-out/src/openartifact/internal/licensemeta/ivy.go:66.5,67.1 1 0
 /github/workspace/build-out/src/openartifact/internal/licensemeta/ivy.go:71.2,71.17 1 0
-/github/workspace/build-out/src/openartifact/internal/licensemeta/licensemeta.go:70.32,70.61 1 617
+/github/workspace/build-out/src/openartifact/internal/licensemeta/licensemeta.go:70.32,70.61 1 613
 /github/workspace/build-out/src/openartifact/internal/licensemeta/licensemeta.go:105.41,105.68 1 10
 /github/workspace/build-out/src/openartifact/internal/licensemeta/licensemeta.go:109.2,109.28 1 0
 /github/workspace/build-out/src/openartifact/internal/licensemeta/licensemeta.go:110.3,111.1 1 0
@@ -13733,9 +13733,9 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/licensemeta/npm.go:75.5,76.1 1 0
 /github/workspace/build-out/src/openartifact/internal/licensemeta/npm.go:80.2,80.12 1 0
 /github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:59.68,59.103 1 0
-/github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:69.2,70.1 2 741
-/github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:71.2,71.59 2 741
-/github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:72.3,73.1 1 617
+/github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:69.2,70.1 2 737
+/github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:71.2,71.59 2 737
+/github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:72.3,73.1 1 613
 /github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:75.2,76.66 2 124
 /github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:77.3,77.54 1 4
 /github/workspace/build-out/src/openartifact/internal/licensemeta/nuget.go:78.4,79.1 1 3
