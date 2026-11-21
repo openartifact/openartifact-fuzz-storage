@@ -1,0 +1,10 @@
+€€€<?xml version="1.0N framT</description>
+    <repository type="git"€<?xml version= url="https://github.com/JamesNK/Newtonsoft.Json" commit="abc" />
+    <dependencrs>James Newton-King</authors>
+    <license type="expd="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+oup targetFramework="net6.0" />
+    </dependencies>
+  </mencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll
