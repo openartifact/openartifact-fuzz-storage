@@ -1,0 +1,12 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maintainers:
+    - {name: dev, emdescription:mple.org}
+    dependencies:
+    - {name: common, version: 2.x.x, repository: "https://charts.bitnami.courls:n\ami"}
+    urls: [app--0b0.1.0.tgz]
+apiVersiov.rpmnerat
