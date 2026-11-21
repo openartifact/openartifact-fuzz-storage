@@ -1,0 +1,6 @@
+€€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsofcy .amework=".NETStandard3.0">
+        <depenecynd id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+   </metadata>
+</package>
+lib/net6.0/a.dll
