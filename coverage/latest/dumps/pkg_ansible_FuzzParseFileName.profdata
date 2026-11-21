@@ -256,7 +256,7 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:43.2,43.66 1 219
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:44.3,45.1 1 7
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:47.2,47.24 1 212
-/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:48.3,49.63 2 536
+/github/workspace/build-out/src/openartifact/pkg/ansible/names.go:48.3,49.63 2 535
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:50.4,51.1 1 15
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:54.2,54.13 1 197
 /github/workspace/build-out/src/openartifact/pkg/ansible/names.go:60.2,61.1 1 93
