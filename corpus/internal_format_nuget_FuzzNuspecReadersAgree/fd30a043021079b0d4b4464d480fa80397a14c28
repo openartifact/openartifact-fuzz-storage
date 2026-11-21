@@ -1,0 +1,24 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://scheme</id>
+MIT <version>5.0.0</version>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptcane>
+    <license type="file">LICENSE</license>
+    <description>Write Serilog events to files in text and J1.0.0-beta.1</description>
+  q  <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+    </dependencies>
+ n>
+    <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license 
+ >  <description>Write Serilog events to files in text a<nd JSON formats.</description>
+  q/packENSE</license 
+ >  <description>Write Serilog events to files in text and JSON formats.</description>
+  q/packaging/2013/01/nuspec.xsd"targetFrameMITk=".NE </metadata>
+</package>

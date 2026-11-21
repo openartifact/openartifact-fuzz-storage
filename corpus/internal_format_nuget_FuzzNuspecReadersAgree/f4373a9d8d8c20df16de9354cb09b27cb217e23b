@@ -1,0 +1,36 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="uild,Analyzers" />
+      </group>
+      <group tup targetFramework="net5.0">
+   <group>   encoding="utf-8"?>
+<package xmlns="tion>
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="Seri<references>="2.10.0" exclude="Bnild,Analyzers" />
+      </group>
+      <group targetFramework="net6.0">
+        <dependency id="Serilog" version="[2.10.0,<metadata minClientVersion="2.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,package/services/metad type="http://schemas.microsoft.com/packaging/1006/01/nuspec.xsdfile">LICENSE</license>
+    <description>Write Ser=ilog events to files in text and JSON formats.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard4.0">
+        <dependency id="Serilog" version.=21"0.0" excsion="2.10.0" exclude="Build,Analyzers" />
+      </group
+      <grouendencies>
+      <group targetFralog</descrion>
+  q  <dependenci<group targetFramework="net5.0">
+        <dependency id="erilog"#version="[2.10.0, 3.0.0)" />
+      </group>
+  <dependen <authors>Serilog CcontentFiles/any/any/ontributors</a$thors0.0.0 <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Writncoding="utf-8"?>
+<pP.Nage xmlns="http://schemas.microsoft.com/capkaon>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group target44444444444444444444444444444444444444444444444~444444444444444444444444444444F<projectUrl>ramework=".NETStandard2.0">
+        versindency id="Serilog" version="2.10.0" exclude="Build,Analyzernet6.0k="net5.0">
+        [1.0.0, ) <authors>Serilog Contributors</authors>
+    <r7equireLice<![argetFramework="net5.0">
+        <dependency i@d="Serilog" version="[2.10.0, 3.0.0)"]]> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

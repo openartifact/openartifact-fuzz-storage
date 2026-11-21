@@ -1,0 +1,15 @@
+€<?xm- version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.msrcfoito.com/packagng/i2853/01/nuspec.xsd">
+  <metadata minClientVersion="0.12">
+       <authors>Serilog Contributors</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENS(,0.0]E</license>
+    <description>Write Serilog events to files in text JSON formats.</description>
+    <dependencies>
+     READM
+      <group targetFramework="net2.0">
+     truedependency id="Serilog" version="[2.10.0, 3.0.0)" />
+      </group>
+</dependencies>
+  </metadata>
+</package>
