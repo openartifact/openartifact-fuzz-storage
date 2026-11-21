@@ -1,0 +1,8 @@
+€--- !ruby/object:Gem::Specification
+name: r!ack
+rm: ruby
+authors:
+- Le~h Neukirchendir: bin
+cert_chain: []
+date: 2024-00-31 00:00:00.000000000 Z
+dep: rtest_files: []

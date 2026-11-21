@@ -1,0 +1,19 @@
+€--- !rificatiux
+authors:
+- Mike Dalessio
+sy: HTby/object:Gem::Specificatiux
+authors:
+- Mike Dalessio
+sy: HTML parser
+licenses:
+- MIT
+dependencies:
+- !ruby/object:Gemor86_64-linux
+authors:
+- Mike Dalessio
+summary: HTML parser
+lice-nses:
+- MIT
+dependors:
+- Mike encies:
+- !ruberelease: false

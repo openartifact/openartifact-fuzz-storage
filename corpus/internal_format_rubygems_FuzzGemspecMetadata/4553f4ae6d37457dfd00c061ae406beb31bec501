@@ -1,0 +1,16 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3(0.9
+platform: ruby
+authors:
+- Feah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2020-01-31 00:00:0.9
+platform: ruby
+authors:
+-00.irement: !ru!ruby/object:Gl_mesx86_64-linuxsage:
+bdoc_options: []
+require_patt_files: []
