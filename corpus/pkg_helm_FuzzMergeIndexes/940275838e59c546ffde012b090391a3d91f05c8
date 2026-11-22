@@ -1,0 +1,16 @@
+€€apiVersion: v1
+e?ntries:
+  a:
+  - {name :a, visreon: .000, .uo1rhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+ Î:
+  - {name :a, version: .00, &uo1rhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+ Î:
+  - {name: b, version: -00, &uo1rhs: [a-1.0.0.tgz]}
+apiVersion: v1
+entries:
+ Î:
+  - {name: b, version: -0o.0, u.rzs: [b-2.0.0.tgz]}
