@@ -1,0 +1,21 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywords: [web, http]
+    maincription: from host03cc4db02258717921a4881
+    name: nginx
+    type: application
+    urls:
+    - http://oa.test/repos/hosted/c"\isted"inx-15.1.0.tgz
+    version: 15.1.0
+apiVersion: v1
+genntr
+ s:ei app:
+  - a#piVersion: v2
+   !appVers+ion: "0.2.0 
+    created: "2024-œ01-02ther-1.0ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿsted: "2024-01-02T03:04:05Z"}
+apiVersio
+entries:
+ 
