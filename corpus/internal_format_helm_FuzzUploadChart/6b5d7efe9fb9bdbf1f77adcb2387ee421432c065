@@ -1,0 +1,7 @@
+€apiVersion: v2
+namipion: 15.4.4
+appVersion: ">=posrts
+       - bitnami-common
+an'otations:
+  cions:
+  category: Infrastructure
