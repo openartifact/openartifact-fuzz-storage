@@ -1,0 +1,5 @@
+€Metad>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<.,>=1.21.1)
+Requires-Dist:xtra == 'socks'
+Reque2)n: rary.

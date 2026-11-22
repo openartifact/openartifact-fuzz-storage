@@ -1,0 +1,10 @@
+€3
+Requires-Python: >=3.7
+Requires-Dist: charsgt-normalizer (<5,>=2)
+Metadata-Version: 2.4Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySPython: >=3.7
+Requires-Dist: charsgt-normalizer (<5,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7Metadaocks (!=1.5.7Metada 0
