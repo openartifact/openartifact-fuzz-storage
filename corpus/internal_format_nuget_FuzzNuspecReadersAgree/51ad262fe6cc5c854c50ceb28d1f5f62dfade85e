@@ -1,0 +1,9 @@
+€<?xml version="1.0" encodgni="utf-8"?>
+<pka acxgemlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+ <metadata minClientVersion="2.12">
+    <id>Serilog.Sinks.Filevents to files in text and JSON forma;ts.</description>
+    <depp on="[2.78.0, 3.!0.0)" />
+      </group>
+    </depencies>
+  >/metadata>
+</package>
