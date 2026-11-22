@@ -1,0 +1,8 @@
+€apiVersion: v1
+generated: "2026-00-02T00:00:00Z"
+entries:
+  app:
+  - nameons:
+      kubeVersion:c .:10.0
+    urls:
+    - oci://registry-.example/gone:].0.0
