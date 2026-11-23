@@ -284,8 +284,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/pkg/composer/version.go:163.3,163.71 1 44
 /github/workspace/build-out/src/openartifact/pkg/composer/version.go:166.2,166.64 1 11
 /github/workspace/build-out/src/openartifact/pkg/composer/version.go:174.2,175.1 1 0
-/github/workspace/build-out/src/openartifact/pkg/composer/version.go:183.2,183.73 1 360
-/github/workspace/build-out/src/openartifact/pkg/composer/version.go:184.3,185.1 1 208
+/github/workspace/build-out/src/openartifact/pkg/composer/version.go:183.2,183.73 1 358
+/github/workspace/build-out/src/openartifact/pkg/composer/version.go:184.3,185.1 1 206
 /github/workspace/build-out/src/openartifact/pkg/composer/version.go:187.2,188.16 2 152
 /github/workspace/build-out/src/openartifact/pkg/composer/version.go:189.3,190.1 1 98
 /github/workspace/build-out/src/openartifact/pkg/composer/version.go:192.2,192.43 1 54
