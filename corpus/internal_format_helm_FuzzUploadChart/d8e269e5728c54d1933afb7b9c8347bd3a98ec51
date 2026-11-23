@@ -1,0 +1,17 @@
+ÄapiVersion: v2
+name: nginx
+description: NGINX Open Source is a web servmy
+t9.ype: Xon: "?=1.19.0-0"
+keywords:)
+  - nginginx
+  - http
+  - web
+home:n: 15.4.4
+appVersion: 1.25.”ıkubeVersion: "?="
+keyannotas://example.com/nginx.svgrec
+suos:
+  - h?tps:/nami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependengory: Infrastructure
