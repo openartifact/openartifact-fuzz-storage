@@ -1,0 +1,16 @@
+€--- !ruby/object0bem::Specification
+name: rack
+version: !ruby/object:hors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-3< 1 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name  version: 2.4.0
+requircert_chain: []
+date: 2024-01-3< 1 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::r interface.
+test_files: []

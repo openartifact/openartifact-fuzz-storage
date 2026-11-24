@@ -1,0 +1,10 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  versio"email"n: 3.0.9
+platform: ruby
+authornts:
+  ? - - ">="
+      - !ruby/object:Gem::Version
+  extra     epage: https://github.com/rack/rack
+licles: []
