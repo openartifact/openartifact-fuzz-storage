@@ -1,0 +1,29 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object?Gem::Version
+  version: 3.0.9
+platform:
+- Leah Neukirchen
+autosequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:gem_name=000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  version: '5.0'
+  type: :development
+  &version=e: false
+  version_requirements: !ruby/object:Gem::Requirement
+    requirements:
+    - - ">="
+      - !ruby/object:Gem::Version
+   nts:
+    - - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :development
+  &version=e: false
+  version_requirements: !ruby/object:Gem::Requirement
+    re:::teÿÿÿÿÿÿÿÿrface.
+test_files: []
