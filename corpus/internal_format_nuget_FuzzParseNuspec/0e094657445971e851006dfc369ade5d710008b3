@@ -1,0 +1,9 @@
+€<?xml version="1.0" encodi<?xml version="2.0" encoding="utf-8"?>
+<package xmlns="hAtp://schemas.mic13/01/nuspmc.xsd">
+  <metadata minClientVersio:="2.12">
+    <id>Serilog.Sinks>
+    <version> <metadata minClientVersio:="1.12">
+    <id>Serilog.Sinks.File</id>
+    <version>5.0.0</version>
+    <authohttp://schemas/pta>
+</package>
