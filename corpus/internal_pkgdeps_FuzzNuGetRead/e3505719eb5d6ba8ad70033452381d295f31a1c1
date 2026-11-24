@@ -1,8 +1,0 @@
-€€<?xml version="1.0" encoding="utf-8"?>
-<package xmlnsETStandard2.0">        <depenectUrl>
-    <description>Json.NET is a popular high-performance JSON framework for .NET</description>
-    <repository type="git" url="https://github.com/Jam/>
-    </dependencies>
-  </metadata>
-</package>
-lib/net6.0/a.dll
