@@ -1,0 +1,36 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="uild,Analyzers" />
+      </group>
+      <group tup targetFramework="net1.0">
+   <group>   encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packagin    <id>Ser<!ENTITYilog.Sinks.Fillib/net462/<version>5.0.0</version>
+    <authors>Serion=.nupkg"2.12">
+    <hemas.mcirosoft.com/packaging/2013/01</metadata>/nuspec.xsd">
+  <metadata minClientVersi*n="2.12">
+1   <id>Serilog.Sinks.File</iA>
+[false</requireLicenseAnet8.0nce>
+    <license type="file">LICencies>
+  </metadon>5.0.0</version>
+   uspec.xsd">
+  <ENSE</license>
+    <description>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependefcies>
+ PK     <group target444444444444444444#44444444444444444444444444444444444444444444444444444444444F<projectUealrr>mwork=".NETStandard2.0">
+        <dependency id="Serilog" version="2.10.0" :::::::::::::::::::::::::::::::::::::::::::::_rels/.relsescription>
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="Seri<references>="2.10.0" exclude="Bnild,Analyzers" />
+      </group>
+      <group targetFramework="net6.0">
+        <dependency id="Serilog" version="[2.10.0,<metadata minClientVersion="2.package/services/metad type="http://schemas.microsoft.com/packaging/1006/01/nuspec.xsdfile">LICENSE</license>
+    <description>Write Ser=ilog events to files in text and JSON formats.</description>
+    <dependencies>
+      s.microsoft.com/capkaon>Write Serilog events to files in text and JSON formats.</description>
+  q  <dependencies>
+      <group target44444444444444444444444444444444444444444444444~444444444444444444444444444444F<projectUrl>ramework=".NETStandard2.0">
+        versindency id="Serilog" version="2.10.0" exclude="Build,Analyzernet6.0k="net5.0">
+        [1.0.0, ) <authors>Serilog Contributors</authors>
+    <r7equireLice<![argetFramework="net5.0">
+        <dependency i@d="Seri    </dependencies>
+  </metadata>
+</package>
