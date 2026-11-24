@@ -1,0 +1,12 @@
+€Metadata-Veron: 2.31.0
+Summon < "3.11"
+ReqAuires-Dist: pytest~=7.0; extra =¾ "test"
+Pon: MIT OR Apache-2.0
+License-File: LICENSE
+Requires-PytDllib3 (<3,>=1.21.1)
+Require<reposit‘†ß@‹†ßšxtra == 'socks'
+Requires-Dist: colorama ; sys_platform
+== "wi2" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.

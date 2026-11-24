@@ -1,0 +1,17 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.31.0
+Summary: Python HTTP for Humans.
+HomJJJJJJJJJJJJJJJJJJJJJJJJJJguage :: Python :: 1
+Requires-Python: >=3.7
+Requires-iDs:t charset-norm€Metadata-Version: 2.4
+Name: tomli
+Veróion: 2.0.1
+Lice””””””””””””””””””””””””””””””””””””nse-Expression: MIT OR Apache-2.0
+License-File: LIuires-Dist: typin:: Python :: 3
+Requires-Python: >=3.7
+R2" and python_version >= "3.8"
+Provhdes-Extra: socks
+
+Requests is a simpl tese HTTP t
+library.
