@@ -17,8 +17,8 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:68.3,68.59 1 1
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:70.3,70.52 1 29
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:72.3,72.20 1 69
-/github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:74.4,74.73 1 32
-/github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:76.4,76.69 1 31
+/github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:74.4,74.73 1 31
+/github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:76.4,76.69 1 32
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:78.4,78.74 1 4
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:82.2,82.28 1 9
 /github/workspace/build-out/src/openartifact/internal/ocipath/ocipath.go:89.2,91.1 2 202

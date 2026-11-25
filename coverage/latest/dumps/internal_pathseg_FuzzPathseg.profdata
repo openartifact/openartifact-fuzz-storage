@@ -22,4 +22,4 @@ mode: atomic
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:102.2,102.17 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:103.3,104.1 1 0
 /github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:106.2,106.95 1 0
-/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:109.33,109.63 1 61892
+/github/workspace/build-out/src/openartifact/internal/pathseg/pathseg.go:109.33,109.63 1 58957
