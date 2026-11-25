@@ -1,0 +1,17 @@
+€Mÿ~etadata-Version: 2.4
+Name: tomli
+Version:on < "3.11"
+Requires-Dist: py 2.0.ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿist: pytest~=7.0; e€Metadedocs.io
+Author: Kenneth Reitz
+L "test"
+Provicense: ApaÕhe 2.0
+Classipon: 2.4
+Name: tomliyAhonApach›ÒÍÑÏõ³Œcense-File: LICENSE
+Requires-Python: >=3.8
+Requires-Dist: typing-extensions>=4.0; python_version ides-Extra: t< "3.11"
+: OSI Approved :: Apache S.oftware License
+Classifier: Programming$Language :: Pythoxtra == "test"
+Proestvides-Extn :: 3
+Requires-Python: uires-Dist: charset-normalizer (a: t<4
+,>=2)
+Requires-Distest
