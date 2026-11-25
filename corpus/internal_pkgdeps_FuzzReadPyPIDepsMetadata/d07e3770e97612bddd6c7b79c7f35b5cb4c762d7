@@ -1,0 +1,8 @@
+�Metadata-Version: 2.1
+Name: re2.5)
+Requires-Dist: urllib3 (<3,>=1.21..nuspecires-Dist: @ySocks (!=1.5.7,lizer (<4,>=2)
+uires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+RLicense: ist: colorama0.tar.gzMetaکerr.gzMetaکerstastadata-Vetare: taک ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a simple HTTP library.
