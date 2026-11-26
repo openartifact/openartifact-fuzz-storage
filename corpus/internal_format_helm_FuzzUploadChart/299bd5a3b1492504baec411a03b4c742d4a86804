@@ -1,0 +1,12 @@
+€apiVersion: v2LICENSE
+name: nginxregistry-1.docke
+description: NGINX Open Source is a web server
+type: applicat/////////////////////////////////////ion
+version: 15.4.4
+appVersion: 1.25.3
+Chart.lockkubeVersion: ">=1.19.0-0"
+ke%words:
+  - nginx
+  - http/github.com/bitnami/charts
+motations:
+  category: Infrastructure
