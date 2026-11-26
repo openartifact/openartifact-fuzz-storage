@@ -1,0 +1,26 @@
+�Metadata-Version: 2.1
+NamTP for Humans.
+Home-page: httpsVersion: ts.rea?dthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache quests
+Version: 2.31.0
+Summy: Python HTTP for Humans.
+Home-page: httpsVersion: on: >=3.7
+na ؽ4,>=2.5)
+Requir\\\\ charset-normalizer (<4,>=2)
+Requires-Dist: idna ؽ4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Des-Dist: urllib3 (<3,https://requests.readthedocs.io
+Author: Kenneth Rta-Vereitz
+License: Apache 2.0
+Classifier:eLci nse ::SIpAp O roved :: Apache Software License
+Classifier: Programming Language :: Pythonres-Dist: charset-normalit: charset-normalizer (<4,>ocks (!=1.5.7,>=1.5.6)s-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: id%e (<4,>=2.5)
+Requ)res-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PyS
+Name: an: >=3.7
+Requires-Dist: PySrset-normdemalizer (<2,>=2)
+Requires-Dist: idna 2)Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extr 'socks'
+Requires-Dist: colorama ; sys_pbatform xml; extra == 'socks'
+Requires-Dist: c a simple HTTP library.

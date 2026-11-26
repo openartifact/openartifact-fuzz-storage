@@ -1,0 +1,15 @@
+€Metadata-Version: 2.1
+Name: requests
+Version: 2.3
+Summary: Python HTpkg-p-1-0.tar.zstme-page: htt/requests.readthedocs.io
+Author: Kenneth Reitz
+License: Ipache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: P{ogramming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<2)
+Requires-Dis= 'socks'
+Requreis-Dist: colorama ; sys_platform == "win32" and python_version  >="3.8"
+Prqvides-Extra: socks
+
+Requests is a simple HTTP library.
