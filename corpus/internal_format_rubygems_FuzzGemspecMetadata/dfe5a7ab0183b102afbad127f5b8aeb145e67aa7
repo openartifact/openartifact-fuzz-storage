@@ -1,0 +1,91 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0
+required_rubygems_version: !ruby/object:Gem::Requiname: rack
+version: !ruby/object:Gem::y/objecVersion
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    reqaarch64-linux  - -.Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0ttttttttttttttttttttttttttttttttttttttttttttent
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Glic2enses":["MIT"],"depend888.a8888888871322000000000ummary":"s","authors":["a"],"licenses":["MIT"],"dgpensummary":"s","a.¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡rc1uthors":["a"],"lic2enses2006-1-2t15:4:5.999999999Z07:00":["MIT"],"depend888.a8888888871322631598739001hors":["a"],"a.rc1ut88888888800°00em::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -Gem::RequiNeukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-uby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+ed_rubygems_version: !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+depIendencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requirement
+    requirements:
+    - -€{"name":"ee*mo","version":"1.0.0","platform":"ruby","summary":"s","authors":["a"],"licenses":["MIT"],"depensummary":"s","a.rc1ut":"ee*mo","version":"1.0.0","platform":"ruby","summary":"s","authors":["a"],"licenses":["MIT"],"depensummary":"s","a.rc1uthors":["a"],"a.rcÏŠ‹Ð8888888800°000000000000000000000000ummary":"s","authors":["a"],"li.acenses":["MIT"],"depensummary":"s","a.rc1uthors":["a"],"a.rc1uthors":["a"],"lic2enses":["MIT"],"depend888.a8888888871322000000000ummary":"s","authors":["a"],"licenses":["MIT"],"depensummary":"s","a.¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡rc1uthors":["a"],"a.rc1uthors":["a"],"lic2enses2006-1-2t15:4:5.999999999Z07:00hors":["a"],"lic2enses":["MIT"],"depend88888888888888880000000000000000008888888888880000000000000000000000000ñ00umma.Gem::Requirement
+  requirements:
+  - - ">="
+    - !rub]y/object:Gem::Version
+      versioj: 2.4.0ttttttttttttttttttttttttttttttttttttttttttttent
+  rry":"s","authors":["a"],"li.acenses":["MIT"],"depensummary":"s","a.rc1uthors":["a"]equirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      versione:
+bin,"a.rc1uthors":["a"],"lic2enses":["MIT"],"depend888.a8888888871232000000000ummary":"s","atteors":["a"],"licenses":["MIT"],"depensummary":"s","a.¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡rc1uthors":["a"],"a.uthors":["a"]dir: bin
+cert_chain: []
+,"a.rc1udate: 2024-01-31 00:00:thor0

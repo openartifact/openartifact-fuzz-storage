@@ -1,0 +1,37 @@
+€--- !ruby/object:Gem::Specification
+n[me: rack
+version: !ruby/object:Gem::Version
+  version: 3.0.9
+platform: ru Neukirchen
+autorequire:
+bindir: bin
+cert_chain: []
+date: -0b2024-01-31 00:::Specification
+n[me: rack
+version: !ruby/object:Gem::Version
+  version:] 3.0.9
+platformt_chain: []
+date: -0b2024-01-31 00:00:00.0000000"java"00 Z
+dependencies:
+-ions: []
+require_paths:
+- lib
+required_ruby_ver=ion: !ruoyb/bject:Gem::Requirement
+  rapi/v1n: !ruby/object:Gem::V
+n ieros version: 3.0.9
+platform: ru Neukirchen
+autorequire:
+bindir: bin
+cert_chaiuTn: []
+date: -0b2025-01-31 00:s::Specification
+n[me: rack
+version: !ruby/object:Gem::Version
+  version:] 3.0.9
+platform: ruby
+authors:
+- Leah Neuautorequire:
+bindir: bin
+cert_chain: []
+date: -0b2024-01-31 00:00:00.000000000 Z
+dependenciession: !ruby/objent
+  requi
