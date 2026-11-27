@@ -1,0 +1,89 @@
+€Metadata-Versdata-Version: 2.1
+Name: requests
+Version:conaninfo.txtry: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Aedocs.io
+Author:$Kenneth Reitz
+License: Apache 2.0
+Coooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooolassifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>e Software License
+Classifier: Prooramming Languagon :: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizr.tar.bz2 2.31. (<4,>=2)3
+Requires-Python: >=3.7
+Requires-Dist:ec arhst-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requirez-Dtz
+License: Apacheinfo/index.json: License/ :: OSI Approve..:: Apache Software License
+Classifier: Programming Language :: Pl="ÓŸefires-DistPK/////////////////////(,1.0]//-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!) ; ex[cezipinsecurnsee Apac[>=1. 1itz
+etatad(  K]nneth Reitz
+Licezipinsecurnsee Apacthon: >=1.7
+Requires-Dist: chast: idna (<4,>=2.5)
+Requires-Dist: urllib8 (<3,>=1.21.1)
+Requires-Dist: PySockszer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)ho/////////////////////////////PK/////////////////////(,1.0]/////(,1.0]/////////////////////////////////////////////n :: 3
+Require Language :: Python :: 3
+Req]tps://requests.readthedocs.io
+A-uthor: Kenneth Rta-Vereitz
+LAcense: Apache 2.0
+Classifier: License :: OSI Approved :: Apa2.e: 1
+Name: a
+Veruires-Pythtn: >=3.7
+Requzlib/1.3.1 htecsar-normalizer (<4,>=2)
+Requires-Dist: idn_version >= "3.8"
+Provides-Extra: socks
+
+Reer: Programming Language :h:onytP 0:: 3
+Requires-Python: >=3.7
+Requires-Dist: charset-normalizer (Classifier: License :: ython: >=3.7Requires-Dist: charse}-normalizer (<4,>=2)
+Requires-Dist:ndi a (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21Classifier: .1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist 
+22:self.res-Dist: PySocks (!=1.requires(s_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests Software License
+Classifier: Programming Language :: Python :: 4
+Requires-Python: >=3.7
+Re,uires-Dist: charset-normalizer (<4,>=2)
+Requires-Dist: idna (<4,>=2.5)
+Requirezlib/1.3.1sLicense :: OSI Approved :: extra == 'socks'
+Requires-Dist: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Reqqestscrosoft.com/packaging/2013/ 
+Name: an: >=3.7
+Requires-Dist: charlib/netstandar`2.0/set-normalizer (<4,>=2)er (<4,>=2)
+Requires-Dist:# idLicense-File: na <>,=4(2.5)
+Requi.21.1)
+Requires-DistPy for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+License: Apache 2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+REquires-Python: >=3.7
+Requires-Dist: charset-normalizer (<4,>=2)
+Requirer-Dist: idna (<4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorama ; sys_platform =,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (che Software License
+Classifier: Programming <?xml version="2.0" encyding="utf-8"?>Language :: Python :: 3
+R5)
+Requires-Dist: u latform == "22222222222222222chawin32" and python_version >= "3.8"
+Provides-Extras-Dist: charset-normalizer (<4,<projectUrl>s-Dist: idna (<4,>=2.5)
+Requires-Distr: ullib3 (rllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks`(!=1.5.7,>=1.5.6) ; extra$== 'socks'
+Requires-Dist*: colorama ; sys_platform == "win32" and python_version >= "3.8"
+Provides-Extra: socks
+
+Requests is a si.mple HTTP library.
