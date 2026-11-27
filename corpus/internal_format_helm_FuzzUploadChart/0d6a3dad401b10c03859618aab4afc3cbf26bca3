@@ -1,0 +1,49 @@
+€apiVersion: v2
+name: nginx
+description: NGINX Open Source is a web server
+type: application
+version: 15.4.4
+aprVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://examplon
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnami/charts
+dependencies:
+  -  2006-1-2T15:namkkkkkkkkkkkkke//github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    url: https://github.com/bitnemi/charts
+deapiVersion: v1
+pendencies:
+  - name: common
+    4:5.9999999915:4:5.999999999Zversion: 2.x.x
+    repository: oci://reg.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+sources:
+  - https:ation
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnam:00i.com
+icon: https://example.com/ngfrastruct
+icon: https://example.com/nginx.svg
+sources:
+  - https:ation
+version: 15.4.4
+appVersion: 1.25.
+  - web
+home: https://bitnami.com
+icon: https://example.com/nginx.svg
+souure

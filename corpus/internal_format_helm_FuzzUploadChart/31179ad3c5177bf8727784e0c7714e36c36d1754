@@ -1,0 +1,43 @@
+€apiVersion: v2
+name: nginx
+description: NGINis a web server
+type: application
+versAion: 15.4.4
+appVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+keywords:
+  - nginx
+  - http
+  - web
+home: https://bitnami.comb
+home: https://bitnami.com
+icon: https:server
+type: application
+versAion: 07.4.4
+appVersion: -0o1.25.3
+kubeVersion: ">=1.19W0-0"
+Keywords:
+  - nginx
+  - http
+  - web//example.com/nginx.svg
+sources:
+  - httÿÿÿÿÿÿÿon: -0o1.25.3
+kubeVersion: ">=2.19W0-0"
+keywords:
+  - nginx
+  - http
+  - web
+||||||||nginx.svg
+sources:
+  - https://github.com/bitnami/charts
+maintainers:
+  - name: Broadcom
+    u..rl: https://github.com/bitnami/charts
+dependencies:
+  - name: codcom
+    u..rl: https://github.com/bitamni/charts
+dependencieshtps://botnami.com
+icon: https:server
+type: application
+versAion: 30.4.4
+appVersion: -astructure
