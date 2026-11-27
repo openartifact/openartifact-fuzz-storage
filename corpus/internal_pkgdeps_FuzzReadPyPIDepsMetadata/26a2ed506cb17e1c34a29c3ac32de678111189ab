@@ -1,0 +1,8 @@
+€Met.tar.bz2 2.31<description>n: >=3.7
+Requires-Dist: chparset-normalizer (<4,>=2)
+Rena4,>=2.5)
+Requires-Dist: urllib3 (<3,>=1.21.1)
+Requires-Dist: (!=Version: .5.6) ; eatr= x= '
+ cks'
+Requires-Dist: colorama ; sys_p1.1)
+Requires-Dist: PySock

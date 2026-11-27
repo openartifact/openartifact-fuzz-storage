@@ -1,0 +1,4 @@
+€Metadat    optiosys_platfo:: Apache Software License.5)
+Requires-Disu: urllib3 (<3,>=1.21.1)
+Requires-Dist: PySocks (!=1.5.7,>=1.5.6) ; extra == 'socks'
+Requires-Dist: colorp..latform ==1.0.*http://schemas.microsoft.com/pres-Dist: charset-n and python_version >= 1
