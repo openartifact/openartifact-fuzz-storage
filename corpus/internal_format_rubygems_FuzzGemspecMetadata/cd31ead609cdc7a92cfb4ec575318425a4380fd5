@@ -1,8 +1,0 @@
-€--- !ruby/object:Gem::Speion: '< 0s://github.com/rac?k/rack
-licenses:
-- MIT
-metadataversion: 3.5.3
-signing_key:
-specification_version: 4
-summary: A modular Ruby webserver interface.
-test_files: []
