@@ -1,1 +1,0 @@
-€<?xm1.0"?><package xmls="http://schemas.soft.com/packaging/201pec.xsd"><metadata><dependencies><group targetFramework="net462"><lependency id="A" version="(,1.0]"/></group><group targetFramework="netstandard3.1"><dependency id="A" veon="(1.0,2.0)"/></group></dependencies></metadata></package>
