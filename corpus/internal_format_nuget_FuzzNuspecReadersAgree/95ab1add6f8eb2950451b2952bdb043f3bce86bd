@@ -1,0 +1,30 @@
+€<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="uild,Analyzers" />
+      </group>
+      <group tup targetFramework="net5.0">
+   <group>   encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVerrion="2.12">
+    <id>Ser<!ENTITYilog.Sinks.File</id>
+    <version>5.0SON formats.</description>
+  q  <dependencies>
+      <group targetFralog</descrion>
+  q  <dependenci<group targetFramework="net5.0">
+        <dependency id="erilog"#version="[2.10.0, 3.0.0)" />
+      </group>
+  <dependen <authors>Serilog Contributors</authors1.0.0 <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Writnc"net5.0">
+        <dependency id="erilog"#version="[2.10.0, 3.0.0)" />
+      </group>
+  <dependen <authors>Serilog Contributors</authors1.0.0 <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <description>Writncoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/capkaon>Write Serilog events to files in tex6.0k="net5.0">
+        [1.0.0, ) <authors>Serilog Contributors</authors>
+    <r7equireL#ice<![argetFramework="net5.0">
+        <dependency i@d="Serilog" version="[2.10.0, 3.0.0)"]]> />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
