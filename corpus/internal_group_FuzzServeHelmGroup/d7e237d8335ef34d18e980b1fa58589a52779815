@@ -1,0 +1,8 @@
+€€apiVersion: v1
+entries:
+  app:
+  - name: app
+    version: 0.1.0
+    keywor{na############me: dev, email: dev@example.org}
+    dependencies:
+    - {name:àœmo!!sersion5 2.xr\sion: 0.2.0
