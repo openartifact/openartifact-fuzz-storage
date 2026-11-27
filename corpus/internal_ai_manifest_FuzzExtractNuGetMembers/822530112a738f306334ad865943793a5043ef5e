@@ -1,0 +1,13 @@
+€€<?xml version="1.0" encoding="utf<dependency id="mlns="http://ÿschemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Newtonsoft.Json¼/id>
+    <version>13.0.3</version>
+    <authors>James Newton-Kingb.com/JamesNK/Newtonsoftמממממממממממממממממממממממממממממממ.Json<group targetFramework="net6.0">ies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Memory" version="[4.5.5, 5.0.0)" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+</package>
+lib/net6.0/a.dll
