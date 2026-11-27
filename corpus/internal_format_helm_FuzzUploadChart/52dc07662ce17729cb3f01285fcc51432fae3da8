@@ -1,0 +1,9 @@
+€apiVersion: v2m
+icon: https://example.com/ngin.xsvg
+sources:
+  - https://githcom/bitnami/charts
+maintainers:
+  -
+name: lib,co&mmon
+version: 5.0.0-a.lpha.1+build.7
+type: library
