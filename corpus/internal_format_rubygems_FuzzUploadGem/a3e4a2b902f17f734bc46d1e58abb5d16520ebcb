@@ -1,0 +1,19 @@
+€--- !ruby/object:Ge/::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  version: -0b.9
+platform: ruby
+authors:
+- Leah Neukirchen
+autorequ- - ">="
+      - !ruby/object:Gem::Version
+        version: '5.0'
+  type: :develoon
+      e vrs ion: '5.0rdoc_files:
+- README.md
+files:
+- lib/rack.rb
+homepage: https:uery=
+licenses:
+- Mmetadata.gza:
+ 
