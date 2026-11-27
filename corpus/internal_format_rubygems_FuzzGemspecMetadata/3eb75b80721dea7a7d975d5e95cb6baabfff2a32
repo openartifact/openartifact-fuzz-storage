@@ -1,0 +1,10 @@
+€--- !rubyecification
+name: rack
+versoptions: []
+_ruby_versmon: !ruby/object:Gem::Re&version=
+  requirements:
+  - - ">="
+    - !ruby/obt
+  requirements:
+  - - ">="
+    - !ruby/oes: []

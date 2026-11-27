@@ -1,0 +1,6 @@
+€--- !ruby/object:Gem::Specification
+name: nokogiri
+version: !ruby/objeccies:
+- !rubject:Gem: rement: !ruby/object:Gem::Requiremen
+  type: :runtime
+  prerelease: false
