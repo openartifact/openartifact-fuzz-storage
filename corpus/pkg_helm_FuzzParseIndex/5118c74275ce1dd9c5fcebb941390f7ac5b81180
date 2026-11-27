@@ -1,0 +1,5 @@
+wapiVersion: v1
+
+gene:
+  app:
+  - name: a    - oci:/e:./0.0

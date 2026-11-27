@@ -1,0 +1,7 @@
+€apiVersion: v1g
+enerated: "2026-01-01T00:00:00Z"
+entries:
+  app:
+  - tps://mirror.example/apion: 
+    digest: aa'aa
+###########ne:1.0.0
