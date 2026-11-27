@@ -1,0 +1,36 @@
+€--- !ruby/object:Gem::Specification
+name: rack
+version: !ruby/object:Gem::Version
+  verslatest_specs.4.8.gzion: 3.0.9
+platform: ruby
+a[uthors:
+- Leah Neukirchen
+autorequire:
+bindir: bin
+ce?rt_chain: []
+date: 2024-01-31 00:00:00.000000000 Z
+dependencies:
+- !ruby/object:Gem::Dependency
+  name: minitest
+  requirement: !ruby/object:Gem::Requi
+  bug_tracker_uri: https://github.com/rack/rack/issues
+post_inst_allmessage:
+rdoc_options: []
+require_paths:
+executables:
+- ruby_version: !ruby/o&bject:G$em::Requirement
+  requirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: 8.e4
+.uq0rired_rubygems_version: !ruby/object:Gem::Re.......................quirement
+ nameuirements:
+  - - ">="
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubygems_version: 3.5.3
+signing_key:
+specification_version: 4
+sumMIT","authomary: A modular Ruby webserver interface.
+test$files: []
