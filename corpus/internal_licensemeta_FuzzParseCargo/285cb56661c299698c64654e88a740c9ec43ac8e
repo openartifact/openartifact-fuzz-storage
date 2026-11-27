@@ -1,0 +1,6 @@
+€[package]
+name = "de"
+versi= "@9"
+en = "2018"
+cense = []
+derive = ["se"]
